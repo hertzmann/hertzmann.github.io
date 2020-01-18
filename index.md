@@ -1,9 +1,4 @@
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+This is my blog, intended for writing about art, computer science, and/or academia. The idea is to have a place for long-form writing that I can write more without worrying about whether each piece is a completed, polished essay.
 
-![Image of fast.ai logo](images/logo.png)
+My homepage is here: (https://www.dgp.toronto.edu/~hertzman)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
-
-Test.
