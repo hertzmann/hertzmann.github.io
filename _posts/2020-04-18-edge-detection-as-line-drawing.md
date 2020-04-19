@@ -20,7 +20,7 @@ At a high-level, the idea arises from two observations. First, since the pioneer
 
 Here is an example of the Difference-of-Gaussians edge detector, from the [XDoG paper](https://www.kyprianidis.com/p/cag2012/):
 
-![Difference-of-Gaussian filter](../../images/DoG.jpg)
+![Difference-of-Gaussian filter](../../../images/DoG.jpg)
 
 The most basic statement of the hypothesis is then something like: the lines in a line drawing are drawn at point corresponding to image edges, where an edge receptor would fire. These lines activate the same edge receptor cells. Hence the line drawing produces a cortical response that is very similar to that of an original image.
 
@@ -73,7 +73,7 @@ As an aside, there is another problem with Lines-As-Edges, which most commenters
 
 Lines-As-Edges starts from the observation that edge detection produces line drawings. But it often doesn't.  Here are two examples from Sayim and Cavanagh:
 
-![Lines vs. Edges](../../images/sayim.jpg)
+![Lines vs. Edges](../../../images/sayim.jpg)
 
 That said, I think that Lines-As-Edges could be modified to account this, combining ideas from [Judd et al. (2007)](http://people.csail.mit.edu/tjudd/apparentridges.html) and (my paper)[https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca].  The modified LAE hypothesis would be: the visual system interprets line drawings as if they were edge images of a matte white object under headlight illumination, or averaged over a range of similar illumination. To my knowledge, this modified hypothesis is novel; except that Judd et al. make very similar assertions that come extremely close to this.
 
@@ -85,11 +85,11 @@ Problem #6: Visual art isn't just line drawings
 
 Suppose we add color to a line drawing:
 
-![Watercolor apple](../../images/apple-watercolor2.jpg)
+![Watercolor apple](../../../images/apple-watercolor2.jpg)
 
 Now you get a sense of the color of the object, and not just its outlines.  How would one generalize Lines-As-Edges to account for these different types of depiction? Now the visual system is no longer ignoring everything but certain gradients; it's paying attention to some colors (and not others).  Or suppose we add hatching:
 
-![Hatching apple](../../images/apple-sketchy2.jpg)
+![Hatching apple](../../../images/apple-sketchy2.jpg)
 
 How does Lines-As-Edges now explain our perception of this style?
 
