@@ -102,4 +102,4 @@ Alternatively, it could be that untrained observers cannot understand these draw
 Alternatives
 ------------
 
-I believe [my hypothesis](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) proposes an alternative solution that does not have the problems listed above. This hypothesis is compatible with Lines-As-Edges, while answering many of the questions above.  The hypothesis is itself quite incomplete, but I think it provides a much more insight and a promising path toward answering the line drawing question.
+I believe (my hypothesis)[https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca] proposes an alternative solution that does not have the problems listed above. This hypothesis is compatible with Lines-As-Edges, while answering many of the questions above.  The hypothesis is itself quite incomplete, but I think it provides a much more insight and a promising path toward answering the line drawing question.
