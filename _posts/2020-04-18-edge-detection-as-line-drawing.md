@@ -75,7 +75,7 @@ Lines-As-Edges starts from the observation that edge detection produces line dra
 
 ![Lines vs. Edges](../../../images/sayim.jpg)
 
-That said, I think that Lines-As-Edges could be modified to account this, combining ideas from [Judd et al. (2007)](http://people.csail.mit.edu/tjudd/apparentridges.html) and (my paper)[https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca].  The modified LAE hypothesis would be: the visual system interprets line drawings as if they were edge images of a matte white object under headlight illumination, or averaged over a range of similar illumination. To my knowledge, this modified hypothesis is novel; except that Judd et al. make very similar assertions that come extremely close to this.
+That said, I think that Lines-As-Edges could be modified to account this, combining ideas from [Judd et al. (2007)](http://people.csail.mit.edu/tjudd/apparentridges.html) and [my paper](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca).  The modified LAE hypothesis would be: the visual system interprets line drawings as if they were edge images of a matte white object under headlight illumination, or averaged over a range of similar illumination. To my knowledge, this modified hypothesis is novel; except that Judd et al. make very similar assertions that come extremely close to this.
 
 However, this modification does not fix the other problems listed above.
 
@@ -102,4 +102,4 @@ Alternatively, it could be that untrained observers cannot understand these draw
 Alternatives
 ------------
 
-I believe (my hypothesis)[https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca] proposes an alternative solution that does not have the problems listed above. This hypothesis is compatible with Lines-As-Edges, while answering many of the questions above.  The hypothesis is itself quite incomplete, but I think it provides a much more insight and a promising path toward answering the line drawing question.
+I believe [my hypothesis](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) proposes an alternative solution that does not have the problems listed above. This hypothesis is compatible with Lines-As-Edges, while answering many of the questions above.  The hypothesis is itself quite incomplete, but I think it provides a much more insight and a promising path toward answering the line drawing question.
