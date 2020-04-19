@@ -8,7 +8,7 @@ Vision researchers generally believe that this question is answered by what I wi
 
 The purpose of this blog post is to explain why I think you should be skeptical of the **Lines-As-Edges hypothesis**. Most vision researchers and tweeters state some version of the hypothesis with uncritical certainty, as it the problem is solved, and I seem to have a hard time convincing them to be at all skeptical of it.  It has the feeling of unquestioned, received wisdom: everyone knows that this is true, and no one has thought any further than that.
 
-I don't claim that **Lines-As-Edges** is necessarily false, but I do argue that it is unsatisfyingly incomplete, and that further understanding is required. In a [recent paper](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) [(preprint version)](https://arxiv.org/abs/2002.06260), I proposed a totally different explanation for line drawing. While my explanation is incomplete as well, I think it provides, as one reviwer wrote, "some useful information", and that commenters on it shouldn't be so quick to consider the problem as completely solved by **Lines-As-Edges**.
+I don't claim that **Lines-As-Edges** is necessarily false, but I do argue that it is unsatisfyingly incomplete, and that further understanding is required. In a [recent paper](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) [(preprint version)](https://arxiv.org/abs/2002.06260), I proposed a totally different explanation for line drawing. While my explanation is also incomplete, I think it provides some potential benefits. Morevoer, people shouldn't be so quick to consider line drawing as completely explained by **Lines-As-Edges**.  
 
 
 What is the Hypothesis?
@@ -26,7 +26,7 @@ The most basic statement of the hypothesis is then something like: the lines in 
 
 As compelling as this idea is, only the one paper (that I've found) by Sayim and Cavanagh attempts to state it clearly, and even they point out big holes in the idea.  No one else (that I've found) has attempt to formulate this theory. Once you do try to formulate it as a theory, big problems arise.  (Some of these problems overlap in scope.)  
 
-In a sense, Problem #0 with the hypothesis is that no one has really explicitly stated what it is.
+In a sense, the most basic problem with the hypothesis is that no one has really explicitly stated what it is in much detail.
 
 
 Problem #1: What about all the other features?
@@ -73,11 +73,29 @@ As an aside, there is another problem with Lines-As-Edges, which most commenters
 
 Lines-As-Edges starts from the observation that edge detection produces line drawings. But it often doesn't.  Here are two examples from Sayim and Cavanagh:
 
-** TODO: figure ***
+![Lines vs. Edges](images/sayim.jpg)
 
 That said, I think that Lines-As-Edges could be modified to account this, combining ideas from [Judd et al. (2007)](http://people.csail.mit.edu/tjudd/apparentridges.html) and (my paper)[https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca].  The modified LAE hypothesis would be: the visual system interprets line drawings as if they were edge images of a matte white object under headlight illumination, or averaged over a range of similar illumination. To my knowledge, this modified hypothesis is novel; except that Judd et al. make very similar assertions that come extremely close to this.
 
 However, this modification does not fix the other problems listed above.
+
+
+Problem #6: Visual art isn't just line drawings
+-------------
+
+Suppose we add color to a line drawing:
+
+![Watercolor apple](images/apple-watercolor2.jpg)
+
+Now you get a sense of the color of the object, and not just its outlines.  How would one generalize Lines-As-Edges to account for these different types of depiction? Now the visual system is no longer ignoring everything but certain gradients; it's paying attention to some colors (and not others).  Or suppose we add hatching:
+
+![Hatching apple](images/apple-sketchy2.jpg)
+
+How does Lines-As-Edges now explain our perception of this style?
+
+Artists depict objects in a seemingly-infinite combination of outlines, colors, hatching, stippling, painting, and so much else. To account for this, the Lines-As-Edge hypothesis would need to argue that somehow the visual system recognizes each style and identifies which features to ignore and which to keep.  Again, this may be true in some, but it should be clear that Lines-As-Edges is far from being the end of the story.
+
+Alternatively, it could be that untrained observers cannot understand these drawings; I am not aware of any studies on this topic, but I think it unlikely, since studies have shown that untrained observers can understand line drawings and they can understand photographs.
 
 
 
