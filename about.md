@@ -1,4 +1,3 @@
-# About
+This blog is intended for miscelleneous writing about art, computer science, and/or academia.
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
-
+My homepage is here, with more links, essays, and papers, is here: [https://www.dgp.toronto.edu/~hertzman](https://www.dgp.toronto.edu/~hertzman)
