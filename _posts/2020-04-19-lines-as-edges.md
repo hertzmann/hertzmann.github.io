@@ -5,9 +5,9 @@ Why do line drawings work? Why is it that we can immediately recognize objects i
 
 A classic answer to this question is what I will call the **Lines-As-Edges hypothesis**. It says that drawings simulate natural images because line features activate edge receptors in the human visual system. From what I can tell, this belief is widely shared among vision researchers; many people bring it up whenever I discuss line drawing perception, as did [many commenters on a recent Twitter thread](https://twitter.com/hardmaru/status/1250979159779635200?s=20).  A generalization of this is that lines correspond to _some_ internal representation, such as neurons that fire on object contours, which I'll call **Line-As-Internal-Representation** and also discuss here.
 
-The purpose of this blog post is to explain why I think you should be skeptical of the **Lines-As-Edges hypothesis**. Many vision researchers and tweeters state some version of the hypothesis with uncritical certainty, as if the problem is solved, and I seem to have a hard time convincing otherwise.  It has the feeling of unquestioned, received wisdom: everyone knows that this is true, and sees no need to question it.
+The purpose of this blog post is to explain why I think you should be skeptical of the **Lines-As-Edges hypothesis**. Many vision researchers and tweeters state some version of the hypothesis with uncritical certainty, as if the problem is solved, and I seem to have a hard time convincing them otherwise.  It has the feeling of unquestioned, received wisdom: everyone knows that this is true, and sees no need to question it.
 
-I don't claim that **Lines-As-Edges** is necessarily false, but I do argue that it is unsatisfyingly incomplete. In a [recent paper](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) [(preprint version)](https://arxiv.org/abs/2002.06260), I proposed a totally different explanation for line drawing. My explanation is also incomplete, but I think it provides some potential benefits. It is also compatible with **Lines-As-Edges**, so they could both be accurate.
+I don't claim that **Lines-As-Edges** is necessarily false, but I do argue that it is unsatisfyingly incomplete. In a [recent paper](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) ([preprint version](https://arxiv.org/abs/2002.06260)), I proposed a totally different explanation for line drawing. My explanation is also incomplete, but I think it provides some potential benefits. It is also compatible with **Lines-As-Edges**, so they could both be accurate.
 
 
 What is the Hypothesis?
@@ -96,4 +96,4 @@ That said, I think that Lines-As-Edges could be modified to account for this, co
 Alternatives
 ------------
 
-I believe [my hypothesis](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) proposes an alternative solution that does not have the problems listed above.  This hypothesis is compatible with Lines-As-Edges, while answering many of these questions.  The hypothesis is itself quite incomplete, but I think it provides a much more insight and a promising path toward answering the line drawing question.
+I believe [my hypothesis](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) proposes a different way to think about this, without the problems above.  This hypothesis is compatible with Lines-As-Edges, while answering many of these questions.  My hypothesis has its own gaps, but I think it nonetheless it provides a promising way forward on these questions.
