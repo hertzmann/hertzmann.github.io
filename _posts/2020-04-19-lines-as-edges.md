@@ -63,13 +63,17 @@ Problem #4: Visual art isn't just line drawings
 
 Suppose we add color to a line drawing:
 
+<p align="center">
 ![Watercolor apple](../../../images/apple-watercolor2.jpg)
+</p>
 
 Now you get a sense of the color of the object, and not just its outlines.  How would one generalize Lines-As-Edges to account for these different types of depiction? The visual system is no longer ignoring everything aside some gradients; it's now paying attention to some colors (and not others).  
 
 Or suppose we add hatching:
 
+<p align="center">
 ![Hatching apple](../../../images/apple-sketchy2.jpg)
+</p>
 
 How does Lines-As-Edges now explain our perception of this style?
 
