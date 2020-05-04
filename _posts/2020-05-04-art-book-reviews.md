@@ -12,8 +12,6 @@ Over the past year or so, I've been reading a lot of books on how people define 
 [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902), by [Nigel Warburton](https://en.wikipedia.org/wiki/Nigel_Warburton)
 -------------------------------------
 
-<img src="../../../images/bookcovers/art_question.jpg" align="left /">
-
 A compact survey of different 20th century approaches by philosophers to defining art. I found it very helpful for understanding the basics of modern theories and their proponents, and thorough in presenting the merits and drawbacks of each theory.
 **If you want to understand "what is art" from a philosophical, definitional point of view, as opposed to understanding what's going on in contemporary art, this is a fantastic book to read.**
 
