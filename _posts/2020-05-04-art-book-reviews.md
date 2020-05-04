@@ -35,8 +35,7 @@ Most vexing is the chapter which promises to explain “What is art?” with a l
 [_How to Write About Contemporary Art_](http://gildawilliams.com/the-things-she-writes-about/how-to-write-about-contemporary-art/), [Gilda Williams](http://gildawilliams.com/)
 -------------------------------------
 
-**It might sound dry, but this instruction book for aspiring art writers delighted me, page after page.** It can be a pleasure to read great, focused advice, like the way I occasionally reread Randy Pausch’s Time Management Tips, or Orwell’s "Politics and the English Language", or Christopher Orr's beautiful critique of “Love, Actually”. This book is clear, concise, and sparkles with wit. It’s the sort of writing that inspires you to write.
-Much of the advice echoes my own experience in technical writing, but I’d not seen it written down before. 
+**It might sound dry, but this instruction book for aspiring art writers delighted me, page after page.** This book is clear, concise, and sparkles with wit. It’s the sort of writing that inspires you to write.  Some of the advice echoes my own experience in technical writing, and I’d not seen it written down before. 
 
 Much of her advice contains wisdom about the art world hidden within. Her recipe for good articles about art has three parts: What is it? What might it mean? What is the broader significance to the world? Which, in a way, is a guide to some of the things that matters in a work of contemporary art: execution, meaning, and relevance.
 
