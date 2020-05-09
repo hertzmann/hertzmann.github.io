@@ -13,15 +13,13 @@ I don't claim that **Lines-As-Edges** is necessarily false, but I do argue that 
 What is the Hypothesis?
 ------------
 
-In order to discuss the hypothesis, we need a clear statement of what it actually says. Yet, for being so widely accepted, it's very hard to find such a statement.  Although the idea has been "in the air" for decades, the only real statement of *Lines-As-Edges* that I've found is by [Sayim and Cavanagh (2011)](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00118/full).
+In order to discuss the hypothesis, we need a clear statement of what it actually says. Yet, for being so widely accepted, it's very hard to find such a statement.  Although the idea has been "in the air" for decades, the only real statement of *Lines-As-Edges* that I've found is by [Sayim and Cavanagh (2011)](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00118/full), and even they point out big gaps in the theory.
 
 The idea arises from two compelling observations. First, since [the pioneering experiments of Hubel and Wiesel in 50's and 60's](https://www.youtube.com/watch?v=IOHayh06LJ4), we know that the visual cortex includes cells that are responsive the edge patterns. In short, one of the first things that happens to the signal from our retinas is edge detection.  Second, if you run an edge detector on a real image, and threshold the responses, then you often get something that looks like a line drawing. Here is one example, a Difference-of-Gaussians from the [XDoG paper](https://www.kyprianidis.com/p/cag2012/):
 
 ![Difference-of-Gaussian filter](../../../images/DoG.jpg)
 
 The most basic statement of the hypothesis is: the lines in a line drawing are drawn at natural image edges, where an edge receptor would fire. These lines activate the same edge receptor cells that the natural image would. Hence, the line drawing produces a cortical response that is very similar to that of some natural image, and thus you perceive the drawing and the photograph in roughly the same way.
-
-As compelling as this idea is, only the one paper (that I've found) by Sayim and Cavanagh attempts to state it clearly, and even they point out big gaps in the theory. 
 
 
 Problem #1: What about all the other features?
