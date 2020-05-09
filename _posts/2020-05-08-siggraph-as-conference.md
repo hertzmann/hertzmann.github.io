@@ -1,0 +1,44 @@
+# SIGGRAPH Conference Proposal
+
+This post summarizes some issues that the SIGGRAPH conferences and TOG journal are having, and why I think that adding a conference track could help fix these problems.  SIGGRAPH was a conference before 2002 and it worked well then; it's time to rethink the structure of things again. I won't talk about other related issues in the field, such as declining enrollments. I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums, and, based on the responses, it seemed like it's time to restate and clarify the arguments. This time I've put it in the form of a bulleted list.
+
+The Problem: Expectation Creep
+--------------------------
+
+* **The expectations for publishing a SIGGRAPH paper have been steadily growing since the switch to a journal model in 2003, and they have become far too burdensome**
+* Papers with good ideas get rejected because reviewers demand very extensive experiments and very highly polished results.
+* Many of these extra experiments aren’t really necessary to validate the ideas, e.g., many "user studies."
+* **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8 pages. Anecdotally it seems like papers are now _averaging_ around 14 pages. This is an unnecessary burden on authors, reviewers, and readers; some 14 page papers would have been better as 8 page papers.
+* The second reviewing phase is an additional burden on authors and committee. The committee sometimes adds onerous, unnecessary requirements. 
+* Risky papers are harder to publish because [convincing evaluation is more difficult for really new ideas](https://www.billbuxton.com/usabilityHarmful.pdf)
+* It was easy to overlook these problems for a long time because SIGGRAPH had no real competition
+
+Consequences: Brain Drain: Researchers are leaving SIGGRAPH when they can publish in vision 
+--------------------------
+
+* Some of the most significant image synthesis work in the past several years are from SIGGRAPH researchers publishing at vision conferences.  Examples include [neural rerendering in the wild](https://moustafameshry.github.io/neural_rerendering_in_the_wild/), [NeRF](http://www.matthewtancik.com/nerf), [StyleGAN](https://github.com/NVlabs/stylegan), [pix2pix](https://phillipi.github.io/pix2pix/), [CycleGAN](https://junyanz.github.io/CycleGAN/), [Face2Face](http://www.niessnerlab.org/projects/thies2016face.html), and [PointNet](http://stanford.edu/~rqi/pointnet/).  
+* While activity in adjacent communities is skyrocketing, e.g., vision, HCI, robotics, SIGGRAPH is flat. Flat isn’t bad, but it’s a warning sign.
+* Trend: SIGGRAPH will become a boutique venue for high-quality papers on geometry, physics, visual interaction, and a few other topics. As each of these topics become more intertwined with learning/vision techniques, they will migrate to the vision conferences, as has already been happening with rendering and geometry.
+* These other venues are not as good at fostering research where we care about output quality and usability
+
+Proposal: Add a SIGGRAPH technical paper conference track, similar to what we had before 2002
+--------------------------
+
+* Impose page limits, e.g., 10 pages plus references with rare exceptions allowed
+* No second round of reviewing
+* No change to SIGGRAPH standards in terms of impact/quality of ideas
+    * We should be more willing to take some chances on good ideas that may not be evaluated as fully
+    * We are not lowering the bar in terms of the quality of the ideas and the potential impact
+    * We are not adopting a CVPR-like model: we still have 5 reviews per paper, etc.
+* Two tracks at SIGGRAPH; journal track is published in TOG. Note that several other venues (like IEEE VR, ACM SAP) have both conference and journal tracks.
+* Keep TOG high quality and integrated with SIGGRAPH
+    * Journal track and straight-to-TOG papers presented at SIGGRAPH
+    * Maintain timely reviewing process for TOG
+    * Encourage revised journal versions of SIGGRAPH conference papers in TOG. Clarify and/or revise existing 30% rule-of-thumb.
+
+Other Notes
+--------------------------
+
+* SIGGRAPH isn’t going to balloon with submissions, but this will stanch the bleeding and reduce disincentives to submitting good work
+* The main difficulty is explaining the nuances of the new system and expectations. But this has been done before, e.g., with the TOG transition, with different rules for rebuttals, and with the creation of SIGGRAPH Asia, etc.
+* Another challengee is: How do you know whether to submit to conference or to journal track? There should be clear guidelines (e.g., level of polish and thoroughness of experiments, page length, etc).
