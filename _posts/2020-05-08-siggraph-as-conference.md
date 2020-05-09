@@ -26,7 +26,7 @@ Consequences: Brain Drain
 * Not every paper has to be a journal paper
 	* It's bad for students to only be able to publish one good idea a year in a highly-polished journal format, rather than being able to publish 2-3 good ideas a year in a reasonable conference format.
 	* The vision and learning communities are making extremely fast progress in part because they have fast publication processes; things are changing very rapidly, and journal publication is increasingly rare.
-* These other venues are not as good at fostering research where we care about output quality and usability, or the community around this research.
+* These other venues are not as good at fostering research where we care about output quality and usability, or the fostering community around this research.
 
 Proposal: Add a SIGGRAPH technical paper conference track, similar to what we had before 2002
 --------------------------
