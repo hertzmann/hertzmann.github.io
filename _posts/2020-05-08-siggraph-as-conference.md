@@ -11,15 +11,15 @@ The Problem: Expectation Creep
 * **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8 pages. Anecdotally it seems like papers are now _averaging_ around 14 pages. This is an unnecessary burden on authors, reviewers, and readers. Some 16 page papers would have been better as 8 page papers.
 * The second reviewing phase is an additional burden on authors and committee. The committee sometimes adds onerous, unnecessary requirements. 
 * The high evaluation standards do not lead to papers with better ideas. 
-	* Today many SIGGRAPH papers are "incremental"—this is not a bad thing—but they have very beautiful rendering.
+	* There have always been plenty of SIGGRAPH papers that are "incremental" in their actual intellectual contribution, but this is not a bad thing
 	* Risky papers are harder to publish because [convincing evaluation is more difficult for really new ideas](https://www.billbuxton.com/usabilityHarmful.pdf)
 	* Not every paper needs to be a journal paper
 * It was easy to overlook these problems for a long time because SIGGRAPH had no real competition
 
-Consequences: Brain Drain: Researchers are leaving SIGGRAPH when they can publish in vision 
+Consequences: Brain Drain
 --------------------------
 
-* Some of the most significant image synthesis work in the past several years are from SIGGRAPH researchers publishing at vision conferences.  Examples include [neural rerendering in the wild](https://moustafameshry.github.io/neural_rerendering_in_the_wild/), [NeRF](http://www.matthewtancik.com/nerf), [StyleGAN](https://github.com/NVlabs/stylegan), [pix2pix](https://phillipi.github.io/pix2pix/), [CycleGAN](https://junyanz.github.io/CycleGAN/), [Face2Face](http://www.niessnerlab.org/projects/thies2016face.html), and [PointNet](http://stanford.edu/~rqi/pointnet/).  
+* **Researchers are leaving SIGGRAPH when they can publish in vision**. Some of the most significant image synthesis work in the past several years are from SIGGRAPH researchers publishing at vision conferences.  Examples include [neural rerendering in the wild](https://moustafameshry.github.io/neural_rerendering_in_the_wild/), [NeRF](http://www.matthewtancik.com/nerf), [StyleGAN](https://github.com/NVlabs/stylegan), [pix2pix](https://phillipi.github.io/pix2pix/), [CycleGAN](https://junyanz.github.io/CycleGAN/), [Face2Face](http://www.niessnerlab.org/projects/thies2016face.html), and [PointNet](http://stanford.edu/~rqi/pointnet/).  
 * While activity in adjacent communities is skyrocketing, e.g., vision, HCI, robotics, SIGGRAPH is flat. Flat isn’t bad, but it’s a warning sign.
 * The vision and learning communities are making extremely fast progress because they have fast publication processes; things are changing very rapidly, and journal publication is increasingly rare.
 * It's bad for students to only be able to publish one good idea a year in a highly-polished journal format, rather than being able to publish two good ideas a year in a reasonable conference format.
