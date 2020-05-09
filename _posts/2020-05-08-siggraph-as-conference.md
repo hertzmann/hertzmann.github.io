@@ -7,7 +7,7 @@ I originally [posted about this on Facebook last year](https://www.facebook.com/
 The Problem: Expectation Creep
 --------------------------
 
-* **The expectations for publishing a SIGGRAPH paper have been steadily growing since the switch to a journal model in 2003, and they have become far too burdensome**
+* **The expectations for publishing a SIGGRAPH paper have grown steadily since the switch to a journal model in 2003, and they have become far too burdensome**
 * Papers with good ideas get rejected because reviewers demand very extensive experiments and very highly polished results.
 * Many of these extra experiments aren’t really necessary
 * **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8 pages. Anecdotally it seems like papers are now _averaging_ around 14 pages. This is an unnecessary burden on authors, reviewers, and readers. Some 16 page papers would have been better as 8 page papers.
