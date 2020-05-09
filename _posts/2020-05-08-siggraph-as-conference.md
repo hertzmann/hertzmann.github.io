@@ -11,7 +11,7 @@ The Problem: Expectation Creep
 * Papers with good ideas get rejected because reviewers demand very extensive experiments and very highly polished results.
 * Many of these extra experiments aren’t really necessary
 * **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8 pages. Anecdotally it seems like papers are now _averaging_ around 14 pages. This is an unnecessary burden on authors, reviewers, and readers. Some 16 page papers would have been better as 8 page papers.
-* The second reviewing phase is an additional burden on authors and committee. The committee sometimes adds onerous, unnecessary requirements. 
+* The second reviewing phase is an additional burden on authors and committee. The committee occasionally requires unnecessary extra experiments. 
 * The high evaluation standards do not lead to papers with better ideas. 
 	* There have always been plenty of SIGGRAPH papers that are "incremental" in their actual intellectual contribution, but this is not a bad thing
 	* Risky papers are harder to publish because [convincing evaluation is more difficult for really new ideas](https://www.billbuxton.com/usabilityHarmful.pdf)
