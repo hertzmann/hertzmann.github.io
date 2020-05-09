@@ -2,7 +2,7 @@
 
 Following some recent discussions, here is a revised statement of why I think the SIGGRAPH Technical Papers program should add a conference paper track, rather than being journal-only. In short, **the requirements for publication at SIGGRAPH have slowly become overly burdensome since the switch to a journal-only format in 2003. This hurts authors (especially students), it makes it harder to publish risky ideas, and it's causing a brain drain as SIGGRAPH researchers move to publishing more in other venues.**
 
-I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums. This time I've put it in the form of a bulleted list. (See [the Facebook post](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802) for more background on this discussion.)
+I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums. This time I've put it in the form of a bulleted list. See [the Facebook post](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802) for more background on this discussion.
 
 The Problem: Expectation Creep
 --------------------------
