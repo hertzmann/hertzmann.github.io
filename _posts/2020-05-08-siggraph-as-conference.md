@@ -37,7 +37,7 @@ Proposal: Add a SIGGRAPH technical paper conference track, similar to what we ha
     * We should be more willing to take some chances on good ideas that may not be evaluated as fully
     * We are not lowering the bar in terms of the quality of the ideas and the potential impact
     * We are not adopting a CVPR-like model: we still have 5 reviews per paper, etc.
-* Two tracks at SIGGRAPH; journal track is published in TOG. Note that several other venues (like IEEE VR, ACM SAP) have both conference and journal tracks.
+* Two tracks at SIGGRAPH; journal track is published in TOG. 
 * Keep TOG high quality and integrated with SIGGRAPH
     * Journal track and straight-to-TOG papers presented at SIGGRAPH
     * Maintain timely reviewing process for TOG
@@ -48,4 +48,4 @@ Other Notes
 
 * SIGGRAPH isn’t going to balloon with submissions, but this will stanch the bleeding and reduce disincentives to submitting good work
 * The main difficulty is explaining the nuances of the new system and expectations. But this has been done before, e.g., with the TOG transition, with different rules for rebuttals, and with the creation of SIGGRAPH Asia, etc.
-* Another challengee is: How do you know whether to submit to conference or to journal track? There should be clear guidelines (e.g., level of polish and thoroughness of experiments, page length, etc).
+* Another challengee is: How do you know whether to submit to conference or to journal track? There should be clear guidelines (e.g., level of polish and thoroughness of experiments, page length, etc). Note that there are other venues (like IEEE VR, ACM SAP) that have both conference and journal tracks.
