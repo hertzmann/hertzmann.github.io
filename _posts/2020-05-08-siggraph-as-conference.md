@@ -1,4 +1,4 @@
-# SIGGRAPH Conference Proposal
+# SIGGRAPH Should Add A Conference Paper Track
 
 Following some recent discussions, here is a revised statement of why I think the SIGGRAPH Technical Papers program should add a conference paper track, rather than being journal-only. In short, **the requirements for publication at SIGGRAPH have slowly become overly burdensome since the switch to a journal-only format in 2003. This hurts authors (especially students), it makes it harder to publish risky ideas, and it's causing a brain drain as SIGGRAPH researchers move to publishing more in other venues.**
 
