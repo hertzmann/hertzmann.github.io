@@ -83,7 +83,7 @@ Alternatively, it could be that untrained observers cannot understand these draw
 Problem #5: Edge detection is not a line drawing algorithm
 ------------
 
-Lines-As-Edges starts from the observation that edge detection produces line drawings. But it often doesn't.  Here are two examples from [Sayim and Cavanagh](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00118/full):
+Lines-As-Edges starts from the observation that edge detection can produce line drawings. But it often doesn't.  Here are two examples from [Sayim and Cavanagh](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00118/full):
 
 ![Lines vs. Edges](../../../images/sayim.jpg)
 
