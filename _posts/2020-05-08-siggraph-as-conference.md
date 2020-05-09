@@ -1,6 +1,8 @@
 # SIGGRAPH Conference Proposal
 
-This post summarizes some issues that the SIGGRAPH conference is having, and why I think that adding a conference track could help fix these problems.  SIGGRAPH was a conference before 2002 and it worked well then; it's time to rethink the structure again. I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums, and, based on the responses, it seemed like it's time to restate and clarify the arguments. This time I've put it in the form of a bulleted list, and I'm also omitting some related comments from that Facebook discussion.
+Following some recent discussions, I've posted a revised statement of why I think SIGGRAPH should add a conference track. In short, **the requirements for publication at SIGGRAPH have slowly become overly burdensome since the switch to a journal-only format in 2002. This hurts authors (especially students), it makes it harder to publish risky ideas, and it's causing a brain drain as SIGGRAPH researchers move to publishing more in other venues.**
+
+I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums. This time I've put it in the form of a bulleted list, and I'm also omitting some related comments from that Facebook discussion.
 
 The Problem: Expectation Creep
 --------------------------
