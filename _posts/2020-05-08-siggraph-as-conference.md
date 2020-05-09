@@ -51,4 +51,4 @@ Other Notes
 * Another challengee is: How do you know whether to submit to conference or to journal track? There should be clear guidelines (e.g., level of polish and thoroughness of experiments, page length, etc). Note that there are other venues (like IEEE VR, ACM SAP) that have both conference and journal tracks.
 
 
-_This revision benefited from online discussions with many people with many different viewpoints, including Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Etienne Vouga, and many others._
+_This revision benefited from online discussions with many people with many different viewpoints, including Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Etienne Vouga, and many others on the original Facebook post._
