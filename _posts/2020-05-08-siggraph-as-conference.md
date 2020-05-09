@@ -31,7 +31,7 @@ Consequences: Brain Drain
 Proposal: Add a SIGGRAPH technical paper conference track, similar to what we had before 2002
 --------------------------
 
-* Impose page limits, e.g., 10 pages plus references with rare exceptions allowed
+* Impose page limits, e.g., 10 pages plus references
 * No second round of reviewing
 * No change to SIGGRAPH standards in terms of impact/quality of ideas
     * We should be more willing to take some chances on good ideas that may not be evaluated as fully
