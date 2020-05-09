@@ -1,6 +1,6 @@
 # SIGGRAPH Conference Proposal
 
-This post summarizes some issues that the SIGGRAPH conferences and TOG journal are having, and why I think that adding a conference track could help fix these problems.  SIGGRAPH was a conference before 2002 and it worked well then; it's time to rethink the structure of things again. I won't talk about other related issues in the field, such as declining enrollments. I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums, and, based on the responses, it seemed like it's time to restate and clarify the arguments. This time I've put it in the form of a bulleted list.
+This post summarizes some issues that the SIGGRAPH conference is having, and why I think that adding a conference track could help fix these problems.  SIGGRAPH was a conference before 2002 and it worked well then; it's time to rethink the structure again. This doesn't disuss other issues in the field, like declining enrollments. I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums, and, based on the responses, it seemed like it's time to restate and clarify the arguments. This time I've put it in the form of a bulleted list.
 
 The Problem: Expectation Creep
 --------------------------
