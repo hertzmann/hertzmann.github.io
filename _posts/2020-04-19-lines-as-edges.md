@@ -25,7 +25,7 @@ The most basic statement of the hypothesis is: the lines in a line drawing are d
 Problem #1: What about all the other features?
 ------------
 
-The most basic statement of the problem with Lines-As-Edges is that the human visual system isn't just an edge detector. You can see colors, you can see absolute intensities. You can tell the difference between a thin black line and an object silhouette; we have both kinds of receptors in the primary visual cortex, as well as others.  Yet Lines-As-Edge supposes that the vision system discards all of this other information present in an image, for just this one special case. Why?
+The most basic statement of the problem with Lines-As-Edges is that the human visual system isn't just an edge detector. You can see colors, you can see absolute intensities. You can tell the difference between a thin black line and the silhouette of a dark object against a light background; we have both kinds of receptors in the primary visual cortex, as well as others.  Yet Lines-As-Edge supposes that the vision system discards all of this other information present in an image, for just this one special case. Why?
 
 Discarding some features and not others seems arbitrary. Surely we could discard some other random collection of features and get other plausible image interpretations out of them. 
 
