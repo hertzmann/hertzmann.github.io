@@ -1,6 +1,6 @@
 # SIGGRAPH Conference Proposal
 
-This post summarizes some issues that the SIGGRAPH conference is having, and why I think that adding a conference track could help fix these problems.  SIGGRAPH was a conference before 2002 and it worked well then; it's time to rethink the structure again. This doesn't disuss other issues in the field, like declining enrollments. I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums, and, based on the responses, it seemed like it's time to restate and clarify the arguments. This time I've put it in the form of a bulleted list.
+This post summarizes some issues that the SIGGRAPH conference is having, and why I think that adding a conference track could help fix these problems.  SIGGRAPH was a conference before 2002 and it worked well then; it's time to rethink the structure again. I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums, and, based on the responses, it seemed like it's time to restate and clarify the arguments. This time I've put it in the form of a bulleted list, and I'm also omitting some related comments from that Facebook discussion.
 
 The Problem: Expectation Creep
 --------------------------
@@ -10,7 +10,9 @@ The Problem: Expectation Creep
 * Many of these extra experiments aren’t really necessary to validate the ideas, e.g., many "user studies."
 * **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8 pages. Anecdotally it seems like papers are now _averaging_ around 14 pages. This is an unnecessary burden on authors, reviewers, and readers; some 14 page papers would have been better as 8 page papers.
 * The second reviewing phase is an additional burden on authors and committee. The committee sometimes adds onerous, unnecessary requirements. 
-* Risky papers are harder to publish because [convincing evaluation is more difficult for really new ideas](https://www.billbuxton.com/usabilityHarmful.pdf)
+* The high evaluation standards do not lead to papers with better ideas. 
+	* Today many SIGGRAPH papers are "incremental"—this is not a bad thing—but they have very beautiful rendering.
+	* Risky papers are harder to publish because [convincing evaluation is more difficult for really new ideas](https://www.billbuxton.com/usabilityHarmful.pdf)
 * It was easy to overlook these problems for a long time because SIGGRAPH had no real competition
 
 Consequences: Brain Drain: Researchers are leaving SIGGRAPH when they can publish in vision 
@@ -18,6 +20,7 @@ Consequences: Brain Drain: Researchers are leaving SIGGRAPH when they can publis
 
 * Some of the most significant image synthesis work in the past several years are from SIGGRAPH researchers publishing at vision conferences.  Examples include [neural rerendering in the wild](https://moustafameshry.github.io/neural_rerendering_in_the_wild/), [NeRF](http://www.matthewtancik.com/nerf), [StyleGAN](https://github.com/NVlabs/stylegan), [pix2pix](https://phillipi.github.io/pix2pix/), [CycleGAN](https://junyanz.github.io/CycleGAN/), [Face2Face](http://www.niessnerlab.org/projects/thies2016face.html), and [PointNet](http://stanford.edu/~rqi/pointnet/).  
 * While activity in adjacent communities is skyrocketing, e.g., vision, HCI, robotics, SIGGRAPH is flat. Flat isn’t bad, but it’s a warning sign.
+* It's bad for students to only be able to publish one good idea a year in a highly-published journal format, rather than being able to publish two good ideas a year in a reasonable conference format.
 * Trend: SIGGRAPH will become a boutique venue for high-quality papers on geometry, physics, visual interaction, and a few other topics. As each of these topics become more intertwined with learning/vision techniques, they will migrate to the vision conferences, as has already been happening with rendering and geometry.
 * These other venues are not as good at fostering research where we care about output quality and usability
 
