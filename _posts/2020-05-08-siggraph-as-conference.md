@@ -53,4 +53,4 @@ Other Notes
 Discuss this on [Facebook](https://www.facebook.com/aaron.hertzmann/posts/10158397419855802).  (Twitter link coming soon.)
 
 
-_This revision benefited from online discussions with many people with many different viewpoints, including Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Etienne Vouga, and the commenters on the original Facebook post._
+_This revision benefited from online discussions with many people with many different viewpoints, including Keenan Crane, Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Amir Vaxman, Etienne Vouga, and the commenters on the original Facebook post._
