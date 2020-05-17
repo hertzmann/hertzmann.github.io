@@ -47,7 +47,7 @@ Proposal: Add a SIGGRAPH technical paper conference track, similar to what we ha
     * Journal track and straight-to-TOG papers presented at SIGGRAPH
     * Maintain timely reviewing process for TOG
     * Encourage revised journal versions of SIGGRAPH conference papers in TOG. Clarify and/or revise existing 30% rule-of-thumb.
-* A subset of these proposals could also be adopted. For example, solely imposing a page limit, and giving new instructions to authors and reviewers accordingly is an incremental change that could help a lot.
+* A subset of these proposals could also be adopted. For example, just imposing a page limit, and giving new instructions to authors and reviewers accordingly is an incremental change that could help a lot.
 
 Other Notes
 --------------------------
