@@ -18,12 +18,12 @@ The Problem: Expectation Creep
 * The high evaluation standards do not lead to papers with better ideas. 
 	* There have always been plenty of SIGGRAPH papers that are "incremental" in their actual intellectual contribution, but this is not a bad thing
 	* Risky papers are harder to publish because [convincing evaluation is more difficult for really new ideas](https://www.billbuxton.com/usabilityHarmful.pdf)
-* It was easy to overlook these problems for a long time because SIGGRAPH had no real competition
+* It was easy to overlook these problems for a long time because SIGGRAPH had no real competition.
+
+_"This is one of the fundamental problems with companies: success hides problems. It happens to a lot of us in our personal lives with our health. When we're healthy, there may be a lot of things that are bad for us, but our health lets us get away with doing stuff that's bad for us. Then years later, the logic of that time doesn't hold up."_ — [Ed Catmull](https://youtu.be/k2h2lvhzMDc?t=801)
 
 Consequences: Brain Drain
 --------------------------
-
-_"This is one of the fundamental problems with companies: success hides problems. It happens to a lot of us in our personal lives with our health. When we're healthy, there may be a lot of things that are bad for us, but our health lets us get away with doing stuff that's bad for us. Then years later, the logic of that time doesn't hold up."_ — [Ed Catmull](https://youtu.be/k2h2lvhzMDc?t=801)
 
 * **Researchers are leaving SIGGRAPH when they can publish in vision**. Some of the most significant image synthesis work in the past several years is from SIGGRAPH researchers publishing at vision conferences.  Examples include [neural rerendering in the wild](https://moustafameshry.github.io/neural_rerendering_in_the_wild/), [NeRF](http://www.matthewtancik.com/nerf) (presumably), [StyleGAN](https://github.com/NVlabs/stylegan), [pix2pix](https://phillipi.github.io/pix2pix/), [CycleGAN](https://junyanz.github.io/CycleGAN/), [Face2Face](http://www.niessnerlab.org/projects/thies2016face.html), and [PointNet](http://stanford.edu/~rqi/pointnet/).  
 * Trend: SIGGRAPH will become a boutique venue for high-quality papers on geometry, physics, visual interaction, and a few other topics. As each of these topics become more intertwined with learning/vision techniques, they will migrate to the vision conferences, as has already been happening with rendering and geometry.
@@ -47,6 +47,7 @@ Proposal: Add a SIGGRAPH technical paper conference track, similar to what we ha
     * Journal track and straight-to-TOG papers presented at SIGGRAPH
     * Maintain timely reviewing process for TOG
     * Encourage revised journal versions of SIGGRAPH conference papers in TOG. Clarify and/or revise existing 30% rule-of-thumb.
+* A subset of these proposals could also be adopted. For example, solely imposing a page limit, and giving new instructions to authors and reviewers accordingly is an incremental change that could help a lot.
 
 Other Notes
 --------------------------
@@ -58,4 +59,4 @@ Other Notes
 **Discuss this on [Facebook](https://www.facebook.com/aaron.hertzmann/posts/10158397419855802) or [Twitter](https://twitter.com/AaronHertzmann/status/1259161919518150663?s=20).**
 
 
-_This revision benefited from online discussions with many people with many different viewpoints, including Keenan Crane, Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Amir Vaxman, Etienne Vouga, and the commenters on the original Facebook post._
+_This post benefited from online discussions with many people with many different viewpoints, including Keenan Crane, Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Amir Vaxman, Etienne Vouga, and the commenters on the original Facebook post._
