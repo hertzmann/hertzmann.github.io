@@ -2,10 +2,13 @@
 
 Following some recent discussions, here is a revised statement of why I think the SIGGRAPH Technical Papers program should add a conference paper track, rather than being journal-only. In short, **the requirements for publication at SIGGRAPH have slowly become overly burdensome since the switch to a journal-only format in 2003. This hurts authors (especially students), it makes it harder to publish risky ideas, and it's causing a brain drain as SIGGRAPH researchers move to publishing more in other venues.**
 
-To be clear, I love SIGGRAPH and I love attending it, sometimes more than I enjoy attending vision conferences, and I hope to submit several papers to SIGGRAPH/TOG this year. But I'm publishing in vision much more often these days, and I'm concerned about SIGGRAPH's future.
-
 I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums. This time I've put it in the form of a bulleted list. See [the Facebook post](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802) for more background on this discussion.
 
+To be clear, I love SIGGRAPH, and it's a great conference. I love attending it, sometimes more than I enjoy attending vision conferences, and I hope to submit several papers to TOG this year. But I'm publishing in vision much more often these days, and I'm concerned about SIGGRAPH's future. I think this quote is apt:
+
+_"This is one of the fundamental problems with companies: success hides problems. It happens to a lot of us in our personal lives with our health. When we're healthy, there may be a lot of things that are bad for us, but our health lets us get away with doing stuff that's bad for us. Then years later, the logic of that time doesn't hold up."_ — [Ed Catmull](https://youtu.be/k2h2lvhzMDc?t=801)
+
+It is better to fix problems early, rather than waiting until it is too late.
 
 
 The Problem: Expectation Creep
@@ -14,7 +17,7 @@ The Problem: Expectation Creep
 * **The expectations for publishing a SIGGRAPH paper have grown steadily since the switch to a journal model in 2003, and they have become far too burdensome**
 * Papers with good ideas get rejected because reviewers demand very extensive experiments and very highly polished results.
 * Many of these extra experiments aren’t really necessary
-* **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8 pages. [Papers are now _averaging_ around 14 pages](https://twitter.com/_AlecJacobson/status/1259526238378561536). This is an unnecessary burden on authors, reviewers, and readers. Some 16 page submissions would have been better as 8 page submissions. (Note that page lengths only started to grow after printed proceedings ended in 2011, and the committee was told to be more relaxed about page length.)
+* **Papers are getting longer and longer.**  Twenty years ago, the nominal page _limit_ was 8-10 pages (with exceptions). [Papers are now _averaging_ around 14 pages](https://twitter.com/_AlecJacobson/status/1259526238378561536). This is an unnecessary burden on authors, reviewers, and readers. Some 16 page submissions would have been better as 8 page submissions. (Note that page lengths only started to grow after printed proceedings ended in 2011, and the committee was told to be more relaxed about page length.)
 * The second reviewing phase is an additional burden on authors and committee. The committee occasionally requires unnecessary extra experiments. 
 * The high evaluation standards do not lead to papers with better ideas. 
 	* There have always been plenty of SIGGRAPH papers that are "incremental" in their actual intellectual contribution, but this is not a bad thing
