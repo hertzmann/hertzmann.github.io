@@ -4,11 +4,7 @@ Following some recent discussions, here is a revised statement of why I think th
 
 I originally [posted about this on Facebook last year](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802); a [subsequent arXiv posting](https://arxiv.org/abs/1911.09197) provoked some discussions recently in private forums. This time I've put it in the form of a bulleted list. See [the Facebook post](https://www.facebook.com/aaron.hertzmann/posts/10157508064645802) for more background on this discussion.
 
-To be clear, I love SIGGRAPH, and it's a great conference. I love attending it, sometimes more than I enjoy attending vision conferences, and I hope to submit several papers to TOG this year. But I'm publishing in vision much more often these days, and I'm concerned about SIGGRAPH's future. I think this quote is apt:
-
-_"This is one of the fundamental problems with companies: success hides problems. It happens to a lot of us in our personal lives with our health. When we're healthy, there may be a lot of things that are bad for us, but our health lets us get away with doing stuff that's bad for us. Then years later, the logic of that time doesn't hold up."_ — [Ed Catmull](https://youtu.be/k2h2lvhzMDc?t=801)
-
-It is better to fix problems early, rather than waiting until it is too late.
+To be clear, I love SIGGRAPH, and it's a great conference. I love attending it, sometimes more than I enjoy attending vision conferences, and I hope to submit a few papers to TOG this year. But I'm publishing in vision much more often these days, and I'm concerned about SIGGRAPH's future. 
 
 
 The Problem: Expectation Creep
@@ -27,6 +23,9 @@ The Problem: Expectation Creep
 Consequences: Brain Drain
 --------------------------
 
+_"This is one of the fundamental problems with companies: success hides problems. It happens to a lot of us in our personal lives with our health. When we're healthy, there may be a lot of things that are bad for us, but our health lets us get away with doing stuff that's bad for us. Then years later, the logic of that time doesn't hold up."_ — [Ed Catmull](https://youtu.be/k2h2lvhzMDc?t=801)
+
+It is better to fix problems early, rather than waiting until it is too late.
 * **Researchers are leaving SIGGRAPH when they can publish in vision**. Some of the most significant image synthesis work in the past several years is from SIGGRAPH researchers publishing at vision conferences.  Examples include [neural rerendering in the wild](https://moustafameshry.github.io/neural_rerendering_in_the_wild/), [NeRF](http://www.matthewtancik.com/nerf) (presumably), [StyleGAN](https://github.com/NVlabs/stylegan), [pix2pix](https://phillipi.github.io/pix2pix/), [CycleGAN](https://junyanz.github.io/CycleGAN/), [Face2Face](http://www.niessnerlab.org/projects/thies2016face.html), and [PointNet](http://stanford.edu/~rqi/pointnet/).  
 * Trend: SIGGRAPH will become a boutique venue for high-quality papers on geometry, physics, visual interaction, and a few other topics. As each of these topics become more intertwined with learning/vision techniques, they will migrate to the vision conferences, as has already been happening with rendering and geometry.
 * While activity in adjacent communities is skyrocketing—e.g., vision, HCI, robotics—SIGGRAPH is flat. Flat isn’t bad, but it’s a warning sign.
