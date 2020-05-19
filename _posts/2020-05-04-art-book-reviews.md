@@ -2,6 +2,7 @@
 
 Over the past year or so, I've been reading a lot of books on how people define art and how the contemporary art world works. Here are some reviews of what I've read (plus one I read a few years ago, and some documentaries), in order of how strongly I felt about them; the books I loved or hatest the most are at the top of the list.  Several of the books came from [a Twitter thread](https://twitter.com/arnicas/status/1152864563504791552) of recommendations about how to explain contemporary art.
 
+See [this post for more discussion](../../../2020/05/19/wiwia.html) about how confusing it is to try understand the goals of some of these books.
 
 [_The Art Instinct_](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/), by [Denis Dutton](https://en.wikipedia.org/wiki/Denis_Dutton)
 -------------------------------------
