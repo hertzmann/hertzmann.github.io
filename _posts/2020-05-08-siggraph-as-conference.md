@@ -54,7 +54,7 @@ Other Notes
 
 * SIGGRAPH isn’t going to balloon with submissions, but this will stanch the bleeding and reduce disincentives to submitting good work
 * The main difficulty is explaining the nuances of the new system and expectations. But this has been done before, e.g., with the TOG transition, with different rules for rebuttals, and with the creation of SIGGRAPH Asia, etc.
-* Should authors need to choose whether they're submitting to the conference or journal track at time of submission? I can see pros and cons; my inclination is to require authors to state at time at confusion, to keep decision-making simpler. It could be useful to learn from the experience of other venues (like [IEEE VR](http://ieeevr.org/2019/), [ACM SAP](https://sap.acm.org/2020/), [IEEE ICCP](https://iccp2020.engr.wustl.edu/)) that have both conference and journal tracks, some with combined submission and some with separate submission.
+* Should authors need to choose whether they're submitting to the conference or journal track at time of submission? I can see pros and cons; my inclination is to require authors to state at time of submission, to keep decision-making simpler. It could be useful to learn from the experience of other venues (like [IEEE VR](http://ieeevr.org/2019/), [ACM SAP](https://sap.acm.org/2020/), [IEEE ICCP](https://iccp2020.engr.wustl.edu/)) that have both conference and journal tracks, some with combined submission and some with separate submission.
 
 **Discuss this on [Facebook](https://www.facebook.com/aaron.hertzmann/posts/10158397419855802) or [Twitter](https://twitter.com/AaronHertzmann/status/1259161919518150663?s=20).**
 
