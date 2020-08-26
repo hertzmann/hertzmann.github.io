@@ -38,3 +38,7 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
+
+# additions based on https://amytabb.com/ts/2018_11_12/
+url: https://aaronhertzmann.com
+#title_image: 
