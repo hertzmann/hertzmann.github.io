@@ -1,3 +1,7 @@
+---
+largeimage: https://aaronhertzmann.com/2020/04/19/lines-as-edges.html
+---
+
 # Why Edge Detection Doesn't Explain Line Drawing
 
 
