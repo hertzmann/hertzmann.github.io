@@ -1,6 +1,3 @@
-largeimage: https://aaronhertzmann.com/images/DoG.jpg
-
-
 # Why Edge Detection Doesn't Explain Line Drawing
 
 
