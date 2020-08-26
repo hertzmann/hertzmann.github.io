@@ -1,4 +1,8 @@
 ---
+layout: page
+title: Why Edge Detection Doesn't Explain Line Drawing
+summary: Reasons to be skeptical of the conventional wisdom about line drawing perception
+author:  AaronHertzmann
 largeimage: https://aaronhertzmann.com/2020/04/19/lines-as-edges.html
 ---
 
