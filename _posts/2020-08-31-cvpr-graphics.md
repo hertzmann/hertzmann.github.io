@@ -9,7 +9,7 @@ image: /images/cvpr-gfx.jpeg
 
 # What if CVPR is a Graphics Conference?
 
-At the CVPR 2020 [workshop on AI for Content Creation](http://visual.cs.brown.edu/workshops/aicc2020), I gave a talk about the increasing numbers of computer graphics (image synthesis) papers appearing at computer vision conferences:
+At the CVPR 2020 [workshop on AI for Content Creation](http://visual.cs.brown.edu/workshops/aicc2020), I gave an informal talk about the increasing numbers of computer graphics (image synthesis) papers appearing at computer vision conferences:
 
 <center><iframe width="560" height="315" src="https://www.youtube.com/embed/wCRJBy_LPVY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
