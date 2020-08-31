@@ -19,7 +19,7 @@ Here's a summary of the main points:
 
 * **Some of the most exciting work in image synthesis is appearing at computer vision conferences**
 	* This is suprising, since SIGGRAPH has always been THE place to publish the best computer graphics work
-	* One reason for this is the graphics community's reluctance to embrace machine learning technologies. But see also [this post](https://aaronhertzmann.com/2020/05/08/siggraph-as-conference.html) and [the comments on this Facebook thread](https://www.facebook.com/aaron.hertzmann/posts/10158397419855802). 
+	* One reason for this is the graphics community's reluctance to embrace machine learning technologies. See [this post](https://aaronhertzmann.com/2020/05/08/siggraph-as-conference.html) and [the comments on this Facebook thread](https://www.facebook.com/aaron.hertzmann/posts/10158397419855802). 
 * **The way research is conducted and evaluated is a product of the interests of the members of the community**
 	* My stereotype of typical computer vision researchers is that they aim to solve "the AI problem", and are focused on automation and quantiative evaluation.
 	* My stereotype of typical computer graphics researchers is that they aim to create tools that help create art, creative expression and visual communication. They value tools that provide user control and provide high visual quality.
