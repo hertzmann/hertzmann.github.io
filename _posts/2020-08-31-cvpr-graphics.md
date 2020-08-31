@@ -30,6 +30,8 @@ Here's a summary of the main points:
 * **It's exciting to see all this great progress, taking ideas from both fields**
 	* 	Many of the best image synthesis papers in vision conferences come (at least, in part) from authors with graphics backgrounds
 
+----
+
 <center>
 <figure>
   <img src="../../../images/cvpr-gfx.jpeg" alt="Graphics vs. vision slide"/>
