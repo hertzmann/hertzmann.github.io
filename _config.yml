@@ -42,3 +42,5 @@ kramdown:
 # additions based on https://amytabb.com/ts/2018_11_12/
 url: https://aaronhertzmann.com
 title_image: "https://aaronhertzmann.com/images/wica/bradford_viewers.jpg"        # default Twitter card image when no other image provided
+
+timezone: America/San_Francisco

@@ -4,7 +4,6 @@ title: How to Draw Pictures: Contours
 summary: A non-technical introduction to non-photorealistic rendering, part 1
 author:  AaronHertzmann
 image: /images/howtodraw/pig_toon.png
-date:   2020-09-12
 ---
 
 
