@@ -1,9 +1,9 @@
 ---
 layout: page
-title: How to Draw Pictures: Contours
-summary: A non-technical introduction to non-photorealistic rendering
+title: How to Draw Pictures: Suggestive Contours
+summary: A non-technical introduction to non-photorealistic rendering, part 2
 author:  AaronHertzmann
-image: /images/howtodraw/pig_toon.png
+image: /images/howtodraw/abstracted_shading.png
 ---
 
 
