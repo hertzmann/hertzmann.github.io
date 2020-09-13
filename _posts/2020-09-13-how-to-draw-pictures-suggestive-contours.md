@@ -1,6 +1,5 @@
 ---
 layout: page
-title: How to Draw Pictures: Suggestive Contours
 summary: A non-technical introduction to non-photorealistic rendering, part 2
 author:  AaronHertzmann
 image: /images/howtodraw/abstracted_shading.png
