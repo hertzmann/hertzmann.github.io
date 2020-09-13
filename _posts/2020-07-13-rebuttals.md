@@ -38,5 +38,3 @@ a mental model of the reader, based on the venue you're submitting to, and one w
 In reality, these rules that rebuttals are for factual responses are never followed. I have never seen any instructions given to reviewers to ignore non-factual discussion, and I've never seen anyone say "the authors make a good point, but I'm going to ignore it because it is not a response to a factual error." In contrast, many reviewers and committee members at CVPR 2020 this year took seriously the new rule about not allowing new experiments in the rebuttal, because that rule addresses a real problem.
 
 So the only real consequence of the "rebuttals are for factual corrections" rule is that it is unfair to researchers who are unfamiliar with the system. If you don't know how the game is played, you might think you're not allowed to write a persuasive rebuttal. This alone seems like reason enough to ditch this rule.
-
-<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>

@@ -87,5 +87,3 @@ Short and poetic; not comprehensive in any sense, but a nice set of studies in d
 -------------------------------------
 
 **This seems like it might be the best short introduction to the contemporary art world today.** It's succinct and covers a lot of the main things you should know about how things work and why. However, I found it after I'd already read all of the above books and spoken with various artists etc., so it didn't make much impression on me.
-
-<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>

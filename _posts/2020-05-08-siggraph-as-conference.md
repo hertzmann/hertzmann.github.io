@@ -59,5 +59,3 @@ Other Notes
 **Discuss this on [Facebook](https://www.facebook.com/aaron.hertzmann/posts/10158397419855802) or [Twitter](https://twitter.com/AaronHertzmann/status/1259161919518150663?s=20).**
 
 _This post benefited from online discussions with many people with many different viewpoints, including Keenan Crane, Alyosha Efros, Sylvain Paris, Olga Sorkine-Horning, Amir Vaxman, Etienne Vouga, and the commenters on the original Facebook post. I have made edits to this page after originally posting it, based on comments and feedback._
-
-<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>

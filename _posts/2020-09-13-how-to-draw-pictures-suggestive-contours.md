@@ -113,5 +113,3 @@ Conclusion
 As outlined here, the theory of contours and suggestive contours is a simple and compact theory that explains a lot of the way that we draw lines. Understanding this theory ought to be foundational for anyone that wishes to understand the basic mechanics of representational art.
 
 In the final essay in this series, I’ll talk about how these basic foundations can be used to describe many different artistic styles.
-
-<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>

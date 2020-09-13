@@ -105,5 +105,3 @@ Alternatives
 I believe [my hypothesis](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca) proposes a different way to think about this, without the problems above.  This hypothesis is compatible with Lines-As-Edges, while answering many of these questions.  My hypothesis has its own gaps, but I think it nonetheless it provides a promising way forward on these questions.
 
 See [the end of this follow-up post](https://hertzmann.github.io/2020/04/21/ar-vs-cs.html) for one possibility about how my hypothesis could incorporate edge information.
-
-<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>

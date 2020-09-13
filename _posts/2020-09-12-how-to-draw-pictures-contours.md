@@ -139,5 +139,3 @@ In [the next article in this series](https://aaronhertzmann.com/2020/09/13/2020-
 Image credits
 -----------
 The pig model was created by Keenan Crane. Except where noted, all renderings here were created by Pierre Bénard for our tutorial.
-
-<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>
