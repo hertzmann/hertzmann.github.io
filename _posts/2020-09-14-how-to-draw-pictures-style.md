@@ -10,7 +10,7 @@ image: /images/cvpr-gfx.jpeg
 
 
 
-[In two previous blog posts](https://aaronhertzmann.com/2020/09/13/2020-09-12-how-to-draw-pictures-contours.html), I described simple models for drawing. So far, these drawings were relatively plain. But, we can expand on the basic techniques to get a really broad and expressive range of artistic rendering styles.
+[In two previous blog posts](https://aaronhertzmann.com/2020/09/13/how-to-draw-pictures-suggestive-contours.html), I described simple models for drawing. So far, these drawings were relatively plain. But, we can expand on the basic techniques to get a really broad and expressive range of artistic rendering styles.
 
 Stroke style
 ------------
