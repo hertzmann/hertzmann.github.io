@@ -6,7 +6,6 @@ author:  AaronHertzmann
 image: /images/howtodraw/pig_toon.png
 ---
 
-
 # How to Draw Pictures, Part 1: Contours
 
 Computer graphics research has come to understand drawing very well. Based on very simple principles, our algorithms can render objects in many different artistic styles. These renderings are often good enough to fool a viewer into thinking they were drawn, painted, or sketched by hand. We can do this all without any machine learning or training data. These techniques have been used to make new kinds of animations and games.

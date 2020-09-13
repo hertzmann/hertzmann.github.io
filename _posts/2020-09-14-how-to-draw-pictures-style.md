@@ -3,6 +3,7 @@ layout: page
 title: How to Draw Pictures: Style summary: A non-technical introduction to non-photorealistic rendering, part 3
 author:  AaronHertzmann
 image: /images/cvpr-gfx.jpeg
+date: 2020-09-14
 ---
 
 
