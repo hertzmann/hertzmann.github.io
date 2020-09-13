@@ -7,7 +7,7 @@ image: /images/karies/karies-slope.jpg
 
 # Painting in Karies
 
-*(I originally wrote this post in 2005, as I started to reflect more on my experience as an art student, how little I understood about art as a student, and how it relates to my research now.)*
+*I originally wrote this post in 2005, as I started to reflect more on my experience as an art student, how little I understood about art as a student, and how it relates to my research now.*
 
 In the Summer of 1994, I took a three-week intensive course in
 painting in [Karies](https://en.wikipedia.org/wiki/Karyes), a
