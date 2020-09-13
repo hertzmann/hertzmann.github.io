@@ -43,11 +43,11 @@ If we draw lines through not just the black pixels but also the darkest regions 
 </figure>
 </center> 
 This image includes both the contours, and a new set of curves called the *suggestive contours*. The suggestive contours were first introduced in [a beautiful paper that analyzed their mathematical and geometric properties in considerable depth](https://gfx.cs.princeton.edu/proj/sugcon/), 
-and formulated as abstracted shading by <a href="https://dl.acm.org/citation.cfm?id=1276377.1276400">Lee et al.</a>, for example:
+and [formulated as abstracted shading by Lee et al.](https://dl.acm.org/citation.cfm?id=1276377.1276400), for example:
 <center>
 <figure>
   <img src="../../../images/howtodraw/abstracted_shading.png" alt="Abstracted shading"/>
-  <figcaption align="center"><i> Real-time abstracted shading rendering of 3D models, from [a 2007 paper by Lee et al.](https://dl.acm.org/citation.cfm?id=1276377.1276400)
+  <figcaption align="center"><i> Real-time abstracted shading rendering of 3D models, from <a href="https://dl.acm.org/citation.cfm?id=1276377.1276400">a 2007 paper by Lee et al.</a>
 </i></figcaption>
 </figure>
 </center> 
@@ -56,7 +56,7 @@ This idea of making drawings by approximating a shaded rendering with strokes ca
 <center>
 <figure>
   <img src="../../../images/howtodraw/thick_strokes.png" alt="Thick stroke renderings"/>
-  <figcaption align="center"><i>Rendering with contours and suggestive contours, and stroke thickness based on shading (from [our 2007 paper on stroke thickness](http://www.dgp.toronto.edu/~todd/isophote/).
+  <figcaption align="center"><i>Rendering with contours and suggestive contours, and stroke thickness based on shading (from <a href="http://www.dgp.toronto.edu/~todd/isophote/">our 2007 paper on stroke thickness</a>.
 </i></figcaption>
 </figure>
 </center> 
