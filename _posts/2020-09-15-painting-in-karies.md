@@ -13,7 +13,7 @@ In the Summer of 1994, I took a three-week intensive course in
 painting in [Karies](https://en.wikipedia.org/wiki/Karyes), a
 small village in Greece.  One of my instructors in college, Bas Poulos, created and ran the program.  Bas grew up in South Carolina, but his parents had emigrated there from Karies long ago, and he returned to his
 ancestral home every summer, and, more recently, begun this painting
-program.  There were two other students i the program that Summer, Erik and Elaine.
+program.  There were two other students in the program that Summer, Erik and Elaine.
 
 We painted in watercolor for six hours a day: three in the morning,
 and three in the afternoon, including critiques.  Bas told us many
