@@ -100,7 +100,7 @@ Once we have the contours, we can create different kinds of stylized rendering. 
 Or we can draw just the contours, but use stylized curves that look like brush strokes:
 <center>
 <figure>
-  <img src="../../../images/howtodraw/pig_toon.png" alt="Pig contours"/>
+  <img src="../../../images/howtodraw/pig_style.png" alt="Pig contours"/>
   <figcaption align="center"><i>Ink brush pig. (Image credits below.)
 </i></figcaption>
 </figure>
