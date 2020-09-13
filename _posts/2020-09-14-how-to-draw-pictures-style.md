@@ -33,7 +33,7 @@ Of course, we might draw inside the shapes. The most popular and well-known non-
 </i></figcaption>
 </figure>
 </center>
-Other notable examples of 3D NPR in video games include The Return of the Obra Dinn, Team Fortress 2, Borderlands 2, and Valorant.
+Other notable examples of 3D NPR in video games include [Return of the Obra Dinn](https://en.wikipedia.org/wiki/Return_of_the_Obra_Dinn), [Ōkami](https://en.wikipedia.org/wiki/%C5%8Ckami), [Team Fortress 2](http://www.pixelmaven.com/jason/articles/NPAR07_IllustrativeRenderingInTeamFortress2.pdf), [Borderlands 2](https://en.wikipedia.org/wiki/Borderlands_2), and [Valorant](https://technology.riotgames.com/news/valorant-shaders-and-gameplay-clarity).
 
 But there are lots of other ways to draw objects. For example, hatching is widely used in pencil and pen illustration. Here are the results of an algorithm that we developed to draw hatching illustrations:
 <center>
