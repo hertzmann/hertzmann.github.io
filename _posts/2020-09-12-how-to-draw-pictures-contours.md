@@ -7,9 +7,7 @@ image: /images/howtodraw/pig_toon.png
 ---
 
 
-# How to Draw Pictures: Contours
-## Computational Models of Representational Art, Part 1
-
+# How to Draw Pictures, Part 1: Contours
 
 Computer graphics research has come to understand drawing very well. Based on very simple principles, our algorithms can render objects in many different artistic styles. These renderings are often good enough to fool a viewer into thinking they were drawn, painted, or sketched by hand. We can do this all without any machine learning or training data. These techniques have been used to make new kinds of animations and games.
 
@@ -136,7 +134,7 @@ Conclusion
 
 Contours are a very simple kind of curve, but they can be used to create many lovely and convincing types of drawings. If you would like to learn more about the mathematics and algorithms of these curves, [please see our tutorial](https://arxiv.org/abs/1810.01175).
 
-In the next article in this series, I describe an extension to these curves that makes them even better. I also describe scientific studies to answer the question: how well do these curves describe how humans draw pictures?
+In [the next article in this series](https://aaronhertzmann.com/2020/09/13/2020-09-13-how-to-draw-pictures-suggestive-contours.html), I describe an extension to these curves that makes them even better. I also describe scientific studies to answer the question: how well do these curves describe how humans draw pictures?
 
 Image credits
 -----------
