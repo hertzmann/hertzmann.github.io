@@ -37,3 +37,5 @@ Here's a summary of the main points:
   <img src="../../../images/cvpr-gfx.jpeg" alt="Graphics vs. vision slide"/>
 </figure>
 </center>
+
+<p style="color:gray">&copy; 2020 Aaron Hertzmann</p>
