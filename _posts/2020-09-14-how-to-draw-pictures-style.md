@@ -18,7 +18,7 @@ Stroke style
 As already shown, we can use different styles of outline strokes, which includes both drawing brush textures, as well as changing the shapes of the outlines. We can even animate them. Here’s an example of applying different kinds of strokes to animations of 3D models:
 
 <center><iframe src="https://player.vimeo.com/video/45851544" width="640" height="480" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/45851544">Skip to 4:15 in the video. Active strokes: coherent line stylization for animated 3D models</a> from <a href="https://vimeo.com/benard">Pierre B&eacute;nard</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+<p><i>Skip to 4:15 in the video to see stylized 3D stroke animation</i></p></center>
 
 
 Shading and Hatching
@@ -49,7 +49,7 @@ We can also let a user author the rendering style. Here is an animation method t
 
 <center>
 <iframe src="https://player.vimeo.com/video/64407522" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/64407522">Stylizing Animation By Example</a> from <a href="https://vimeo.com/benard">Pierre B&eacute;nard</a> on <a href="https://vimeo.com">Vimeo</a>.</p></center>
+<p><i>Stylizing Animation By Example</a></i></p></center>
 
 There are lots of other ways to draw objects, whether watercolor, oil; more or less “impressionistic,” and so on.
 
