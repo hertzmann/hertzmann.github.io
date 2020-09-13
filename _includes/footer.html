@@ -1,13 +1,4 @@
-{% assign year_from = site.posts[-1].date | date: '%Y' %}
-{% assign year_to   = site.time | date: '%Y' %}
-{% if year_from == nil or year_from == year_to %}
-  {% assign year_string = year_from %}
-{% else %}
-  {% assign from_to_seperator = site.data.strings.from_to_seperator | default: '-' %}
-  {% assign year_string = year_from | append: '&nbsp;' | append: from_to_seperator | append: '&nbsp;' | append: year_to %}
-{% endif %}
-
-
+{% assign year_
 <footer class="site-footer h-card">
 
   <data class="u-url" href="{{ "/" | relative_url }}"></data>
@@ -17,7 +8,7 @@
     <div class="footer-col-wrapper">
       <div class="footer-col">
         <P><a href="http://aaronhertzmann.com">Aaron Hertzmann's blog</a><br>
-          &copy; {{ year_string }} <a href="https://www.dgp.toronto.edu/~hertzman/">Aaron Hertzmann</a></p>
+          &copy; {{ %Y }} <a href="https://www.dgp.toronto.edu/~hertzman/">Aaron Hertzmann</a></p>
       </div>
 
 
