@@ -9,7 +9,7 @@ image: /images/howtodraw/abstracted_shading.png
 # How to Draw Pictures, Part 2: Suggestive Contours
 
 
-In [the first part of this series](https://aaronhertzmann.com/2020/09/13/2020-09-12-how-to-draw-pictures-contours.html), I described Occluding Contours, which are the fundamental building blocks of line drawing. Now I will describe an important extension to them, and discuss what these theories tell us about how people make line drawings.
+In [the first part of this series](https://aaronhertzmann.com/2020/09/12/how-to-draw-pictures-contours.html), I described Occluding Contours, which are the fundamental building blocks of line drawing. Now I will describe an important extension to them, and discuss what these theories tell us about how people make line drawings.
 
 Abstracted shading
 ----------------
