@@ -1,10 +1,4 @@
----
-layout: page
-summary: A non-technical introduction to non-photorealistic rendering, part 3
-author:  AaronHertzmann
-image: /images/cvpr-gfx.jpeg
----
-
+ 
 
 # How to Draw Pictures, Part 3: Style
 
