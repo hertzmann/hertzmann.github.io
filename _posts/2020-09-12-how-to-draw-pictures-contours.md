@@ -132,7 +132,7 @@ Conclusion
 
 Contours are a very simple kind of curve, but they can be used to create many lovely and convincing types of drawings. If you would like to learn more about the mathematics and algorithms of these curves, [please see our tutorial](https://arxiv.org/abs/1810.01175).
 
-In [the next article in this series](https://aaronhertzmann.com/2020/09/13/how-to-draw-pictures-suggestive-contours.html), I describe an extension to these curves that makes them even better. I also describe scientific studies to answer the question: how well do these curves describe how humans draw pictures?
+In [the next article in this series](/2020/09/13/how-to-draw-pictures-suggestive-contours.html), I describe an extension to these curves that makes them even better. I also describe scientific studies to answer the question: how well do these curves describe how humans draw pictures?
 
 Image credits
 -----------
