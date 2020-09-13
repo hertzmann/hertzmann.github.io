@@ -49,7 +49,10 @@ After warming up by painting some postcards (which I don't have any
 more, since I mailed them), we went out for our first big painting;
 here's mine:
 
-![car painting](/images/karies/karies-car.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-car.jpg"
+alt="car painting">
+</center>
 
 In the critique session, Bas criticized my literalmindedness.  Why
 did I draw that street sign?  I said I drew it because it was there,
@@ -61,31 +64,46 @@ painting in all the details.
 In the next few paintings, I had some fun with the
 twisty 3D spaces in the village's mountain streets:
 
-![alley painting](/images/karies/karies-alley.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-alley.jpg"
+alt="alley painting" width="40%">
+<img src="https://aaronhertzmann.com/images/karies/karies-slope.jpg"
+alt="slope painting" width="50%">
+<img src="https://aaronhertzmann.com/images/karies/karies-yellow.jpg"
+alt="yellow painting" width="50%">
+</center>
 
-![slope painting](/images/karies/karies-slope.jpg)
-
-![yellow painting](/images/karies/karies-yellow.jpg)
 
 We continued with different subjects in different locations,
 such as the town square, and in a nearby village called 
 <a href="http://en.wikipedia.org/wiki/Monemvassia">Monemvassia</a>,
 where I struggled with the rocky hills in vain:
 
-![square painting](/images/karies/karies-square.jpg)
-![panorama painting](/images/karies/karies-panorama.jpg)
-![monemvassia painting](/images/karies/karies-monemvassia.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-square.jpg"
+alt="square painting" width="40%">
+<img src="https://aaronhertzmann.com/images/karies/karies-panorama.jpg"
+alt="panorama painting" width="50%">
+<img src="https://aaronhertzmann.com/images/karies/karies-monemvassia.jpg"
+alt="monemvassia painting" width="50%">
+</center>
 
 
 Karies is supposedly the home of <a href="http://en.wikipedia.org/wiki/Caryatid">caryatids</a>, although it is not the
 only location to claim that distinction.
 
-![karyatid painting](/images/karies/karies-karyatid.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-karyatid.jpg"
+alt="karyatid painting" width="40%">
+</center>
 
 The main thing I remember about this one was the gigantic,
 colorful insects that were crawling all around me while I painted it:
 
-![cemetary painting](/images/karies/karies-cemetary.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-cemetary.jpg"
+alt="cemetary painting" width="60%">
+</center>
 
 
 In all of the images up to here, you can see a literalminded focus on the 
@@ -109,7 +127,10 @@ he chose:</p>
 
 At some point, I started to get frustrated, and painted stuff like this:
 
-![house painting](/images/karies/karies-house.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-house.jpg"
+alt="house painting" width="60%">
+</center>
 
 I felt uninspired and hated the picture.  And, in the critique that
 day, Bas came in and told us that all our paintings were terrible.  I
@@ -118,7 +139,10 @@ him about all three.  But I wasn't sure how to get out of
 the rut, or find the next step.  At some point I also painted
 this:
 
-![park painting](/images/karies/karies-park.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-park.jpg"
+alt="park painting" width="60%">
+</center>
 
 I was experimenting, trying to find something interesting to
 create, but it wasn't working.  He said: "You can't do
@@ -140,9 +164,14 @@ better things, but come home on this day to vote.  We took our
 watercolors and our paper blocks out to the square and made some
 quick, surreptitious sketches:
 
-![back painting](/images/karies/karies-back.jpg)
-![guys painting](/images/karies/karies-guys2.jpg)
-![portrait painting](/images/karies/karies-portrait1.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/karies/karies-back.jpg"
+alt="back painting" width="40%">
+<img src="https://aaronhertzmann.com/images/karies/karies-guys2.jpg"
+alt="guys2 painting" width="50%">
+<img src="https://aaronhertzmann.com/images/karies/karies-portrait1.jpg"
+alt="portrait painting" width="50%">
+</center>
 
 
 This was immensely satisfying.  However, my best painting from this
