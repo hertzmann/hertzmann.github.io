@@ -191,7 +191,7 @@ instead of this one?  My house is much nicer."
 4.
 ===
 
-For the most part, I was pretty frustrated, but kept on going.  
+For the most part, I was pretty frustrated.   
 Looking back, it seems like the paintings from the end of the program
 are starting to show some of that abstraction that Bas talked about at
 the beginning. 
