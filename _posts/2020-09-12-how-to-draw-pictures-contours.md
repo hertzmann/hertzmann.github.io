@@ -3,7 +3,7 @@ layout: page
 title: How to Draw Pictures: Contours
 summary: A non-technical introduction to non-photorealistic rendering
 author:  AaronHertzmann
-image: /images/cvpr-gfx.jpeg
+image: /images/howtodraw/pig_toon.png
 ---
 
 
@@ -15,7 +15,7 @@ Computer graphics research has come to understand drawing very well. Based on ve
 
 **I think this is pretty amazing, but it does not seem to be very widely known.**
 
-This article gives a non-technical introduction to line drawing algorithms. In two follow-up articles, I will discuss improvements and extensions that make these algorithms increasingly powerful at capturing many different artistic styles. This research area is called “Non-Photorealistic Rendering.” In later articles, I will discuss how these methods inform theories of perception and art.
+This article gives a non-technical introduction to line drawing algorithms. In two follow-up articles, I will discuss improvements and extensions that make these algorithms increasingly powerful at capturing many different artistic styles. This research area is called [“Non-Photorealistic Rendering.”](https://en.wikipedia.org/wiki/Non-photorealistic_rendering) In later articles, I will discuss how these methods inform theories of perception and art.
 
 Together, these algorithms represent a generative theory of representational art. Studies of visual art from other disciplines typically describe loose trends or properties of art, describing qualitative visual traits like color balance or symmetry. In contrast, **algorithms can give explicit recipes for how to create line drawings**. Hence, they provide a new, complementary form of understanding, unavailable to previous ways of studying and teaching art. Like any theory, these theories are incomplete models of the world; they won’t explain all the specifics of each artist’s individual choices.
 
@@ -76,7 +76,7 @@ Let’s look at the shape from a different point of view:
 
 <center>
 <figure>
-  <img src="../../../images/howtodraw/pig_side.png" alt="Pig contours"/>
+  <img src="../../../images/howtodraw/pig_side.png" alt="Pig contours side view"/>
   <figcaption align="center"><i>Side view of the pig, with a color scheme based on visibility to the camera. Red curves are contours; yellow regions are facing the camera, and blue regions face away from the camera. The contours are the curves separating yellow and blue regions (Image credits below.)
 </i></figcaption>
 </figure>
