@@ -29,7 +29,7 @@ We start with a 3D model. In this example, I’ll start with a 3D model of a cow
 The pixels in this image range from white to gray to black. If the draw lines through just the completely black pixels in this image, we get the contours:
 <center>
 <figure>
-  <img src="../../../images/howtodraw/cow_oc.png" alt="Cow contours"/>
+  <img src="../../../images/howtodraw/cow_contours.png" alt="Cow contours"/>
   <figcaption align="center"><i>Contour curves on the cow, without any stylization. (Image created by Pierre Bénard using <a href="https://github.com/fcole/qrtsc">qrtsc</a>.)
 </i></figcaption>
 </figure>
@@ -37,7 +37,7 @@ The pixels in this image range from white to gray to black. If the draw lines th
 If we draw lines through not just the black pixels but also the darkest regions of this image, then we get this drawing:
 <center>
 <figure>
-  <img src="../../../images/howtodraw/cow_oc.png" alt="Cow contours"/>
+  <img src="../../../images/howtodraw/cow_sc.png" alt="Cow contours"/>
   <figcaption align="center"><i> Contour and Suggestive Contour curves on the cow, without any stylization. (Image created by Pierre Bénard using <a href="https://github.com/fcole/qrtsc">qrtsc</a>.)
 </i></figcaption>
 </figure>
