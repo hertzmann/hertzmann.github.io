@@ -124,7 +124,7 @@ Here are some more sophisticated examples of different contour rendering styles,
 </center>
 <center>
 <figure>
-  <img src="../../../images/howtodraw/bluepring.png" alt="Blueprint-style rendering"/>
+  <img src="../../../images/howtodraw/blueprint.png" alt="Blueprint-style rendering"/>
   <figcaption align="center"><i>Blueprint style by LightBWK
 </i></figcaption>
 </figure>
