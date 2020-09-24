@@ -7,7 +7,7 @@ image: /images/goya.jpg
 
 # Dreaming and Sampling
 
-I just read Borges' "Nightmares" for the first time, a lecture from 1977 in which he grappled with the nature of dreaming. Whenever I think about the nature of dreams, I always think of a theory that Geoff Hinton told me long ago, probably 15 years ago. Geoff told it in his typical tone of conviction laced with ironic self-awareness about that conviction.
+I just read Borges' "Nightmares," a lecture from 1977 in which he grappled with the nature of dreaming. Whenever I think about the nature of dreams, I always think of a theory that Geoff Hinton told me long ago, probably 15 years ago. Geoff told it in his typical tone of conviction laced with ironic self-awareness about that conviction.
 
 One thing our brains need to learn is how likely are things to appear in the world, and what are likelihood outcomes of sequences of events. That is, we need to learn a probability distribution over possible experiences we could have.  In Maximum Likelihood learning, we seek to set model parameters to learn the probability that our brain assigns to different outcomes.
 
