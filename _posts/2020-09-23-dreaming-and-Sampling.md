@@ -35,6 +35,7 @@ Borges said, when introducing [J. W. Dunne's theories of dreaming](https://en.wi
 
 ---
 
-<sup>1</sup>If I recall correctly, this was the foundation of [his Boltzmann Machine learning algorithm](https://en.wikipedia.org/wiki/Boltzmann_machine#Training), and later [Contrastive Divergence](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf) (which insired our own [Inverse Optimization](http://grail.cs.washington.edu/projects/charanim/phys-style.html) algorithm). It somehow seems related to [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding), which I haven't studied carefully.
+<sup>1</sup>If I recall correctly, this was the foundation of [his Boltzmann Machine learning algorithm](https://en.wikipedia.org/wiki/Boltzmann_machine#Training), and later [Contrastive Divergence](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf) (which insired our own [Inverse Optimization](http://grail.cs.washington.edu/projects/charanim/phys-style.html) algorithm).  The name of the [Wake-Sleep Algorithm](https://en.wikipedia.org/wiki/Wake-sleep_algorithm) also suggests some relation.
+It somehow seems related to [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding).
 
 <sup>2</sup>The great thing about blogging is that you don't have to do a literature search, you can just say "I don't know."
