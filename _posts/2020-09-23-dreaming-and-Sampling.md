@@ -29,6 +29,10 @@ Borges said, about [J. W. Dunne's theories of dreaming](https://en.wikipedia.org
 </center>
 
 
+<BR>
+<BR>
+<BR>
+
 ---
 
 <sup>1</sup>If I recall correctly, this was the foundation of [his Boltzmann Machine learning algorithm](https://en.wikipedia.org/wiki/Boltzmann_machine#Training), and later [Contrastive Divergence](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf) (which insired our own [Inverse Optimization](http://grail.cs.washington.edu/projects/charanim/phys-style.html) algorithm). It somehow seems related to [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding), which I haven't studied carefully.
