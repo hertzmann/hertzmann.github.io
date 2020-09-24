@@ -13,7 +13,7 @@ One thing our brains need to learn is how likely are things to appear in the wor
 
 Through some clever math, one can rearrange the negative log-likelihood to have two terms<sup>1</sup>: the "energy" of the evidence that you did see, and the expected "energy" of every possible occurrence that you didn't see. This expectation cannot be computed.
 
-In Geoff's theory, during waking, we gather our daily experiences as positive examples and use them to take gradient steps to update the first term.  During sleep, we randomly sample sequences of events from our current model of the world, so that we can take gradient steps to downweight these scenarios. In other words, in a dream our brain is exploring what it believes to be likely, and then updating its beliefs so that this scenario is _less likely_, because, after all, we didn't see them during the day. 
+In Geoff's theory, during waking, we gather our daily experiences as positive examples and use them to take gradient steps to update the first term.  During sleep, we randomly sample sequences of events from our current model of the world, so that we can take gradient steps to downweight these scenarios. In other words, **in a dream our brain explores scenarios that it believes to be likely, and then updates its beliefs so that these scenarios are _less likely_,** because, after all, we didn't actually experience them during the day. 
 
 He said that his theory predicted that updating neural weights during dreaming should proceed in reverse order in the brain. He said neuroscientists later discovered this reversed-time updated, and they were confused by it.
 
