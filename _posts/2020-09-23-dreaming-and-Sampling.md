@@ -17,7 +17,7 @@ In Geoff's theory, during waking, we gather our daily experiences as positive ex
 
 He said that his theory predicted that updating neural weights during dreaming should proceed in reverse order in the brain. He said neuroscientists later discovered this reversed-time updated, and they were confused by it.
 
-I have no idea if Geoff's theory has the slightest kernel of truth in it. I also don't know if he still believes it.
+I have no idea if Geoff's theory has the slightest kernel of truth in it. I also don't know if he still believes it, or if he ever published it<sup>2</sup>.
 
 Borges said, when introducing [J. W. Dunne's theories of dreaming](https://en.wikipedia.org/wiki/An_Experiment_with_Time), "I do not agree with this theory, but it is so beautiful it is worth recalling."  There is a lot about dreaming that doesn't seem to me to be explained by Geoff's theory.  But Geoff's theory is so beautiful it is worth recalling.
 
@@ -36,3 +36,5 @@ Borges said, when introducing [J. W. Dunne's theories of dreaming](https://en.wi
 ---
 
 <sup>1</sup>If I recall correctly, this was the foundation of [his Boltzmann Machine learning algorithm](https://en.wikipedia.org/wiki/Boltzmann_machine#Training), and later [Contrastive Divergence](https://www.cs.toronto.edu/~hinton/absps/tr00-004.pdf) (which insired our own [Inverse Optimization](http://grail.cs.washington.edu/projects/charanim/phys-style.html) algorithm). It somehow seems related to [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding), which I haven't studied carefully.
+
+<sup>2</sup>For me one of the great motivations for blogging is that you don't have to do a literature search, you can just say "I don't know."
