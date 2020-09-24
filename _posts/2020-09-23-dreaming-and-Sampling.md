@@ -35,6 +35,6 @@ Borges said, when introducing [J. W. Dunne's theories of dreaming](https://en.wi
 
 ---
 
-<sup>1</sup>If I think this might be the [Wake-Sleep Algorithm](https://en.wikipedia.org/wiki/Wake-sleep_algorithm). It somehow seems related to [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding).
+<sup>1</sup>I think this might be the [Wake-Sleep Algorithm](https://en.wikipedia.org/wiki/Wake-sleep_algorithm). It somehow seems related to [predictive coding](https://en.wikipedia.org/wiki/Predictive_coding).
 
 <sup>2</sup>The great thing about blogging is that you don't have to do a literature search, you can just say "I don't know."
