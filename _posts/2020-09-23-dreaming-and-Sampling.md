@@ -19,7 +19,7 @@ He said that his theory predicted that updating neural weights during dreaming s
 
 I have no idea if Geoff's theory has the slightest kernel of truth in it. I also don't know if he still believes it.
 
-Borges said, by way of introduction to [J. W. Dunne's theories of dreaming](https://en.wikipedia.org/wiki/An_Experiment_with_Time), "I do not agree with this theory, but it is so beautiful it is worth recalling."  There is a lot about dreaming that doesn't seem to me to be explained by Geoff's theory.  But Geoff's theory is so beautiful it is worth recalling.
+Borges said, when introducing [J. W. Dunne's theories of dreaming](https://en.wikipedia.org/wiki/An_Experiment_with_Time), "I do not agree with this theory, but it is so beautiful it is worth recalling."  There is a lot about dreaming that doesn't seem to me to be explained by Geoff's theory.  But Geoff's theory is so beautiful it is worth recalling.
 
 <center>
 <figure>
