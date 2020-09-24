@@ -24,7 +24,7 @@ Borges writes, about [J. W. Dunne's theories](https://en.wikipedia.org/wiki/An_E
 <center>
 <figure>
   <img src="../../../images/goya.jpg" alt="Goya etching"/>
-  <figcaption align="center"><i>Random samples appear</i></figcaption>
+  <figcaption align="center"><i>Random samples appear (Monte Carlo de Goya)</i></figcaption>
 </figure>
 </center>
 
