@@ -1,3 +1,10 @@
+---
+layout: page
+summary: How dreams could be gradient updates
+author:  AaronHertzmann
+image: /images/goya.jpg
+---
+
 # Dreaming and Sampling
 
 I just read Borges' "Nightmares" for the first time, where he grapples with the nature of dreaming. Whenever I think about the nature of dreams, I always think of a theory that Geoff Hinton told me long ago, probably 15 years ago. Geoff told it in his typical tone of conviction laced with ironic self-awareness about that conviction.
@@ -13,6 +20,14 @@ He said that his theory predicted that learning from dreams should proceed in re
 I have no idea if Geoff's theory has the slightest kernel of truth in it.
 
 Borges writes, about [J. W. Dunne's theories](https://en.wikipedia.org/wiki/An_Experiment_with_Time), "I do not agree with this theory, but it is so beautiful it is worth recalling."  There is a lot about dreaming that doesn't seem to me to be explained by Geoff's theory.  But Geoff's theory is beautiful, so I am content to remain ignorant about the science of dreaming and to believe in it.
+
+<center>
+<figure>
+  <img src="../../../images/goya.jpg" alt="Goya etching"/>
+  <figcaption align="center"><i>Random samples appear</i></figcaption>
+</figure>
+</center>
+
 
 ---
 
