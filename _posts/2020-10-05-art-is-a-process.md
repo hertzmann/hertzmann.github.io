@@ -30,8 +30,9 @@ I'm not making much art these days; this stay-at-home pandemic seems to have end
 Art Comes From A Process
 -------
 
-One important lesson that I kept relearning over and over is that **art arises from a process.**
-I was often disappointed to end up with a painting that seemed far from what I'd intended in the first place. I felt that reflected my poor skills, a lack of control over the outcome.  I eventually realized can't predict how a drawing is going to turn out, and that this is a good thing. So much of what I learned is about guiding the process, how different choices affect it, how to cope with it.
+One important lesson that I kept relearning over and over is that **art comes from a process.**
+
+My paintings often disappointed me, since they were far from what I'd intended in the first place; they showed my poor skills and lack of control over the outcome.  I eventually realized can't predict how a drawing is going to turn out, and that this is a good thing. So much of what I learned is about guiding the process, how different choices affect it, how to cope with it.
 
 On my third day in Oxford, I decided to try digital watercolor simulation. After a few minutes of painting, I had this:
 <center>
