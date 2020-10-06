@@ -1,5 +1,14 @@
-Things I Learned from Drawing, Part 1: Art is a Process
-================
+---
+layout: page
+title: "Things I Learned from Drawing, Part 1: Art is a Process"
+summary: Reflections on recent experience with digital painting and drawing
+author:  AaronHertzmann
+image: /images/ipad_paintings/radcliffe.jpg
+---
+
+
+# Things I Learned from Drawing, Part 1: Art is a Process
+
 
 In July 2019, I got a new iPad and Apple Pencil, and experimented with some drawing apps. [In college, I had studied art](aaronhertzmann.com/2020/09/15/painting-in-karies.html) (and computer science), but I stopped painting after I graduated.  This digital drawing on the iPad was my first real attempt at painting in more than 20 years:
 <center>
