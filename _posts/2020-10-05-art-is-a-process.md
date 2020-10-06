@@ -27,7 +27,7 @@ I was fortunate to have a one-month sabbatical, most of which I spent in Oxford,
 I'm not making much art these days; this stay-at-home pandemic seems to have ended whatever momentum I had.  So I suppose it's finally time to write down the reflections that have been brewing in my head over the past year. Some of these ideas have already led to new research projects, and others are still forming. I'm also writing these things down because they're the things I wished a long time ago, when I was first studying art.
 
 
-Art is a Process
+Art Comes From A Process
 -------
 
 One important lesson that I kept relearning over and over is that **art arises from a process.**
