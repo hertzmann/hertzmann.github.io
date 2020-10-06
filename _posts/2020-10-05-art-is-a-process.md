@@ -50,7 +50,7 @@ A few days later, I visited a new-to-me cafe, and decided to try digital pastels
 </center>
 It surprised me how recognizable the style seemed, like I've seen hundreds or thousands of other drawings in this style that I wasn't thinking about at all.
 
-An important thing to remember in these early drawings is: **I was trying to make a very realistic picture.** If I could have produced something that looked close to a photograph, perhaps I would have.  **And the ways I fell short weren't failures; they were the artistic style.** Nonetheless, I kept working to improve my depiction skills.
+An important thing to remember in these early drawings is: **I was trying to make a very realistic picture.** If I could have produced something that looked close to a photograph, perhaps I would have.  **And the ways I fell short weren't failures; they *were* the artistic style.** Nonetheless, I kept working to improve my depiction skills.
 
 
 But the main lesson here is **that you don't decide the outcome in advance; you explore, and come up with something that you didn't couldn't have foreseen at all.** I always have to start with some idea or goal for the picture. But I also have to be ready to shift or abandon that initial idea as the picture emerges.  Researchers will recognize that many research projects are like this too: you can't accurately predict what will be in the final paper when you are first brainstorming the project.
