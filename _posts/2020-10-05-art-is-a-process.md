@@ -32,7 +32,7 @@ Art Comes From A Process
 
 One important lesson that I kept relearning over and over is that **art comes from a process.**
 
-My paintings often disappointed me, since they were far from what I'd intended in the first place; they showed my poor skills and lack of control over the outcome.  I did get better at guiding this process. But that first meant learning that I can't predict how a drawing is going to turn out, and that this is a good thing. It's about following the process, not about trying to produce a specific result.
+My paintings often disappointed me, since they were far from what I'd intended in the first place; they showed my poor skills and lack of control over the outcome.  I did get better at guiding this process. But that first meant learning that I can't predict how a drawing is going to turn out, and that this is a good thing. It's about following the process, not about trying to produce a specific result.  
 
 On my third day in Oxford, I decided to try digital watercolor simulation. After a few minutes of painting, I had this:
 <center>
@@ -52,7 +52,8 @@ It surprised me how recognizable the style seemed, like I've seen hundreds or th
 
 An important thing to remember in these early drawings is: **I was trying to make a very realistic picture.** If I could have produced something that looked close to a photograph, perhaps I would have.  **And the ways I fell short weren't failures; they were the artistic style.** Nonetheless, I kept working to improve my depiction skills.
 
-But the main lesson here is **that you don't decide the outcome in advance; you explore, and come up with something that you didn't couldn't have foreseen at all.** Researchers will recognize that many research projects are like this too; you can't accurately predict what will be in the final paper when you are first brainstorming the project.
+
+But the main lesson here is **that you don't decide the outcome in advance; you explore, and come up with something that you didn't couldn't have foreseen at all.** I always have to start with some goal or idea for the picture. But I also have to be ready to shift or abandon that initial idea as the picture emerges.  Researchers will recognize that many research projects are like this too: you can't accurately predict what will be in the final paper when you are first brainstorming the project.
 
 In my readings, I've come across numerous quotes from artists who say some version of the same thing, but I wouldn't have appreciated these quotes had I not had the same experience. **For example, the artist [Francis Bacon](https://en.wikipedia.org/wiki/Francis_Bacon_(artist)): "one has an intention, but what really happens comes about in working ... You are following this cloud of sensation in yourself, but don't know what it really is. And it's called instinct."**
 
