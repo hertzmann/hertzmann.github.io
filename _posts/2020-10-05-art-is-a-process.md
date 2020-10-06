@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Things I Learned from Drawing, Part 1: Art is a Process"
 summary: Reflections on recent experience with digital painting and drawing
 author:  AaronHertzmann
 image: /images/ipad_paintings/radcliffe.jpg
