@@ -22,9 +22,9 @@ While my own art education gave me valuable experience, it gave me almost no con
 But there's no replacement for trying to create art.  
 
 I really dove into painting digitally last Fall, when 
-I was fortunate to have a one-month sabbatical, most of which I spent in Oxford, England. An academic sabbatical is a chance to step back from one's normal research and duties, and explore new reseach directions. For this sabbatical, I decided to dive more seriously into painting and drawing, sometimes spending hours a day painting digitally, letting go of the usual feeling that I "should be more productive." I told myself that painting was "my job." (I did a bunch of other professional and personal things in this time.)
+I was fortunate to have a one-month sabbatical, most of which I spent in Oxford, England. An academic sabbatical is a chance to step back from one's normal research and duties, and explore new directions. For this sabbatical, I decided to dive more seriously into painting and drawing, sometimes spending hours a day painting digitally, letting go of the usual feeling that I "should be more productive." I told myself that painting was "my job." (I did do a bunch of other professional and personal activities in this time as well.)
 
-I'm not making much art these days; this stay-at-home pandemic seems to have ended whatever momentum I had.  So it's finally time to write down the reflections that have been brewing in my head over the past year. Some of the things I've learned have already led to new research projects, and others still have potential.
+I'm not making much art these days; this stay-at-home pandemic seems to have ended whatever momentum I had.  So I suppose it's finally time to write down the reflections that have been brewing in my head over the past year. Some of these ideas have already led to new research projects, and others are still forming. I'm also writing these things down because they're the things I wished a long time ago, when I was first studying art.
 
 
 Art is a Process
@@ -75,7 +75,7 @@ and here's what happens if I later decided I wanted a different background color
 <center>
 <img src="../../../images/ipad_paintings/bear-gray.jpg" alt="Bear drawing with gray background">
 </center>
-It's not just the unexpected transparency; this might not be the best example, but the lighting is also off for this background.
+This isn't the best example, but both the transparency and color/lighting don't match any more.
 
 Medium and background color are two choices that seem incidental, and yet completely change the outcome of the drawing. And the whole process is a sequence of these kinds of choices, each of which drives the painting toward a different final outcome. It's like a Choose Your Own Adventure Novel or a chaos theory experiment where small decisions early in the process will lead to utterly different results in the end.
 
@@ -93,18 +93,17 @@ Here is the first painting I made in Oxford, at Keble College:
 <img src="../../../images/ipad_paintings/keble.jpg" alt="Keble college drawing">
 </center>
 
-I was not happy with it; I'd tried to draw a very complicated and textured building and didn't capture any of it. But I got nice comments on it on Facebook. And [the second painting of the trip](), from that same morning, got more comments (and the barista in the truck liked it too).
+I was not happy with it; I'd tried to draw a very complicated and textured building and didn't capture any of it. But I got nice comments on it on Facebook. And [the second painting of the trip](https://www.instagram.com/p/B4YkQSCho5p/), from that same morning, got more positive comments.
 
 I've always found art to be a highly neurotic process. My thought process, during any given drawing or painting, can be roughly summarized like "this doesn't seem like it's going to work...this seems hard...this isn't working...this isn't any good...hmm, maybe this isn't so bad...this is coming together actually...maybe this is ok...is this ok?" When I'm done, I often go back and forth between being quite satisfied with what I've done and being disappointed by how amateurish it all is.
  
-The thing that kept me going, especially early on when I was really struggling (see images above) was positive comments and encouragement from my friends in Oxford, and as well as from friends on social media.  Also, often enough it worked out. Here's a digital watercolor and a digital oil from my first week in Oxford that I was happy with:
-
+The thing that kept me going, especially early on when I was really struggling and unsure, was positive comments and encouragement from my friends in Oxford and on social media.  And sometimes I was happy with how things went; here are a digital watercolor and a digital oil also from the first week in Oxford:
 <center>
 <img src="../../../images/ipad_paintings/oxford_fountain.jpg" alt="Oxford fountain painting">
 <img src="../../../images/ipad_paintings/coffee_scale.jpg" alt="Coffee scale painting">
 </center>
 
-I think this neuroticism is normal in any creative activity. I know so many people who say "I'm bad at art" and give up even before they've begun. Unless you're doing something very practiced and functional like certain kinds of professional illustration, making art is something new every time—at the very least, new to you—and it is normally full of uncertainty. Part of the practice of art is to learn to recognize, acknowledge, and set aside the anxiety of uncertainty. Embrace the uncertainty, and embrace the potential for "failure." I made a lot of drawings that I think suck, and I'm ok with that. (I mostly don't share them.) As Ed Catmull says, "it's only a failure if you don't learn from it."
+I think this neuroticism is normal in any creative activity. I know so many people who say "I'm bad at art" and give up even before they've begun. Unless you're doing something very practiced and functional like certain kinds of professional illustration, making art is something new every time—at the very least, new to you—and it is normally full of uncertainty. Part of the practice of art is to learn to recognize, acknowledge, and set aside the anxiety of uncertainty. Embrace the uncertainty, and embrace the potential for "failure." (The same is true in research.) I made a lot of drawings that I think suck, and I'm ok with that. (I mostly don't share them.) As Ed Catmull says, "it's only a failure if you don't learn from it."
 
 <center>
 <img src="../../../images/ipad_paintings/mr_rogers.jpg" alt="Mr. Rogers meme">
