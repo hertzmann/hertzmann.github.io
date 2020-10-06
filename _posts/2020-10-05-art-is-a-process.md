@@ -44,7 +44,7 @@ which I found unsatisfying, I was trying to draw so much detail that was too dif
 </center>
 which was not what I'd intended at all; but I was pleased with it. 
 
-A few days later, I visited a new-to-me cafe, and decided to try digital pastels out while looking at the centerpiece. Partway through I felt like it was too fuzzy and so I decided to add outlines again, ending up with this:
+A few days later, I visited a new cafe, and decided to try digital pastels out while looking at some flowers on the table. Partway through, I thought the drawing was too messy, and so I decided to add outlines again, ending up with this:
 <center>
 <img src="../../../images/ipad_paintings/bouquet.jpg" alt="Flower painting">
 </center>
