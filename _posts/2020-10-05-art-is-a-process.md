@@ -13,7 +13,7 @@ In July 2019, I got a new iPad and Apple Pencil, and experimented with some draw
 <center>
 <img src="../../../images/ipad_paintings/pilea.jpg" alt="Pilea painting">
 </center>
-and I was hooked.  Since then, I spent much of my time drawing and painting on the iPad, and I learned so much. 
+and I was hooked.  In the following nine months, I spent much of my time drawing and painting on the iPad, and I learned so much. 
 
 This is the first of what I intend to be a series of blog posts about these experiences.
 Some of these observations are things I'd wish I'd known when I first studied painting and drawing in college. But I also intend to describe (in a future post) how some of these observations could potentially inform the design of artistic algorithms and AI, as well as psychology models of creativity.
