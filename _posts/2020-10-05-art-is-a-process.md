@@ -107,7 +107,7 @@ The thing that kept me going, especially early on when I was really struggling a
 
 I think this neuroticism is normal in any creative activity. I know so many people who say "I'm bad at art" and give up even before they've begun. Unless you're doing something very practiced and functional like certain kinds of professional illustration, making art is something new every time—at the very least, new to you—and it is normally full of uncertainty. Part of the practice of art is to learn to recognize, acknowledge, and set aside the anxiety of uncertainty. Embrace the uncertainty, and embrace the potential for "failure."  I made a lot of drawings that I think suck, and I'm ok with that. No one else has to see them, after all. As Ed Catmull says, "it's only a failure if you don't learn from it."
 
-<i>[The next post in this series is here](/2020/10/11/the-goal-of-painting.html)</i>
+<i>[The next post in this series is here](/2020/10/12/the-goal-of-painting.html)</i>
 
 <br>
 
