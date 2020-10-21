@@ -1,6 +1,6 @@
 ---
 layout: page
-summary: Sometimes computer vision reviewers focus too much on scores.
+summary: Sometimes computer vision reviewers focus too much on scores, especially for image synthesis papers.
 author:  AaronHertzmann
 ---
 
