@@ -1,3 +1,10 @@
+---
+layout: page
+summary: Sometimes computer vision reviewers focus too much on scores.
+author:  AaronHertzmann
+---
+
+
 # Quantitative Evaluation Isn't Everything
 
 *"Who are you going to believe, the numerical scores or your own eyes?" — [The Marx Brothers, sort of](https://www.youtube.com/watch?v=cHxGUe1cjzM).*
