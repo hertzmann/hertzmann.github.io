@@ -41,7 +41,7 @@ None of these are new observations. Here are some papers I recommend that discus
 
 A general rule of thumb I've heard from computer vision researchers is that a dataset loses its usefulness one people are getting very good scores on it, say, 95% accuracy. At that point, the dataset is "saturated" and further improvement on it doesn't mean anything.
 
-More broadly, the way that measurement-based incentive structures can fail society is a broader topic, e.g., this is a major theme of the TV show The Wire.
+More broadly, the way that measurement-based incentive structures can fail society is a broader topic, e.g., this is a major theme of the TV show The Wire; see also [Goodheart's Law](https://www.nature.com/news/watch-out-for-cheats-in-citation-game-1.20246).
 
 
 Image Synthesis and Graphics Papers
