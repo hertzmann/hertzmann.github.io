@@ -53,9 +53,9 @@ Unfortunately, the expectations of user evaluation grew at SIGGRAPH. So-called "
 
 Worse, sometimes asking for "user studies" is a crutch for reviewers to avoid making a hard decision. Instead of saying "we don't believe this method is worth publishing here" they say "maybe a user study would convince us" when it almost certainly would not: this feedback is harmful, since it can falsely raise authors' hopes.
 
-And, many "user studies" in the graphics and vision literature are so poorly conducted that they are barely useful at all.  Certainly, computer vision authors are not trained in running rigorous psychology studies, and there are many ways to bias studies results if you're not careful. [See my NPAR 2010 paper (Section 3) for more discussion of this.](http://www.dgp.toronto.edu/~hertzman/ScienceOfArt/)
+And, many "user studies" in the graphics and vision literature are so poorly conducted that they are barely useful at all.  Certainly, computer vision authors are not trained in running rigorous psychology studies, and there are many ways to bias studies results if you're not careful. 
 
-(For discussion of related topics on image synthesis in computer vision, you may be interested in [my CVPR 2020 workshop talk](https://www.youtube.com/watch?v=wCRJBy_LPVY).)
+(For broader discussion of image synthesis in computer vision, you may be interested in [my CVPR 2020 workshop talk](https://www.youtube.com/watch?v=wCRJBy_LPVY).)
 
 Two recent examples
 ---
