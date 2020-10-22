@@ -10,7 +10,7 @@ author:  AaronHertzmann
 *"Who are you going to believe, the numerical scores or your own eyes?" — [The Marx Brothers, sort of](https://www.youtube.com/watch?v=cHxGUe1cjzM).*
 
 
-Computer vision paper reviewers generally expect that paper submissions will have quantitative evaluations, typically, a table of numbers showing that the proposed method outperforms the state-of-the-art on some dataset. **I think that computer vision reviewers are overly obsessed with quantitative evaluation in a way that hurts sometimes hurts the field.** 
+Computer vision paper reviewers generally expect that paper submissions will have quantitative evaluations, typically, a table of numbers showing that the proposed method outperforms the state-of-the-art on some dataset. **I think that computer vision reviewers are overly obsessed with quantitative evaluation in a way that can hurt the field.** 
 
 Why We Perform Quantitative Evaluation
 ---
