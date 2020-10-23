@@ -1,3 +1,11 @@
+---
+layout: page
+summary: Reflections on recent experience with digital painting and drawing
+author:  AaronHertzmann
+image: /images/ipad_paintings/coffee_table.jpg
+---
+
+
 # Things I Learned from Painting, Part 3: Planning and Strategy
 
 In computer algorithms for image stylization, we tend to think of an image's "style" and its "content" as being independent, and we can apply any style to any image.  In my own experience with painting however, I functionnd that the style was a function of the scene I was trying to depict.
@@ -103,10 +111,14 @@ or painting wet-into-wet, mixing digital paint on the canvas:
 Introspection is Difficult
 ---
 
-I make a lot of conscious decisions when making these paintings. Yet, looking back, there are so many choices that I can't quite explain. Just as [I can't predict how a painting will turn out], I can't tell you how I made a lot of decisions along the way.
+I make a lot of conscious decisions when making these paintings. Yet, looking back, there are so many choices that I can't explain. Just as [I can't predict how a painting will turn out](/2020/10/05/art-is-a-process.html), I can't tell you how I made a lot of decisions along the way.
 
+I spent a lot of time thinking about what my thought process was
 I some cases, I look back at a brushstroke I drew that I liked, and I wonder how I chose that stroke. Other times I look at strokes I drew that don't quite look right, and I keep refining them.  Why did some "work" and some didn't? Or maybe they don't look as good as I think at the time, and I won't like them later. Why did I decide to sketch these outlines and not those? All of these decisions and judgements seem ineffable.
 
-I spent a lot of time thinking about what my thought process was, and these blog posts are attempts to organize and communicate those thoughts. But most of the paintings I'm sharing so far were done a year ago, so my memory is hazy. Moreover, there is a lot of evidence that human judgements of our past decision-making can be unreliable. So it is difficult to explain anything with confidence.
 
-**In non-photorealistic rendering research,** many researchers start trying to develop algorithms by talking to artists or by reading art books. They soon become frustrated: artists have lots of useful things to say about how they work, but these explanations don't translate into actionable advice. In general, I find that artists' explanations for their decisions are like sports interviews: they reflect how people think, but they don't explain it.
+, and these blog posts are attempts to organize and communicate those thoughts. 
+
+Moreover, there is a lot of evidence that human judgements of our past decision-making can be unreliable. So it is difficult to explain anything with confidence.
+
+**In non-photorealistic rendering research,** many researchers start trying to develop algorithms by talking to artists or by reading art books. They soon become frustrated: artists have lots of useful things to say about how they work, but these explanations don't translate into actionable advice. In general, I find that artists' explanations for their decisions are like sports interviews: they might reflect how people think, but they don't explain it.

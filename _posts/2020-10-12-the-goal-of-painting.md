@@ -121,3 +121,4 @@ And, in the second, I was thinking of the hyperreal perfection of "photorealisti
 
 If I'd been able to stop at these spots and draw, the results would have looked different. Like the other choices mentioned in my previous post, choosing to draw from a photo is one more choice that leads to different styles, different outcomes, not better or worse than the alternatives.
 
+*[The next post in this series is here](/2020/10/23/planning-and-strategy.html).*
