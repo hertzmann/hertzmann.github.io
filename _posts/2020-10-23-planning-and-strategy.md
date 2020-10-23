@@ -8,7 +8,7 @@ image: /images/ipad_paintings/coffee_table.jpg
 
 # Things I Learned from Painting, Part 3: Planning and Strategy
 
-In computer algorithms for image stylization, we tend to think of an image's "style" and its "content" as being independent, and we can apply any style to any image.  In my own experience with painting however, I found that the style was a function of the scene I was trying to depict.
+In computer algorithms for image stylization, we tend to think of an image's "style" and its "content" as being independent, and we can apply any style to any image.  In my own experience with painting, however, I found that the style was a function of the scene I was trying to depict.
 
 [As described previously, the choices I made early on in a painting could completely change the final outcome.](/art-is-a-process.html)  This post describes some more of those choices in detail, how they depended on the scene, and how they affected the final painting style.   
 
