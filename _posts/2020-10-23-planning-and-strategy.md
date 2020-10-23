@@ -8,7 +8,7 @@ image: /images/ipad_paintings/coffee_table.jpg
 
 # Things I Learned from Painting, Part 3: Planning and Strategy
 
-In computer algorithms for image stylization, we tend to think of an image's "style" and its "content" as being independent, and we can apply any style to any image.  In my own experience with painting however, I functionnd that the style was a function of the scene I was trying to depict.
+In computer algorithms for image stylization, we tend to think of an image's "style" and its "content" as being independent, and we can apply any style to any image.  In my own experience with painting however, I found that the style was a function of the scene I was trying to depict.
 
 [As described previously, the choices I made early on in a painting could completely change the final outcome.](/art-is-a-process.html)  This post describes some more of those choices in detail, how they depended on the scene, and how they affected the final painting style.   
 
@@ -18,7 +18,7 @@ In computer algorithms for image stylization, we tend to think of an image's "st
 Picking a subject
 ----
 
-The first choice is what to draw in the first place. During my sabbatical, I got in the mode of looking for things to draw.
+The first choice is what to draw in the first place. During my sabbatical in Fall 2019, I got in the mode of looking for things to draw.
 
 If you've ever enjoyed photography for its own sake, or even just looked for nice pictures to take on your vacation, then you've had a similar experience: paying attention to the things you see, evaluating them as possible pictures, considering different framings and image compositions, adjusting image filters or exposure, shutter, and lens settings. It's a habit that changes how you see the world around you, and how you explore.
 
@@ -57,9 +57,9 @@ Your browser does not support the video tag.
 
 In this case I first blocked out colors, and then painted wet-into-wet to adjust and refine many of the lighting and colors. This example was also one of the first times I experimented with transparency and layering for glassware.
 
-Each of these different styles of planning produced different styles of painting. Planning improved the overall composition while removing some of the spontaneity of the drawing, and taking time away from working on details.
+Each of these different styles of planning produced different styles of painting. Planning improved the overall composition while removing some of the spontaneity of the drawing, and taking time away from working on details.  So I would plan based on my goals for the painting.
 
-As I progressed, many of my drawings ended up having a hybrid of these strategies, such as in this painting from just after my Sabbatical, which, from looking at the timelapse, jumps around between sketching outlines, blocking out shapes in solid color, and painting in details:
+As I progressed, I ended up with hybrid strategies. When I watch this timelapse of a painting from just after my Sabbatical, I see that I jumped around, in a sort-of tug-of-war between different goals, of being eager to draw details while trying to form a plan first. It looks like I first wanted to have rough background colors in place, then I got distracted trying to capture the nuances of the clouds, then I went back to planning by sketching an outline of the buildings, then I blocked out colors, and so on:
 <center>
 <video width="640" height="480" controls>
   <source src="../../../images/ipad_timelapse/14th.mp4" type="video/mp4">
@@ -70,8 +70,8 @@ Your browser does not support the video tag.
 Strategies
 ---
 
-I came to see the challenge of depicting a scene as one of choosing a *strategy*. I'm simply not capable of producing a photorealistic reproduction of what I'm seeing, even if I wanted to.
-For example, a tree presents a big challenge because one cannot draw every leaf, and even drawing clumps of leaves at blobs seems to miss something. Likewise, clouds have rich, subtle, painterly shapes that slowly change before your eyes, and it's hard to know what to draw. In this case, I chose to paint clumps of leaves in silhouette, "dabbing" the virtual brush:
+I came to see the challenge of depicting a scene as one of choosing a *strategy*. For example, clouds have rich, subtle, painterly shapes with enormous amounts of fine detail. Plus, their shapes transform continuously as they move in the wind. It's hard to know what to draw.
+Likewise, tree presents a big challenge because one cannot draw every leaf, every variations of shading and every branch. For these tress, I tried painting clumps of leaves in silhouette, "dabbing" the virtual brush:
 
 
 <center>
@@ -85,7 +85,8 @@ For example, a tree presents a big challenge because one cannot draw every leaf,
 
 
 Drawing glassware was also a big challenge: they have complex sets of reflections, layering, and transparency. I experimented with a bunch of different strategies for dealing with this, including using drawing layers and different types of brushes.
-Here's a more complex example from a month after Oxford, as I progressed far past the beer glass above. there is a separate specular layer on the glossy surface of the table, drawn with a solid, flat brush, and I used the eraser tool on this layer to create shadows in the reflection layer:
+
+Here's an example from a month or so after sabbatical, showing some progress from the beer glass above. There is a separate specular layer on the glossy surface of the table, drawn with a solid, flat brush, and I used the eraser tool on this layer to create shadows in the reflection layer:
 
 <center>
 <video width="639" height="562" controls>
@@ -113,12 +114,11 @@ Introspection is Difficult
 
 I make a lot of conscious decisions when making these paintings. Yet, looking back, there are so many choices that I can't explain. Just as [I can't predict how a painting will turn out](/2020/10/05/art-is-a-process.html), I can't tell you how I made a lot of decisions along the way.
 
-I spent a lot of time thinking about what my thought process was
-I some cases, I look back at a brushstroke I drew that I liked, and I wonder how I chose that stroke. Other times I look at strokes I drew that don't quite look right, and I keep refining them.  Why did some "work" and some didn't? Or maybe they don't look as good as I think at the time, and I won't like them later. Why did I decide to sketch these outlines and not those? All of these decisions and judgements seem ineffable.
+I spend a lot of time thinking about what my thought process was
+I some cases, I look back at a brushstroke I drew that I liked, and I wonder how I chose that stroke. Other times I look at strokes I drew that don't quite look right, and I keep refining them.  Why did some "work" and some didn't? Or maybe they don't look as good as I think at the time, and I won't like them later. Why did I decide to sketch these outlines and not those? All of these decisions and judgements seem ineffable. Moreover, there is a lot of evidence that human judgements of our past decision-making can be unreliable. So it is difficult to explain anything with confidence.
 
+Additionally, the paintings on this page were done over a year ago, and so I don't remember many specifics of the decisions here.
 
-, and these blog posts are attempts to organize and communicate those thoughts. 
+**In non-photorealistic rendering research,** many researchers start trying to develop algorithms by talking to artists or by reading art books. It's something I've heard over and over: "Our plan was to ask artists how they work, and then turn those into algorithms." They quickly become frustrated: artists have lots of useful things to say, but these explanations don't translate into actionable advice. In general, I find that artists' explanations for their decisions are like sports interviews: they might reflect how people think, but they don't explain it.
 
-Moreover, there is a lot of evidence that human judgements of our past decision-making can be unreliable. So it is difficult to explain anything with confidence.
-
-**In non-photorealistic rendering research,** many researchers start trying to develop algorithms by talking to artists or by reading art books. They soon become frustrated: artists have lots of useful things to say about how they work, but these explanations don't translate into actionable advice. In general, I find that artists' explanations for their decisions are like sports interviews: they might reflect how people think, but they don't explain it.
+I the observations in these blog posts could inform better artistic algorithms. But, like any other sort of human decision-making, no description of artistic experience will directly translate into algorithms. 
