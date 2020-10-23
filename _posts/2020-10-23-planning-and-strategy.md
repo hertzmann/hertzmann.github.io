@@ -61,7 +61,7 @@ Each of these different styles of planning produced different styles of painting
 
 As I progressed, I ended up with hybrid strategies. At any moment, Painting different subtasks all seem to deman attention: planning the drawing, adjusting the composition, painting and refining details, stepping back and seeing how things are going.
 
-For example, when I watch this timelapse of a painting from just after my Sabbatical, I see myself jumping around. It looks like I first wanted to have rough background colors in place, then I got distracted trying to capture the nuances of the clouds, then I went back to planning by sketching an outline of the buildings, then I blocked out colors, and so on:
+For example, when I watch this timelapse of a painting from just after my Sabbatical, I see myself jumping around. It looks like I first wanted to have rough background colors in place, then I got distracted trying to capture the nuances of the clouds, then I went back to planning (sketching the building outline), then I blocked out colors within the buildings, then I refined some details, and so on.
 <center>
 <video width="640" height="480" controls>
   <source src="../../../images/ipad_timelapse/14th.mp4" type="video/mp4">
