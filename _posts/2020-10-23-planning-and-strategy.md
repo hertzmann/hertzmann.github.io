@@ -85,13 +85,14 @@ Here's a more complex example from a month after Oxford, as I progressed far pas
 Your browser does not support the video tag.
 </video></center>
 
-I spent a lot of time practicing shading and lighting, and refining my strategies for painting light, often by painting wet-into-wet with digital oil paint:
+I spent a lot of time practicing shading and lighting, and refining my strategies for painting light, often by painting multiple passes: 
 <center>
 <video width="640" height="480" controls>
   <source src="../../../images/ipad_timelapse/coffee_table.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video></center>
 
+or painting wet-into-wet, mixing digital paint on the canvas:
 
 <center>
 <img src="../../../images/ipad_paintings/chairs.jpg" alt="Chairs painting">
