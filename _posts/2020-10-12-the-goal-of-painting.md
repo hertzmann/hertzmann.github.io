@@ -7,7 +7,7 @@ image: /images/ipad_paintings/cidre.jpg
 
 # Things I Learned from Painting, Part 2: The Goal
 
-*This is the second part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*
+*This is the second part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  The images on this page were drawn between 
 
 When starting to draw or paint a picture, I had to have some goals. My high-level goals were easy: to learn things and enjoy myself. But an individual painting requires some kind of more concrete goal at the outset.  What is this picture about? What am I trying to do here?  I didn't have anyone to give me goals. I had no teacher, no mentor, no job or school requirements to give me direction. 
 
@@ -122,3 +122,5 @@ And, in the second, I was thinking of the hyperreal perfection of "photorealisti
 If I'd been able to stop at these spots and draw, the results would have looked different. Like the other choices mentioned in my previous post, choosing to draw from a photo is one more choice that leads to different styles, different outcomes, not better or worse than the alternatives.
 
 *[The next post in this series is here](/2020/10/23/planning-and-strategy.html).*
+
+*The images on this page were drawn in August and September 2019.* 

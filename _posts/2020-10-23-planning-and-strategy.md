@@ -12,7 +12,7 @@ In computer algorithms for image stylization, we tend to think of an image's "st
 
 [As described previously, the choices I made early on in a painting could completely change the final outcome.](/art-is-a-process.html)  This post describes some more of those choices in detail, how they depended on the scene, and how they affected the final painting style.   
 
-*This is the third part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*
+*This is the third part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  
 
 
 Picking a subject
@@ -124,3 +124,5 @@ Additionally, the paintings on this page were done over a year ago, and so I don
 **In non-photorealistic rendering research,** many researchers start trying to develop algorithms by talking to artists or by reading art books. It's something I've heard over and over: "Our plan was to ask artists how they work, and then turn those into algorithms." They quickly become frustrated: artists have lots of useful things to say, but these explanations don't translate into actionable advice. In general, I find that artists' explanations for their decisions are like sports interviews: they might reflect how people think, but they don't explain it.
 
 I the observations in these blog posts could inform better artistic algorithms. But, like any other sort of human decision-making, no description of artistic experience will directly translate into algorithms. 
+
+*The images on this page were drawn in September, October, and November 2019.*
