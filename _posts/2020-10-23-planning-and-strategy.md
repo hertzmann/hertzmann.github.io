@@ -88,7 +88,7 @@ Your browser does not support the video tag.
 I spent a lot of time practicing shading and lighting, and refining my strategies for painting light, often by painting wet-into-wet with digital oil paint:
 <center>
 <video width="640" height="480" controls>
-  <source src="../../../images/ipad_timelapse/coffe_table.mp4" type="video/mp4">
+  <source src="../../../images/ipad_timelapse/coffee_table.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video></center>
 
@@ -96,7 +96,7 @@ Your browser does not support the video tag.
 <center>
 <img src="../../../images/ipad_paintings/chairs.jpg" alt="Chairs painting">
 </center>
-
+<br>
 
 
 Introspection is Difficult
