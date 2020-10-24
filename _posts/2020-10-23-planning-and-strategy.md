@@ -55,7 +55,7 @@ I also experimented with a third way to plan, by blocking out solid shapes, and 
 Your browser does not support the video tag.
 </video></center>
 
-In this case I first blocked out colors, and then painted wet-into-wet to adjust and refine many of the lighting and colors. This example was also one of the first times I experimented with transparency and layering for glassware.
+In this case I first blocked out colors, and then painted wet-into-wet to adjust and refine many of the lighting and colors.  This process can be thought of as [working coarse-to-fine](https://www.mrl.nyu.edu/publications/painterly98/). This example was also one of the first times I experimented with transparency and layering for glassware.
 
 Each of these different styles of planning produced different styles of painting. Planning improved the overall composition while removing some of the spontaneity of the drawing, and taking time away from working on details.  So I would plan based on my goals for the painting.
 
