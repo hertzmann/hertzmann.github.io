@@ -20,11 +20,11 @@ Picking a subject
 
 The first choice is what to draw in the first place. During my sabbatical in Fall 2019, I got in the mode of looking for things to draw.
 
-If you've ever enjoyed photography for its own sake, or even just looked for nice pictures to take on your vacation, then you've had a similar experience: paying attention to the things you see, evaluating them as possible pictures, considering different framings and image compositions, adjusting image filters or exposure, shutter, and lens settings. It's a habit that changes how you see the world around you, and how you explore.
+If you've ever enjoyed photography for its own sake, then you've had the similar experience of paying attention to the things you see, evaluating them as possible pictures, considering different framings and image compositions, adjusting image filters or exposure, shutter, and lens settings. It's a habit that changes how you see the world around you, and how you explore.
 
 Picking what to draw or paint was quite similar. That sculpture I saw at the museum would be fun to try to draw; that street scene is lovely but too complex for my skills, and also an awkward or unsafe place to be standing around for 30 minutes.
 
-Just like a photographer builds their intutions about what kinds of things would be interesting to photograph, as I practiced and learned my intuitions about what kinds of things would be interesting to draw grew as well.
+Just like a photographer builds their intutions about what kinds of things would be interesting to photograph, practing painting helped developed my intuitions about what kinds of things would be interesting to draw as well.  As I got better, what I thought would be interesting to draw changed, e.g., some things were too difficult at first, and too simple later on.
 
 
 Planning
