@@ -38,9 +38,9 @@ When I started drawing during my sabbatical, I would often draw straightahead wi
 Your browser does not support the video tag.
 </video></center>
 I'm eager and want to get going with drawing the fun stuff.
-But sometimes the composition didn't come out quite I wanted that way.
 
-So, for more complex compositions, I would plan the overall composition first, by sketching an outline:
+
+But sometimes the composition didn't come out quite I wanted that way. So, for more complex compositions, I would plan the overall composition first, by sketching an outline:
 <center>
 <video width="640" height="480"  controls>
   <source src="../../../images/ipad_timelapse/oxford_chairs.mp4" type="video/mp4">
