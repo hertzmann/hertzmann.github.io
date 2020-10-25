@@ -31,7 +31,7 @@ Twice, I've made a conscious decision to invest as much time as necessary for a 
 <img src="../../../images/ipad_paintings/gormley-final.jpg" alt="Gormley final painting">
 <BR>
 <br>
-<img src="../../../images/ipad_paintings/gormley-detail.jpg" width="640" height="603" alt="Gormley painting detail">
+<img src="../../../images/ipad_paintings/gormley-detail.jpg"  alt="Gormley painting detail">
 </center>
 <br>
 [Here's the other picture to which I devoted many hours.](https://www.instagram.com/p/B6bLjqdJlz1/). These don't feel like they're worth the effort.
