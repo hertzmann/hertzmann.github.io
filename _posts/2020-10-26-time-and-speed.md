@@ -20,7 +20,7 @@ By far the biggest determinant of my style was time pressure, internal and exter
 In one extreme case, I was taken with this piano player in a restaurant; since I didn't have my iPad with me, I quickly installed a drawing app on my phone and sketched this my finger:
 
 <center>
-<img src="../../../images/ipad_paintings/piano-player.jpg" width="495" height="640" alt="Piano player sketch">
+<img src="../../../images/ipad_paintings/piano-player.jpg"  alt="Piano player sketch">
 </center>
 <br>
 which is one of my favorite drawings.  Maybe the beer helped a little too.
