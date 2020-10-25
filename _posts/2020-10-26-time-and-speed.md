@@ -7,7 +7,7 @@ image: /images/ipad_paintings/piano-player.jpg
 
 # Things I Learned from Painting, Part 4: Time and Speed
 
-We sometimes have a prejudice toward more polished, more technically-difficult, more labor-intensive artworks as being better. But working fast doesn't just make you more efficient: with practice, it can bring life to your work.
+We sometimes have a prejudice toward more polished, more technically-difficult, more labor-intensive artworks as being better. But working fast doesn't just make you more efficient: with practice, it can bring life to your work.  Some of my favorite pictures were the fastest.
 
 *This is the fourth part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  
 
@@ -48,14 +48,15 @@ Here's an example of fast sketching without planning; the shapes are a bit lopsi
   <source src="../../../images/ipad_timelapse/milstead.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video></center>
-
+<br>
+<br>
 
 "First Thought, Best Thought"
 ---
 
 I've always been attracted to making loose, expressive drawings, feeling that a skillful drawing made quickly can be more engaging than one that is labored and deliberate.  On the other hand, in our society I think there is a general belief that a more technically skillful and impressive image is a better one, a prejudice I sometimes share. Of course, both have value.  But I think that expressive drawing is underappreciated skill.
 
-This notion that quick works can be more expressive isn't just about efficiency or impatience. In [the liner notes to Miles Davis' famous album *Kind of Blue*](https://www.sfjazz.org/onthecorner/bill-evans-kind-blue-liner-notes/), the pianist Bill Evans describes how nearly all of the album was recorded with almost no rehearsl, and only minimal instructions given to the players. He makes an analogy to Zen Buddhist sumi-e painting, where loose brush strokes are drawn in a single, deliberate process by a painting master, without corrections or modifications possible.  The Buddhist teacher Chogyam Trungpa used the phrase "First Thought, Best Thought" to describe how an initial moment of observation can be aware and unclouded; an initial expression can be fresh and original.  This in turn influenced Beat poets like Allen Ginsberg, who, in the same era as "Kind of Blue," also strove for unfiltered spontaneous expression.
+This notion that quick works can be more expressive isn't just about efficiency or impatience. In [the liner notes to Miles Davis' famous album *Kind of Blue*](https://www.sfjazz.org/onthecorner/bill-evans-kind-blue-liner-notes/), the pianist Bill Evans describes how nearly all of the album was recorded with almost no rehearsl, and only minimal instructions given to the players. He makes an analogy to Zen Buddhist sumi-e painting, where loose brush strokes are drawn in a single, deliberate process by a painting master, without corrections or modifications possible.  The Buddhist teacher Chogyam Trungpa used the phrase "First Thought, Best Thought" to describe how an initial moment of observation can be aware and unclouded; an initial expression can be fresh and original.  This in turn influenced Beat poets like Allen Ginsberg, who, in the same era as "Kind of Blue," also strove for spontaneous expression.
 
 In each of these cases, an experienced artist can draw something very quickly that is quite expressive, and the expressivity and style comes from both the skill and experience of the artist, together with the constraint for speed, no corrections, no erasures, no second-guessing.
 
