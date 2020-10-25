@@ -68,6 +68,13 @@ For example, when I watch this timelapse of a painting from just after my sabbat
 Your browser does not support the video tag.
 </video></center>
 
+Here's another example of a more complex mix of strategies:
+<center>
+<video width="640" height="480"  controls>
+  <source src="../../../images/ipad_timelapse/teaset.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></center>
+
 
 Strategies
 ---
@@ -87,7 +94,6 @@ Likewise, tree presents a big challenge because one cannot draw every leaf, ever
 
 
 Drawing glassware was also a big challenge: they have complex sets of reflections, layering, and transparency. I experimented with a bunch of different strategies for dealing with this, including using drawing layers and different types of brushes.
-
 Here's an example from a month or so after sabbatical, showing some progress from the beer glass above. There is a separate specular layer on the glossy surface of the table, drawn with a solid, flat brush, and I used the eraser tool on this layer to create shadows in the reflection layer:
 
 <center>
@@ -124,5 +130,7 @@ Additionally, the paintings on this page were done over a year ago, and so I don
 **In non-photorealistic rendering research,** many researchers start trying to develop algorithms by talking to artists or by reading art books. It's something I've heard over and over: "Our plan was to ask artists how they work, and then turn those into algorithms." They quickly become frustrated: artists have lots of useful things to say, but these explanations don't translate into actionable advice. In general, I find that artists' explanations for their decisions are like sports interviews: they might reflect how people think, but they don't explain it.
 
 I the observations in these blog posts could inform better artistic algorithms. But, like any other sort of human decision-making, no description of artistic experience will directly translate into algorithms. 
+
+**_[The next post in this series is here](/2020/10/26/time-and-speed.html)_**
 
 *The images on this page were drawn in September, October, and November 2019.*

@@ -76,6 +76,6 @@ How to Judge Papers
 
 A good rule of thumb comes from Pierre-Simon Laplace, in his essay on Bayesian probability, paraphrased as ["Extraordinary claims require extraordinary evidence."](https://en.wikipedia.org/wiki/Sagan_standard) A complex and confusing method needs to show fantastic improvement in results, whereas an elegant and clear insight doesn't require as much evidence to demonstrate that it's worth publishing.  Sometimes a paper with superior scores should be rejected, for various possible reasons.
 
-Another rule of thumb I've heard is: an evaluation should be designed to answer a question. If you know the answer in advance, there's no point in performing the evaluation.  Quantitative evaluation is normally worthwhile because we can't really be sure if an idea that sounds good actually improves over previous methods.
+Another rule of thumb I've heard, from Maneesh Agrawala, is: an evaluation should be designed to answer a question. If you know the answer in advance, there's no point in performing the evaluation.  Quantitative evaluation is normally worthwhile because we can't really be sure if an idea that sounds good actually improves over previous methods.
 
 The reviewers, for their part, must use their brains, and not just check to see if there's a table of numbers.
