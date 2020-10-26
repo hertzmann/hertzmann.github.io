@@ -82,7 +82,7 @@ I've also found I can't repeat "success." [In my college painting program](/2020
 
 [Lynda Barry observes that](https://drawnandquarterly.com/making-comics) her untrained students' drawings have a particular liveliness.  As you gain experience, how do you keep what Zen Buddhists call ["beginner's mind"](https://en.wikipedia.org/wiki/Shoshin)?
 
-For me, the best way has been to continually attempt paintings at the edge of my skill, to try things that are too difficult. Interesting things happen when you try to do something you don't know how to do, or whether you're even capable of it.
+In retrospect, I've been continually attempt paintings at the edge of my skill, trying things that are just a bit too difficult. It seems that interesting things happen when you try to do something you don't know how to do, or whether you're even capable of it.
 
 "Your Shortcuts Become Your Style"
 ---
