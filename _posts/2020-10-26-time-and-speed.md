@@ -7,7 +7,7 @@ image: /images/ipad_paintings/piano-player.jpg
 
 # Things I Learned from Painting, Part 4: Time and Speed
 
-We sometimes have a prejudice toward more polished, more technically-difficult, more labor-intensive artworks as being better. But working fast doesn't just make you more efficient: with practice, it can bring life to your work.  Some of my favorite pictures were the fastest.
+We sometimes think that technically-impressive, labor-intensive artworks are better. But working fast doesn't just make you more efficient: with practice, it can bring life to your work.  Some of my favorite pictures were the fastest.
 
 *This is the fourth part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  
 
@@ -82,6 +82,7 @@ I've also found I can't repeat "success." [In my college painting program](/2020
 
 [Lynda Barry observes that](https://drawnandquarterly.com/making-comics) her untrained students' drawings have a particular liveliness.  As you gain experience, how do you keep what Zen Buddhists call ["beginner's mind"](https://en.wikipedia.org/wiki/Shoshin)?
 
+For me, the best way has been to continually attempt paintings at the edge of my skill, to try things that are too difficult. Interesting things happen when you try to do something you don't know how to do, or whether you're even capable of it.
 
 "Your Shortcuts Become Your Style"
 ---
