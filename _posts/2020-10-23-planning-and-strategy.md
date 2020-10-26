@@ -98,6 +98,7 @@ Likewise, tree presents a big challenge because one cannot draw every leaf, ever
 </figure>
 </center>
 
+How objects are grouped plays a big role in these strategies, e.g., grouping leaves together to be depicted as a unit.
 
 Drawing glassware was also a big challenge: they have complex sets of reflections, layering, and transparency. I experimented with a bunch of different strategies for dealing with this, including using drawing layers and different types of brushes.
 Here's an example from a month or so after sabbatical, showing some progress from the beer glass above. There is a separate specular layer on the glossy surface of the table, drawn with a solid, flat brush, and I used the eraser tool on this layer to create shadows in the reflection layer:
