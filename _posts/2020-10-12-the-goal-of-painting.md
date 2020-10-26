@@ -5,7 +5,7 @@ author:  AaronHertzmann
 image: /images/ipad_paintings/cidre.jpg
 ---
 
-# Things I Learned from Painting, Part 2: The Goal
+# Learning from Painting, Part 2: The Goal
 
 *This is the second part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  The images on this page were drawn between 
 

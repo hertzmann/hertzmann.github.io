@@ -5,7 +5,7 @@ author:  AaronHertzmann
 image: /images/ipad_paintings/piano-player.jpg
 ---
 
-# Things I Learned from Painting, Part 4: Time and Speed
+# Learning from Painting, Part 4: Time and Speed
 
 We sometimes think that technically-impressive, labor-intensive artworks are better. But working fast doesn't just make you more efficient: with practice, it can bring life to your work.  Some of my favorite pictures were the fastest.
 
