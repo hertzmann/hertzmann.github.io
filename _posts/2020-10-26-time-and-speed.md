@@ -71,9 +71,11 @@ Here's another sketch from my cellphone, of a centerpiece at a restaurant:
 Mistakes, Luck, Experience
 ---
 
-Of course, I'm describing are the times when it all seems to work out; lots of sketchy attempts don't look very good. There seems to be some luck involved. [Here's one I don't think of as being so successful,](https://www.instagram.com/p/B7EEJcSJn4z/) though I guess I liked it enough to share. [Here's a similar one that I liked much more](https://www.instagram.com/p/B7Tv0jNJlm3/). To quote Linus Pauling, the best way to have a good idea is to have lots of ideas.
+Of course, I'm describing the times when it all seems to work out; lots of sketchy attempts don't look very good. There seems to be some luck involved. [Here's one I don't think of as being so successful,](https://www.instagram.com/p/B7EEJcSJn4z/) though I guess I liked it enough to share. [Here's a similar one that I liked much more](https://www.instagram.com/p/B7Tv0jNJlm3/). To quote Linus Pauling, the best way to have a good idea is to have lots of ideas.
 
-When you work fast, you can make mistakes. And sometimes those mistakes become your favorite part of the picture, like the way [this plant accidentally went off the edges of the frame](https://www.instagram.com/p/B7lkjXip-g5/), or ,[in this recent drawing](https://www.instagram.com/p/CGgBf9bpcYl/) the unrealistic way the paint from the table mixes with the black window frame behind it. Practice and experience seems to make it easier to make good mistakes.  Maybe experience makes it easier to figure out which mistakes to keep.
+When you work fast, you can make mistakes. And sometimes those mistakes become your favorite part of the picture, like the way [this plant accidentally went off the edges of the frame](https://www.instagram.com/p/B7lkjXip-g5/), or ,[in this recent drawing](https://www.instagram.com/p/CGgBf9bpcYl/) the unrealistic way the paint from the table mixes with the black window frame behind it. The mistakes are part of what give a drawing "life," especially in contrast to machine-perfect drafting.
+
+Practice and experience seems to make it easier to make good mistakes.  Maybe experience makes it easier to figure out which mistakes to keep.
 
 Drawing with my finger on the phone—as with the piano player and centerpiece above—feels really clumsy, like trying to write a postcard with a floor mop. That clumsiness can be a virtue, for example, forcing me to work in a loose way that does more than less. 
 It's a good exercise, and something you can do [almost anywhere.](https://www.instagram.com/p/B786PUKp3Oh/) Very few of my phone drawings look good to me, though. 
