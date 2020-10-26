@@ -78,7 +78,7 @@ Your browser does not support the video tag.
 Grouping
 ---
 
-*A key element of these different plans is grouping:* which objects or surfaces will be combined together into single 2D shapes? This notion of visual clustering—which is so key to many classical approaches in computer vision and some in non-photorealistic rendering—determines a lot about visual style. Will an object be drawn with one stroke, in one color? Will it be broken into multiple strokes? Will it be drawn as a solid shape or a collection of little strokes? Will the highlight be separate strokes, or blended in?
+**A key element of these different plans is grouping:** which objects or surfaces will be combined together into single 2D shapes? This notion of visual clustering—which is so key to many classical approaches in computer vision and some in non-photorealistic rendering—determines a lot about visual style. Will an object be drawn with one stroke, in one color? Will it be broken into multiple strokes? Will it be drawn as a solid shape or a collection of little strokes? Will the highlight be separate strokes, or blended in?
 
 How an artist groups objects into coherent units plays a crucial role in the painting, determining the visual style, and the time and difficulty involved in making it.
 
