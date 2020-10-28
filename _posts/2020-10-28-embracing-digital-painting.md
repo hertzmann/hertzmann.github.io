@@ -64,7 +64,7 @@ Here's an example using layering both for overlap and for transparency:
 </center>
 The reflections on the window are separate layers, which would have been very very difficult without layers.  Moreover, note how there are sharp edges between the window bar, whereas other object boundaries (within single layers) are softer. The doormat is also on a separate layer from the floor underneath it, and apparently I didn't think to add a shadow to keep it from floating.
 
-Using layering changes the visual style because, with natural media, it would be hard to keep the boundaries so crisp, making the different regions blend into each other more. It also saves an enormous amount of time, which [can itself plays a bit role in style](/2020/10/26/time-and-speed.html).
+Using layering changes the visual style because, with natural media, it would be hard to keep the boundaries so crisp, making the different regions blend into each other more. It also saves an enormous amount of time, which [can itself plays a big role in style](/2020/10/26/time-and-speed.html).
 
 Here's a more subtle example where I used separate layers for the windows on the building:
 <center>
