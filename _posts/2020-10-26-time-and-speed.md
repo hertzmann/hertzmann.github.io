@@ -107,6 +107,7 @@ Learning to sketch quickly helped me block out and plan more detailed compositio
 Your browser does not support the video tag.
 </video></center>
 
+**_[The next post in this series is here](/2020/10/28/embracing-digital-painting.html)_**
 
 
 *The paintings on this page were made between August and December 2019, and March 2020.*

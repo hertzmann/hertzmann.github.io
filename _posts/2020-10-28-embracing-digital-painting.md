@@ -20,6 +20,8 @@ This led me to initially avoid certain features of digital painting, especially 
 
 Perhaps what is most interesting is the ways the specific affordances of digital tools change the style of paintings.  But it is also worth contemplating what is lost with digital tools.
 
+*This is the fifth part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  
+
 
 Some features of digital painting
 ===
