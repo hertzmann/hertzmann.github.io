@@ -34,7 +34,7 @@ Twice, I've made a conscious decision to invest as much time as necessary for a 
 <img src="../../../images/ipad_paintings/gormley-detail.jpg"  alt="Gormley painting detail">
 </center>
 <br>
-[Here's the other picture to which I devoted many hours.](https://www.instagram.com/p/B6bLjqdJlz1/). These don't feel like they're worth the effort.
+[Here's the other picture to which I devoted many hours.](https://www.instagram.com/p/B6bLjqdJlz1/) These don't feel like they're worth the effort.
 
 The effect of time constraints is more than just determining how much detail can be drawn. Every single choice in the process seems loaded with opportunity cost. If I decide to draw straightahead without an initial sketch, I might get results faster, but I might be unsatisfied with the composition. So I can sketch the composition, but this takes time away from drawing the details. Besides, I am almost always excited about drawing the details and bored with the idea of sketching. I want to get to the fun stuff quickly.  Time pressure also affects how likely I am to give up on the drawing if I'm not optimistic it's going to turn out well.
 
