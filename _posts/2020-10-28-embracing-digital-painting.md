@@ -26,7 +26,9 @@ Perhaps what is most interesting is the ways the specific affordances of digital
 Some features of digital painting
 ===
 
-**1. Total control:** 
+Here are some of the features of digital painting, and the ways that using these features changes the style of the work.
+
+**1. Total control.** 
 The most obvious benefits of digital painting is that you have total control over the pixels. You can wipe oil paint clean with your eraser, which would be impossible in real life. Or, you can cleanly erase charcoal, without worrying about the eraser tearing through the paper.  With undo and duplicate files and layers, you can explore all sorts of options.   No need to mix paints to get a color, just use a color picker.
 
 Deciding when to stop working on a physical painting was a major problem for me; often I would keep working and realize I was just making it worse, and wish I could undo the last few things I'd added. Now I easily can.
@@ -48,7 +50,7 @@ Here's a "happy little accident" that came from extending the canvas:
 After extending the canvas and the plant, I liked the way the plant  extended off the background, and chose not to extend the background.
 
 <BR>
-**2. Layers:**
+**2. Layers.**
 The ability to separate scenes into semitransparent overlapping layers feels transformative. You can draw a tree, then draw the scene behind the tree, then edit the tree some more, then draw some more scenery behind the tree, in ways that would be extraordinarily difficult with real media. 
 
 Here's an example using layering both for overlap and for transparency:
@@ -100,7 +102,7 @@ These would have been *very* difficult without layering.
 
 <BR>
 
-**3. Flexibility with media:**
+**3. Flexibility with media.**
 With physical media, you're committed to using just one of a few kinds of media, say,  a big set of oil paints and paraphernalia. With the iPad, I might choose a different media for each drawing. I can decide on site which media to use. Sometimes I accidentally select the wrong one, and am surprised how much I like the media I didn't intend. Imagine meaning to paint with oils in real life, and accidentally using charcoal instead.
 
 Even better, I can mix media on the canvas. For a long time, I stuck to one medium for each drawing. Then I found cases where I really wanted to mix media. Solid, semitransparent brushes were really helpful for reflections. I started out this painting with oil paint, but found it very helpful to draw these gauzy curtains with light pencil strokes:
@@ -121,7 +123,7 @@ For this drawing looking out an airplane window, I really wanted solid brushes f
 
 <BR>
 
-**4. New media:**
+**4. New media.**
 I enjoy painting with solid color brushes that can't exist in the physical world; they can have very distinctive looks:
 
 <center>
@@ -133,7 +135,7 @@ I enjoy painting with solid color brushes that can't exist in the physical world
 
 <br>
 
-**5. Paint almost anywhere:**
+**5. Paint almost anywhere.**
 Finally, being able to paint almost anywhere is really liberating; I started carrying my iPad almost everywhere, often stopping to sketch or draw when something caught my eye. Like photographers say, "the best camera is the one you have with you." It is essentially impossible to paint with oil paints while looking out the window of an airplane or while sitting at a bar, waiting for friends to arrive.
 
 
