@@ -145,7 +145,7 @@ New brushes create new styles that don't really exist with physical media.
 
 
 
-What's lost: Arbitrary Constraints
+What's lost: arbitrary constraints
 ---
 
 A significant advantage of real media is that there is no "undo." Being forced to work through your mistakes helps you get better [at working spontaneously](/2020/10/26/time-and-speed.html), at making bold, confident strokes, and simply at getting things right the first time.
