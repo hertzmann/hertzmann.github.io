@@ -125,27 +125,10 @@ For this drawing looking out an airplane window, I really wanted solid brushes f
 I enjoy painting with solid color brushes that can't exist in the physical world; they can have very distinctive looks:
 
 <center>
-<figure>
 <img src="../../../images/ipad_paintings/pilea_flat.jpg" alt="Pilea painting">
-</figure>
-</center>
-
-<center>
-<figure>
 <img src="../../../images/ipad_paintings/espresso_verve.jpg" alt="Espresso painting">
-</figure>
-</center>
-
-<center>
-<figure>
 <img src="../../../images/ipad_paintings/inflight.jpg" alt="Inflight painting">
-</figure>
-</center>
-
-<center>
-<figure>
 <img src="../../../images/ipad_paintings/twilight.jpg" alt="Twilight painting">
-</figure>
 </center>
 
 <br>
