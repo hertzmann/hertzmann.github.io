@@ -29,11 +29,11 @@ Some features of digital painting
 Here are some of the features of digital painting, and the ways that using these features changes the style of the work.
 
 **1. Total control.** 
-The most obvious benefits of digital painting is that you have total control over the pixels. You can wipe oil paint clean with your eraser, which would be impossible in real life. Or, you can cleanly erase charcoal, without worrying about the eraser tearing through the paper.  With undo and duplicate files and layers, you can explore all sorts of options.   No need to mix paints to get a color, just use a color picker.
+The most obvious benefit of digital painting is that you have total control over the pixels. You can wipe oil paint clean with your eraser, which would be impossible in real life. You can cleanly erase charcoal without worrying about the eraser tearing through the paper.  No need to mix paints to get a color, just use a color picker. With undo and the ability to duplicate filers and lyaers, you can explore all sorts of options.  The only limitation is how much time you have.
 
-Deciding when to stop working on a physical painting was a major problem for me; often I would keep working and realize I was just making it worse, and wish I could undo the last few things I'd added. Now I easily can.
+Deciding when to stop working on a physical painting was a big problem for me; often I would keep working and realize I was just making it worse, and wish I could undo the last few things I'd added. Now I easily can.
 
-With physical media, one practices hard to get the composition to fit the shape of the paper or canvas. Digital painting going off the edge of the page? No problem, just make the canvas bigger!
+With physical media, one practices hard to get the composition to fit the shape of the paper or canvas. Objects going off the edge of the page? No problem, just make the canvas bigger!
 
 Here's a "happy little accident" that came from extending the canvas:
 
@@ -62,9 +62,9 @@ Here's an example using layering both for overlap and for transparency:
 </I></figcaption>
 </figure>
 </center>
-The reflections on the window are separate layers, which would have been very very difficult without layers.  Moreover, note how there are sharp edges between the window bar, whereas other object boundaries (within single layers) are softer. The doormat is also on a separate layer from the floor underneath it, and apparently I didn't think to add a shadow to keep it from floating.
+The reflections on the window are separate layers, as are the rainwater reflections on the patio; they would have been very very difficult without layers.  Moreover, note how there are sharp edges between the window bar, whereas other object boundaries within a single layer are usually softer. The doormat is also on a separate layer from the floor underneath it (and apparently I didn't think to add a shadow to keep it from floating).
 
-Using layering changes the visual style because, with natural media, it would be hard to keep the boundaries so crisp, making the different regions blend into each other more. It also saves an enormous amount of time, which [can itself plays a big role in style](/2020/10/26/time-and-speed.html).
+Layering changes the visual style because, with natural media, it would be hard to keep the boundaries so crisp. It also saves an enormous amount of time, which [itself plays a big role in style](/2020/10/26/time-and-speed.html).
 
 Here's a more subtle example where I used separate layers for the windows on the building:
 <center>
@@ -76,7 +76,7 @@ Here's a more subtle example where I used separate layers for the windows on the
 </figure>
 </center>
 <br>
-which made it easier to adjust the shading on the building even after the windows were drawn, but, as a result, they have crisper edges against the building. Of course, it's possible to soften these edges with more effort.
+which made it easier to adjust the shading on the building even after the windows were drawn, but, as a result, they have crisper edges against the building. It is possible to soften these edges with more time and effort.
 
 
 Two more examples of using layering for reflections and transparency:
