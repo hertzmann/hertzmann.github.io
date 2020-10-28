@@ -102,10 +102,15 @@ These would have been *very* difficult without layering.
 
 <BR>
 
-**3. Flexibility with media.**
-With physical media, you're committed to using just one of a few kinds of media. Buying and carrying around a big set of oil paints, canvases, and brushes is not simple. You get paint on your clothes and surroundings, and it doesn't come off easily. 
+**3. Paint almost anywhere.**
+Being able to paint almost anywhere is really liberating; I started carrying my iPad almost everywhere, often stopping to sketch or draw when something caught my eye. In constrast, buying and carrying around a big set of oil paints, canvases, and brushes is not simple. You get paint on your clothes and surroundings, and it doesn't come off easily. 
 
-With the iPad, I might choose a different media for each drawing, and I can decide in the spur of the moment. Maybe a pencil drawing warmup, then an oil, then a quick pastel illustration. Sometimes I accidentally select the wrong one, and am surprised how much I like the media I didn't intend. Imagine meaning to paint with oils in real life, and accidentally using charcoal instead.
+Like photographers say, "the best camera is the one you have with you." It is essentially impossible to paint with oil paints while looking out the window of an airplane or while sitting at a bar, waiting for friends to arrive.
+
+<BR>
+
+**4. Flexibility with media.**
+Likewise, the iPad makes it easy to choose a different media for each drawing. I can decide in the spur of the moment. Maybe a pencil drawing warmup, then an oil, then a quick pastel illustration. Sometimes I accidentally select the wrong one, and am surprised how much I like the media I didn't intend. Imagine meaning to paint with oils in real life, and accidentally using charcoal instead.
 
 Even better, I can mix media on the canvas. For a long time, I stuck to one medium for each drawing. Then I found cases where I really wanted to mix media. Solid, semitransparent brushes were really helpful for reflections. I started out this painting with oil paint, but found it very helpful to draw these gauzy curtains with light pencil strokes:
 
@@ -125,7 +130,7 @@ For this drawing looking out an airplane window, I really wanted solid brushes f
 
 <BR>
 
-**4. New media.**
+**5. New media.**
 I enjoy painting with solid color brushes that can't exist in the physical world; they can have very distinctive looks:
 
 <center>
@@ -135,10 +140,8 @@ I enjoy painting with solid color brushes that can't exist in the physical world
 <img src="../../../images/ipad_paintings/twilight.jpg" alt="Twilight painting">
 </center>
 
-<br>
+New brushes create new styles that don't really exist with physical media.
 
-**5. Paint almost anywhere.**
-Finally, being able to paint almost anywhere is really liberating; I started carrying my iPad almost everywhere, often stopping to sketch or draw when something caught my eye. Like photographers say, "the best camera is the one you have with you." It is essentially impossible to paint with oil paints while looking out the window of an airplane or while sitting at a bar, waiting for friends to arrive.
 
 
 
