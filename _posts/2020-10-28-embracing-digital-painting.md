@@ -135,7 +135,6 @@ I enjoy painting with solid color brushes that can't exist in the physical world
 
 <center>
 <img src="../../../images/ipad_paintings/pilea_flat.jpg" alt="Pilea painting">
-<img src="../../../images/ipad_paintings/espresso_verve.jpg" alt="Espresso painting">
 <img src="../../../images/ipad_paintings/inflight.jpg" alt="Inflight painting">
 <img src="../../../images/ipad_paintings/twilight.jpg" alt="Twilight painting">
 </center>
