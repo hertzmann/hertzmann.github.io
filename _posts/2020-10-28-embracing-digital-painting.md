@@ -112,7 +112,9 @@ Like photographers say, "the best camera is the one you have with you." It is es
 **4. Flexibility with media.**
 Likewise, the iPad makes it easy to choose a different media for each drawing. I can decide in the spur of the moment. Maybe a pencil drawing warmup, then an oil, then a quick pastel illustration. Sometimes I accidentally select the wrong one, and am surprised how much I like the media I didn't intend. Imagine meaning to paint with oils in real life, and accidentally using charcoal instead.
 
-Even better, I can mix media on the canvas. For a long time, I stuck to one medium for each drawing. Then I found cases where I really wanted to mix media. Solid, semitransparent brushes were really helpful for reflections. I started out this painting with oil paint, but found it very helpful to draw these gauzy curtains with light pencil strokes:
+Even better, I can mix media on the canvas. For a long time, I stuck to one medium for each drawing. Then it just came naturally, when I found myself wanting different media for different objects. Solid, semitransparent brushes were really helpful for reflections. 
+
+I started out this painting with oil paint, but found it very helpful to draw these gauzy curtains with light pencil strokes:
 
 <center>
 <figure>
@@ -124,7 +126,7 @@ For this drawing looking out an airplane window, I really wanted solid brushes f
 
 <center>
 <figure>
-<img src="../../../images/ipad_paintings/frankfurt.jpg" alt="Frankfurt painting">
+<img src="../../../images/ipad_paintings/fra.jpg" alt="Frankfurt painting">
 </figure>
 </center>
 
@@ -135,7 +137,13 @@ I enjoy painting with solid color brushes that can't exist in the physical world
 
 <center>
 <img src="../../../images/ipad_paintings/pilea_flat.jpg" alt="Pilea painting">
+</center>
+
+<center>
 <img src="../../../images/ipad_paintings/inflight.jpg" alt="Inflight painting">
+</center>
+
+<center>
 <img src="../../../images/ipad_paintings/twilight.jpg" alt="Twilight painting">
 </center>
 
