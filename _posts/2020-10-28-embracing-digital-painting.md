@@ -136,15 +136,22 @@ For this drawing looking out an airplane window, I really wanted solid brushes f
 I enjoy painting with solid color brushes that can't exist in the physical world; they can have very distinctive looks:
 
 <center>
+<figure>
 <img src="../../../images/ipad_paintings/pilea_flat.jpg" alt="Pilea painting">
+</figure>
 </center>
 
 <center>
+	<figure>
 <img src="../../../images/ipad_paintings/inflight.jpg" alt="Inflight painting">
+</figure>
 </center>
 
+
 <center>
-<img src="../../../images/ipad_paintings/twilight.jpg" alt="Twilight painting">
+	<figure>
+<img src="../../../images/ipad_paintings/hibiki.jpg" alt="Hibiki painting">
+</figure>
 </center>
 
 New brushes create new styles that don't really exist with physical media.
@@ -175,3 +182,4 @@ Perhaps what I miss the most about real paint is the physicality: the manipulati
 During the pandemic, I pulled out my old watercolors and did a bit of painting with them. I really enjoyed using them. It was like visiting an old friend. Then I put them away and went back to using my iPad.
 
 
+*The paintings on this page were made between November 2019 and October 2020.*
