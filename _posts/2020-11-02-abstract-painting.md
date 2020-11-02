@@ -35,7 +35,7 @@ Normally, I only use about four different brushes in my drawing app which has li
 
 Are they "good" "art"? Self-indulgent doodles? They didn't get many "likes" on social media, but I still kinda liked them.
 
-One theme of exploring abstraction is that I am even more uncertain about these images than I am with realistic images: how much do I like these images, or whether they're any good, or whether other people might like them. Of course, one would like to say that one is not influenced by the response on social media, in which case one would be shamelessly lying.
+With abstract images, I am consistently much more uncertain about them than I am with realistic images: how much do I like these images, or whether they're any good, or whether other people might like them. Of course, one would like to say that one is not influenced other peoples' responses on social media, in which case one would be shamelessly lying.
 
 **[Working fast also helped](/2020/10/26/time-and-speed.html)** dip my toes in the waters of abstraction. On two occasions, I drew a series of sketches while looking out  airplane windows. The scenery changed so quickly that I could only get a glimpse of an image before it changed:
 
