@@ -85,7 +85,7 @@ but usually  I didn't like the images, they just felt like pointless doodles:
 Indeterminacy
 ---
 
-Why and how she would we appreciate abstract images, scientifically?  A few theories over the years have intrigued me. [Aesthetics must be somehow be a consequence of the biological perceptual systems, which in turn are evolved to help us survive in the real world](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/), and this should apply to abstract imagery too. But formulating a concrete theory is obviously difficult.
+Why and how would we appreciate abstract images, scientifically?  A few theories over the years have intrigued me. [Aesthetics must be somehow be a consequence of the biological perceptual systems, which in turn are evolved to help us survive in the real world](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/), and this should apply to abstract imagery too. But formulating a concrete theory is obviously difficult.
 
 One abstract artist I've always liked is Richard Diebenkorn, in part because you can easily see how his abstract paintings are related to his landscapes. This suggested to me a possibly way to understand abstraction aesthetics, as containing "features" of real images, such as a beach color palette. [One interesting paper argues that Jackson Pollock paintings are appealing because they reproduce a certain kind of fractal natural image statistics](https://blogs.uoregon.edu/richardtaylor/2016/02/08/fractal-analysis-of-jackson-pollocks-poured-paintings/).  This is a very intriguing idea, even if the particular statistics used in that paper don't seem very meaningful. Still, both of these ideas seem far too simplistic to be useful.
 
