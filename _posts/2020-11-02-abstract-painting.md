@@ -37,7 +37,7 @@ Are they "good" "art"? Self-indulgent doodles? They didn't get many "likes" on s
 
 With abstract images, I am consistently much more uncertain about them than I am with realistic images: how much do I like these images, or whether they're any good, or whether other people might like them. Of course, one would like to say that one is not influenced other peoples' responses on social media, in which case one would be shamelessly lying.
 
-**[Working fast also helped](/2020/10/26/time-and-speed.html)** dip my toes in the waters of abstraction. On two occasions, I drew a series of sketches while looking out  airplane windows. The scenery changed so quickly that I could only get a glimpse of an image before it changed:
+**[Working fast and loose was my main way to](/2020/10/26/time-and-speed.html)** dip my toes in the waters of abstraction. On two occasions, I drew a series of sketches while looking out  airplane windows. The scenery changed so quickly that I could only get a glimpse of an image before it changed:
 
 <center>
 <p>	<img src="../../../images/ipad_paintings/abstract/airplane_window1.jpg" alt="Airplane window sketch">
