@@ -2,7 +2,7 @@
 layout: page
 summary: Reflections on recent experience with digital painting and drawing
 author:  AaronHertzmann
-image: /images/ipad_paintings/abstract_yellow.jpg
+image: /images/ipad_paintings/abstract/abstract_yellow.jpg
 ---
 
 
