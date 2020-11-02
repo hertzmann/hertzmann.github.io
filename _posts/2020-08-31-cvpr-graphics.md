@@ -24,8 +24,8 @@ Here's a summary of the main points:
 	* My stereotype of typical computer vision researchers is that they aim to solve "the AI problem", and are focused on automation and quantiative evaluation.
 	* My stereotype of typical computer graphics researchers is that they aim to create tools that help create art, creative expression and visual communication. They value tools that provide user control and provide high visual quality.
 * **As a result, computer vision has some blind spots for graphics topics**
-	* There is an over-emphasis on quantitative evaluation, even when that evaluation isn't meaningful
-	* Visual qualities of the results is not sufficiently  valued or emphasized as a research goal
+	* [There is an over-emphasis on quantitative evaluation, even when that evaluation isn't meaningful](/2020/10/21/quantitative-evaluation.html)
+	* Visual qualities of the results are not sufficiently valued, or emphasized as a research goal
 	* Too much research focuses on variants of deep learning models without attempting to think about the actual visual phenomenon being modeled.
 * **It's exciting to see all this great progress, taking ideas from both fields**
 	* 	Many of the best image synthesis papers in vision conferences come (at least, in part) from authors with graphics backgrounds

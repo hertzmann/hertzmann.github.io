@@ -181,7 +181,7 @@ Perhaps what I miss the most about real paint is the physicality: the manipulati
 
 During the pandemic, I pulled out my old watercolors and did a bit of painting with them. I really enjoyed using them. It was like visiting an old friend. Then I put them away and went back to using my iPad.
 
-**_[The next post in this series is here](/2020/10/31/abstract-painting.html)_**
+**_[The next post in this series is here](/2020/11/02/abstract-painting.html)_**
 
 
 *The paintings on this page were made between November 2019 and October 2020.*
