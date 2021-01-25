@@ -137,8 +137,9 @@ But, most important, advancing this understanding advances art.  Historically, m
 		* [Shading and style](https://aaronhertzmann.com/2020/09/14/how-to-draw-pictures-style.html)
 	* [Where do people draw lines](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 	* [Why does line drawing work](https://arxiv.org/abs/2002.06260)
-	* Lots of things we don't know how to model, like partwise models, shape deformation and exaggeration. 
+	* Shape: exaggeration and deformation
 		* 3D caricature: Susan Brennan, Volker-Blanz
+		* Part-wise models, childrens' drawings, etc.
 
 3. **Neural networks and neuroscience**
 	* Some history of vision neuroscience and neural networks, AI. What is AI?
