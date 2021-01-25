@@ -77,7 +77,7 @@ Almost everything we see in the world has some sort of ambiguity.  Imagine looki
 Though we are rarely conscious of it, ambiguities like these play an enormous role in our perception. Moreover, this example shows how ambiguity can be emotionally loaded: depending on the context, and your experience, ambiguity can make you curious, eager to learn more and resolve the ambigiuty, or it can make you unsettled and afraid.
 
 Artists exploit and mine ambiguity. 
-All art exhibits some sort of ambiguity, even a *trompe l'oeil* that appears simultaneously to be a real object or just a painting of one. Moreover, ambiguity is, arguably, *the dominant yet unsung theme of modern and contemporary art;* learning to appreciate modern art requires cultivating an appreciation for ambiguity (as well as cultivating other kinds of literacy).
+All art exhibits some sort of ambiguity, even a *trompe l'oeil* appears simultaneously to be a real object or just a painting of one. Moreover, ambiguity is, arguably, *the dominant yet unsung theme of modern and contemporary art;* learning to appreciate modern art requires cultivating an appreciation for ambiguity (as well as cultivating other kinds of literacy).
 
 Chapter 4 explores how we can understand art through the twin lenses of ambiguity and uncertainty, and a principle of decisionmaking called Bayesian reasoning that originated in probaility theory, was developed in AI, and can explain many neuroscience phenomena. I believe this reasoning provides a useful way to think about and analyze art as well.
 
