@@ -95,11 +95,11 @@ The idea that, in the forseeable future, computers will be truly intelligent or 
 Ways to understand and appreciate art
 ===
 
-There are many ways to understand and appreciate art, including cultural, political, historical, psychological, and so on. None of what I'm writing here is meant to diminish the importance of these ways of understanding.  For example, culture, history, and politics are crucial to understanding art—perhaps they are the most important factors to art—I just don't have that much new to say about these things.  
+There are many ways to understand and appreciate art, including cultural, political, historical, psychological, and so on. None of what I'm writing here is meant to diminish the importance of these ways of understanding.  For example, culture, history, and politics are crucial to understanding art—perhaps they are the most important factors of all—I just don't have that much new to say about these things.  
 
 I do believe these ideas can be useful to different kinds of people. Some of the ideas here would have helped me immensely when I was first studying art. I have already made a case for how psychologists and neuroscientists attempting to understand art would benefit from these ideas.
 
-Even for the casual observer, I have always found that better understanding of art led to a better appreciation for it. For example, understanding the three-act structure of most filmmaking helps me understand and talk about movies better than before.  There are certain kinds of problems in filmmaking that may leave you vaguely feeling unsatisfied; understanding the three-act structure and character arc gives you a language for understanding and describing those flaws or appreciating them when done well.  
+But even if you're not involved in making or studying art, but only in enjoying and appreciating it, I think these insights can be useful. I have always found that better understanding of art led to a better appreciation for it. For example, understanding the three-act structure of most filmmaking helps me understand and talk about movies better than before.  There are certain kinds of problems in filmmaking that may leave you vaguely feeling unsatisfied; understanding the three-act structure and character arc gives you a language for understanding and describing those flaws or appreciating them when done well.  
 
 Likewise, the concept of visual indeterminacy has vastly helped with my appreciation for modern and contemporary art, and it has also helped me create abstract art.
 
