@@ -24,6 +24,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-octicons
+  - jekyll-redirect-from
 
 titles_from_headings:
   enabled:     true
@@ -44,3 +45,6 @@ url: https://aaronhertzmann.com
 title_image: "https://aaronhertzmann.com/images/wica/bradford_viewers.jpg"        # default Twitter card image when no other image provided
 
 timezone: America/San_Francisco
+
+whitelist:
+  - jekyll-redirect-from

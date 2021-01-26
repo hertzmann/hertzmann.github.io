@@ -4,6 +4,8 @@ title: "Understanding Visual Art as Computation: A Hypothetical Book Introductio
 summary: An outline/summary of my research around understanding art
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
+redirect_from:
+  - /2021/01/25/2021-01-25-book-intro.html
 ---
 
 # Understanding Visual Art as Computation: A Hypothetical Book Introduction
