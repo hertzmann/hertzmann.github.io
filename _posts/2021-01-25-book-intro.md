@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Understanding Visual Art as Computation: A Hypothetical Book Introduction
+title: "Understanding Visual Art as Computation: A Hypothetical Book Introduction"
 summary: An outline/summary of my research around understanding art
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
 ---
 
 # Understanding Visual Art as Computation: A Hypothetical Book Introduction
-
 
 *This blog post is an attempt to outline some of my main ideas and research around understanding visual art, in the form of a hypothetical introduction for a hypothetical book. This book would be written for a general audience (e.g., no equations, though with extensive references to the technical literature).  It's a cross between a book proposal and a "brain dump." Links to things already partly written now are in [the outline below](#outline).*
 
