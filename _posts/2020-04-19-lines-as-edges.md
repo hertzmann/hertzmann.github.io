@@ -8,6 +8,7 @@ image: /images/DoG.jpg
 
 # Why Edge Detection Doesn't Explain Line Drawing
 
+*Note: a revised and updated version of this post will soon be published in* Perception, *see [http://arxiv.org/abs/2101.09376](http://arxiv.org/abs/2101.09376).*
 
 Why do line drawings work? Why is it that we can immediately recognize objects in line drawings, even though they are not a phenomenon from our natural world. Numerous studies show that people who have never seen a line drawing before can understand a line drawing; line drawing is not something you have to learn to understand.  
 
