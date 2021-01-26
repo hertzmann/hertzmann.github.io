@@ -44,7 +44,7 @@ Although computing plays a central role in my explanations, this is not to say t
 Art is construction, not perception
 ===
 
-We often talk about artworks as if they let us "see through the artist's eyes."  This is a mistake: an artwork is a construction, where an artist has made choices to arrange paint or pencil strokes, or even made choices about where to aim their camera. Even though Gombrich's famous book _Art and Illusion_ made this main point in the 1960s, we still see people making this same mistake over and over again (to be fair, Gombrich was not a very clear writer). I have seen this mistake when people respond to my own artwork; this is a mistake made by those who explain Van Gogh's creativity as a product of visual hallucinations, and so on.
+We often talk about artworks as if they let us "see through the artist's eyes."  This is a mistake: an artwork is a construction, where an artist has made choices to arrange paint or pencil strokes, or even made choices about where to aim their camera. Even though Gombrich's famous book _Art and Illusion_ made this main point in the 1960s, we still see people making this same mistake over and over again. I have seen this mistake when people respond to my own artwork; this is a mistake made by those who explain Van Gogh's creativity as a product of visual hallucinations, and so on.
 
 Art is the product of choices made by the artist in order to achieve an experience in the viewer; it is not a recording of experience: this the theme of the first chapter.  While this is not a point that is specifically about computing, it is important to understand when understanding how artists work. And it's something that manifests again and again in our technology. 
 
