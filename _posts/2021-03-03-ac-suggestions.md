@@ -19,7 +19,7 @@ I don't have one single set of suggestions; there's no one right way to do thing
 One benefit of being on the committee (especially when it's in-person) is seeing how much hard work the other ACs and the chairs put into it, and how seriously they take the process. People really care about making it work and doing a good job. I've heard lots of people who just finished their first AC meeting say that it made them feel much better about the review process than before. No process is perfect, but people do a good job.
 
 **Update: I don't mean to imply that SIGGRAPH is doing better than the vision conferences; that's [very obviously not true](/2020/05/08/siggraph-as-conference.html).** But I think there are things each conference can learn from the other ones.
-More on this topic in the final section below.
+More on this topic in the final section below. [Some further discussion on this post is here.](https://www.facebook.com/aaron.hertzmann/posts/10159244322970802)
 
 <center>
 <figure>
