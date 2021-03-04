@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Suggestions for Computer Vision Review Processes
-summary: Some ideas to improve the CVPR/ICCV/ECCV AC-ing.
+summary: Some ideas to improve the CVPR/ICCV/ECCV AC-ing
 author:  AaronHertzmann
 image: /images/cvpr-abe.jpg
 ---
