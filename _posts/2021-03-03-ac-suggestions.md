@@ -146,10 +146,13 @@ Submission and Review Systems
 
 At the scale of CVPR's thousands and thousands of submissions, having submission systems with **good user interfaces and workflows** is crucial. Building effective interfaces and workflows is very very hard. But creating good conference management systems has generally been an afterthought; no one wants to work on them, or to listen to users' needs, or to iterate and improve the systems.  Building new information systems is beyond what papers chairs can reasonably handle, and I suggest that **the Computer Vision Foundation (CVF) invest in building new infrastructure outside of any specific conference.** This new system should be made with the users in mind, and it should be reconfigurable and modifiable as processes change and new needs are identified.
 
+
+Many workflows in CMT require many unnecessary steps, and data visualization is frequently quite difficult. The problem isn't that CMT is badly-built (I have no idea), it's that these systems need continual update based on user needs. Any HCI or UX expert will tell you that you can't build an interface based just on a list of user requirements, you need to iterate with actual users. And, since conference processes keep changing every year, you need the ability to change the system to go with it. Perhaps even professional staff to support the chairs in updating the system. Instead, CVPR has been using a mishmash of CMT and Google Docs to manage processes, plus who knows whatever bespoke coding the conference chairs are doing.  (I haven't used OpenReview as an AC, so I can't comment on it).
+
 SIGGRAPH, after going through many different systems, each with their own problems, has recently settled on a submission review system built by Linklings, and, personally, I think the Linklings system is by far the best conference review system I've used.
 
 Paper matching
-----
+=====
 
 I suspect that all vision ACs can agree with the following statement: **The single thing that would most improve the reviewing process is to improve on TPMS**. The [Toronto Paper Matching System (TPMS)](http://torontopapermatching.org/webapp/profileBrowser/about_us/) was an innovative and forward-looking system created by Laurent Charlin and Rich Zemel in 2010. It's been widely used since then, long after Laurent finished his PhD, and I don't get the impression that it's been substantially updated since. While [the published paper](http://www.cs.toronto.edu/~lcharlin/papers/tpms.pdf) doesn't describe the precise details of the deployed system, TPMS defines the affinity between a submission and a reviewer as the dot product between the word histogram in the submission and the word histogram across all of the reviewer's papers (plus some additional topic modeling and a mechanism for handling the cold start problem). In other words, if your published paper has the exact same distribution of words as the submission (no more and no fewer), you're more likely to get assigned that paper for review.  There are some model parameters, and it seems like CVPR 2021 might still be using parameters trained on data from NIPS 2010.
 
@@ -164,10 +167,6 @@ There's a big problem in training a TPMS successor. Where do you get supervised 
 Note that modeling this data would require which review suggestions were shown to ACs, e.g., an AC is more likely to assign a reviewer when they have a high TPMS score, indendent of all other factors. In this way, modeling this data bears resemblance to [implicit feedback models used in training search engines](https://dl.acm.org/doi/abs/10.1145/775047.775067).
 
 
-The rest of the system
-----
-
-Improving the other information systems would also make a big difference. Many workflows in CMT require many unnecessary steps, and data visualization is frequently quite difficult. The problem isn't that CMT is badly-built (I have no idea), it's that these systems need continual update based on user needs. Any HCI or UX expert will tell you that you can't build an interface based just on a list of user requirements, you need to iterate with actual users. And, since conference processes keep changing every year, you need the ability to change the system to go with it. Perhaps even professional staff to support the chairs in updating the system. Instead, CVPR has been using a mishmash of CMT and Google Docs to manage processes, plus who knows whatever bespoke coding the conference chairs are doing.  (I haven't used OpenReview as an AC, so I can't comment on it).
 
 
 Meta-Point: On the Need for Change and Cross-Fertilization
