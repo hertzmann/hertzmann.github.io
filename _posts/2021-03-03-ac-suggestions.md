@@ -14,7 +14,7 @@ One benefit of being on the committee (especially when it's in-person) is seeing
 <center>
 <figure>
   <img src="../../../images/cvpr-abe.jpg" alt="Old Man Yells At CVPR graphic"/>
-  <figcaption align="center"><i><small>Mash-up by Rich Radke.</small></i></figcaption>
+  <figcaption align="center"><i><small>Mash-up by Rich Radke</small></i></figcaption>
 </figure>
 </center>
 
