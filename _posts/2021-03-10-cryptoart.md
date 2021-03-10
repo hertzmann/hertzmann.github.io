@@ -85,8 +85,7 @@ I believe that **[art is fundamentally a social activity](https://cacm.acm.org/m
 Furthermore, **it is absolutely wonderful that artists are making money on this**, especially when they have been otherwise been struggling with [the exclusiveness of the art world](/2020/06/08/wica.html) or the pandemic. More art, more artists!
 
 <center>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Crypto art changed my life. It has given me a financial freedom in a way not possible before as a full time artist. As a mother, that has had a huge impact on my family. But it has also expanded my art practice. This article is incredibly one-sided, which is a real shame.</p>&mdash; miss al simpson (@missalsimpson) <a href="https://twitter.com/missalsimpson/status/1369798571747389443?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</center>
+<blockquote class="twitter-tweet" data-conversation="none"><p lang="en" dir="ltr">Crypto art changed my life. It has given me a financial freedom in a way not possible before as a full time artist. As a mother, that has had a huge impact on my family. But it has also expanded my art practice. This article is incredibly one-sided, which is a real shame.</p>&mdash; miss al simpson (@missalsimpson) <a href="https://twitter.com/missalsimpson/status/1369798571747389443?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></center>
 
 Where Does Value Come From?
 ====
