@@ -3,6 +3,8 @@ layout: page
 title: Thoughts on CryptoArt
 summary: Weighing pros and cons of CryptoArt
 author:  AaronHertzmann
+image: /images/hen.jpg
+
 ---
 
 
@@ -15,7 +17,7 @@ I've been following CryptoArt on Twitter roughly since [Jason Bailey first poste
 <center>
 <figure>
   <img src="../../../images/hen.jpg" alt="CryptoArt grid"/>
-  <figcaption align="center"><i><small>CryptoArt works <a href="https://twitter.com/quasimondo/status/1369699614887206912">scraped by Mario Klingemann</a></small></i></figcaption>
+  <figcaption align="center"><i>CryptoArt works <a href="https://twitter.com/quasimondo/status/1369699614887206912">scraped by Mario Klingemann</a></i></figcaption>
 </figure>
 </center>
 
