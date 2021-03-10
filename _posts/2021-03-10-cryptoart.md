@@ -84,20 +84,28 @@ I believe that **[art is fundamentally a social activity](https://cacm.acm.org/m
 
 Furthermore, **it is absolutely wonderful that artists are making money on this**, especially when they have been otherwise been struggling with [the exclusiveness of the art world](/2020/06/08/wica.html) or the pandemic. More art, more artists!
 
+<center>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Crypto art changed my life. It has given me a financial freedom in a way not possible before as a full time artist. As a mother, that has had a huge impact on my family. But it has also expanded my art practice. This article is incredibly one-sided, which is a real shame.</p>&mdash; miss al simpson (@missalsimpson) <a href="https://twitter.com/missalsimpson/status/1369798571747389443?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
+
 Where Does Value Come From?
 ====
 
 Here's a common take:
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m selling all of the natural numbers starting from zero. I&#39;ll track who owns what by writing your name next to the number in a little notebook. I won&#39;t physically give you the numbers, but everyone will know you&#39;re the owner. If it goes well I&#39;ll consider selling reals next.</p>&mdash; D ␣ a ␣ n ␣ P ␣ i ␣ p ␣ o ␣ n ␣ i (@sigfpe) <a href="https://twitter.com/sigfpe/status/1369503225112522755?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">A CRYPTOCURRENCY PLATFORM WHERE YOU CAN BUY AND SELL BRIDGES. THE BRIDGE STAYS EXACTLY WHERE IT IS AND EVERYONE CAN STILL USE IT, BUT YOU HAVE A BLOCKCHAIN-SIGNED CERTIFICATE OF OWNERSHIP STATING THAT YOU ARE THE TRUE OWNER OF THAT BRIDGE AND ALL ITS METADATA</p>&mdash; Heather ⬢ Flowers (@HTHRFLWRS) <a href="https://twitter.com/HTHRFLWRS/status/1364347838411333633?ref_src=twsrc%5Etfw">February 23, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 Sure you can sell NFTs for bridges or numbers. But this misses the point.
 
 In CryptoArt, there is an implicit contract that what you're buying is unique. The artist makes only one of these tokens, and the **one right you get when you buy CryptoArt is to say that you own that work, and no one else can**.  (Note though this is not a legal right nor is there any enforcement other than social mores). Hence, value comes from the artist creating scarcity.
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Unwritten commandments of <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw">#NFT</a> - proposal 1:<br><br>You shall not mint the same work twice even if it is on different chains.</p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/1367161922555170816?ref_src=twsrc%5Etfw">March 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 And this is the same thing that's happened in the art world ever since photographers had to figure out how to sell their work. In the world of photography and printmaking, a limited edition print is considered more valuable than an unlimited edition; the fewer prints in the edition, the more valuable they are.  Artists create value in their mechanical reproductions through artificial scarcity, and CryptoArt is an extension of that.
 
@@ -127,7 +135,9 @@ If you're buying it for some future reward, well, then that's risky. Will people
 **It's a fad.**
 There have been lots of fads before—mood rings, pet rocks, Rubik's cubes, beanie babies—things that were all the rage, flying off the shelves one year, and then filling up landfills the next. It's easy to get caught up in the fervor one minute and then wonder what you were thinking in the next. Even if CryptoArt lasts, maybe the particular artist or platform you're buying won't survive.
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just minted a new beanie baby.<a href="https://t.co/Z9lJ2kpd9A">https://t.co/Z9lJ2kpd9A</a> <a href="https://t.co/AoPOQnsYMk">pic.twitter.com/AoPOQnsYMk</a></p>&mdash; Danielle (@djbaskin) <a href="https://twitter.com/djbaskin/status/1367001151711768576?ref_src=twsrc%5Etfw">March 3, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 **It's a bubble.** 
 Why are prices so high? The exponentially rising prices, the massive hype, the absolute confusion about long-term value,
@@ -138,7 +148,9 @@ It seems likely that the bubble is driven, at least in part, by bad actors and p
 **Nothing is zero-trust.**
 The argument for blockchain is that things are completely decentralized and there is no government regulation, in theory; you can have real transactions without trust. The problem with blockchain is that things are completely decentralized and there is no regulation. It's trivially easy to "steal" an artist's work and sell it on one of these marketplaces. The marketplaces end up being, to some extent, the arbiters of trust and value, which would seem to defeat the point of blockchain.  The story is more complex than this, since the artist themselves can also validate their work through whichever social media channel you trust at the moment. What other attacks and points of failure are there in a world where anyone can write to the blockchain without regulation or enforcement?
 
+<center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since in this early stage there is no good mechanism yet to make sure that the person who minted an <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw">#NFT</a> on <a href="https://twitter.com/hicetnunc2000?ref_src=twsrc%5Etfw">@hicetnunc2000</a> is actually who they claim they are, let me try it this way:<br><br>The official <a href="https://twitter.com/quasimondo?ref_src=twsrc%5Etfw">@quasimondo</a> wallet address on <a href="https://twitter.com/tezos?ref_src=twsrc%5Etfw">@tezos</a> is tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp</p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/1366710725931110401?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</center>
 
 **Environmental costs.**
 [Also, as mentioned above, proof-of-work systems entail  catastrophic environmental costs and you should not buy in these blockchains.](https://joanielemercier.com/the-problem-of-cryptoart/)
