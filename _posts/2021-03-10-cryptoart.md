@@ -9,7 +9,7 @@ image: /images/hen.jpg
 
 
 
-# Why To Buy or Not Buy CryptoArt
+# To Buy or Not To Buy CryptoArt
 
 
 I've been following CryptoArt on Twitter roughly since [Jason Bailey first posted about it a few years ago](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), and I've been very skeptical of it. Now that [it's blowing up](https://www.nytimes.com/2021/02/24/arts/design/christies-beeple-auction-blockchain-art.html), and a lot of artists that I respect are active in it, I feel like it's worth taking seriously.  I don't imagine that I would ever purchase CryptoArt myself, but I would like to at least understand it.  Here are some ways to think about it in the context of conventional art.
