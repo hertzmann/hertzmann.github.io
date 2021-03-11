@@ -10,19 +10,18 @@ image: /images/vadim.jpg
 
 # The Life-Cycle of AI Art
 
-The contours fascinating new process for the emergence of AI art techniques are becoming visible. I've alluded to this process in [previous papers](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), but now that we're seeing the process repeat, it seems possible to make more concrete observations about it.
+A fascinating new cycle for AI art techniques is emerging. I've alluded to this process in [previous papers](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), but now that we're seeing this cycle repeat over and over, it seems possible to describe it more concretely.
 
-Because of Twitter and GitHub repos, we have a sort of worldwide collaboration of artists and technologists happening, at an extraordinary pace. While there is a long history of artists and technologists working together, and of individuals who innovate in both art and science simultaneously, this distributed international collaboration is—dare I say—_completely unprecedented_.
+Because of Twitter and GitHub repos, we have a sort of worldwide collaboration of artists and technologists happening, at an extraordinary pace. While there is a long history of artists and technologists collaboratting, and of individuals who innovate in both art and science simultaneously, this distributed international collaboration is—dare I say—_completely unprecedented_.
 
-This collaboration is an extension of the revolution that has happened in machine learning and computer vision research.
-We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.
-This use of arXiv and GitHub and a widespread open sharing approach to research has also enabled artists to easily poke about with these tools as well.  There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
-
-Some of the most significant AI algorithms where this has happened are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, SPADE, and now DALL-E and CLIP.
+Some of the most significant AI algorithms that have fed this cycle are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, SPADE, and now DALL-E and CLIP.
 
 The phases in this cycle seem to be:
 
-1. **Computer science researchers release image generation code** on GitHub, usually accompanying a technical paper posted to arXiv or published at a conference.  Sometimes these papers say little or nothing explicit about making art; they are focused on technical and algorithmic problems, even though the paper figures are often inspiring or delightful.
+1. **Computer science researchers release image generation code** on GitHub, usually accompanying a technical paper posted to arXiv or published at a conference.  Sometimes these papers say little or nothing explicit about making art; they are focused on technical and algorithmic problems, even though the paper figures are often inspiring or delightful. 
+
+   We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.  There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
+
 
 2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.
 
