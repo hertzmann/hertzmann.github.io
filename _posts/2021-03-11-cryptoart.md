@@ -12,7 +12,10 @@ image: /images/hen.jpg
 # To Buy or Not To Buy CryptoArt
 
 
-I've been following CryptoArt on Twitter roughly since [Jason Bailey first posted about it a few years ago](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), and I've been very skeptical of it. Now that [it's blowing up](https://www.nytimes.com/2021/02/24/arts/design/christies-beeple-auction-blockchain-art.html), and a lot of artists that I respect are active in it, I feel like it's worth taking seriously.  I don't imagine that I would ever purchase CryptoArt myself, but I would like to at least understand it.  Here are some ways to think about it in the context of conventional art.
+I've been following CryptoArt on Twitter roughly since [Jason Bailey first posted about it a few years ago](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), and I've been very skeptical of it. Now that [it's blowing up](https://www.nytimes.com/2021/02/24/arts/design/christies-beeple-auction-blockchain-art.html), and a lot of artists that I respect are active in it, I feel like it's worth taking seriously.  **I don't imagine that I would ever purchase CryptoArt myself, but I would like to at least understand it: why would anyone buy CryptoArt?**  
+Here are some ways to think about it in the context of conventional art.
+
+**Note: certain types of blockchain enormously accelerate catastrophic climate change [[1](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053), [2](https://joanielemercier.com/the-problem-of-cryptoart/)], and so you should avoid these kinds of blockchain entirely.** 
 
 <center>
 <figure>
@@ -28,9 +31,6 @@ What is it?
 Here's a brief, nontechnical introduction: when you "buy" a piece of CryptoArt, a digital record is created that says that you "own" the artwork.  This record, called an NFT, is stored in a shared global database.   Ownership confers no particular rights, other than being able to say that you own the work. You don't own the copyright, you don't have a physical print, and anyone can look at the images on the web. There is merely a record in a public database saying that you own the work—really, it says you own the work at a specific URL.  This database is decentralized, using cryptography and blockchain, so that no single company or individual controls the database of ownership. As long as that specific blockchain survives in the world, anyone can read or access it, and no one can erase what is already written there.  Most of the interaction happens via online marketplaces, though theoretically anyone proficient in programming can read or write to the database.
 
 Your digital "wallet" determines your digital identity.  If you buy from an artist, you somehow have to establish digital identity outside of this system; and, in fact, [artists' work are being sold as CryptoArt without the artists' knowledge or permission](https://twitter.com/artnome/status/1369244126877728771?s=20).  (In more technical terms, a "wallet" comprises solely a private key and a public key for cryptographic signing—your "wallet" is basically just two very large numbers that are unique to you.)
-
-It is also worth knowing that certain types of blockchain enormously accelerate catastrophic climate change [[1](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053), [2](https://joanielemercier.com/the-problem-of-cryptoart/)], and so you should avoid these kinds of blockchain entirely.
-
 
 _(Thanks to John Collomosse for patiently answering a lot of my technical questions about CryptoArt.)_
 
@@ -140,10 +140,11 @@ There have been lots of fads before—mood rings, pet rocks, Rubik's cubes, bean
 Why are prices so high? The exponentially rising prices, the massive hype, the absolute confusion about long-term value,
 [some sales that seem truly worthless](https://decrypt.co/60587/taco-bell-rides-nft-hype-train-with-collectible-digital-tacos): all these things indicate a bubble.  It just seems inconceivable to me that frequent six-figure prices reflect true value, in the sense of these works having higher resale value in the long-term.  Like in the traditional art world, there are a lot more works being sold than could ever possibly be considered significant in a generation's time.
 
-It seems likely that the bubble is driven, at least in part, by bad actors and price speculators. It is almost as if it was made for this purpose  What are two big tools for money laundering and tax evasion? High end art sales and bitcoin. Combining them seems like the perfect tool for illicit behavior, combining the anonymity of bitcoin with the respectability and the veneer of value of the art world.  How do you feel about the fact that your art sales might be providing a home for illegal and unethical behavior?
+**It supports illegal activity.**
+It seems likely that the bubble is driven, at least in part, by bad actors and price speculators. CryptoArt seems almost purpose-built as a haven for criminal activity?  What are two big tools for money laundering and tax evasion? High end art sales and bitcoin. Combining them gives the anonymity of bitcoin with the respectability and the veneer of fine art world.  How do you feel about the fact that your art sales might be providing a home for illegal and unethical behavior?
 
 **Nothing is zero-trust.**
-The argument for blockchain is that things are completely decentralized and there is no government regulation, in theory; you can have real transactions without trust. The problem with blockchain is that things are completely decentralized and there is no regulation. It's trivially easy to "steal" an artist's work and sell it on one of these marketplaces. Instead, you need to confirm that you're actually buying from the artist via some other means outside the blockchain.  You can also limit your buying to marketplaces that are more exclusive, in which case the marketplace becomes the arbiter of trust.
+The argument for blockchain is that things are completely decentralized and there is no government regulation, in theory; you can have real transactions without trust. The problem with blockchain is that things are completely decentralized and there is no regulation. It's trivially easy to "steal" an artist's work and sell it on one of these marketplaces. As a buyer, you need to confirm that you're actually buying from the artist via some other means outside the blockchain.  You can also limit your buying to marketplaces that are more exclusive, in which case the marketplace becomes the arbiter of trust.
 
 
 <center>
@@ -157,6 +158,8 @@ What other attacks and points of failure are there in this lawless world where a
 [Also, as mentioned above, proof-of-work systems entail  catastrophic environmental costs and you should not buy in these blockchains.](https://joanielemercier.com/the-problem-of-cryptoart/)
 
 Over the past few days, I've seen a groundswell on Twitter toward a marketplace called [hit et nunc](https://hicetnunc.xyz/), which seems to be [more sustainable](https://en.wikipedia.org/wiki/Tezos).  But maybe this will change again a few days later; things are changing so fast right now.
+
+<hr>
 
 For all the reasons that I've listed, **I personally cannot see myself ever buying CryptoArt, other than just to try it out.** This may also reflect my social circles—my friends and colleagues care about this a whole lot less than I do—as well as my place in life and relationship to art. Were these things to change I might be interested, and that seems like a very unlikely.
 
