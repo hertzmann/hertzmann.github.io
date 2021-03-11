@@ -32,7 +32,6 @@ The phases in this cycle seem to be:
     A lot of these experiments are whimsical, playing around, and play is an important part of exploration.  
   For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
 
-    Many of these experiments explore model biases and tendencies.
     [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
 
 
