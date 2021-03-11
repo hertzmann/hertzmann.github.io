@@ -26,7 +26,7 @@ The phases in this cycle seem to be:
 
 2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.
 
-  [How DeepDream's inspiring peculiarities arose from arbitrary choices in its research history is particularly interesting.](/2020/12/29/deepdream.html)
+    [How DeepDream's inspiring peculiarities arose from arbitrary choices in its research history is particularly interesting.](/2020/12/29/deepdream.html)
 
 3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code first being released to the public.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     
 
