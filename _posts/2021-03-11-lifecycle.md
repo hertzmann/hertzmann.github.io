@@ -34,17 +34,15 @@ The phases in this cycle seem to be:
 
     [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
 
-Only a handful of research papers get this attention from artists. And some, like GauGAN, see a lot of experimentation, but don't move past the experimentation phase much.
+     Only a handful of research papers get this attention from artists. And some, like GauGAN, see a lot of experimentation, but don't move past the experimentation phase much.
 
 
 4. **Artists begin to release new work that uses these tools, showing it in galleries and exhibitions.** DeepDream, StyleGAN, and BigGAN have all been used in fine art exhibitions. DALL-E and CLIP are so new that they haven't yet, but it's only a matter of time.
 
-5. **Enough artists use these tools in straightforward ways that the style of the technology becomes recognizable and predictable.** DeepDream was briefly amazing and then became  boring pretty fast. GANs are a much richer space, but there is a lot of GAN-based art out there that all looks the same, and, I for one have lost interest in much of it. [GAN fatigue](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01930) has set in.  However, most of the world hasn't seen GAN art, so there is still a considerable potential audience for it.
+5. **Enough artists use these tools in straightforward ways that the style of the technology becomes recognizable and predictable.** DeepDream was briefly amazing and then became boring pretty fast. GANs are a much richer space, but there is a lot of GAN-based art out there that all looks the same, and, I for one have lost interest in much of it. [GAN fatigue](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01930) has set in.  However, most of the world hasn't seen GAN art, so there is still a considerable potential audience for it.
 
 6. **The technology either matures or fades away.** 
-DeepDream has completely faded from view, but
 I'm still enjoying Helena Sarin and Sofia Crespo's latest experiments with GANs, which are far more interesting than vanilla GAN renderings. 
-
 
 7. **Then, eventually, some exciting new algorithm is released** and we go back to step one.
 
