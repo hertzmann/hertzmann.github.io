@@ -23,16 +23,16 @@ The phases in this cycle seem to be:
    We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.   There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
 
 
-2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.
+2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.  Sometimes the release is more stealthy, only announced via the arXiv daily digest. One major route for dissemination are tweets by [AK](https://twitter.com/ak92501), who frequently Tweets highlights of the daily digest to  16K followers.
 
-    [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
 
-3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code first being released to the public.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     
+3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code release.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     
 
 
    A lot of these experiments are also exploring model biases and tendencies.   A lot of these experiments are whimsical, playing around, and play is an important part of exploration.  
   For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
 
+    [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
 
 
 4. **Artists begin to release new work that uses these tools, showing it in galleries and exhibitions.** DeepDream, StyleGAN, and BigGAN have all been used in fine art exhibitions. DALL-E and CLIP are so new that they haven't yet, but it's only a matter of time.
