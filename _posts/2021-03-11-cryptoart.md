@@ -110,9 +110,9 @@ Original paintings are generally seen as more valued and more desirable than pri
 
 In CryptoArt, that feeling of connection to the artist is even more diminshed, but it's potentially still here. **In a sense, what you are buying a connection with the artist.** Perhaps this connection is part of the importance of all the Tweets from artists publicly thanking people for buying their work: this helps reinforce that connection the buyer feels with the artist.  
 
-**Depending on your point of view, CryptoArt could be the ultimate manifestation of conceptual art's separation of the work of art from the instantiation.** It is pure conceptual abstraction,  applied to ownership. **Or, [CryptoArt is the ultimate in cynical capitalism](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3), reducing art to pure conspicuous consumption and commodification.**
+**Depending on your point of view, CryptoArt could be the ultimate manifestation of conceptual art's separation of the work of art from the instantiation.** It is pure conceptual abstraction,  applied to ownership. **Or, [CryptoArt is the ultimate in cynical capitalism](https://everestpipkin.medium.com/but-the-environmental-issues-with-cryptoart-1128ef72e6a3), reducing art to pure conspicuous consumption** and further commodifying  personal relationships.
 
-In Victor Pelevin's satirical novel [_Generation "П"_](https://en.wikipedia.org/wiki/Generation_%22%D0%9F%22), the main character visits an art exhibition where only the names and sale prices of the works are shown. When he says he doesn't understand—where are the paintings themselves?—[it's made clear that this isn't the point;](https://youtu.be/CpAdOi1Vo5s?t=5434).  buying and selling is more important than the art.
+In Victor Pelevin's satirical novel [_Generation "П"_](https://en.wikipedia.org/wiki/Generation_%22%D0%9F%22), the main character visits an art exhibition where only the names and sale prices of the works are shown. When he says he doesn't understand—where are the paintings themselves?—[it's made clear that this isn't the point](https://youtu.be/CpAdOi1Vo5s?t=5434).  Buying and selling is more important than the art.
 
 
 _(Thanks to Alyosha Efros for telling me about Generation "П".)_
@@ -121,7 +121,7 @@ _(Thanks to Alyosha Efros for telling me about Generation "П".)_
 Why Not Buy CryptoArt
 ====
 
-The main reason not to buy CryptoArt is entirely obvious: because CryptoArt is entirely ridiculous. It is insane to buy what is, in computer terms, just a pointer.  You are literally buying nothing. Moreover, since they are infinitely mintable, people can create all the NFTs they want about anything, over and over again.  
+**The main reason not to buy CryptoArt is entirely obvious: because CryptoArt is entirely ridiculous.** It is insane to buy what is, in computer terms, just a pointer.  You are literally buying nothing. Moreover, since they are infinitely mintable, people can create all the NFTs they want about anything, over and over again.  
 
 For me, I want hang art that I love on my walls, so I have no interest in buying CryptoArt.
 
@@ -143,17 +143,21 @@ Why are prices so high? The exponentially rising prices, the massive hype, the a
 It seems likely that the bubble is driven, at least in part, by bad actors and price speculators. It is almost as if it was made for this purpose  What are two big tools for money laundering and tax evasion? High end art sales and bitcoin. Combining them seems like the perfect tool for illicit behavior, combining the anonymity of bitcoin with the respectability and the veneer of value of the art world.  How do you feel about the fact that your art sales might be providing a home for illegal and unethical behavior?
 
 **Nothing is zero-trust.**
-The argument for blockchain is that things are completely decentralized and there is no government regulation, in theory; you can have real transactions without trust. The problem with blockchain is that things are completely decentralized and there is no regulation. It's trivially easy to "steal" an artist's work and sell it on one of these marketplaces. The marketplaces end up being, to some extent, the arbiters of trust and value, which would seem to defeat the point of blockchain.  The story is more complex than this, since the artist themselves can also validate their work through whichever social media channel you trust at the moment. What other attacks and points of failure are there in a world where anyone can write to the blockchain without regulation or enforcement?
+The argument for blockchain is that things are completely decentralized and there is no government regulation, in theory; you can have real transactions without trust. The problem with blockchain is that things are completely decentralized and there is no regulation. It's trivially easy to "steal" an artist's work and sell it on one of these marketplaces. Instead, you need to confirm that you're actually buying from the artist via some other means outside the blockchain.  You can also limit your buying to marketplaces that are more exclusive, in which case the marketplace becomes the arbiter of trust.
+
 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Since in this early stage there is no good mechanism yet to make sure that the person who minted an <a href="https://twitter.com/hashtag/NFT?src=hash&amp;ref_src=twsrc%5Etfw">#NFT</a> on <a href="https://twitter.com/hicetnunc2000?ref_src=twsrc%5Etfw">@hicetnunc2000</a> is actually who they claim they are, let me try it this way:<br><br>The official <a href="https://twitter.com/quasimondo?ref_src=twsrc%5Etfw">@quasimondo</a> wallet address on <a href="https://twitter.com/tezos?ref_src=twsrc%5Etfw">@tezos</a> is tz1hb9PiWxQEf6J9xevPsUM6dkuCLnhDMvsp</p>&mdash; Mario Klingemann (@quasimondo) <a href="https://twitter.com/quasimondo/status/1366710725931110401?ref_src=twsrc%5Etfw">March 2, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
+What other attacks and points of failure are there in this lawless world where anyone can write to the blockchain without regulation or enforcement? Will this theft become widespread, poisoning the well?
+
 
 **Environmental costs.**
 [Also, as mentioned above, proof-of-work systems entail  catastrophic environmental costs and you should not buy in these blockchains.](https://joanielemercier.com/the-problem-of-cryptoart/)
 
 Over the past few days, I've seen a groundswell on Twitter toward a marketplace called [hit et nunc](https://hicetnunc.xyz/), which seems to be [more sustainable](https://en.wikipedia.org/wiki/Tezos).  But maybe this will change again a few days later; things are changing so fast right now.
 
-For all the reasons that I've listed, I personally cannot see myself ever buying CryptoArt, except just to try it out. This may also reflect my social circles—my friends and colleagues care about this a whole lot less than I do—as well as my place in life and relationship to art. Were these things to change I might be interested, and that seems like a very distant possibility at best.
+For all the reasons that I've listed, **I personally cannot see myself ever buying CryptoArt, other than just to try it out.** This may also reflect my social circles—my friends and colleagues care about this a whole lot less than I do—as well as my place in life and relationship to art. Were these things to change I might be interested, and that seems like a very unlikely.
 
 
