@@ -59,6 +59,6 @@ Here are some other combinations of tools that were just shared in the past few 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay, now I&#39;m just being silly. Seriously. <a href="https://t.co/NMrhBzL8kV">pic.twitter.com/NMrhBzL8kV</a></p>&mdash; Doron Adler (@Norod78) <a href="https://twitter.com/Norod78/status/1369546359695630337?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-**There's lots of great stuff that happens outside this cycle.** For example, work by Tom White and Trevor Paglen doesn't really fit this pattern, who are  using AI technology in very different ways that don't follow this cycle.
+**There's lots of great stuff that happens outside this cycle.** For example, work by Tom White and Trevor Paglen doesn't really fit this pattern, who are  using AI technology in very different ways that don't follow this cycle.  It's also worth noting that credit and ownership can get confused in the open sharing environment; the way Robbie Barrat's open sharing was abused for the Christie's auction is an extreme example.
 
 Watching new forms of art develop is wonderful, and it's happening now, live, on social media, arXiv, GitHub, and beyond.
