@@ -10,7 +10,7 @@ image: /images/vadim.jpg
 
 # The Life-Cycle of AI Art
 
-The contours fascinating new process for the emergence of AI art techniques are becoming visible. I've alluded to this process in [previous papers](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), but now that we're seeing the process repeat, it seems possible to make more concrete statements about it.
+The contours fascinating new process for the emergence of AI art techniques are becoming visible. I've alluded to this process in [previous papers](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), but now that we're seeing the process repeat, it seems possible to make more concrete observations about it.
 
 Because of Twitter and GitHub repos, we have a sort of worldwide collaboration of artists and technologists happening, at an extraordinary pace. While there is a long history of artists and technologists working together, and of individuals who innovate in both art and science simultaneously, this distributed international collaboration is—dare I say—_completely unprecedented_.
 
