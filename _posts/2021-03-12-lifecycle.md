@@ -25,11 +25,9 @@ The phases in this cycle seem to be:
 
 2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.
 
-3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code first being released to the public.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments. 
+3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code first being released to the public.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     A lot of these experiments are whimsical, playing around, but play is an important part of exploration.
+For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
 
-    For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
-
-    A lot of these experiments are whimsical, playing around, but play is an important part of exploration.
 
 4. **Artists begin to release new work that uses these tools, showing it in galleries and exhibitions.** DeepDream, StyleGAN, and BigGAN have all been used in fine art exhibitions. DALL-E and CLIP are so new that they haven't yet, but it's only a matter of time now.
 
@@ -43,7 +41,7 @@ On the other hand, DeepDream has completely faded from view.
 
 A few things worth noting about this process:
 
-**The process is cumulative.** Even though the cycle seems to be largely over for BigGAN and StyleGAN, the collective knowledge of these tools remains. I think the [indeterminate visual aesthetic artists found in them]() will persist in new algorithms.
+**The process is cumulative.** Even though the cycle seems to be largely over for BigGAN and StyleGAN, the collective knowledge of these tools remains. For example, when CLIP was released, artists began to play with combining CLIP and BigGAN. I think the [indeterminate visual aesthetic aesthetics saw in GANs](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01930) will persist in these new algorithms.
 
 Moreover, **newer experiments mix-and-match ideas from these older ideas**.  [AI artists are generative artists, and writing code to make art—whether with AI algorithms or not—is a tradition that goes back 60 years.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). BigGAN isn't gone, it's still a tool in the AI artists' toolbox. 
 Here are some combinations of tools that were just shared in the past few days:
