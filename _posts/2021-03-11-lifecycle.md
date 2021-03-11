@@ -41,14 +41,13 @@ The phases in this cycle seem to be:
 5. **Enough artists use these tools in straightforward ways that the style of the technology becomes recognizable and predictable.** DeepDream was amazing only briefly. GANs are a much richer space, but there is a lot of GAN-based art out there that all looks the same, and, I for one have lost interest in much of it. [GAN fatigue](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01930) has set in.  However, most of the world hasn't seen GAN art, so there is still a considerable potential audience for it.
 
 6. **The technology either matures or fades away.** 
-I'm still enjoying Helena Sarin and Sofia Crespo's latest experiments with GANs, which are far more interesting than vanilla GAN renderings. 
-
-7. **Then, eventually, some exciting new algorithm is released** and we go back to step one.
+I'm still enjoying Helena Sarin and Sofia Crespo's latest experiments with GANs, which are far more interesting than vanilla GAN renderings. Eventually, some exciting new algorithm is released, and we go back to step one.
 
 But even when methods mature or fade away, they aren't gone. 
 **The process is cumulative, and newer experiments mix-and-match ideas from newer and older ideas.**  Even though the cycle seems to be largely over for BigGAN and StyleGAN, the collective knowledge of these tools remains. For example, when CLIP was released, artists began to play with combining CLIP and BigGAN. 
 
-[AI artists are generative artists, and writing code to make art—whether with AI algorithms or not—is a 60-year-old practice.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). And more AI algorithms mean more paints in the paintbox of generative art.
+[AI artists are generative artists, and writing code to make art—whether with AI algorithms or not—is a 60-year-old practice.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). 
+When these algorithms mature, they are no longer used in a gimmicky fashion, producing recognizable styles. They are, instead, additional tools in the toolbox available to artists, for them to combine and build from in new ways.
 
 Here are some other combinations of tools that were just shared in the past few days:
 
