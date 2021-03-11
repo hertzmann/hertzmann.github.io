@@ -29,9 +29,10 @@ The phases in this cycle seem to be:
 3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code release.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     
 
 
-   A lot of these experiments are also exploring model biases and tendencies.   A lot of these experiments are whimsical, playing around, and play is an important part of exploration.  
+    A lot of these experiments are whimsical, playing around, and play is an important part of exploration.  
   For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
 
+    Many of these experiments explore model biases and tendencies.
     [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
 
 
