@@ -46,12 +46,12 @@ I'm still enjoying Helena Sarin and Sofia Crespo's latest experiments with GANs,
 
 7. **Then, eventually, some exciting new algorithm is released** and we go back to step one.
 
-A few things worth noting about this process:
+But even when methods fade away, they aren't gone. 
+**The process is cumulative, and newer experiments mix-and-match ideas from newer and older ideas.**  Even though the cycle seems to be largely over for BigGAN and StyleGAN, the collective knowledge of these tools remains. For example, when CLIP was released, artists began to play with combining CLIP and BigGAN. 
 
-**The process is cumulative.** Even though the cycle seems to be largely over for BigGAN and StyleGAN, the collective knowledge of these tools remains. For example, when CLIP was released, artists began to play with combining CLIP and BigGAN. I think the [indeterminate visual aesthetic aesthetics saw in GANs](https://www.mitpressjournals.org/doi/abs/10.1162/leon_a_01930) will persist in these new algorithms.
+[AI artists are generative artists, and writing code to make art—whether with AI algorithms or not—is a tradition that goes back 60 years.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). And more AI algorithms mean more paints in the paintbox of generative art.
 
-Moreover, **newer experiments mix-and-match ideas from these older ideas**.  [AI artists are generative artists, and writing code to make art—whether with AI algorithms or not—is a tradition that goes back 60 years.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). BigGAN isn't gone, it's still a tool in the AI artists' toolbox. 
-Here are some combinations of tools that were just shared in the past few days:
+Here are some other combinations of tools that were just shared in the past few days:
 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">neuron #2478 &quot;surprised&quot;<br>exported to CPPN then GLSL and slightly animated <a href="https://t.co/j7kyURlxkc">https://t.co/j7kyURlxkc</a><br>NB: 13k parameters, may crash some GPU<br>[wtf twitter doesn&#39;t show shadertoy previews !?]<br><br>original technique by <a href="https://twitter.com/wxswxs?ref_src=twsrc%5Etfw">@wxswxs</a><a href="https://t.co/zYbLtHpXvk">https://t.co/zYbLtHpXvk</a> <a href="https://t.co/HWTRt9BAJI">pic.twitter.com/HWTRt9BAJI</a></p>&mdash; vadim epstein (@eps696) <a href="https://twitter.com/eps696/status/1369460655846264835?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -61,4 +61,4 @@ Here are some combinations of tools that were just shared in the past few days:
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay, now I&#39;m just being silly. Seriously. <a href="https://t.co/NMrhBzL8kV">pic.twitter.com/NMrhBzL8kV</a></p>&mdash; Doron Adler (@Norod78) <a href="https://twitter.com/Norod78/status/1369546359695630337?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
 
-Watching great new forms of art develop is a wonder to behold, and it's happening now, live, on social media, arXiv, GitHub, and beyond.
+Watching new forms of art develop is wonderful, and it's happening now, live, on social media, arXiv, GitHub, and beyond.
