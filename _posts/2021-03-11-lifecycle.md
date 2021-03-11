@@ -46,7 +46,7 @@ I'm still enjoying Helena Sarin and Sofia Crespo's latest experiments with GANs,
 But even when methods mature or fade away, they aren't gone. 
 **The process is cumulative, and newer experiments mix-and-match ideas from newer and older ideas.**  Even though the cycle seems to be largely over for BigGAN and StyleGAN, the collective knowledge of these tools remains. For example, when CLIP was released, artists began to play with combining CLIP and BigGAN. 
 
-[**AI artists are generative artists**, and writing code to make art—whether with AI algorithms or not—is a 60-year-old practice.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). 
+[**AI artists are generative artists**, part of a 60-year-old history of generative art.](https://www.artnews.com/art-in-america/features/generative-art-tools-flash-processing-neural-networks-1202674657/). 
 When these algorithms mature, they are no longer used in a gimmicky fashion, producing recognizable styles. They are, instead, additional tools in the toolbox available to artists, for them to combine and build from in new ways.
 
 Here are some other combinations of tools that were just shared in the past few days:
