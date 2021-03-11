@@ -43,7 +43,7 @@ There are many different reasons people buy art. People often think it's purely 
 Take a moment to think about the reasons why you buy original works of art. Suppose you could buy an exact replica of the original work that was cheaply made in a factory, rather than directly produced and signed by the artist's hand. Would you? If not, why not?  What makes the original desirable and valuable? (And, if you don't seen any point in buying original art rather than reproductions, then perhaps CryptoArt is not for you.)
 
 **Art for your home.** 
-Speaking for myself, I only buy original for my walls, period. I want art to surround my living space, to please and inspire me visually. It's something to stare at when I'm staring off into space, lost in thought, something to contemplate, and something to inspire reflection upon the ideas and experiences associated with the work. (In addition to paintings and prints that I've purchased, I also have some of my own watercolor paintings and photographs on my walls.)
+Speaking for myself, I only buy art for my walls, period. I want art to surround my living space, to please and inspire me visually. It's something to stare at when I'm staring off into space, lost in thought; it's something to contemplate, and something to inspire reflection upon the ideas and experiences associated with the work. In addition to paintings and prints that I've purchased, I also have some of my own watercolor paintings and photos on my walls.
 
 <center>
 <figure>
@@ -53,11 +53,9 @@ Speaking for myself, I only buy original for my walls, period. I want art to sur
 </center>
 
 
-**Social roles for art.**
-Art plays social roles. I want friends and acquaintances to enjoy visiting my home. Art helps creates a sense of space and provides conversation topics. It communicates my interests and taste. Maybe there's even a bit of gentle showing off too.  
-
+**Social reasons to buying art.**
+Art plays social roles. I want friends and acquaintances to enjoy visiting my home. Art helps creates a sense of space and provides conversation topics. It communicates my interests and taste. 
 I want to support artists and the arts, and buying from them directly does this as well.  Artists need money just like everyone else. 
-
 Visiting art galleries and fairs is a social activity, and I enjoy meeting the artists themselves and participating in the community when I can.  Art can also be a unique gift as well. (I've only given my own paintings as gifts; I haven't bought art for this purpose).  
 
 
