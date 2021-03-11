@@ -14,7 +14,7 @@ A fascinating new cycle for AI art techniques is emerging. I've alluded to this 
 
 Because of Twitter and GitHub repos, we have a sort of worldwide collaboration of artists and technologists happening, at an extraordinary pace. While there is a long history of artists and technologists collaboratting, and of individuals who innovate in both art and science simultaneously, this distributed international collaboration is—dare I say—_completely unprecedented_.
 
-Some of the most significant AI algorithms that have fed this cycle are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, SPADE, and now DALL-E and CLIP.
+Some of the most significant AI algorithms that have fed this cycle are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, and now DALL-E and CLIP.
 
 The phases in this cycle seem to be:
 
@@ -23,7 +23,7 @@ The phases in this cycle seem to be:
    We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.   There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
 
 
-2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.  Sometimes the release is more stealthy, only announced via the arXiv daily digest. One major route for dissemination are tweets by [AK](https://twitter.com/ak92501), who frequently Tweets highlights of the daily digest to  16K followers.
+2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.  Sometimes the release is more stealthy, only announced via the arXiv daily digest. One major route for dissemination are tweets by [AK](https://twitter.com/ak92501), who frequently Tweets highlights of the daily digest to  16K followers. 
 
 
 3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code release.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     
@@ -33,6 +33,8 @@ The phases in this cycle seem to be:
   For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
 
     [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
+
+Only a handful of research papers get this attention from artists. And some, like GauGAN, see a lot of experimentation, but don't move past the experimentation phase much.
 
 
 4. **Artists begin to release new work that uses these tools, showing it in galleries and exhibitions.** DeepDream, StyleGAN, and BigGAN have all been used in fine art exhibitions. DALL-E and CLIP are so new that they haven't yet, but it's only a matter of time.
@@ -60,5 +62,7 @@ Here are some other combinations of tools that were just shared in the past few 
 <center>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Okay, now I&#39;m just being silly. Seriously. <a href="https://t.co/NMrhBzL8kV">pic.twitter.com/NMrhBzL8kV</a></p>&mdash; Doron Adler (@Norod78) <a href="https://twitter.com/Norod78/status/1369546359695630337?ref_src=twsrc%5Etfw">March 10, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
+**There's lots of great stuff that happens outside this cycle.** For example, work by Tom White and Trevor Paglen doesn't really fit this pattern, who are  using AI technology in very different ways that don't follow this cycle.
 
 Watching new forms of art develop is wonderful, and it's happening now, live, on social media, arXiv, GitHub, and beyond.
