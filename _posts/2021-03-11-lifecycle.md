@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Life-Cycle of AI Art
+title: The Life-Cycle of AI Art Tools
 summary: How AI art evolves from technology to creativity
 author:  AaronHertzmann
 image: /images/vadim.jpg
