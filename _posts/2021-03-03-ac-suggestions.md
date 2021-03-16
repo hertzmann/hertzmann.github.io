@@ -19,7 +19,6 @@ I don't have one single set of suggestions; there's no one right way to do thing
 One benefit of being on the committee (especially when it's in-person) is seeing how much hard work the other ACs and the chairs put into it, and how seriously they take the process. People really care about making it work and doing a good job. I've heard lots of people who just finished their first AC meeting say that it made them feel much better about the review process than before. No process is perfect, but people do a good job.
 
 
-[Some further discussion on this post is here.](https://www.facebook.com/aaron.hertzmann/posts/10159244322970802)
 
 Summary
 ====
@@ -30,7 +29,7 @@ Summary
 * Paper matching algorithm (TPMS) doesn't work well anymore
 
 **Maybe these problems are hard to fix, but there are lots of reasons to believe that it's possible to do better.**
-I don't mean to imply that SIGGRAPH is doing better than the vision conferences; that's [very obviously not true](/2020/08/31/cvpr-graphics.html).** But I think there are things each conference can learn from the other ones.
+I don't mean to imply that SIGGRAPH is doing better than the vision conferences; that's [very obviously not true](/2020/08/31/cvpr-graphics.html). But I think there are things each conference can learn from the other ones.
 
 <center>
 <figure>
@@ -199,3 +198,4 @@ But I think it's worthwhile to take a step back and think about where the proces
 
 (I've never AC'd in other fields, but there might be good ideas in other places. For example, UIST has an interesting multi-stage process that seems to have some advantages and disadvantages. There have been a lot of interesting experiments happening in the machine learning conferences in the past decade. Now that there are several years of experience with ICLR's open reviewing experiment, it would be hear to learn about how that has gone.)
 
+_[Some further discussion on this post is here.](https://www.facebook.com/aaron.hertzmann/posts/10159244322970802)_
