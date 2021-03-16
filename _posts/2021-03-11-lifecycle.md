@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Life-Cycle of AI Art Tools
+title: The Life-Cycle of AI Art Techniques
 summary: How AI art evolves from technology to creativity
 author:  AaronHertzmann
 image: /images/vadim.jpg
@@ -8,7 +8,7 @@ image: /images/vadim.jpg
 
 
 
-# The Life-Cycle of AI Art
+# The Life-Cycle of AI Art Techniques
 
 A fascinating new cycle for AI art techniques is emerging. I've alluded to this process in [previous papers](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), but now that we're seeing this cycle repeat over and over, it seems possible to describe it more concretely.
 
