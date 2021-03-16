@@ -18,17 +18,16 @@ I don't have one single set of suggestions; there's no one right way to do thing
 
 One benefit of being on the committee (especially when it's in-person) is seeing how much hard work the other ACs and the chairs put into it, and how seriously they take the process. People really care about making it work and doing a good job. I've heard lots of people who just finished their first AC meeting say that it made them feel much better about the review process than before. No process is perfect, but people do a good job.
 
-**Update: I don't mean to imply that SIGGRAPH is doing better than the vision conferences; that's [very obviously not true](/2020/08/31/cvpr-graphics.html).** But I think there are things each conference can learn from the other ones.
-More on this topic in the final section below. 
 
 [Some further discussion on this post is here.](https://www.facebook.com/aaron.hertzmann/posts/10159244322970802)
 
-**Update 2: I'd summarize the biggest problems  as:**
+**Update: I'd summarize the biggest problems  as:**
 * Review process puts most of the weight on the reviewers, with few checks or balances
 * Little or no training for ACs, or consistency between them
 * Paper matching algorithms don't work well
 
 **Maybe these problems are hard to fix, but there are lots of reasons to believe that it's possible to do better.**
+I don't mean to imply that SIGGRAPH is doing better than the vision conferences; that's [very obviously not true](/2020/08/31/cvpr-graphics.html).** But I think there are things each conference can learn from the other ones.
 
 <center>
 <figure>
