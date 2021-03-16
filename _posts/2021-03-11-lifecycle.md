@@ -18,7 +18,7 @@ Some of the most significant AI algorithms that have fed this cycle are: DeepDre
 
 The phases in this cycle seem to be:
 
-1. **Computer science researchers release image generation code** on GitHub, usually accompanying a technical paper posted to arXiv or published at a conference.  Sometimes these papers say little or nothing explicit about making art; they are focused on technical and algorithmic problems, even though the paper figures are often inspiring or delightful. 
+1. **Computer science researchers release image generation code** on GitHub, usually accompanying a technical paper posted to arXiv or published at a conference.  Often these papers say little or nothing explicit about making art; they are focused on technical and algorithmic problems, even though the paper figures are often inspiring or delightful. 
 
    We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.   There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
 
