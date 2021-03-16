@@ -21,10 +21,13 @@ One benefit of being on the committee (especially when it's in-person) is seeing
 
 [Some further discussion on this post is here.](https://www.facebook.com/aaron.hertzmann/posts/10159244322970802)
 
-**Update: I'd summarize the biggest problems  as:**
+Summary
+====
+
+**Update: Computer vision review processes suffer from the following problems:**
 * Review process puts most of the weight on the reviewers, with few checks or balances
-* Little or no training for ACs, or consistency between them
-* Paper matching algorithms don't work well
+* Little or no training and consistent for ACs.  Nothing to encourage consistency between ACs, even experienced ACs
+* Paper matching algorithm (TPMS) doesn't work well anymore
 
 **Maybe these problems are hard to fix, but there are lots of reasons to believe that it's possible to do better.**
 I don't mean to imply that SIGGRAPH is doing better than the vision conferences; that's [very obviously not true](/2020/08/31/cvpr-graphics.html).** But I think there are things each conference can learn from the other ones.
