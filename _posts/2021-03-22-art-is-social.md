@@ -15,7 +15,7 @@ There is more to art than its social functions; there are many social activities
 
 I have mainly found this idea useful for thinking about new technologies for art: [whether computers can create art](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), and trying to understand [the apparently-bizarre notion of CryptoArt](https://theconversation.com/why-would-anyone-buy-crypto-art-let-alone-spend-millions-on-whats-essentially-a-link-to-a-jpeg-file-157115). 
 I've also found it useful for [understading the contemporary art world as a specific community](/2020/06/08/wica.html).
-Hence, I suspect that this view may be useful for understanding other new phenomena as well.
+Hence, I suspect that this view could be useful for understanding other new phenomena as well.
 
 Here's what I mean.
 
@@ -24,9 +24,11 @@ Here's what I mean.
 Why Do We Have Art?
 ====
 
-Why do we make, share, and collect art? **The functions of art are primarily _social_, meaning that they are things we do to affect our relationships to other people.** We make art so that other people can see it, to communicate ideas and feelings, and to demonstrate our skills, hoping to gain wealth or status. We appreciate art to appreciate what the artist created, and, often, to try to peer into their experiences. We buy art to display personality, taste, and wealth.
+Why do we make, share, and collect art? **The functions of art are primarily _social_, meaning that we ultimately make and buy art to affect our relationships to other people.** We make art so that other people can see it, to communicate ideas and feelings, and to demonstrate our skills, hoping to gain wealth or status. We appreciate art to see the work of another human, to experience the thing they made, and, often, to try to peer into their experiences. We buy art to preserve these experiences, and to display personality, taste, and wealth.
 
-In this view, I am very inspired by the evolutionary theory of art as put forth by Denis Dutton in [_The Art Instinct_](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/). He lists these roles of art, and provides a rationale that art played all these same functions for our Pleistocene ancestors, an argument that I find quite persuasive. While he points to social nature of many of these functions, I don't believe he go the final step of saying that social relationships are fundamental to art. In part this may because he identifies other functions of art, such as in storytelling, as I will discuss below.  A related claim I would make is **we are evolved to create and share art because of our social relationships.**
+Why is a painting of a mountain art, but the mountain itself is not art? Because someone made the painting, and they made it to share as art.
+
+In this view, I am very inspired by the evolutionary theory of art as put forth by Denis Dutton in [_The Art Instinct_](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/). He lists these roles of art, and provides a rationale that art played all these same functions for our Pleistocene ancestors. I find his argument quite persuasive for reasons I won't attempt to summarize here. While he points to the social nature of many of these functions, I don't believe he goes the final step of saying that social relationships are fundamental to art. In part this may because he identifies other functions of art, such as in storytelling, as I will discuss below.  A related claim I would make is **we are evolved to create and share art because of our social relationships.**
 
 Many artforms are byproducts of more practical skills. For example, we speak to communicate information; we tell stories to share experience. We build objects as tools. We might have drawn pictures first as diagrams or maps.  But each of these skills has evolved secondary social and artistic forms that then developed a life of its own.  Each of these functions manifests in the ways we  use art, just as they did for our Pleistocene ancestors' artwork.
 
