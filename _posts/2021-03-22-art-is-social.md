@@ -9,7 +9,7 @@ author:  AaronHertzmann
 
 # Art is Fundamentally Social
 
-In thinking about the nature of art, I have come to believe that the **art is a fundamentally social phenomenon**; art exists  primarily  for social purposes. While there are [many, many ways to "define" and understand the nature of art](/2020/05/19/wiwia.html), and this certainly overlaps with some of them, I haven't seen it stated in this way before.  (If you have, I'd be interested in hearing about it.)
+In thinking about the nature of art, I have come to believe that the **art is a fundamentally social phenomenon**; art exists  primarily  for social purposes. While there are [many, many ways to "define" and understand the nature of art](/2020/05/19/wiwia.html), and this certainly overlaps with some of them, I haven't seen it stated in this way before.  (If you have, I'd be interested in hearing about it. Update: [here's one response to this request, in the domain of music.](https://twitter.com/amy_tabb/status/1374059970757558278?s=20))
 
 There is more to art than its social functions; there are many social activities that are not art. But no art form exists apart from our social relationships.
 
