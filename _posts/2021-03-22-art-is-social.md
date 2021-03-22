@@ -9,13 +9,13 @@ author:  AaronHertzmann
 
 # Art is Fundamentally Social
 
-In thinking about the nature of art, I have come to believe that the **art is a fundamentally social phenomenon**. Art exists for primarily social purposes. While there are [many, many ways to "define" and understand the nature of art](/2020/05/19/wiwia.html), and this certainly overlaps with some of them, I haven't seen it stated in this way before.  (If you have, I'd be interested in hearing about it.)
+In thinking about the nature of art, I have come to believe that the **art is a fundamentally social phenomenon**; art exists  primarily  for social purposes. While there are [many, many ways to "define" and understand the nature of art](/2020/05/19/wiwia.html), and this certainly overlaps with some of them, I haven't seen it stated in this way before.  (If you have, I'd be interested in hearing about it.)
 
 There is more to art than its social functions; there are many social activities that are not art. But no art form exists apart from our social relationships.
 
 I have mainly found this idea useful for thinking about new technologies for art: [whether computers can create art](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), and trying to understand [the apparently-bizarre notion of CryptoArt](https://theconversation.com/why-would-anyone-buy-crypto-art-let-alone-spend-millions-on-whats-essentially-a-link-to-a-jpeg-file-157115). 
-But I've also found it useful for understanding [contemporary art in terms of community](/2020/06/08/wica.html).
-Hence, I suspect that understanding art as fundamentally social may be useful for understanding other new phenomena as well.
+I've also found it useful for [understading the contemporary art world as a specific community](/2020/06/08/wica.html).
+Hence, I suspect that this view may be useful for understanding other new phenomena as well.
 
 Here's what I mean.
 
