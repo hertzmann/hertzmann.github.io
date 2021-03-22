@@ -61,5 +61,3 @@ One unusual way to see what's involved is to watch [an Inigo Quilez live-coding 
 Second, [when trying to understand CryptoArt and NFTs](/2021/03/11/cryptoart.html), I found it helpful to think about art as social.  For many people, so much of our social lives occur online, between social media, and online video games, and so on.  Some commenter pointed out that appreciating CryptoArt seems to be somewhat generational, and it makes sense that younger generations are spending more time online, living much more of their social lives online. If you've played video games that involve a large economy, like buying hats in Team Fortress 2, as well as badges and achievements that you can compete with your friends for. This process accellerated even more during Covid, which was also the time when CryptoArt went mainstream. If so many of your interactions are online, then having a physical artwork could be seen as more of a nuisance than a benefit, since so many of the people you interact with will never see the physical object.
 
 Perhaps this social view of art will be helpful for understand other future developments as well.
-
-test
