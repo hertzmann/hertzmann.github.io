@@ -138,6 +138,7 @@ But, most important, advancing this understanding advances art.  Historically, m
 		* [Shading and style](https://aaronhertzmann.com/2020/09/14/how-to-draw-pictures-style.html)
 	* [Where do people draw lines](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/)
 	* [Why does line drawing work](https://arxiv.org/abs/2002.06260)
+	* Drawing as a skill; learning to draw
 	* Shape: exaggeration and deformation
 		* 3D caricature: Susan Brennan, Volker-Blanz
 		* Part-wise models, childrens' drawings, etc.
@@ -184,4 +185,5 @@ But, most important, advancing this understanding advances art.  Historically, m
 	* Could computers be artists in the future?
 		* [Definitions of art](/2020/05/19/wiwia.html)
 		* [Evolutionary theory and art](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/)
-		* Art as social activity
+		* [Art as social activity](/2021/03/22/art-is-social.html)
+		* What would it take
