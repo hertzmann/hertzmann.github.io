@@ -57,7 +57,7 @@ result of [unintended consequences of your loss function](https://arxiv.org/abs/
 Haven't we already got results that are novel, surprising, and creative?
 ====
 
-If the goal of this research is to produce outputs that are novel, useful, and/or surprising, don't we already have this? Or, **how will future research be different from what we already have?**
+If the goal of this research is to produce outputs that are novel, useful, and/or surprising, don't we already have this? 
 
 We already have algorithms that produce wonderful results in all sorts of domains, in images, music, animation, and so on. Whether or not this is the result of computer creativity is the issue.
 
