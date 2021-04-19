@@ -39,12 +39,13 @@ What inspiration/belief drives this field? As this is research, we can't expect 
 
 The main positive argument that I've seen is as follows. First, we should identify the attributes of a creative work, e.g., work must be both *valuable* and *surprising* or *original*. Then, if we can build a computer algorithm that does both of these things, then people will say that this system is creative. A much longer list of possible creative attributes appears in [a paper that received a ten-year award at ICCC](https://computationalcreativity.net/iccc2010/papers/jordanous-2.pdf).  
 
-I would guess that there is a second inspiration that motivates some researchers: the delight and surprise that many of us felt when seeing an unexpected output of a system. It feels magical when your algorithm produces results you didn't expect, sometimes [as the result of a bug](https://siggraphfails.tumblr.com/) that produces something wonderful, sometimes as the
+I would guess that there is a second inspiration that motivates some researchers: the delight and surprise that many of us have felt when seeing an unexpected output of a system. It feels magical when your algorithm produces results you didn't expect, sometimes [as the result of a bug](https://siggraphfails.tumblr.com/) that produces something wonderful, sometimes as the
 result of [unintended consequences of your loss function](https://arxiv.org/abs/1803.03453), and sometimes simply as the result of a model that has a lot of parameters.  But then you go and figure out what the reason was, and it no longer seems so mysterious.
 
 <center>
 <figure>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pxgLHuWfMS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  <figcaption align="center"><i>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pxgLHuWfMS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+	<figcaption align="center"><i>
 	Bloopers from Karl Sims' <a href="https://www.karlsims.com/evolved-virtual-creatures.html">Evolved Virtual Creatures</a>. "When first attempting to evolve locomotion behaviors, creatures were tested for their horizontal velocity during 10 seconds of simulation. They performed as requested, but in a much simpler way than what was hoped for. They simply became tall and rigid and fell over for most of the test duration."
 </i>
  </figcaption>
