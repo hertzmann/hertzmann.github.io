@@ -14,7 +14,7 @@ There's a small but active research community that works on computational creati
 
 Yet, I often find myself confused about the goals for the field.  For example, I was invited to speak at one of the workshops; I told the organizers that I was skeptical about this field, but they said they welcomed a critical perspective. In [my talk](https://youtu.be/qX9lLDOLG88?t=409), I asked some of these questions. While it was a very nice workshop, I left the workshop not feeling any closer to having any answers. (It's too bad the workshop had to be virtual, which makes these discussions much more difficult.)
 
-Surely the people working in this field have thought about these questions and have answers)–at least in their grant proposals–and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here.
+Surely the people working in this field have thought about these questions and have answers–at least in their grant proposals–and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here.  
 
 
 
@@ -117,7 +117,8 @@ Should I just not worry about it?
 
 To some extent, you could say most of these things about AI research. None of the systems that we call "AI" are genuinely intelligent in any meaningful  sense, and genuine artificial intelligence seems nowhere on the horizon, though people debate this.  Yet, I do think we have algorithms that relate to aspects of human intelligence, and provide useful metaphors for human intelligence.
 
-I also wish I had good places to submit papers related to artistic algorithms (when the papers aren't suitable for teh big conferences), but I've been hestitant to submit to creativity conferences because I'm not sure I believe in their goals. Maybe I should just submit anyway?
+I also wish I had good places to submit papers related to artistic algorithms (when the papers aren't suitable for the big conferences), but I've been hestitant to submit to creativity conferences because I'm not sure I believe in their goals. 
+Maybe I should just submit my NPR-ish papers to ICCC anyway, and ignore claims of CC, the way we mostly ignore claims of machine intelligence at AI conferences?
 
 Even if I'm right that there's no such thing as CC, I expect that the CC community will still do worthwhile research, and build interesting systems.  
 
