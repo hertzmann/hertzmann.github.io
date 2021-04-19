@@ -151,7 +151,7 @@ But, most important, advancing this understanding advances art.  Historically, m
 		* These are all "just" texture models
 		* Portrait stylization
 	* Generative networks
-		* GANs
+		* GANs 
 		* DALL-E
 	* Future potential
 
