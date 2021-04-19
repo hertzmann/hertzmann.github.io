@@ -17,7 +17,6 @@ Yet, I often find myself confused about the goals for the field.  For example, I
 Surely the people working in this field have thought about these questions and have answers–at least in their grant proposals–and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here.  
 
 
-
 Why study computational creativity?
 =====
 
@@ -61,7 +60,8 @@ If the goal of this research is to produce outputs that are novel, useful, and/o
 
 We already have algorithms that produce wonderful results in all sorts of domains, in images, music, animation, and so on. Whether or not this is the result of computer creativity is the issue.
 
-One statement of the goal of CC research is that [an observer would judge the results as "creative" had they been made by a human](https://www.sciencedirect.com/science/article/pii/S0950705106000645?via%3Dihub).  Yet, one method that achieved this goal years ago is [**Creative Sparks**](https://science.sciencemag.org/content/285/5433/1495.full), in which the authors described a very simple, easy-to-understand procedure for creating advertising concepts–the system could easily have been implmented by hand rather than with a computer. In a blinded study, marketers rated the resulting concepts as "more creative" than some pitches made entirely by individuals. 
+One statement of the goal of CC research is that [an observer would judge the results as "creative" had they been made by a human](https://www.sciencedirect.com/science/article/pii/S0950705106000645?via%3Dihub).  Yet, one method that achieved this goal years ago is [**Creative Sparks**](https://science.sciencemag.org/content/285/5433/1495.full), in which the authors described a very simple, easy-to-understand procedure for creating advertising concepts–the system could easily have been implmented by hand rather than with a computer. In a blinded study, marketers rated the resulting concepts as "more creative" than some pitches made entirely by individuals;
+similar results are reported in [this paper](https://songweige.github.io/projects/creative_sketech_generation/home.html). 
 
 Another statement of the goal of CC research is that [the creator of the system finds the results surprising](https://link.springer.com/chapter/10.1007/978-3-642-31727-9_1). I think we have this too. For example, the Mandelbrot set [can be summarized in just a few lines of code](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings), yet it produces a seemingly-endless stream of mesmerizing imagery:
 <center>
