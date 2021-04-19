@@ -123,4 +123,4 @@ Maybe I should just submit my NPR-ish papers to ICCC anyway, and ignore claims o
 
 Even if I'm right that there's no such thing as CC, I expect that the CC community will still do worthwhile research, and build interesting systems.  
 
-And I could be wrong-[I've backed the wrong horse before](http://www.dgp.toronto.edu/~hertzman/ibl2004/)-and maybe the CC community will make important discoveries. 
+And I could be wrong–[I've backed the wrong horse before](http://www.dgp.toronto.edu/~hertzman/ibl2004/)–and maybe the CC community will make important discoveries. 
