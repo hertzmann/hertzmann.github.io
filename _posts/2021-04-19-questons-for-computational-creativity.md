@@ -12,9 +12,9 @@ image: /images/sims.jpg
 
 There's a small but active research community that works on computational creativity (CC). I haven't paid close attention to it, but it seems to comprise a group of eager and earnest researchers who are excited about this field, which is great.
 
-Yet, I often find myself confused about the goals for the field.  For example, I was invited to speak at one of the workshops; I told the organizers that I was skeptical about this field, but they said they welcomed a critical perspective. In [my talk](https://youtu.be/qX9lLDOLG88?t=409), I asked some of these questions. While it was a very nice workshop, I left the workshop not feeling any closer to having any answers. (It's too bad the workshop was virtual.)
+Yet, I often find myself confused about the goals for the field.  For example, I was invited to speak at one of the workshops; I told the organizers that I was skeptical about this field, but they said they welcomed a critical perspective. In [my talk](https://youtu.be/qX9lLDOLG88?t=409), I asked some of these questions. While it was a very nice workshop, I left the workshop not feeling any closer to having any answers. (It's too bad the workshop had to be virtual, which makes these discussions much more difficult.)
 
-Surely the people working in this field have thought about these questions and have answers)–at least in their grant proposals–and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here. (And, if people haven't thought about these questions, they probably should.  Making these arguments well is important to drawing people into the field, raising grant money, getting jobs and tenure, etc.) 
+Surely the people working in this field have thought about these questions and have answers)–at least in their grant proposals–and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here.
 
 
 
@@ -27,9 +27,9 @@ I can imagine several possible goals for CC research:
 2. **Build tools to support human creativity** 
 3. **Improve conventional algorithms, with inspiration from human creative behaviors.**
 
-Most of the CC papers I've looked at appear to be aiming for the first goal: making computers that are considered creative in some way. (Sometimes I'm not sure from reading the paper which of these is the goal.) The other goals seem very worthwhile to me; it's the first goal that I'm skeptical about, and that's what this blog post is mainly about.  
+Most of the CC papers I've looked at appear to be aiming for the first goal: making computers that are considered creative in some way. The other goals seem very worthwhile to me; it's the first goal that I'm skeptical about, and that's what this blog post is mainly about.  
 
-[This 2014 blog post](https://www.creativitypost.com/article/what_is_computational_creativity), covers a lot of this territory about the goals for the field, and the various versions of the problem statement that different researchers and communities have asserted, as well as challenges in defining the problem.
+[This 2014 blog post](https://www.creativitypost.com/article/what_is_computational_creativity) covers a lot of this territory about the goals for the field, and the various versions of the problem statement that different researchers and communities have asserted, as well as challenges in defining the problem.
 
 
 Why could computers be creative?
@@ -37,7 +37,7 @@ Why could computers be creative?
 
 What inspiration/belief drives this field? As this is research, we can't expect to have proof that CC is possible, but there ought to be some reason to believe.  What's the constructive argument?
 
-The main positive argument that I've seen is as follows. First, we should identify the attributes of a creative work, e.g., work must be both *valuable* and *surprising* or *original*. Then, if we can build a computer algorithm that does both of these things, then people will say that this system is creative. A much longer list of possible creative attributes appears in [a paper that received an award at ICCC](https://computationalcreativity.net/iccc2010/papers/jordanous-2.pdf).  
+The main positive argument that I've seen is as follows. First, we should identify the attributes of a creative work, e.g., work must be both *valuable* and *surprising* or *original*. Then, if we can build a computer algorithm that does both of these things, then people will say that this system is creative. A much longer list of possible creative attributes appears in [a paper that received a ten-year award at ICCC](https://computationalcreativity.net/iccc2010/papers/jordanous-2.pdf).  
 
 I would guess that there is a second inspiration that motivates some researchers: the delight and surprise that many of us felt when seeing an unexpected output of a system. It feels magical when your algorithm produces results you didn't expect, sometimes [as the result of a bug](https://siggraphfails.tumblr.com/) that produces something wonderful, sometimes as the
 result of [unintended consequences of your loss function](https://arxiv.org/abs/1803.03453), and sometimes simply as the result of a model that has a lot of parameters.  But then you go and figure out what the reason was, and it no longer seems so mysterious.
@@ -55,9 +55,6 @@ result of [unintended consequences of your loss function](https://arxiv.org/abs/
 
 Haven't we already got results that are novel, surprising, and creative?
 ====
-
-**TODO: Colton links**
-
 
 If the goal of this research is to produce outputs that are novel, useful, and/or surprising, don't we already have this? Or, **how will future research be different from what we already have?**
 
