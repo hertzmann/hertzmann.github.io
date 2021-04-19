@@ -90,10 +90,10 @@ This is exactly the situation with computer algorithms: computers precisely foll
 
 Is it possible to be considered creative if you don't have [free will](https://en.wikipedia.org/wiki/Free_will)? I don't see how.
 
-(The thought experiment above is similar to the ["Chinese room" argument](https://en.wikipedia.org/wiki/Chinese_room).)
 
 Personally, I think that creativity is primarily a compliment that we give to people who made unexpected leaps of intuition. It's in the word itself: they "created" something, seemingly out of nothing.  We can say a lot of useful things we can say about the behaviors of human creativity.  But this phenomenology is not the essence of creativity. If we could fully state the rules of creativity, we would not call it creativity any more, and maybe we will have disproven Free Will as well. Such an unlikely discovery would have massive enormous philosophical and practical implications beyond just making nice artworks.
 
+(The thought experiment above is similar to the ["Chinese room" argument](https://en.wikipedia.org/wiki/Chinese_room).)
 
 
 
@@ -103,9 +103,11 @@ Why isn't this computer graphics/NLP/HCI?
 
 I would imagine that research in CC would aim to produce _general-purpose CC_ algorithms, akin to how numerical optimization research has produced optimization algorithms for broad classes of problems. Maybe these CC algorithms would employ human-like behaviors and strategies (finding disparate connections, exploring the boundaries and hidden assumptions of the problem), maybe not. But I haven't seen any work like this at CC conferences. This could be because I haven't read many CC papers.
 
-The technical content of the CC papers I've read looks to me like it could have fit into the traditional research areas. For example, some papers present algorithms for synthesizing artistic images, which is common in computer graphics research.  [HCI research has an extensive history of directly studying human creativity and how computers can support it](https://dl.acm.org/doi/abs/10.1145/1323688.1323689).  
-
 ([Open-ended search](https://www.springer.com/gp/book/9783319155234) seems very intriguing, yet I haven't seen it explored in the CC literature that I've looked at. Also, while Stanley and Lehman make very persuasive arguments that open-ended search isn't just optimization, operationalizing that seems extremely slippery. Nonetheless, I find it intriguing and have some vague research ideas based on it.)
+
+
+The technical content of the CC papers I've read looks to me like it could have fit into the traditional research areas. Nothing about this work seems specific to CC research. For example, some papers present algorithms for synthesizing artistic images, which is common in computer graphics research.  [HCI research has an extensive history of directly studying human creativity and how computers can support it](https://dl.acm.org/doi/abs/10.1145/1323688.1323689).  
+
 
 
 
