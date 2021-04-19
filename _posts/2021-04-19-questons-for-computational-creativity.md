@@ -69,9 +69,9 @@ Another statement of the goal of CC research is that [the creator of the system 
 </center>
 that surely no one (including Mandelbrot) could have predicted from the math itself. Even after developing a rich theory of chaos and fractals, we can't really explain how "creative" it seems. By any formal definition of CC that I've seen, the Mandelbrot set algorithm is creative.
 
-Likewise, there are many, many other elements of unexpectedly-wonderful behaviors arising from relatively simple systems, like the Karl Sims example above, [this survey paper](https://arxiv.org/abs/1803.03453).
+Indeed, many systems with simple rules can often demonstrate complex, emergent, seemingly-intelligent  behavior  (e.g., [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), Mandelbrot set, [flocking](https://en.wikipedia.org/wiki/Flocking_(behavior))).
 
-Harold Cohen [went through similar steps](https://www.youtube.com/watch?v=_Xbt8lzWxIQ), first thinking that a procedural algorithm that made good artworks could be an artist, then realizing that all the works started to look similar, and then adding the additional criterion that the system must have its own changing worldview to be an artist. To me, this all looks like continually moving the goalposts.
+Harold Cohen [went through similar stages](https://www.youtube.com/watch?v=_Xbt8lzWxIQ), first thinking that a procedural algorithm that made good artworks could be an artist, then realizing that all the works started to look similar, and then adding the additional criterion that the system must have its own changing worldview to be an artist. To me, this all looks like continually moving the goalposts.
 
 **I think that process and context are crucial to judging creativity.** A painting is less impressive if you learn that it was done by filling in a [paint-by-numbers](https://en.wikipedia.org/wiki/Paint_by_number). If a person stumbles on a solution or an artistic style out of the blue, that's a whole lot more impressive than it if came after years of study of related solutions. (The [same point was made by Colton](https://www.aaai.org/Library/Symposia/Spring/2008/ss08-03-003.php).) Studies that show two images and ask blinded observers which is more creative or artistic have little value (possibly a topic for another blog post).
 But, conversely, performing studies on AI-generated work [has its own problems](https://doi.org/10.1016/j.isci.2020.101515).
@@ -86,7 +86,7 @@ Imagine the following thought experiment.
 
 You hire an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn't understand Spanish-must follow the rules that you set precisely to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, the worker produces a poem that is widely lauded as original and wonderful. Is the worker creative? 
 
-This is exactly the situation with computer algorithms: computers precisely follow our instructions, unfailingly without deviation. Unexpected results are due to the fundamental difficulty of predicting the outcomes of complex systems (and also due to bugs, and confusing APIs, etc). Indeed, even systems with simple rules can often demonstrate complex, emergent, seemingly-intelligent  behavior  (e.g., [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), Mandelbrot set, [flocking](https://en.wikipedia.org/wiki/Flocking_(behavior))).
+This is exactly the situation with computer algorithms: computers precisely follow our instructions, unfailingly without deviation. Unexpected results are due to the fundamental difficulty of predicting the outcomes of complex systems (and also due to bugs, and confusing APIs, etc).
 
 Is it possible to be considered creative if you don't have [free will](https://en.wikipedia.org/wiki/Free_will)? I don't see how.
 
