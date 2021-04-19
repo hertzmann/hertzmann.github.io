@@ -12,9 +12,9 @@ image: /images/sims.jpg
 
 There's a small but active research community that works on computational creativity (CC). I haven't paid close attention to it, but it seems to comprise a group of eager and earnest researchers who are excited about this field, which is great.
 
-Yet, I often find myself confused about the goals for the field.  For example, I was invited to speak at one of the workshops; I told the organizers that I was skeptical about this field, but they said they welcomed a critical perspective. In [my talk](https://youtu.be/qX9lLDOLG88?t=409), I asked some of these questions. While it was a very nice workshop, I left the workshop not feeling any closer to understanding. (This may be a symptom of virtual-only conferences, whereas it would have been easier to have these sorts of casual discussions with an in-person meeting.)
+Yet, I often find myself confused about the goals for the field.  For example, I was invited to speak at one of the workshops; I told the organizers that I was skeptical about this field, but they said they welcomed a critical perspective. In [my talk](https://youtu.be/qX9lLDOLG88?t=409), I asked some of these questions. While it was a very nice workshop, I left the workshop not feeling any closer to having any answers. (It's too bad the workshop was virtual.)
 
-Surely the people working in this field have thought about these questions and have answers-at least in their grant proposals-and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here. (And, if people haven't thought about these questions, they probably should.  Making these arguments well is important to drawing people into the field, raising grant money, getting jobs and tenure, etc.) 
+Surely the people working in this field have thought about these questions and have answers)–at least in their grant proposals–and I just haven't seen them. In any field, we motivate by some combination of vision, hopefulness, and proofs-of-concept, and maybe I'm just too blinkered to see those things here. (And, if people haven't thought about these questions, they probably should.  Making these arguments well is important to drawing people into the field, raising grant money, getting jobs and tenure, etc.) 
 
 
 
