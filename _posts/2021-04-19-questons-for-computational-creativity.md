@@ -91,7 +91,7 @@ This is exactly the situation with computer algorithms: computers precisely foll
 Is it possible to be considered creative if you don't have [free will](https://en.wikipedia.org/wiki/Free_will)? I don't see how.
 
 
-Personally, I think that creativity is primarily a compliment that we give to people who made unexpected leaps of intuition. It's in the word itself: they "created" something, seemingly out of nothing.  We can say a lot of useful things we can say about the behaviors of human creativity.  But this phenomenology is not the essence of creativity. If we could fully state the rules of creativity, we would not call it creativity any more, and maybe we will have disproven Free Will as well. Such an unlikely discovery would have massive enormous philosophical and practical implications beyond just making nice artworks.
+Personally, I think that creativity is primarily a compliment that we give to people who made unexpected leaps of intuition. It's in the word itself: they "created" something, seemingly out of nothing.  We can say a lot of useful things about the behaviors of human creativity.  But this phenomenology is not the essence of creativity. If we could fully state the rules of creativity, we would not call it creativity any more, and maybe we will have disproven Free Will as well. Such an unlikely discovery would have massive enormous philosophical and practical implications beyond just making nice artworks.
 
 (The thought experiment above is similar to the ["Chinese room" argument](https://en.wikipedia.org/wiki/Chinese_room).)
 
