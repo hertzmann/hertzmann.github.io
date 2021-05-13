@@ -38,7 +38,15 @@ A few years ago, I wondered if perhaps understanding line drawing is a consequen
 
 Importantly, this model was solely trained on photographs, not on drawings. And, when I tried it on some line drawings, I got similar results!
 
-![Depth estimation results on drawings](/images/howtodraw/midas-drawing.jpg)
+![Depth estimation results on photos](/images/howtodraw/midas-real2.jpg)
+
+<center>
+<figure>
+  <img src="../../../images/midas-drawing.jpg" alt="Depth estimation results on drawings"/>
+  <figcaption align="center"><i>Left drawing by Juan Gris, right drawing &copy; <a href="https://stock.adobe.com/images/pedestrian-street-old-city-church-alley-historic-cityscape/76675447">Terriana</a>a> </i></figcaption>
+</figure>
+</center>
+
 
 This shows that perception of line drawing must be somehow a consequence of real-world perception. But why?
 
@@ -72,7 +80,14 @@ In other words, the key idea is that, for a line drawing, _there exists_ a reali
 
 This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm](https://ieeexplore.ieee.org/abstract/document/1457470) (in OpenCV):
 
-![Valleys of a photograph](/images/howtodraw/photo_valleys.jpg)
+
+<center>
+<figure>
+  <img src="../../../images/photo_valleys.jpg" alt="Valleys of a photograph"/>
+  <figcaption align="center"><i>Photo from Maryse Casol</i></figcaption>
+</figure>
+</center>
+
 
 This hypothesis doesn't say anything about how the vision system actually works. It says that, whatever the vision system is doing for photographs, it's doing basically the same thing for line drawings in the same way.
 
