@@ -62,21 +62,22 @@ We can see that _the drawing is, approximately, a plausible real-world image._ T
 
 | I hypothesize that, for a person who has never seen a picture before, **the human visual system interprets a line drawing as if it were a realistic image, with a lighting and material setup similar to those above.** |
 
+In other words, the key idea is that, for a line drawing, _there exists_ a realistic interpretation of the line drawing. If you see the image on the right, can interpret it as if it were the image on the left:
+
+![Valleys of a 3D model with glossier materials](/images/howtodraw/ david_valleys.jpg)
 
 This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm](https://ieeexplore.ieee.org/abstract/document/1457470) (in OpenCV):
 
-
-![Valleys of a 3D model with glossier materials](/images/howtodraw/david_valleys.jpg)
 ![Valleys of a photograph](/images/howtodraw/photo_valleys.jpg)
 
-This hypothesis doesn't say anything about how the vision system actually works. It says that, whatever the vision system is doing, it does basically the same thing for a line drawing as it does for the corresponding realistic 3D rendering.
+This hypothesis doesn't say anything about how the vision system actually works. It says that, whatever the vision system is doing for photographs, it's doing basically the same thing for line drawings in the same way.
 
 
 
 Future directions
 ====
 
-This hypothesis could be tested by fMRI experiments with human subjects. I predict that the neural responses to a line drawing will be very similar to those of corresponding 3D renderings. There are some previous neuroscience studies that have been performed comparing neural responses of line drawings to photographs; these methodologies could be used to test my predictions. This could also be used to assess what kinds of lighting and material setups best match line drawings.
+This hypothesis could be tested by brain-imaging experiments with human subjects. I predict that the neural responses to a line drawing will be very similar to those of corresponding 3D renderings. There are some previous neuroscience studies that have been performed comparing neural responses of line drawings to photographs; these methodologies could be used to test my predictions. This could also be used to assess what kinds of lighting and material setups best match line drawings.
 
 This theory focuses solely on a very basic line drawing style. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this?
 
