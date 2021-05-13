@@ -16,7 +16,7 @@ This page summarizes my new hypothesis about why line drawings work, which was p
 <p><a href="#citations"><b>Paper links</b></a></p>
 
 
-**We begin with a mystery.** We have eyes and vision in order to help us navigate and survive in the real world. Evolution gives us abilities to quickly and accurately understand images of the real world. If you see a picture of the forest at night in the fog, you can immediately tell what it is and recognize objects in the scene. Being able to accurately, quickly, and continually understand the world around us helps us find food, avoid danger, and live together with other people.  Mistakes in vision–like hallucinating something that isn't there–can lead to misunderstandings, accidents, or even death.
+**We begin with a mystery.** We have eyes and vision in order to help us navigate and survive in the real world. Evolution gives us abilities to quickly and accurately understand images of the real world. If you see a picture of the forest at night in the fog, you can immediately tell what it is and recognize objects in the scene. Being able to accurately, quickly, and continually understand the world around us helps us find food, avoid danger, and live together with other people.  Mistakes in vision–like hallucinating something that isn't there–can lead to misunderstandings, accidents, and even death.
 
 It's not too surprising that we can understand photographs, since they look a lot like the real world. But what about line drawings? These look nothing like the real world. We don't see black pen outlines walking around on white backgrounds.  Yet, we can understand drawings just as easily as we can understand photographs.  We see shape in drawings rather than just seeing them as marks of ink on a page. Why would this be?
 
@@ -28,7 +28,7 @@ It's not too surprising that we can understand photographs, since they look a lo
 If you can understand real images, you can understand basic line drawings
 =====
 
-[One influential philosophical theory](https://en.wikipedia.org/wiki/Languages_of_Art) holds that all artist styles are learned from our cultures and upbringings.  We learn to understand line drawings when we are children, in the same way that we learn to understand written language. Everything about art is a product of our cultures.
+[One influential philosophical theory](https://en.wikipedia.org/wiki/Languages_of_Art) holds that all artistic styles are learned from our cultures and upbringings.  We learn to understand line drawings when we are children, in the same way that we learn to understand written language. Everything about art is a product of our cultures.
 
 Yet, line drawings exist throughout many different historical cultures, even preceding civilization. Cave paintings made by our prehistoric ancestors using outline drawing and are easily recognizable to us today. Moreover, [numerous studies with members of tribal societies](https://journals.sagepub.com/doi/10.1068/p040391) show that someone who has never seen a picture can understand what's in a line drawing.
 
