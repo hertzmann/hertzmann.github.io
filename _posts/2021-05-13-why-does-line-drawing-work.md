@@ -18,7 +18,7 @@ Yet, line drawings exist throughout many different historical cultures, even pre
 
 I wondered if perhaps understanding line drawing is a consequence of real-world vision. Specifically, I hypothesize that **if we could train a computer vision algorithm to understand 3D shape in real-world imagery just as well as humans, then that algorithm would also be able to understand shape in line drawings.**  While our current computer vision algorithms aren't nearly as good as humans, I tried this out with [a method that was state-of-the-art at the time](https://arxiv.org/abs/1907.01341v1). This deep neural network predicts relative depth for each pixel in a photograph:
 
-![Depth estimation results on photos](/images/howtodraw/midas-real.jpg)
+![Depth estimation results on photos](/images/howtodraw/midas-real2.jpg)
 
 Importantly, this model was solely trained on photographs, not on drawings. And, when I tried it on some line drawings, I got similar results!
 
@@ -66,6 +66,7 @@ This hypothesis could be tested by fMRI experiments with human subjects. I predi
 This theory focuses solely on a very basic line drawing style, treating it as a form of **abstracted shading**. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this?
 
 <a name="citations">
+	
 Citations
 =====
 
