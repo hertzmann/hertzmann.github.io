@@ -44,7 +44,7 @@ If we draw a picture of this image with a black pen on white paper, the simplest
 
 We can see that _the drawing is, approximately, a plausible real-world image._ That is, it's not something that we're likely to see around us. But we are able to understand realistic photos of things we've never seen before-even when the image is corrupted with fog or rain or image noise-and this rendering setup shows how a realistic setup can approximately produce line drawings. [This model of line drawing originated in computer graphics research.](/2020/09/13/how-to-draw-pictures-suggestive-contours.html)
 
-This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm]() (in OpenCV):
+This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm](https://ieeexplore.ieee.org/abstract/document/1457470) (in OpenCV):
 
 
 
