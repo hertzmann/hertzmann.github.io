@@ -6,8 +6,9 @@ This page summarizes my new hypothesis about why line drawings work, which was p
 
 It's not too surprising that we can understand photographs, since they look a lot like the real world. But what about line drawings? These look nothing like the real world. We don't see black pen outlines walking around on white backgrounds.  Yet, we can understand drawings just as easily as we can understand photographs. Why would this be?
 
+<center>
 ![Drawing of a cartoon fox](/images/howtodraw/fox.jpg)
-
+</center>
 
 
 If you can understand real images, you can understand basic line drawings
