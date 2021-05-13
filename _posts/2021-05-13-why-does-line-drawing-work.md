@@ -80,7 +80,7 @@ This hypothesis doesn't say anything about how the vision system actually works.
 Future directions
 ====
 
-This hypothesis could be tested by brain-imaging experiments with human subjects. I predict that the neural responses to a line drawing will be very similar to those of corresponding 3D renderings. There are some previous neuroscience studies that have been performed comparing neural responses of line drawings to photographs; these methodologies could be used to test my predictions. This could also be used to assess what kinds of lighting and material setups best match line drawings.
+This hypothesis could be tested by brain-imaging experiments with human subjects. I predict that the neural responses to a line drawing will be very similar to those of corresponding 3D renderings. There are some previous neuroscience studies that have been performed comparing neural responses of line drawings to photographs; these methodologies could be used to test my predictions. This could also be used to assess what kinds of lighting and material setups best match line drawings.  I don't have the expertise or resources to perform these experiments, though I'd be interested in talking with people who do.
 
 This theory focuses solely on a very basic line drawing style. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this?
 
