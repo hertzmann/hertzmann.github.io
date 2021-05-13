@@ -74,7 +74,7 @@ We can see that _the drawing is, approximately, a plausible real-world image._ T
 
 In other words, the key idea is that, for a line drawing, _there exists_ a realistic interpretation of the line drawing. If you see the image on the right, can interpret it as if it were the image on the left:
 
-![Valleys of a 3D model with glossier materials](/images/howtodraw/ david_valleys.jpg)
+![Valleys of a 3D model with glossier materials](/images/howtodraw/david_valleys.jpg)
 
 This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm](https://ieeexplore.ieee.org/abstract/document/1457470) (in OpenCV):
 
