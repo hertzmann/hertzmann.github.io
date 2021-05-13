@@ -111,7 +111,7 @@ The second paper expands on how this hypothesis relates to theories based on edg
 
 * **A. Hertzmann. The Role of Edges in Line Drawing Perception. _Perception_. 2021. 50(3):266-275.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006621994407?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2101.09376)
 
-This theory is based on computer graphics research on abstracted shading. Here are my favorite papers on it (I'm biased about the third one):
+This theory is based on [computer graphics research on abstracted shading](/2020/09/13/how-to-draw-pictures-suggestive-contours.html). Here are my favorite papers on it (I'm biased about the third one):
 
 * **D. DeCarlo, A. Finkelstein, S. Rusinkiewicz, A. Santella.
 Suggestive Contours for Conveying Shape.
