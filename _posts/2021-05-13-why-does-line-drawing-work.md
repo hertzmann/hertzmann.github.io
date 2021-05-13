@@ -11,7 +11,9 @@ image: /images/howtodraw/fox.jpg
 
 # Why Does Line Drawing Work? A Realism Hypothesis
 
-This page summarizes my new hypothesis about why line drawings work, which was published in a vision science journal in 2020 and 2021. You can also watch [a presentation of this work on YouTube](https://www.youtube.com/watch?v=FxrwJFjGyP4).  <a href="#citations"><b>Paper links.</b></a>
+This page summarizes my new hypothesis about why line drawings work, which was published in a vision science journal in 2020 and 2021. You can also watch [a presentation of this work on YouTube](https://www.youtube.com/watch?v=FxrwJFjGyP4).  
+
+<center><a href="#citations"><b>Paper links.</b></a></center>
 
 **We begin with a mystery.** We have eyes and vision in order to help us navigate and survive in the real world. Evolution gives us abilities to quickly and accurately understand images of the real world. If you see a picture of the forest at night in the fog, you can immediately tell what it is and recognize objects in the scene. Being able to accurately, quickly, and continually understand the world around us helps us find food, avoid danger, and live together with other people.  Mistakes in vision–like hallucinating something that isn't there–can lead to misunderstandings, accidents, or even death.
 
