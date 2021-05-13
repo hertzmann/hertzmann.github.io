@@ -1,3 +1,14 @@
+---
+layout: page
+title: Why Does Line Drawing Work?
+summary: A computer graphics theory gives insight into human perception of art
+author:  AaronHertzmann
+image: /images/howtodraw/fox.jpg
+---
+
+
+
+
 # Why Does Line Drawing Work? A Realism Hypothesis
 
 This page summarizes my new hypothesis about why line drawings work, which was published in a vision science journal in 2020 and 2021. You can also watch [a presentation of this work on YouTube](https://www.youtube.com/watch?v=FxrwJFjGyP4).  <a href="#citations"><b>Paper links.</b></a>
@@ -66,7 +77,7 @@ This hypothesis could be tested by fMRI experiments with human subjects. I predi
 This theory focuses solely on a very basic line drawing style, treating it as a form of **abstracted shading**. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this?
 
 <a name="citations">
-	
+
 Citations
 =====
 
