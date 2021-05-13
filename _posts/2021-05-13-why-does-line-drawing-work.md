@@ -41,7 +41,7 @@ Importantly, this model was solely trained on photographs, not on drawings. And,
 <center>
 <figure>
   <img src="../../../images/howtodraw/midas-drawing.jpg" alt="Depth estimation results on drawings"/>
-  <figcaption align="center"><i>Left drawing by Juan Gris, right drawing &copy; <a href="https://stock.adobe.com/images/pedestrian-street-old-city-church-alley-historic-cityscape/76675447">Terriana</a>a> </i></figcaption>
+  <figcaption align="center"><i>Left drawing by Juan Gris, right drawing &copy; <a href="https://stock.adobe.com/images/pedestrian-street-old-city-church-alley-historic-cityscape/76675447">Terriana</a> </i></figcaption>
 </figure>
 </center>
 
@@ -81,7 +81,7 @@ This setup works with various different settings of materials and lighting; here
 
 <center>
 <figure>
-  <img src="../../../images/photo_valleys.jpg" alt="Valleys of a photograph"/>
+  <img src="../../../images/howtodraw/photo_valleys.jpg" alt="Valleys of a photograph"/>
   <figcaption align="center"><i>Photo from Maryse Casol</i></figcaption>
 </figure>
 </center>
