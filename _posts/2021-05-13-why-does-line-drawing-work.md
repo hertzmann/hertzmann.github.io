@@ -38,11 +38,9 @@ A few years ago, I wondered if perhaps understanding line drawing is a consequen
 
 Importantly, this model was solely trained on photographs, not on drawings. And, when I tried it on some line drawings, I got similar results!
 
-![Depth estimation results on photos](/images/howtodraw/midas-real2.jpg)
-
 <center>
 <figure>
-  <img src="../../../images/midas-drawing.jpg" alt="Depth estimation results on drawings"/>
+  <img src="../../../images/howtodraw/midas-drawing.jpg" alt="Depth estimation results on drawings"/>
   <figcaption align="center"><i>Left drawing by Juan Gris, right drawing &copy; <a href="https://stock.adobe.com/images/pedestrian-street-old-city-church-alley-historic-cityscape/76675447">Terriana</a>a> </i></figcaption>
 </figure>
 </center>
