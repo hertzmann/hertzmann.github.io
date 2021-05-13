@@ -47,11 +47,13 @@ We can see that _the drawing is, approximately, a plausible real-world image._ T
 
 This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm]() (in OpenCV):
 
-![Valleys of a 3D model with glossier materials](/images/howtodraw/david_valleys.jpg)
-![Valleys of a photograph](/images/howtodraw/photo_valleys.jpg)
 
 
 | I hypothesize that, for a person who has never seen a picture before, **the human visual system interprets a line drawing as if it were a realistic image, with a lighting and material setup similar to those above.** |
+
+
+![Valleys of a 3D model with glossier materials](/images/howtodraw/david_valleys.jpg)
+![Valleys of a photograph](/images/howtodraw/photo_valleys.jpg)
 
 This hypothesis doesn't say anything about how the vision system actually works. It says that, whatever the vision system is doing, it does basically the same thing for a line drawing as it does for the corresponding realistic 3D rendering.
 
@@ -68,10 +70,10 @@ This theory focuses solely on a very basic line drawing style, treating it as a 
 Citations
 =====
 
-The theory described here is first described in the following paper:
+These ideas were first described in the following paper:
 
-* Hertzmann A. Why Do Line Drawings Work? A Realism Hypothesis. _Perception_. 2020. 49(4):439-451. [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2002.06260)
+* **Hertzmann A. Why Do Line Drawings Work? A Realism Hypothesis. _Perception_. 2020. 49(4):439-451.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2002.06260)
 
 The second paper expands on how this hypothesis relates to theories based on edge detection. It is meant to be self-contained, and may be easier to read:
 
-* Hertzmann A. The Role of Edges in Line Drawing Perception. _Perception_. 2021. 50(3):266-275. [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006621994407?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2101.09376)
+* **Hertzmann A. The Role of Edges in Line Drawing Perception. _Perception_. 2021. 50(3):266-275.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006621994407?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2101.09376)
