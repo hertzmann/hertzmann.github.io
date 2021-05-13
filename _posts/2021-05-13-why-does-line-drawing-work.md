@@ -6,9 +6,7 @@ This page summarizes my new hypothesis about why line drawings work, which was p
 
 It's not too surprising that we can understand photographs, since they look a lot like the real world. But what about line drawings? These look nothing like the real world. We don't see black pen outlines walking around on white backgrounds.  Yet, we can understand drawings just as easily as we can understand photographs. Why would this be?
 
-<center>
 ![Drawing of a cartoon fox](/images/howtodraw/fox.jpg)
-</center>
 
 
 If you can understand real images, you can understand basic line drawings
@@ -28,7 +26,7 @@ Importantly, this model was solely trained on photographs, not on drawings. And,
 
 This shows that perception of line drawing must be somehow a consequence of real-world perception. But what is the connection?
 
-(Many vision researchers have hypothesized that line drawing perception is a consequence of edge receptors in the early stages of the human vision system, but [I think this is implausible for many reasons.](/2020/04/19/lines-as-edges.html))
+(Many vision researchers have informally hypothesized that line drawing perception is a consequence of edge receptors in the early stages of the human vision system, but [I think this is implausible for many reasons.](/2020/04/19/lines-as-edges.html))
 
 
 Line drawing as Abstracted Shading
@@ -38,7 +36,7 @@ It turns out that there's a way to create line drawings that roughly looks like 
 
 Set up a 3D object in front of you. Paint it white. Turn off all the light sources, except for a headlamp that you wear on your forehead. If the object is a model of a cow, it may look like this:
 
-![Diffuse rendering of a cow](/images/howtodraw/cow_diffuse.png)
+![Diffuse rendering of a cow](/images/howtodraw/cow_diffuse-sm.jpg)
 
 If we draw a picture of this image with a black pen on white paper, the simplest thing to do is to draw lines through the darkest regions. And that picture might look like this:
 
