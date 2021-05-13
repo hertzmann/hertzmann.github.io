@@ -17,7 +17,9 @@ This page summarizes my new hypothesis about why line drawings work, which was p
 
 It's not too surprising that we can understand photographs, since they look a lot like the real world. But what about line drawings? These look nothing like the real world. We don't see black pen outlines walking around on white backgrounds.  Yet, we can understand drawings just as easily as we can understand photographs.  We see shape in drawings rather than just seeing them as marks of ink on a page. Why would this be?
 
-![Drawing of a cartoon fox](/images/howtodraw/fox.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/howtodraw/fox.jpg" alt="Cartoon fox">
+</center>
 
 
 If you can understand real images, you can understand basic line drawings
@@ -47,11 +49,14 @@ It turns out that there's a way to create line drawings that is based on _possib
 
 Set up a 3D object in front of you. Paint it white. Turn off all the light sources, except for a headlamp that you wear on your forehead. If the object is a model of a cow, it may look like this:
 
-![Diffuse rendering of a cow](/images/howtodraw/cow_diffuse-sm.jpg)
+<center>
+<img src="https://aaronhertzmann.com/images/howtodraw/cow_diffuse-sm.jpg" alt="Diffuse rendering of a cow">
+</center>
 
 If we draw a picture of this image with a black pen on white paper, the simplest thing to do is to draw lines through the darkest regions. And that picture might look like this:
 
-![Line rendering of a cow](/images/howtodraw/cow_thick.jpg)
+<img src="https://aaronhertzmann.com/images/howtodraw/cow_thick.jpg" alt="Line rendering of a cow">
+</center>
 
 We can see that _the drawing is, approximately, a plausible real-world image._ That is, it's not something that we're likely to see around us. But it's something that we _could_ see in the real world... and we are able to understand realistic photos of things we've never seen before-even when the image is corrupted with fog or rain or image noise-and this rendering setup shows how a realistic setup can approximately produce line drawings. [This model of line drawing originated in computer graphics research.](/2020/09/13/how-to-draw-pictures-suggestive-contours.html)
 
@@ -73,11 +78,11 @@ Future directions
 
 This hypothesis could be tested by fMRI experiments with human subjects. I predict that the neural responses to a line drawing will be very similar to those of corresponding 3D renderings. There are some previous neuroscience studies that have been performed comparing neural responses of line drawings to photographs; these methodologies could be used to test my predictions. This could also be used to assess what kinds of lighting and material setups best match line drawings.
 
-This theory focuses solely on a very basic line drawing style, treating it as a form of **abstracted shading**. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this?
+This theory focuses solely on a very basic line drawing style. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this?
 
 <a name="citations">
 
-Citations
+Papers
 =====
 
 These ideas were first described in the following paper:
@@ -91,14 +96,14 @@ The second paper expands on how this hypothesis relates to theories based on edg
 This theory is based on computer graphics research on abstracted shading. Here are my favorite papers on it (I'm biased about the third one):
 
 * **D. DeCarlo, A. Finkelstein, S. Rusinkiewicz, A. Santella.
-Suggestive Contours for Conveying Shape
+Suggestive Contours for Conveying Shape.
 ACM Transactions on Graphics (Proc. SIGGRAPH 2003), Vol. 22, No. 3, pp. 848-855, July 2003.** 
 [Project page](https://gfx.cs.princeton.edu/proj/sugcon/)
 
-* **Y. Lee, L. Markosian, S. Lee, J. F. Hughes. 2007. Line drawings via abstracted shading. ACM Trans. Graph. 26, 3 (July 2007)**
+* **Y. Lee, L. Markosian, S. Lee, J. F. Hughes. 2007. Line drawings via abstracted shading. ACM Trans. Graph. 26, 3 (July 2007).**
 [Paper](https://dl.acm.org/doi/10.1145/1276377.1276400)
 
 * **T. Goodwin, I. Vollick, A. Hertzmann.  Isophote Distance: A Shading Approach to Artistic Stroke Thickness. NPAR 2007.**
 [Project page](https://www.dgp.toronto.edu/~todd/isophote/)
 
-Also, a significant precursor is the work by [Pearson and Robinson](https://ieeexplore.ieee.org/abstract/document/1457470).
+Also, a significant precursor is the 1985 work by [Pearson and Robinson](https://ieeexplore.ieee.org/abstract/document/1457470).
