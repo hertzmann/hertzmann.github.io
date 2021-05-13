@@ -55,6 +55,7 @@ Set up a 3D object in front of you. Paint it white. Turn off all the light sourc
 
 If we draw a picture of this image with a black pen on white paper, the simplest thing to do is to draw lines through the darkest regions. And that picture might look like this:
 
+<center>
 <img src="https://aaronhertzmann.com/images/howtodraw/cow_thick.jpg" alt="Line rendering of a cow">
 </center>
 
