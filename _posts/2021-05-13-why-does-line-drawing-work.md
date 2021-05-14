@@ -11,12 +11,21 @@ image: /images/howtodraw/fox.jpg
 
 # Why Does Line Drawing Work? A Realism Hypothesis
 
-This page summarizes my new hypothesis about why line drawings work, which was published in a vision science journal in 2020 and 2021. You can also watch [a presentation of this work on YouTube](https://www.youtube.com/watch?v=FxrwJFjGyP4).  
+This page summarizes my new hypothesis about why line drawings work, published in these papers: 
+These ideas were first described in the following paper:
 
-<p><a href="#citations"><b>Paper links</b></a></p>
+* **A. Hertzmann. Why Do Line Drawings Work? A Realism Hypothesis. _Perception_. 2020. 49(4):439-451.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2002.06260)
 
+The second paper expands on how this hypothesis relates to theories based on edge detection. It is meant to be self-contained, and may be easier to read, though it covers fewer topics:
 
-**We begin with a mystery.** We have eyes and vision in order to help us navigate and survive in the real world. Evolution gives us abilities to quickly and accurately understand images of the real world. If you see a picture of the forest at night in the fog, you can immediately tell what it is and recognize objects in the scene. Being able to accurately, quickly, and continually understand the world around us helps us find food, avoid danger, and live together with other people.  Mistakes in vision–like hallucinating something that isn't there–can lead to misunderstandings, accidents, and even death.
+* **A. Hertzmann. The Role of Edges in Line Drawing Perception. _Perception_. 2021. 50(3):266-275.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006621994407?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2101.09376)
+
+You can also watch [a presentation of this work on YouTube](https://www.youtube.com/watch?v=FxrwJFjGyP4).  
+
+We begin with a mystery
+====
+
+We have eyes and vision in order to help us navigate and survive in the real world. Evolution gives us abilities to quickly and accurately understand images of the real world. If you see a picture of the forest at night in the fog, you can immediately tell what it is and recognize objects in the scene. Being able to accurately, quickly, and continually understand the world around us helps us find food, avoid danger, and live together with other people.  Mistakes in vision–like hallucinating something that isn't there–can lead to misunderstandings, accidents, and even death.
 
 It's not too surprising that we can understand photographs, since they look a lot like the real world. But what about line drawings? These look nothing like the real world. We don't see black pen outlines walking around on white backgrounds.  Yet, we can understand drawings just as easily as we can understand photographs.  We see shape in drawings rather than just seeing them as marks of ink on a page. Why would this be?
 
@@ -98,18 +107,8 @@ This hypothesis could be tested by brain-imaging experiments with human subjects
 
 This theory focuses solely on a very basic line drawing style. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this? This probably involves some experience and cultural background, but is not purely cultural. 
 
-<a name="citations">
-
-Papers
-=====
-
-These ideas were first described in the following paper:
-
-* **A. Hertzmann. Why Do Line Drawings Work? A Realism Hypothesis. _Perception_. 2020. 49(4):439-451.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2002.06260)
-
-The second paper expands on how this hypothesis relates to theories based on edge detection. It is meant to be self-contained, and may be easier to read:
-
-* **A. Hertzmann. The Role of Edges in Line Drawing Perception. _Perception_. 2021. 50(3):266-275.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006621994407?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2101.09376)
+Computer Graphics References
+====
 
 This theory is based on [computer graphics research on abstracted shading](/2020/09/13/how-to-draw-pictures-suggestive-contours.html). Here are my favorite papers on it (I'm biased about the third one):
 
@@ -125,3 +124,9 @@ ACM Transactions on Graphics (Proc. SIGGRAPH 2003), Vol. 22, No. 3, pp. 848-855,
 [Project page](https://www.dgp.toronto.edu/~todd/isophote/)
 
 Also, a significant precursor is the 1985 work by [Pearson and Robinson](https://ieeexplore.ieee.org/abstract/document/1457470).
+
+For a more complete tutorial/survey on line drawing algorithms, see:
+
+* **P. Bénard, A. Hertzmann.
+Line Drawings from 3D Models: A Tutorial.
+_Foundations and Trends in Computer Graphics and Vision._ Volume 11, Issue 1-2. 2019.**  [Official paper link](https://www.nowpublishers.com/article/Details/CGV-075), [arXiv preprint](https://arxiv.org/abs/1810.01175)
