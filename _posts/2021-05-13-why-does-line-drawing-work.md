@@ -114,13 +114,13 @@ This theory is based on [computer graphics research on abstracted shading](/2020
 
 * **D. DeCarlo, A. Finkelstein, S. Rusinkiewicz, A. Santella.
 Suggestive Contours for Conveying Shape.
-ACM Transactions on Graphics (Proc. SIGGRAPH 2003), Vol. 22, No. 3, pp. 848-855, July 2003.** 
+ACM Transactions on Graphics. Vol. 22, No. 3. July 2003.** 
 [Project page](https://gfx.cs.princeton.edu/proj/sugcon/)
 
-* **Y. Lee, L. Markosian, S. Lee, J. F. Hughes. 2007. Line drawings via abstracted shading. ACM Trans. Graph. 26, 3 (July 2007).**
+* **Y. Lee, L. Markosian, S. Lee, J. F. Hughes. Line drawings via abstracted shading. ACM Transactions on Graphics. Vol. 26, No. 3. July 2007.**
 [Paper](https://dl.acm.org/doi/10.1145/1276377.1276400)
 
-* **T. Goodwin, I. Vollick, A. Hertzmann.  Isophote Distance: A Shading Approach to Artistic Stroke Thickness. NPAR 2007.**
+* **T. Goodwin, I. Vollick, A. Hertzmann.  Isophote Distance: A Shading Approach to Artistic Stroke Thickness. Proc. NPAR 2007.**
 [Project page](https://www.dgp.toronto.edu/~todd/isophote/)
 
 Also, a significant precursor is the 1985 work by [Pearson and Robinson](https://ieeexplore.ieee.org/abstract/document/1457470).
