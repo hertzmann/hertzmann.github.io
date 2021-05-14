@@ -81,7 +81,7 @@ We can see that _the drawing is, approximately, a plausible real-world image._ T
 
 | I hypothesize that, for a person who has never seen a picture before, **the human visual system interprets a line drawing as if it were a realistic image, with a lighting and material setup similar to those above.** |
 
-In other words, the key idea is that, for a line drawing, _there exists_ a realistic interpretation of the line drawing. If you see the image on the right, can interpret it as if it were the image on the left:
+In other words, for a line drawing, _there exists_ a realistic interpretation of the line drawing. If you see the image on the right, can interpret it as if it were the image on the left:
 
 ![Valleys of a 3D model with glossier materials](/images/howtodraw/david_valleys.jpg)
 
