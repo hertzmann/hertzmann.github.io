@@ -107,10 +107,10 @@ This hypothesis could be tested by brain-imaging experiments with human subjects
 
 This theory focuses solely on a very basic line drawing style. In the paper, I discuss how several other types of line drawings-such as white-on-black drawing and hatching-can also be understood as abstracted shading. But the range of visual artistic styles we can understand is vast; we seem to have the ability to visually separate style from content. How do we do this? This probably involves some experience and cultural background, but is not purely cultural. 
 
-Computer Graphics References
+Abstracted shading references
 ====
 
-This theory is based on [computer graphics research on abstracted shading](/2020/09/13/how-to-draw-pictures-suggestive-contours.html). Here are my favorite papers on it (I'm biased about the third one):
+This theory is based on [computer graphics research on abstracted shading](/2020/09/13/how-to-draw-pictures-suggestive-contours.html). Here are my favorite papers on this topic (I'm biased about the third one):
 
 * **D. DeCarlo, A. Finkelstein, S. Rusinkiewicz, A. Santella.
 Suggestive Contours for Conveying Shape.
