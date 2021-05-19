@@ -114,8 +114,8 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
  This rule seems widespread in many drawing styles and easy to find in many drawings. For example, in the comic book example above, compare the strokes on the possum that's near to versus the possums that are further away:
 
  <center>
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">
-</center>
+ <img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">
+ </center>
 
  Or see how the strokes on the arm get thicker as they get closer to the viewer.
 
