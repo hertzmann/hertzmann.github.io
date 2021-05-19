@@ -93,11 +93,12 @@ When we were developing this work, I spent a lot of time looking through illustr
 
 Nonetheless, I found many trends that do match our theory.
 
-| **Our theory predicts that line thickness at a point will, generally, be inversely proportional to two quantities:**
-1. the distance from that point to the viewer, and
-2. the curvature of the object at that point.  |
-
-In addition, lines can't be thicker than some maximum thickness determined by the artist's tool and their drawing style.
+<span style="font-size:+1;">LOVE!</span>
+**Our theory predicts that line thickness will, generally, be inversely proportional to two quantities:**
+1. how far away the object is, and
+2. the object's curvature.  
+In addition, lines can't be thicker than some maximum thickness determined by the artist's tool and their drawing style. These values vary along strokes: strokes get thinner at high-curvature points, then thinner at low-curvature points.
+</span>
 
 For example, here is a rendering of some cylinders with our algorithm:
 
