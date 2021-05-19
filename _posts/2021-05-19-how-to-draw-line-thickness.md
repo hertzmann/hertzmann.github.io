@@ -89,10 +89,6 @@ Predictions and Rules for Line Thickness
 
 In my art classes, I don't remember receiving any instruction on drawing line thickness, nor have I found much about it in the art instruction books that I've looked through.  The theory here can give some potentially useful "rules-of-thumb" for line drawing thickness.
 
-When we were developing this work, I spent a lot of time looking through illustrations and comics to see how much they fit this theory. And I found an enormous numbers of different drawing styles, and it was hard to directly test the theory, since we don't have 3D models to go along with the drawings. Moreover, people draw lines in lots of different ways, and there is no right or wrong way; I think viewers are much less sensitive to line thickness, and often artists may not pay attention to nuances of line thickness or they may deliberately stylize lines in very different ways.  When I draw, I find these rules somewhat useful, but they are difficult to follow precisely.
-
-Nonetheless, I found many trends that do match our theory.
-
 <span style="font-size:+1;">
 **Our theory predicts that line thickness will, generally, be inversely proportional to two quantities:**
 1. how far away the object is, and
@@ -108,7 +104,12 @@ For example, here is a rendering of some cylinders with our algorithm:
 
 First, observe that the more-distant cylinders have smaller strokes, because they are further from the viewer. Second, note that the thinner cylinders have thinner strokes than the thicker strokes. This is because the thinner cylinders have higher curvature.  (Technically, the orientation of the curvature also matters. In mathematical terms, it's the normal curvature in the view direction, also called the [radial curvature](https://journals.sagepub.com/doi/10.1068/p130321).) 
 
+When we were developing this work, I spent a lot of time looking through illustrations and comics to see how much they fit this theory. And I found an enormous numbers of different drawing styles, and it was hard to directly test the theory, since we don't have 3D models to go along with the drawings. Moreover, people draw lines in lots of different ways, and there is no right or wrong way; I think viewers are much less sensitive to line thickness, and often artists may not pay attention to nuances of line thickness or they may deliberately stylize lines in very different ways.  When I draw, I find these rules somewhat useful, but they are difficult to follow precisely.
+
+Nonetheless, I found many trends that do match our theory.
+
 From this theory, we can make several predictions, or, perhaps, rules-of-thumb for drawing, and I've seen these repeated throughout many different drawing styles.  As explained in our paper, **all of these rules are consequences of our theory.**
+
 
 1. **Objects further away have smaller strokes.**
 
