@@ -93,7 +93,7 @@ When we were developing this work, I spent a lot of time looking through illustr
 
 Nonetheless, I found many trends that do match our theory.
 
-<span style="font-size:+1;">LOVE!</span>
+<span style="font-size:+1;">
 **Our theory predicts that line thickness will, generally, be inversely proportional to two quantities:**
 1. how far away the object is, and
 2. the object's curvature.  
