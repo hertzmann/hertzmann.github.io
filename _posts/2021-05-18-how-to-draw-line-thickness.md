@@ -1,4 +1,3 @@
-https://web.archive.org/web/19990209000739if_/http://www.cs.swarthmore.edu:80/~binde/art/creation.jpg
 
 
 # How to Draw Pictures, Part 4: Line Thickness
@@ -40,7 +39,8 @@ Building on this basic approach lets us design a range of different artistic sty
 </center>
 
 
-
+I actually first noticed a connection between lighting and brush strokes years earlier, when I came across [a 3D rendering made with rim lighting](https://web.archive.org/web/19990209000739if_/http://www.cs.swarthmore.edu:80/~binde/art/creation.jpg
+). I noticed that the bands of light that appear in rim lighting [often looked to me like delicately curved brush strokes](https://www.google.com/search?q=rim+lighting&tbm=isch).
 
 Reproducing Examples
 -------
