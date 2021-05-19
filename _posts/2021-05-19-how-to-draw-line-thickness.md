@@ -90,9 +90,9 @@ Predictions and Rules for Line Thickness
 In my art classes, I don't remember receiving any instruction on drawing line thickness, nor have I found much about it in the art instruction books that I've looked through.  The theory here can give some potentially useful "rules-of-thumb" for line drawing thickness.
 
 <span style="font-size:150%;">
-**Our theory predicts that line thickness will, generally, be inversely proportional to two quantities:**
-1. how far away the object is, and
-2. the object's curvature.  
+<b>Our theory predicts that line thickness will, generally, be inversely proportional to two quantities:</b>
+<li> how far away the object is, and</li>
+<li the object's curvature.  </li>
 </span>
 
 In addition, lines can't be thicker than some maximum thickness determined by the artist's tool and their drawing style. These values vary along strokes: strokes get thinner at high-curvature points, then thinner at low-curvature points.
