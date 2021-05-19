@@ -93,6 +93,7 @@ In my art classes, I don't remember receiving any instruction on drawing line th
 **Our theory predicts that line thickness will, generally, be inversely proportional to two quantities:**</span>
 1. <span style="font-size:large;">how far away the object is, and</span>
 2. <span style="font-size:large;">the object's curvature.  </span>
+
 In addition, lines can't be thicker than some maximum thickness determined by the artist's tool and their drawing style. These values vary along strokes: strokes get thinner at high-curvature points, then thinner at low-curvature points.
 
 For example, here is a rendering of some cylinders with our algorithm:
@@ -110,7 +111,7 @@ Nonetheless, I found many trends that do match our theory.
 From this theory, we can make several predictions, or, perhaps, rules-of-thumb for drawing, and I've seen these repeated throughout many different drawing styles.  As explained in our paper, **all of these rules are consequences of our theory.**
 
 
-1. **Objects further away have smaller strokes.**
+1. <span style="font-size:large;">**Objects further away have smaller strokes.**</span>
 
     This rule seems widespread in many drawing styles and easy to find in many drawings. For example, in the comic book example above, compare the strokes on the nearby possum to those on the possums that are further away:
 
@@ -127,7 +128,7 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
     </figure>
     </center> 
 
-2. **Large cylindrical objects have larger strokes than thin cylinders.**
+2. <span style="font-size:large;">**Large cylindrical objects have larger strokes than thin cylinders.**</span>
 
     This shows up in many ways. For example, **strokes on legs are thicker than on arms which are thicker than strokes on fingers:**
 
@@ -135,13 +136,14 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
     <img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">&nbsp;&nbsp;<img src="https://aaronhertzmann.com/images/howtodraw/thick/trees.jpg" alt="Tree drawing">
     </center>
 
-    **Strokes on forearm bulges are thicker than at the wrist.**
+    <span style="font-size:large;">
+**Strokes on forearm bulges are thicker than at the wrist.**</span>
 
     <center>
     <img src="https://aaronhertzmann.com/images/howtodraw/thick/bulges.jpg" alt="Forearm bulges">
     </center>
 
-    **Strokes are thinner above the cheekbone.**
+    <span style="font-size:large;">**Strokes are thinner above the cheekbone.**</span>
     In each of these examples, the strokes get thinner above the character's cheekbone. Here's a 3D rendering with our algorithm:
 
     <center>
@@ -158,7 +160,7 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
 
 
 
-3. **Stroke tapering depends on occlusion.**
+3. <span style="font-size:large;">**Stroke tapering depends on occlusion.**</span>
 
     Here is a rendering using our algorithm. Notice that some strokes end at an isolated point. In these cases, the stroke tapers (thins) out to that point. In other cases, a stroke ends where another object covers it; in this case, the stroke doesn't taper. For example, the thick stroke on the cow's belly does not taper where it passes under the leg:
 
@@ -168,11 +170,11 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
     In contrast, things look more awkward if we taper all strokes uniformly.
     This tapering is pretty common in artists' drawings, and can be seen in many of the drawings on this page.
 
-5. **Thickness can depend on lighting.**
+5. <span style="font-size:large;">**Thickness can depend on lighting.**</span>
 
     Strokes are often thicker on the bottom of the object than on the top, corresponding to a light source above the object. We can also capture this in our model (such as in the beetle illustration above).
 
-6. **Interior strokes tend to be thinner than silhouette strokes.**
+6. <span style="font-size:large;">**Interior strokes tend to be thinner than silhouette strokes.**</span>
 
     The outer strokes are often drawn much thicker than many strokes in the interior. There is a subtle mathematical distinction that explains this in the model (it's the difference between occluding contours and suggestive contours). Some artist exaggerate this effect, making the silhouettes much thicker than interior strokes:
 
