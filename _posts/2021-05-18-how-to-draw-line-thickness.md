@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How to Draw Pictures, Part 4: Line Thickness
+title: "How to Draw Pictures, Part 4: Line Thickness"
 summary: Simple guidelines for line thickness in drawings, derived from a shading model.
 author:  AaronHertzmann
 image: /images/howtodraw/thick/bone-inset.jpg
