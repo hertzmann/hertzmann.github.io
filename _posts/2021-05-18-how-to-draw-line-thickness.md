@@ -128,60 +128,60 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
 
 2. **Large cylindrical objects have larger strokes than thin cylinders.**
 
-This shows up in many ways. For example, **strokes on legs are thicker than on arms which are thicker than strokes on fingers:**
+    This shows up in many ways. For example, **strokes on legs are thicker than on arms which are thicker than strokes on fingers:**
 
-<center>
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/trees.jpg" alt="Tree drawing">
-</center>
+    <center>
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/trees.jpg" alt="Tree drawing">
+    </center>
 
-**Forearm bulges are thicker than at the wrist.**
+    **Strokes on forearm bulges are thicker than at the wrist.**
 
-<center>
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/bulges.jpg" alt="Forearm bulges">
-</center>
+    <center>
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/bulges.jpg" alt="Forearm bulges">
+    </center>
 
-**Strokes are thinner above the cheekbone.**
-In each of these examples, the strokes get thinner above the character's cheekbone. Here's a 3D rendering with our algorithm:
+    **Strokes are thinner above the cheekbone.**
+    In each of these examples, the strokes get thinner above the character's cheekbone. Here's a 3D rendering with our algorithm:
 
-<center>
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/cheekbone.jpg" alt="Cheekbone rendering">
-</center>
+    <center>
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/cheekbone.jpg" alt="Cheekbone rendering">
+    </center>
 
-Once I noticed this, I was able to find many more examples:
+    Once I noticed this, I was able to find many more examples:
 
-<center>
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/cheekbone-drawings.jpg" alt="Cheekbone drawings">
-</center>
+    <center>
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/cheekbone-drawings.jpg" alt="Cheekbone drawings">
+    </center>
 
-One nuance of this model is that thickness depends on curvature in the view direction. This means that **foreshortened objects will have slightly thicker strokes** than if they weren't foreshortened. I've found a few examples that seem to show this, but it's pretty subtle.
+    One nuance of this model is that thickness depends on curvature in the view direction. This means that **foreshortened objects will have slightly thicker strokes** than if they weren't foreshortened. I've found a few examples that seem to show this, but it's pretty subtle.
 
 
 
 3. **Stroke tapering depends on occlusion.**
 
-Here is a rendering using our algorithm. Notice that some strokes end at an isolated point. In these cases, the stroke tapers (thins) out to that point. In other cases, a stroke ends where another object covers it; in this case, the stroke doesn't taper. For example, the thick stroke on the cow's belly does not taper where it passes under the leg:
+    Here is a rendering using our algorithm. Notice that some strokes end at an isolated point. In these cases, the stroke tapers (thins) out to that point. In other cases, a stroke ends where another object covers it; in this case, the stroke doesn't taper. For example, the thick stroke on the cow's belly does not taper where it passes under the leg:
 
-<center>
-<img src="https://aaronhertzmann.com/images/howtodraw/thick/tapering.jpg" alt="Stroke tapering examples">
-</center>
-In contrast, things look more awkward if we taper all strokes uniformly.
-This tapering is pretty common in artists' drawings, and can be seen in many of the drawings on this page.
+    <center>
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/tapering.jpg" alt="Stroke tapering examples">
+    </center>
+    In contrast, things look more awkward if we taper all strokes uniformly.
+    This tapering is pretty common in artists' drawings, and can be seen in many of the drawings on this page.
 
 5. **Thickness can depend on lighting.**
 
-Strokes are often thicker on the bottom of the object than on the top, corresponding to a light source above the object. We can also capture this in our model (such as in the beetle illustration above).
+    Strokes are often thicker on the bottom of the object than on the top, corresponding to a light source above the object. We can also capture this in our model (such as in the beetle illustration above).
 
 6. **Interior strokes tend to be thinner than silhouette strokes.**
 
-The outer strokes are often drawn much thicker than many strokes in the interior. There is a subtle mathematical distinction that explains this in the model (it's the difference between occluding contours and suggestive contours). Some artist exaggerate this effect, making the silhouettes much thicker than interior strokes:
+    The outer strokes are often drawn much thicker than many strokes in the interior. There is a subtle mathematical distinction that explains this in the model (it's the difference between occluding contours and suggestive contours). Some artist exaggerate this effect, making the silhouettes much thicker than interior strokes:
 
-<center>
-<figure>
-  <img src="../../../images/howtodraw/thick/interior.jpg" alt="Interior vs. exterior strokes"/>
-  <figcaption align="center"><i>Drawings by Scott McCloud and Chris Ware</i></figcaption>
-</figure>
-</center> 
+    <center>
+    <figure>
+      <img src="../../../images/howtodraw/thick/interior.jpg" alt="Interior vs. exterior strokes"/>
+      <figcaption align="center"><i>Drawings by Scott McCloud and Chris Ware</i></figcaption>
+    </figure>
+    </center> 
 
 
 Additional notes
