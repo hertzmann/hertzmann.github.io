@@ -1,3 +1,10 @@
+---
+layout: page
+title: How to Draw Pictures, Part 4: Line Thickness
+summary: Simple guidelines for line thickness in drawings, derived from a shading model.
+author:  AaronHertzmann
+image: /images/howtodraw/thick/bone-inset.jpg
+---
 
 
 # How to Draw Pictures, Part 4: Line Thickness
@@ -90,6 +97,7 @@ Nonetheless, I found many trends that do match our theory.
 As we derive in the paper, **our theory predicts that line thickness at a point will, generally, be inversely proportional to two quantities:**
 1. the distance from that point to the viewer, and
 2. the curvature of the object at that point.  
+
 In addition, lines can't be thicker than some maximum thickness determined by the artist's tool and their drawing style.
 
 For example, here is a rendering of some cylinders with our algorithm:
@@ -104,20 +112,20 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
 
 1. **Objects further from the viewer have smaller strokes.**
 
-This rule seems widespread in many drawing styles and easy to find in many drawings. For example, in the comic book example above, compare the strokes on the possum that's near to versus the possums that are further away:
+ This rule seems widespread in many drawing styles and easy to find in many drawings. For example, in the comic book example above, compare the strokes on the possum that's near to versus the possums that are further away:
 
-<center>
+ <center>
 <img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">
 </center>
 
-Or see how the strokes on the arm get thicker as they get closer to the viewer.
+ Or see how the strokes on the arm get thicker as they get closer to the viewer.
 
-<center>
-<figure>
+ <center>
+ <figure>
   <img src="../../../images/howtodraw/thick/scanner-darkly.jpg" alt="Scanner Darkly drawing"/>
   <figcaption align="center"><i>A frame from the movie A Scanner Darkly</i></figcaption>
-</figure>
-</center> 
+ </figure>
+ </center> 
 
 2. **Large cylindrical objects have larger strokes than thin cylinders.**
 
@@ -141,7 +149,7 @@ In each of these examples, the strokes get thinner above the character's cheekbo
 <img src="https://aaronhertzmann.com/images/howtodraw/thick/cheekbone.jpg" alt="Cheekbone rendering">
 </center>
 
-One I noticed this, I was able to find many more examples:
+Once I noticed this, I was able to find many more examples:
 
 <center>
 <img src="https://aaronhertzmann.com/images/howtodraw/thick/cheekbone-drawings.jpg" alt="Cheekbone drawings">
