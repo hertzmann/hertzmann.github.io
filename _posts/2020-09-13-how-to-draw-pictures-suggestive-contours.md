@@ -58,40 +58,9 @@ This idea of making drawings by approximating a shaded rendering with strokes ca
   <figcaption align="center"><i>Rendering with contours and suggestive contours, and stroke thickness based on shading (from <a href="http://www.dgp.toronto.edu/~todd/isophote/">our 2007 paper on stroke thickness</a>.
 </i></figcaption>
 </figure>
-</center> 
+</center>
 
-Evaluation
--------
-The above explanation of line drawings is a very simple, compact theory of line drawings. How well does it really predict real line drawings?
-
-As one way to demonstrate the effectiveness of these algorithms, my former student Todd Goodwin began with the following drawings of a beetle, from a textbook on technical illustration:
-<center>
-<figure>
-  <img src="../../../images/howtodraw/beetle.png" alt="Beetle illustrations"/>
-  <figcaption align="center"><i>Hand-drawn technical illustrations of a beetle
-</i></figcaption>
-</figure>
-</center> 
-He then created 3D a models based on the first illustration, and rendered it with a line drawing algorithm based on the principles above. Here’s his 3D dung beetle and line drawing rendering:
-<center>
-<figure>
-  <img src="../../../images/howtodraw/beetle_render.png" alt="Beetle renderings"/>
-  <figcaption align="center"><i>3D model, created by Todd Goodwin, and a line rendering of the model
-</i></figcaption>
-</figure>
-</center> 
-Note that the line drawing looks very similar to hand-made illustration, with similar locations for strokes and variations in stroke thickness.
-Amazingly, the line drawings look mostly identical! And he was able to do it a second time, this time using a panel from a comic book:
-<center>
-<figure>
-  <img src="../../../images/howtodraw/bone_render.png" alt="Bone renderings"/>
-  <figcaption align="center"><i>Left: A panel from the Bone comic. Right: 3D model, based on this panel, constructed by Todd Goodwin, and a line rendering of the model.
-</i></figcaption>
-</figure>
-</center> 
-Strokes appear with the same thicknesses and in the same places as in the original drawing.
-
-He could even [animate the model](http://www.dgp.toronto.edu/~todd/isophote/videos/bone.ink.gif). This demonstrates how a simple theory can capture the complex effects in these illustrations.
+Here's [a separate blog post about the line thickness algorithm](/2021/05/20/how-to-draw-pictures-line-thickness.html).
 
 Scientific evaluation
 --------------
@@ -104,11 +73,11 @@ Scientific evaluation
 </figure>
 </center> 
 
-
-A [much more rigorous study was conducted by Forrester Cole and his collaborators](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/index.php). They asked 29 artists to create line drawings from 3D renderings. They found that the lines that artists drew agreed with the predictions of existing line drawing algorithms most of the time. Specifically, image shading gradients were the most reliable predictor of artists’ drawings, since these objects had more complex shading than the model I described above. The shading gradients basically correspond to the curves described above. The cases where they disagreed were subtle, for example, the artists omitted curves that could be inferred by understanding the overall shape of the rest of the object.
+The above explanation of line drawings is a very simple, compact theory of line drawings. How well does it really predict real line drawings?
+A [rigorous study was conducted by Forrester Cole and his collaborators](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/index.php). They asked 29 artists to create line drawings from 3D renderings. They found that the lines that artists drew agreed with the predictions of existing line drawing algorithms most of the time. Specifically, image shading gradients were the most reliable predictor of artists’ drawings, since these objects had more complex shading than the model I described above. The shading gradients basically correspond to the curves described above. The cases where they disagreed were subtle, for example, the artists omitted curves that could be inferred by understanding the overall shape of the rest of the object.
 
 Conclusion
 ----------
 As outlined here, the theory of contours and suggestive contours is a simple and compact theory that explains a lot of the way that we draw lines. Understanding this theory ought to be foundational for anyone that wishes to understand the basic mechanics of representational art.
 
-In [the final essay in this series](/2020/09/14/how-to-draw-pictures-style.html), I’ll talk about how these basic foundations can be used to describe many different artistic styles.
+In [the next essay in this series](/2020/09/14/how-to-draw-pictures-style.html), I’ll talk about how these basic foundations can be used to describe many different artistic styles.
