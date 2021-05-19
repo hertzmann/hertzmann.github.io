@@ -131,8 +131,7 @@ From this theory, we can make several predictions, or, perhaps, rules-of-thumb f
     This shows up in many ways. For example, **strokes on legs are thicker than on arms which are thicker than strokes on fingers:**
 
     <center>
-    <img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">
-    <img src="https://aaronhertzmann.com/images/howtodraw/thick/trees.jpg" alt="Tree drawing">
+    <img src="https://aaronhertzmann.com/images/howtodraw/thick/bone-inset.jpg" alt="Bone inset">&nbsp;&nbsp;<img src="https://aaronhertzmann.com/images/howtodraw/thick/trees.jpg" alt="Tree drawing">
     </center>
 
     **Strokes on forearm bulges are thicker than at the wrist.**
