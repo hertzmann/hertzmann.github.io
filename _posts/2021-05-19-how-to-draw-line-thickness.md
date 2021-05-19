@@ -93,9 +93,9 @@ When we were developing this work, I spent a lot of time looking through illustr
 
 Nonetheless, I found many trends that do match our theory.
 
-As we derive in the paper, **our theory predicts that line thickness at a point will, generally, be inversely proportional to two quantities:**
+| **Our theory predicts that line thickness at a point will, generally, be inversely proportional to two quantities:**
 1. the distance from that point to the viewer, and
-2. the curvature of the object at that point.  
+2. the curvature of the object at that point.  |
 
 In addition, lines can't be thicker than some maximum thickness determined by the artist's tool and their drawing style.
 
