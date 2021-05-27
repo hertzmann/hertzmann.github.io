@@ -22,11 +22,11 @@ Why study computational creativity?
 
 I can imagine several possible goals for CC research:
 
-1. **Make _creative algorithms_ that are considered creative**
+1. **Make  _algorithms that are considered creative_**
 2. **Build tools to _support human creativity_** 
 3. **Develop useful new algorithms _inspired by human creative behaviors_.**
 
-Most of the CC papers I've looked at appear to be aiming for the first goal: making computers that are considered creative in some way. The second and third goals seem very worthwhile to me; it's the first goal that I'm skeptical about, and that's what this blog post is mainly about.  
+Most of the CC papers I've looked at appear to be aiming for the first goal: making computers that are considered creative in some way. The second and third goals seem very worthwhile to me. **This blog post is mainly about the first goal.**
 
 [This 2014 blog post by Anna Jordanous](https://www.creativitypost.com/article/what_is_computational_creativity) covers a lot of this territory about the goals for the field, and the various versions of the problem statement that different researchers and communities have asserted, as well as challenges in defining the problem.
 
