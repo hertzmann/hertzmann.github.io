@@ -34,7 +34,7 @@ Most of the CC papers I've looked at appear to be aiming for the first goal: mak
 Why could computers be themselves creative?
 =====
 
-What inspiration/belief drives this field? As this is research, we can't expect to have proof that CC is possible, but there ought to be some reason to believe.  
+What inspiration/belief drives this field? As this is research, we can't expect to have proof that CC is possible, but there ought to be some reason to believe, some persuasive story to tell about it.  
 
 The main positive argument that I've seen is as follows. First, we should identify the attributes of a creative work, e.g., work must be both *valuable* and *surprising* or *original*. Then, if we can build a computer algorithm that does both of these things, then people will say that this system is creative. A much longer list of possible creative attributes appears in [a paper that received a ten-year award at ICCC](https://computationalcreativity.net/iccc2010/papers/jordanous-2.pdf).  
 
