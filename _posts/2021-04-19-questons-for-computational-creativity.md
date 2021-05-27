@@ -110,7 +110,7 @@ Saying someone is "creative" is like saying that they're "talented." The word ha
 Why isn't this computer graphics/NLP/HCI?
 =====
 
-The technical content of many CC papers I've read looks to me like it could have fit into the traditional research areas. Little about this work seems specific to CC research. For example, some papers present algorithms for synthesizing artistic images, which is common in computer graphics research.  [HCI research has an extensive history of directly studying human creativity and how computers can support it](https://dl.acm.org/doi/abs/10.1145/1323688.1323689).  
+The technical content of most/all CC papers I've read (as opposed to theory papers) looks to me like it could have fit into the traditional research areas. Little about this work seems specific to CC research. For example, some papers present algorithms for synthesizing artistic images, which is common in computer graphics research.  [HCI research has an extensive history of directly studying human creativity and how computers can support it](https://dl.acm.org/doi/abs/10.1145/1323688.1323689).  
 
 I would imagine that research in CC would aim to produce _general-purpose CC_ algorithms, akin to how numerical optimization research has produced optimization algorithms for broad classes of problems. Maybe these CC algorithms would employ human-like behaviors and strategies (finding disparate connections, exploring the boundaries and hidden assumptions of the problem), maybe not. But I haven't seen any work like this at CC conferences. This could be because I haven't read many CC papers.
 
