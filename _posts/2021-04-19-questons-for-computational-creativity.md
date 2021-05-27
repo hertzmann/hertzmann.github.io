@@ -62,11 +62,11 @@ If the goal of this research is to produce outputs that are novel, useful, and/o
 
 We already have algorithms that produce wonderful results in all sorts of domains, in images, music, animation, and so on. Whether or not this is the result of computer creativity is the issue.  
 
-One statement of the goal of CC research is that [an observer would judge the results as "creative" had they been made by a human](https://www.sciencedirect.com/science/article/pii/S0950705106000645?via%3Dihub).  Yet, one method that achieved this goal years ago is [**Creative Sparks**](https://science.sciencemag.org/content/285/5433/1495.full), in which the authors described a very simple, easy-to-understand procedure for creating advertising concepts–the system could easily have been implmented by hand rather than with a computer. In a blinded study, marketers rated the resulting concepts as "more creative" than some pitches made entirely by individuals;
+One statement of the goal of CC research is that [**an observer would judge the results as "creative" had they been made by a human**](https://www.sciencedirect.com/science/article/pii/S0950705106000645?via%3Dihub).  Yet, one method that achieved this goal years ago is [**Creative Sparks**](https://science.sciencemag.org/content/285/5433/1495.full), in which the authors described a very simple, easy-to-understand procedure for creating advertising concepts–the system could easily have been implmented by hand rather than with a computer. In a blinded study, marketers rated the resulting concepts as "more creative" than some pitches made entirely by individuals;
 similar results are reported in [this paper](https://songweige.github.io/projects/creative_sketech_generation/home.html). 
 
 
-Another statement of the goal of CC research is that [the creator of the system finds the results surprising](https://link.springer.com/chapter/10.1007/978-3-642-31727-9_1). I think we have this too. For example, the Mandelbrot set [can be summarized in just a few lines of code](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings), yet it produces a seemingly-endless stream of mesmerizing imagery:
+Another statement of the goal of CC research is that [**the creator of the system finds the results surprising**](https://link.springer.com/chapter/10.1007/978-3-642-31727-9_1). I think we have this too. For example, the Mandelbrot set [can be summarized in just a few lines of code](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings), yet it produces a seemingly-endless stream of mesmerizing imagery:
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PD2XgQOyCCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
@@ -75,9 +75,9 @@ that surely no one (including Mandelbrot) could have predicted from the math its
 
 Indeed, many systems with simple rules can often demonstrate complex, emergent, seemingly-intelligent  behavior  (e.g., [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), Mandelbrot set, [flocking](https://en.wikipedia.org/wiki/Flocking_(behavior))).
 
-All the way back to Vera Molnár, who began work in the 1960s, describes [surprise as a major component of her generative art](https://opheliaming.medium.com/vera-moln%C3%A1r-the-computer-art-goddess-26a84efbea4b).  If you've written code to make images, you've probably been surprised at some point, and probably delightfully so at times.
+All the way back to Vera Molnár, who began work in the 1960s, [describes surprise as a major component of her generative art](https://opheliaming.medium.com/vera-moln%C3%A1r-the-computer-art-goddess-26a84efbea4b).  If you've written code to make images, you've probably been surprised at some point, and probably delightfully so at times.
 
-Harold Cohen [went through similar stages](https://www.youtube.com/watch?v=_Xbt8lzWxIQ), first thinking that a procedural algorithm that made good artworks could be an artist, then realizing that all the works started to look similar, and then adding the additional criterion that the system must have its own changing worldview to be an artist. To me, this all looks like continually moving the goalposts.
+[**Harold Cohen went through similar stages**](https://www.youtube.com/watch?v=_Xbt8lzWxIQ), first thinking that a procedural algorithm that made good artworks could be an artist, then realizing that all the works started to look similar, and then adding the additional criterion that the system must have its own changing worldview to be an artist. To me, this all looks like continually moving the goalposts.
 
 **I think that process and context are crucial to judging creativity.** A painting is less impressive if you learn that it was done by filling in a [paint-by-numbers](https://en.wikipedia.org/wiki/Paint_by_number). If a person stumbles on a solution or an artistic style out of the blue, that's a whole lot more impressive than it if came after years of study of related solutions. (The [same point was made by Colton](https://www.aaai.org/Library/Symposia/Spring/2008/ss08-03-003.php).) Studies that show two images and ask blinded observers which is more creative or artistic have little value (possibly a topic for another blog post).
 But, conversely, performing studies on AI-generated work [has its own problems](https://doi.org/10.1016/j.isci.2020.101515).
@@ -96,7 +96,7 @@ This is exactly the situation with computer algorithms: computers precisely foll
 
 Is it possible to be considered creative if you don't have [free will](https://en.wikipedia.org/wiki/Free_will)? I don't see how.
 
-(This thought experiment above is similar to the ["Chinese room" argument](https://en.wikipedia.org/wiki/Chinese_room).)
+(This thought experiment is similar to the ["Chinese room" argument](https://en.wikipedia.org/wiki/Chinese_room).)
 
 
 Why is "creativity" a meaningful attribute?
@@ -107,7 +107,6 @@ The term "creative" seems very subjective.  Of course, we can do lots of researc
 Personally, I think that "creative" is primarily a compliment that we give to people who made unexpected leaps of intuition. It's in the word itself: they "created" something, seemingly out of nothing.  We can say a lot of useful things about the behaviors of human creativity.  But this phenomenology is not the essence of creativity. If we could fully state the rules of creativity, we would not call it creativity any more, and maybe we will have disproven Free Will as well. Such an unlikely discovery would have massive enormous philosophical and practical implications beyond just making nice artworks.
 
 Saying someone is "creative" is like saying that they're "talented." The word has some meaning. We could analyze the conditions under which people are described as "talented," and what are the behaviors of "talented people," but trying to develop "talented computing" would be equally quixotic.
-
 Or one could read the book [The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People), and then use them to develop "effective algorithms." There are lots of other nonsensical applications of this kind of "definitional" approach to computational creativity and computational artists.
 
 
