@@ -103,7 +103,7 @@ Is it possible to be considered creative if you don't have [free will](https://e
 
 Saying someone is "creative" is like saying that they're "talented." The word has some meaning. We could analyze the conditions under which people are described as "talented," and what are the behaviors of "talented people," but trying to develop "talented computing" would be equally quixotic.
 
-
+Or one could read the book [The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People), and then use them to develop "effective algorithms." There are lots of other nonsensical applications of this kind of "definitional" approach to computational creativity and computational artists.
 
 
 
