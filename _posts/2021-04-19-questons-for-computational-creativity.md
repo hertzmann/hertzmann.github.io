@@ -99,7 +99,12 @@ Is it possible to be considered creative if you don't have [free will](https://e
 (This thought experiment above is similar to the ["Chinese room" argument](https://en.wikipedia.org/wiki/Chinese_room).)
 
 
-**Personally, I think that creativity is primarily a compliment** that we give to people who made unexpected leaps of intuition. It's in the word itself: they "created" something, seemingly out of nothing.  We can say a lot of useful things about the behaviors of human creativity.  But this phenomenology is not the essence of creativity. If we could fully state the rules of creativity, we would not call it creativity any more, and maybe we will have disproven Free Will as well. Such an unlikely discovery would have massive enormous philosophical and practical implications beyond just making nice artworks.
+Why is "creativity" a meaningful attribute?
+====
+
+The term "creative" seems very subjective.  Of course, we can do lots of research on subjective topics, but one has to be careful with terminology. We wouldn't attempt to formalize algorithms that make "beautiful" images; we might make algorithms that produce images that many viewers rate as aesthetically pleasing. Arguably, "creative" isn't a property of an image that can be separated from the process by which it was created. A printout of a famous painting is not itself creative, even if it is just as lovely as the original.
+
+Personally, I think that "creative" is primarily a compliment that we give to people who made unexpected leaps of intuition. It's in the word itself: they "created" something, seemingly out of nothing.  We can say a lot of useful things about the behaviors of human creativity.  But this phenomenology is not the essence of creativity. If we could fully state the rules of creativity, we would not call it creativity any more, and maybe we will have disproven Free Will as well. Such an unlikely discovery would have massive enormous philosophical and practical implications beyond just making nice artworks.
 
 Saying someone is "creative" is like saying that they're "talented." The word has some meaning. We could analyze the conditions under which people are described as "talented," and what are the behaviors of "talented people," but trying to develop "talented computing" would be equally quixotic.
 
