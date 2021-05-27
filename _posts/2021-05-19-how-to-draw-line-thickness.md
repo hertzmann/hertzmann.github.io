@@ -11,9 +11,9 @@ image: /images/howtodraw/thick/bone-inset.jpg
 
 [In previous blog posts](/2020/09/13/how-to-draw-pictures-suggestive-contours.html), I described simple algorithmic models for drawing. In this post, I'll expand on a specific element of style: line thickness.
 
-Specifically, this post is about a theory for line thickness in drawing 3D objects, and developed with Todd Goodwin and Ian Vollick, two talented Masters students. I developed this with Todd Goodwin and Ian Vollick, two talented students I was working with, and we published in [a paper in 2007](https://www.dgp.toronto.edu/~todd/isophote/). I haven't received much feedback or interest in the work, which could be for many reasons, and the theory is difficult to validate or "prove."
+Specifically, this post is about a theory for line thickness in drawing 3D objects. I developed this with Todd Goodwin and Ian Vollick, two talented Masters students, and we published it in [a paper in 2007](https://www.dgp.toronto.edu/~todd/isophote/). I haven't received much feedback or interest in the work, which could be for many reasons, and the theory is difficult to validate or "prove."
 
-Nonetheless, I believe there is some valuable insight in these ideas, and they  provide some interesting rules-of-thumb for how to draw lines, at least in certain styles.
+Nonetheless, I believe there is some valuable insight in these ideas, and they provide some interesting rules-of-thumb for how to draw lines, at least in certain styles.
 
 
 From abstracted shading to line thickness
