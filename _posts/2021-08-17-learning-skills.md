@@ -3,7 +3,7 @@ title: The Skill Learning Curve
 layout: page
 summary: How I think about learning skills as an adult
 author:  AaronHertzmann
-image: /images/howtodraw/thick/bone-inset.jpg
+image: /images/skill_curve_plateau.jpg
 ---
 
 
