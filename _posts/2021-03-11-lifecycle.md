@@ -12,7 +12,7 @@ image: /images/vadim.jpg
 
 A fascinating new cycle for AI art techniques is emerging. I've alluded to this process in [previous papers](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), but now that we're seeing this cycle repeat over and over, it seems possible to describe it more concretely.
 
-Because of Twitter and GitHub repos, we have a sort of worldwide collaboration of artists and technologists happening, at an extraordinary pace. While there is a long history of artists and technologists collaboratting, and of individuals who innovate in both art and science simultaneously, this distributed international collaboration is—dare I say—_completely unprecedented_.
+Because of Twitter and GitHub repos, we have a sort of worldwide collaboration of artists and technologists happening, at an extraordinary pace. While there is a long history of artists and technologists collaborating, and of individuals who innovate in both art and science simultaneously, this distributed international collaboration is—dare I say—_completely unprecedented_.
 
 Some of the most significant AI algorithms that have fed this cycle are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, and now DALL-E and CLIP.
 
