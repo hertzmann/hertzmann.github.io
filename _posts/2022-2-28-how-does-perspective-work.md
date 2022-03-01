@@ -86,7 +86,7 @@ There seems like something of a paradox here. On one hand, we don't perceive the
    <img src="../../../images/perspective/high-street-by-turner.jpg" alt="Turner's High Street painting"/>
    <img src="../../../images/perspective/high-street-by-fisher.jpg" alt="Cezanne painting"/>
 </p>
-  <figcaption align="center"><i>Turner's High Street, Oxford, and 2015 photograph of High Street by David Fisher</i></figcaption>
+  <figcaption align="center"><i>Turner's [High Street, Oxford](https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting), 1810, and a photograph of High Street by David Fisher, 2015</i></figcaption>
 </figure>
 </center>
 Note how much bigger the towers appear in the painting.
@@ -182,4 +182,8 @@ _Photography is not all-seeing in the sense that the eyes see. Our vision, a bin
 Theories of perception and photography often tend to be all-or-nothing. Either linear perspective and cameras are correct, and cameras don't lie. Or, there is no objective reality and everything is made-up. The reality is clearly far more complex. Our artwork employs all sorts of complex nonlinear structures, and our brains are able to understand and interpret them. Even more confusing, there's some evidence that people with very different cultural backgrounds may vary in perspective perception in some cases. Understanding how and why perspective works is a hard problem (and one that I'm working on), as is developing new software tools to make images to easily convey what we want to convey.
 
 
-Thanks to Rob Pepperell and Sean Liu for comments on this post, and to Taesung Park for pointing on the Oxford High Street example to me.
+<br>
+
+_Thanks to Rob Pepperell and Sean Liu for comments on this post, and to Taesung Park for pointing on the Oxford High Street example to me._
+
+
