@@ -4,6 +4,7 @@ title: How Does Perspective Work in Pictures?
 summary: Why don't photographs make distant objects big enough?
 author:  AaronHertzmann
 image: /images/perspective/goat.jpg
+og:image: /images/perspective/goat.jpg
 ---
 
 
