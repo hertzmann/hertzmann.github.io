@@ -29,7 +29,7 @@ Some features of digital painting
 Here are some of the features of digital painting, and the ways that using these features changes the style of the work.
 
 **1. Total control.** 
-The most obvious benefit of digital painting is that you have total control over the pixels. You can wipe oil paint clean with your eraser, which would be impossible in real life. You can cleanly erase charcoal without worrying about the eraser tearing through the paper.  No need to mix paints to get a color, just use a color picker. With undo and the ability to duplicate filers and lyaers, you can explore all sorts of options.  The only limitation is how much time you have.
+The most obvious benefit of digital painting is that you have total control over the pixels. You can wipe oil paint clean with your eraser, which would be impossible in real life. You can cleanly erase charcoal without worrying about the eraser tearing through the paper.  No need to mix paints to get a color, just use a color picker. With undo and the ability to duplicate filers and layers, you can explore all sorts of options.  The only limitation is how much time you have.
 
 Deciding when to stop working on a physical painting was a big problem for me; often I would keep working and realize I was just making it worse, and wish I could undo the last few things I'd added. Now I easily can.
 
