@@ -1,3 +1,12 @@
+---
+layout: page
+title: How Does Perspective Work in Pictures?
+summary: Why don't photographs make distant objects big enough?
+author:  AaronHertzmann
+image: /images/perspective/goat.jpg
+---
+
+
 # How Does Perspective Work in Pictures?
 
 _"So the lens has been a dominant thing for six hundred years now, and I think depictions need to get away from that, really. If you do, marvellous things can happen."_—[David Hockney, 2022](https://www.newyorker.com/culture/the-new-yorker-interview/a-tour-of-david-hockneys-newest-painting-series)
