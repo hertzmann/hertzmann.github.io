@@ -96,7 +96,7 @@ There seems like something of a paradox here. On one hand, we don't perceive the
    <img src="../../../images/perspective/high-street-by-turner.jpg" alt="Turner's High Street painting"/>
    <img src="../../../images/perspective/high-street-by-fisher.jpg" alt="Cezanne painting"/>
 </p>
-  <figcaption align="center"><i>Turner's [High Street, Oxford](https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting)), 1810, and a photograph of High Street by David Fisher, 2015</i></figcaption>
+  <figcaption align="center"><i>Turner's <a href="https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting)">High Street, Oxford</a>, 1810, and a photograph of High Street by David Fisher, 2015</i></figcaption>
 </figure>
 </center>
 Note how much bigger the towers appear in the painting.
