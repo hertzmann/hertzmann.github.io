@@ -113,7 +113,7 @@ What if there is no true perspective?
 -------
 
 
-But the paper that really transformed my understanding of perspective is ["On Right and Wrong Drawings"](https://brill.com/view/journals/artp/4/1-2/article-p1_1.xml), with Jan Koenderink as first author. Like many of Koenderink's papers, I found it baffling when I first tried to read it, and then, when I came back to it with more background, I found it eye-opening.
+But the paper that really transformed my understanding of perspective is ["On Right and Wrong Drawings"](https://brill.com/view/journals/artp/4/1-2/article-p1_1.xml), with Jan Koenderink as first author. Like many of Koenderink's papers, I found it baffling when I first tried to read it, and then eye-opening when I came back to it later.
 
 This paper points out that artists almost never use "correct" linear perspective, using examples from Rob's previous papers: "Initial enthusiasm among fifteenth century Italian artists for the newly published methods was soon tempered by the realization that ad hoc modifications were required to avoid perceptual oddities." They point to the 19th-century greats Turner and Constable, who were both proficient in perspective–Turner was a Professor of Perspective–yet neither obeyed linear perspective in their landscapes, and Turner spoke in detail about the problems with linear perspective.
 
@@ -149,7 +149,7 @@ Here's a sequence of photos of one person, taken by simultaneously increasing th
   <figcaption align="center"><i>Photos of the same person at different focal lengths, from <a href="https://jov.arvojournals.org/article.aspx?articleid=2192052">Cooper et al.</a></i></figcaption>
 </figure>
 </center>
-Unless you happen to know this person, this looks like four different people. The portrait taken from the "correct" focal length tends to look most appealing. [One study showed that these differences affect how viewers perceive the personality of the subject being photographed](http://www.journalofvision.org/content/7/9/992.short): faces photographed from the closer distance appeared more "benevolent," whereas those taken from a larger distance appeared more "impressive,"  and intermediate-distance portraits appeared more attractive. 
+Unless you happen to know this person, this looks like four different people. The portrait taken from the "correct" focal length tends to look most appealing. [One study showed that these differences affect how viewers perceive the personality of the subject being photographed](http://www.vision.caltech.edu/publications/ARTP2005-final.pdf): faces photographed from the closer distance appeared more "benevolent," whereas those taken from a larger distance appeared more "impressive,"  and intermediate-distance portraits appeared more attractive. 
 [There are software algorithms designed specifically to correct selfies for this purpose](https://www.ohadf.com/projects/perspective-portraits/index.html). 
 
 These observations mean that the perspective isn't entirely freeform, with no rules. **Artists can draw anything, but different drawings will give different impressions, and some drawings can be very misleading.** The choice of perspective is a choice between trade-offs: for example, the desire to focus on some objects versus others, versus the goal of maintaining straight lines.
@@ -169,7 +169,14 @@ Inspired by the different kinds of perpsective systems in art, computer graphics
 </center>
 Notice how distorted the wide-angle linear perspective image is (upper left). The stereographic and mercator images don't preserve straight lines, whereas Carroll's method has neither of these problems. [A more recent method](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/) automates this for some cases.
 
-Many other wonderful papers have introduced different types of artist-inspired nonlinear perspective, including methods inspired by [full-length Renaissance portraits](http://www.vision.caltech.edu/publications/ARTP2005-final.pdf), [David Hockney's "joiners"](https://lihi.net.technion.ac.il/publications/automating-joiners-or-organized-memories/), and many others. And many other computational methods [have no traditional analogue]().
+Many other wonderful papers have introduced different types of artist-inspired nonlinear perspective, including methods inspired by [full-length Renaissance portraits](http://www.vision.caltech.edu/publications/ARTP2005-final.pdf), [David Hockney's "joiners"](https://lihi.net.technion.ac.il/publications/automating-joiners-or-organized-memories/), and many others. And many other computational methods have no traditional analogue:
+
+<center>
+<figure>
+   <img src="../../../images/perspective/anageric.jpeg" alt="Cyclograph image"/>
+  <figcaption align="center"><i>Cyclograph image by <a href="http://http://grail.cs.washington.edu/projects/stereo/cga.html">Seitz and Kim</a></i></figcaption>
+</figure>
+</center>
 
 What about making distant objects look big enough, like in my Aurora Bridge drawing above?  One approach that achieves this is [Computational Zoom](http://civc.ucsb.edu/graphics/Papers/SIGGRAPH2017_ComputationalZoom/):
 <center>
