@@ -169,7 +169,7 @@ Inspired by the different kinds of perpsective systems in art, computer graphics
 </center>
 Notice how distorted the wide-angle linear perspective image is (upper left). The stereographic and mercator images don't preserve straight lines, whereas Carroll's method has neither of these problems. [A more recent method](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/) automates this for some cases.
 
-Many other wonderful papers have introduced different types of artist-inspired nonlinear perspective, including methods inspired by [full-length Renaissance portraits](http://www.vision.caltech.edu/publications/ARTP2005-final.pdf), [David Hockney's "joiners"](https://lihi.net.technion.ac.il/publications/automating-joiners-or-organized-memories/), and many others. And many other computational methods have no traditional analogue:
+Many other wonderful papers have introduced different types of artist-inspired nonlinear perspective, including methods inspired by [full-length Renaissance portraits](http://www.vision.caltech.edu/publications/ARTP2005-final.pdf), [cubism](https://ieeexplore.ieee.org/document/1260739), [de Chirico](https://graphics.stanford.edu/papers/mpr), [David Hockney's "joiners"](https://lihi.net.technion.ac.il/publications/automating-joiners-or-organized-memories/), and many others. And [many computational methods](https://www.glassner.com/wp-content/uploads/2014/04/CG-CGA-PDF-04-07-Digital-Cubism-2-July04.pdf) have no traditional analogue:
 
 <center>
 <figure>
