@@ -29,7 +29,7 @@ And, often in the culture of art and in computer graphics, when artists do somet
 
 Making my own pictures led me down a road to understanding how wrong these views are. **There is no such thing as correct perspective; all choices of perspective have advantages and disadvantages.**  It is impossible to accurately portray everything about 3D space in a 2D picture, so artists must make choices, and linear perspective is just one option.
 
-I began questioning perspective when comparing my paintings to photographs taken at the same time. [This comparison often surprised me](https://aaronhertzmann.com/2020/10/12/the-goal-of-painting.html). 
+I began questioning perspective when comparing my paintings to photographs taken at the same time. [This comparison often surprised me](/2020/10/12/the-goal-of-painting.html). 
 For example, here's a picture that I quickly sketched on a Winter day in Seattle:
 
 ![Aurora Bridge drawing](/images/perspective/aurora-bridge-drawing.jpg)
@@ -174,7 +174,7 @@ Many other wonderful papers have introduced different types of artist-inspired n
 <center>
 <figure>
    <img src="../../../images/perspective/anageric.jpeg" alt="Cyclograph image"/>
-  <figcaption align="center"><i>Cyclograph image by <a href="http://http://grail.cs.washington.edu/projects/stereo/cga.html">Seitz and Kim</a></i></figcaption>
+  <figcaption align="center"><i>Cyclograph image by <a href="http://grail.cs.washington.edu/projects/stereo/cga.html">Seitz and Kim</a></i></figcaption>
 </figure>
 </center>
 
