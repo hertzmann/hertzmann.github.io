@@ -242,3 +242,8 @@ The iPhone is probably using something similar, since the nighttime photos on my
 
 I love the way my phone takes amazing pictures of sunsets and nighttime skylines, and these pictures look so much better than those taken by my phone five years ago.  My photos are a collaboration between me and the algorithm designers and camera manufacturers, and they reflect a combination of aesthetic decisions made by each of us.
 
+
+<br>
+
+_Thanks to Peter Hertzmann and Michaël Gharbi for comments on this post._
+
