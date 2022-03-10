@@ -115,6 +115,14 @@ This means that a lot of your options depended on choices made by the film and c
 
 My father, who worked at Kodak in the 1970s, tells me that Kodak engineers refined their formulas and processes by A/B testing. They would photograph professional models outdoors with different film variants, and then ask community volunteers which photos they liked better. The volunteers preferred images that made skin look pinker than in real life, and so this is what Kodak film did for a long time. **This aesthetic choice was embedded in the film that millions of people shot pictures with.**
 
+<center>
+<figure>
+   <img src="../../../images/tone/Shirley_1974.jpeg" alt="Kodak Shirley card"/>
+  <figcaption align="center"><a href="https://follow-ed.com/kodak-shirleys/"><I>Kodak color calibration card, 1974</I></a></figcaption>
+</figure>
+</center>
+
+
 The models were chosen because they looked like "good, clean cut all-American young adults."  All of them were white. So, for many years, Kodak film worked poorly for black skin. Hence, [this seemingly-neutral technology encoded racism](https://www.nytimes.com/2019/04/25/lens/sarah-lewis-racial-bias-photography.html).
 
 It took a few decades for Kodak to include other skin tones. Eventually, [Kodak created separate film processes for different regions of the world](https://cjc-online.ca/index.php/journal/article/view/2196), based on their studies of regional preferences of film color.
