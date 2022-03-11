@@ -227,7 +227,7 @@ Nowadays, pretty much every photo I take with my cellphone camera looks good, wi
 
 But our mobile cameras do much more than set exposures. They subtly adjust much of the tones and colors of our pictures. They operate like Ansel Adams locally adjusting tones in a photograph, and they do this silently and automatically for each photo. I can take a nice picture by pointing my camera straight at a sunset because of algorithms happening in the phone.
 
-[A 2017 paper by Michaël Gharbi et al.](https://groups.csail.mit.edu/graphics/hdrnet/) first showed how such algorithms could run in real-time on the phone:  
+[A 2017 paper by Michaël Gharbi et al.](https://groups.csail.mit.edu/graphics/hdrnet/) showed how such algorithms could run in real-time on the phone:  
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAe0qKKQY_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
