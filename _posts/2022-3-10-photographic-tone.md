@@ -227,7 +227,9 @@ Nowadays, pretty much every photo I take with my cellphone camera looks good, wi
 
 But our mobile cameras do much more than set exposures. They subtly adjust much of the tones and colors of our pictures. They operate like Ansel Adams locally adjusting tones in a photograph, and they do this silently and automatically for each photo. I can take a nice picture by pointing my camera straight at a sunset because of algorithms happening in the phone.
 
-[A 2017 paper by Michaël Gharbi et al.](https://groups.csail.mit.edu/graphics/hdrnet/) showed how such algorithms could run in real-time on the phone:  
+Around 2015, researchers at Google developed [HDR+](https://ai.googleblog.com/2014/10/hdr-low-light-and-high-dynamic-range.html), which allowed Pixel phones to capture much more dynamic range than could be displayed on the screens. Hence, they designed tone-mapping to display these HDR images in aesthetically pleasing ways, including [deep shadows like those of Caravaggio's](https://blog.adobe.com/en/publish/2022/03/10/adobe-vp-fellow-marc-levoy-following-his-election-to-national-academy-of-engineering). The iPhone also had HDR capture since around [2010](https://arstechnica.com/gadgets/2010/09/hdr-photography-with-iphone-4-and-ios-41/).
+
+[A 2017 paper by Michaël Gharbi et al.](https://groups.csail.mit.edu/graphics/hdrnet/) showed how real-time machine learning algorithms could replace hand-authored tone-mapping:  
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAe0qKKQY_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
