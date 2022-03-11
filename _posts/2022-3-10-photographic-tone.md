@@ -154,7 +154,7 @@ I did this quickly and sloppily: I merely darkened the shadows and gave the imag
 
 # Computational Image Enhancement
 
-In the early 2000s, researchers created a new field called Computational Photography arose, exploring ways to use computation to replace or improve on traditional phographic techniques.  
+In the early 2000s, researchers created a new field called Computational Photography, exploring ways to use computation to replace or improve on traditional phographic techniques.  
 
 An important example is high-dynamic range photography. [A 1998 paper by Paul Debevec and Jitendra Malik](https://www.pauldebevec.com/Research/HDR/) pointed out the indoor-lighting problem above, and showed that it could be fixed by digital techniques, combining information from multiple photographs with different exposures:
 <center>
@@ -168,7 +168,7 @@ which could be computationally combined into a single "high-dynamic range" image
    <img src="../../../images/tone/debevec-hdr.jpg" alt="HDR rendering of the church">
 </figure>
 </center>
-These techniques came to be known as [High-Dynamic Range](https://en.wikipedia.org/wiki/Multi-exposure_HDR_capture) photography. (Actually, [an earlier paper](http://wearcam.org/comparametrics.pdf) pointed this out first, but, because of a very obscure presentation style and venue, that paper is largely unknown.)  
+These techniques came to be known as [High-Dynamic Range](https://en.wikipedia.org/wiki/Multi-exposure_HDR_capture) photography. ([A few obscure earlier papers also proposed similar ideas](https://repository.upenn.edu/cis_reports/248/).)  
 
 This process actually involves a second step once the exposures are combined. When the brightest spots are 20,000 times brighter than the dimmer parts, how do we display these images on screens where brightnesses can only vary by a few hundred degrees? Techniques for this are called [tone-mapping](https://en.wikipedia.org/wiki/Tone_mapping). Following the publication of the above paper, a flurry of methods for HDR capture and tone-mapping arose, with different ways to compress the light values into what can be displayed on a screen or printed on the page.
 
@@ -227,7 +227,7 @@ Nowadays, pretty much every photo I take with my cellphone camera looks good, wi
 
 But our mobile cameras do much more than set exposures. They subtly adjust much of the tones and colors of our pictures. They operate like Ansel Adams locally adjusting tones in a photograph, and they do this silently and automatically for each photo. I can take a nice picture by pointing my camera straight at a sunset because of algorithms happening in the phone.
 
-[A 2017 paper by Michaël Gharbi et al.](https://groups.csail.mit.edu/graphics/hdrnet/) first showed how such algorithms could run on the phone itself:  
+[A 2017 paper by Michaël Gharbi et al.](https://groups.csail.mit.edu/graphics/hdrnet/) first showed how such algorithms could run in real-time on the phone:  
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GAe0qKKQY_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> 
 </center>
@@ -244,7 +244,7 @@ Perhaps the best place to see how photographic choices are embedded into mobile 
 </figure>
 </center>
 Notice how, not only do they make the image brighter, they add contrast and bluish tints to parts of the image, while darkening shadows. 
-I recommend reading the [tehcnical paper](https://github.com/google/night-sight/tree/master/docs) or [the blog post](https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html) for a fuller description of all the considerations involved.  
+I recommend reading the [technical paper](https://github.com/google/night-sight/tree/master/docs) or [the blog post](https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html) for a fuller description of all the considerations involved.  
 
 The iPhone is probably using something similar, since the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel.
 
@@ -253,5 +253,5 @@ I love the way my phone takes amazing pictures of sunsets and nighttime skylines
 
 <br>
 
-_Thanks to Peter Hertzmann and Michaël Gharbi for comments on this post._
+_Thanks to Peter Hertzmann, Andrew Adams, and Michaël Gharbi for comments on this post._
 
