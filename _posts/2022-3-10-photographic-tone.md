@@ -33,7 +33,7 @@ For example, here are two photographs taken with a film camera, inside Stanford'
 </center>
 For the image on the right, the photographer kept the shutter open more than five times longer for the left image than for the right image. So five times as much light hit the film on the right. And still, notice how the none of the details in the stained glass are visible on the right. This is because the light coming through the windows was roughly 24,000 times brighter than the light coming off the other surfaces. Camera film cannot record such a broad range of light intensities, so underexposed regions of the film became black, and overexposed regions became white. 
 
-We don't normally see the world this way. Our eyes adapt to extreme ranges of sunlight using several mechanisms, including dilating our pupils when it's darker out, as well as sophisticated image processing that happens in the brain (such as a process called [contrast adaptation](https://medicine.yale.edu/lab/mccormick/seminars/contrast/)).
+We don't normally see the world this way. Our eyes [adapt to extreme ranges of sunlight using several mechanisms](https://en.wikipedia.org/wiki/Adaptation_(eye)), including dilating our pupils when it's darker out, as well as sophisticated image processing that happens in the brain (such as a process called [contrast adaptation](https://medicine.yale.edu/lab/mccormick/seminars/contrast/)).
 
 Whether using paintbrushes or digital displays, we cannot reproduce the extreme range of lightnesses we experience in the real world.  This means **artists and photographers must make choices about how to depict scenes with extreme lighting.**
 Art and photography create compelling illusions of these kinds of experiences, but not by simply recording what they saw.
@@ -63,7 +63,7 @@ Later painters emphasized scientific rather than religious implications of illum
 </center>
 The location of illumination is different in these examples, reflecting the religious versus scientific difference between them, but neither makes the light source visible. The light source would need to be thousands of times brighter than anything else in the scene.
 
-As painting edged toward Impressionism, painters began to depict the physiological experience of vision. In conditions of darkness, <a href="https://en.wikipedia.org/wiki/Purkinje_effect">our vision is mostly blue-green</a>, as the red and green cones in our eyes have decreased sensitivity. Whistler conveyed this effect experience in many of his <a href="https://en.wikipedia.org/wiki/Nocturne_(painting)">nocturnes</a>:
+As painting edged toward Impressionism, painters began to depict the physiological experience of vision. In conditions of darkness, <a href="https://en.wikipedia.org/wiki/Purkinje_effect">our vision is mostly blue-green</a>. Whistler conveyed this experience in many of his <a href="https://en.wikipedia.org/wiki/Nocturne_(painting)">nocturnes</a>:
 <center>
 <figure>
    <img src="../../../images/tone/whister_nocturne.jpg" alt="Whistler's Nocturne in Blue and Gold"/>
