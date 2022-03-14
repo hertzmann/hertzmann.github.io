@@ -28,10 +28,10 @@ For example, here are two photographs taken with a film camera, inside Stanford'
    <p float="left">
    <img src="../../../images/tone/memorial0071.jpg" alt="Short exposure photograph"  width="45%"/>&nbsp;<img src="../../../images/tone/memorial0062.jpg" alt="Long exposure photograph" width="45%"/>
 </p>
-  <figcaption align="center"><i><a href="https://www.pauldebevec.com/Research/HDR/">Photographs by Paul Debevec, c. 1996</a></i></figcaption>
+  <figcaption align="center"><i><a href="https://www.pauldebevec.com/Research/HDR/">Photographs by Paul Debevec, Nov. 1996</a></i></figcaption>
 </figure>
 </center>
-For the image on the right, the photographer kept the shutter open more than five times longer for the left image than for the right image. So five times as much light hit the film on the right. And still, notice how the none of the details in the stained glass are visible on the right. This is because the light coming through the windows was roughly 24,000 times brighter than the light coming off the other surfaces. Camera film cannot record such a broad range of light intensities, so underexposed regions of the film became black, and overexposed regions became white. 
+For the image on the right, the photographer kept the shutter open more than five hundred times longer for the left image than for the right image. So five times as much light hit the film on the right. And still, notice how none of the details in the stained glass are visible on the right. This is because the light coming through the windows was roughly 24,000 times brighter than the light reflecting off the other surfaces. Camera film cannot record such a broad range of light intensities, so underexposed regions of the film became black, and overexposed regions became white. 
 
 We don't normally see the world this way. Our eyes [adapt to extreme ranges of sunlight using several mechanisms](https://en.wikipedia.org/wiki/Adaptation_(eye)), including dilating our pupils when it's darker out, as well as sophisticated image processing that happens in the brain (such as a process called [contrast adaptation](https://medicine.yale.edu/lab/mccormick/seminars/contrast/)).
 
@@ -156,7 +156,7 @@ I did this quickly and sloppily: I merely darkened the shadows and gave the imag
 
 In the early 2000s, researchers created a new field called Computational Photography, exploring ways to use computation to replace or improve on traditional phographic techniques.  
 
-An important example is high-dynamic range photography. [A 1998 paper by Paul Debevec and Jitendra Malik](https://www.pauldebevec.com/Research/HDR/) pointed out the indoor-lighting problem above, and showed that it could be fixed by digital techniques, combining information from multiple photographs with different exposures:
+An important example is high-dynamic range photography. [A 1997 paper by Paul Debevec and Jitendra Malik](https://www.pauldebevec.com/Research/HDR/) pointed out the indoor-lighting problem above, and showed that it could be fixed by digital techniques, combining information from multiple photographs with different exposures:
 <center>
 <figure>
    <img src="../../../images/tone/debevec-exposures.jpg" alt="Exposures from the HDR paper">
@@ -172,7 +172,7 @@ These techniques came to be known as [High-Dynamic Range](https://en.wikipedia.o
 
 This process actually involves a second step once the exposures are combined. When the brightest spots are 20,000 times brighter than the dimmer parts, how do we display these images on screens where brightnesses can only vary by a few hundred degrees? Techniques for this are called [tone-mapping](https://en.wikipedia.org/wiki/Tone_mapping). Following the publication of the above paper, a flurry of methods for HDR capture and tone-mapping arose, with different ways to compress the light values into what can be displayed on a screen or printed on the page.
 
-Many HDR techniques are based on enhancing image edges, so that every part of the image would have detail like in Ansel Adams' photos.  This kind of edge enhacement can be applied to a normal photo as well, and ["HDR" itself became the name for a particular visual style](https://flickr.com/search/?text=hdr), with artificially-enhanced detail and contrast between light and dark:
+Many HDR techniques are based on enhancing image edges, so that every part of the image would have detail like in Ansel Adams' photos.  This kind of edge enhancement can be applied to a normal photo as well, and ["HDR" itself became the name for a particular visual style](https://flickr.com/search/?text=hdr), with artificially-enhanced detail and contrast between light and dark:
 <center>
 <figure>
    <img src="../../../images/tone/flickr-hdr.jpg" alt="HDR imagery on Flickr">
@@ -211,7 +211,7 @@ Why does it look real? For the most part, the modified image _could be_ a real p
 
 So, what happens in tone-mapping? When we measure light with a dynamic range of 10,000:1, for example, in a scene with both sunlight and indoor shadows, and then transform that to an image with a dynamic range of 250:1, the human vision system doesn't perceive this as bright sunlight. 
 
-Tone-mapping _does_ change the nature of the scene. 
+Tone-mapping _does_ change the nature of the scene depicted. 
 We perceive it as a scene with dimmer sunlight, where the light from the sun is thousands of times dimmer than normal. But we don't read it as a celestial cataclysm because we know how photographs work. The experience is different from looking at the real scene, but the understanding is similar.  
 
 The same effect [applies in line drawing](tbd), where line drawings look like real scenes under a very particular lighting and shading.
@@ -248,12 +248,12 @@ Perhaps the best place to see how photographic choices are embedded into mobile 
 Notice how, not only do they make the image brighter, they add contrast and bluish tints to parts of the image, while darkening shadows. 
 I recommend reading the [technical paper](https://github.com/google/night-sight/tree/master/docs) or [the blog post](https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html) for a fuller description of all the considerations involved.  
 
-The iPhone is probably using something similar, since the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel.
+The iPhone uses something similar; the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel.
 
 I love the way my phone takes amazing pictures of sunsets and nighttime skylines, and these pictures look so much better than those taken by my phone five years ago.  My photos are a collaboration between me and the algorithm designers and camera manufacturers, and they reflect a combination of aesthetic decisions made by each of us.
 
 
 <br>
 
-_Thanks to Peter Hertzmann, Andrew Adams, and Michaël Gharbi for comments on this post._
+_Thanks to Andrew Adams, Paul Debevec, Michaël Gharbi and Peter Hertzmann for comments on this post._
 
