@@ -198,6 +198,7 @@ _Photography is not all-seeing in the sense that the eyes see. Our vision, a bin
 
 Theories of perception and photography often tend to be all-or-nothing. Either linear perspective and cameras are correct, and cameras don't lie. Or, there is no objective reality and everything is made-up. The reality is clearly far more complex. Our artwork employs all sorts of complex nonlinear structures, and our brains are able to understand and interpret them. Even more confusing, there's some evidence that people with very different cultural backgrounds may vary in perspective perception in some cases. Understanding how and why perspective works is a hard problem (and one that I'm working on), as is developing new software tools to make images to easily convey what we want to convey.
 
+I continue this theme in my next [blog post, on light and dark](/2022/03/10/photographic-tone.html).
 
 <br>
 

@@ -15,7 +15,7 @@ This post describes some of the choices involved in photographic tone reproducti
 
 We may tend to think of photographs as just objectively recording light and displaying it. But this is not the case. Photographic tone reflects many choices made by the photographer and the camera manufacturer. Nowadays, our mobile phone photos are getting better and better, applying much more sophisticated—but hidden—aesthetic choices.
 
-This, along with [my previous post on perspective](/2022/03/03/color-and-tone.html), are part of a broader theme of how paintings and photographs arise from artistic and technical choices. Photographs are not objective recordings of reality, nor are paintings direct depictions of the artist's experience. I'll say more about this in an upcoming blog post.
+This, along with [my previous post on perspective](/2022/03/03/color-and-tone.html), are part of a broader theme of how paintings and photographs arise from artistic and technical choices. Photographs are not objective recordings of reality, nor are paintings direct depictions of the artist's experience. I say more about this in [the subsequent post](/2022/03/17/photography-is-not-objective.html).
 
 
 # Too much and too little light
@@ -252,6 +252,7 @@ The iPhone uses something similar; the nighttime photos on my iPhone got a whole
 
 I love the way my phone takes amazing pictures of sunsets and nighttime skylines, and these pictures look so much better than those taken by my phone five years ago.  My photos are a collaboration between me and the algorithm designers and camera manufacturers, and they reflect a combination of aesthetic decisions made by each of us.
 
+Read on about art and photography in [my next blog post](/2022/03/17/photography-is-not-objective.html)
 
 <br>
 
