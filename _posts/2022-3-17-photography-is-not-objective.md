@@ -3,8 +3,8 @@ layout: page
 title: Photography is not Objective, Art is a Set of Choices
 summary: tbd 
 author:  AaronHertzmann
-image: /images/perspective/fake_tunnel.jpg
-og:image: /images/perspective/fake_tunnel.jpg
+image: /images/perspective/fake_tunnel2.jpg
+og:image: /images/perspective/fake_tunnel2.jpg
 ---
 
 
