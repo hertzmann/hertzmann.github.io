@@ -1,0 +1,2749 @@
+======== bear-gray.jpg
+ExifTool Version Number         : 12.00
+File Name                       : bear-gray.jpg
+Directory                       : .
+File Size                       : 166 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : cdcffa7da8c7be09057076aeaf05c34e
+Coded Character Set             : UTF8
+Application Record Version      : 0
+IPTC Digest                     : cdcffa7da8c7be09057076aeaf05c34e
+X Resolution                    : 72
+Displayed Units X               : inches
+Y Resolution                    : 72
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 90
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : Brown-bear
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 7694 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2020
+Photoshop Quality               : 8
+Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 21.2 (Macintosh)
+Modify Date                     : 2020:10:05 20:43:29
+Color Space                     : sRGB
+Exif Image Width                : 2732
+Exif Image Height               : 2048
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 10444
+Thumbnail Length                : 7694
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Media-Relative Colorimetric
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : Adobe XMP Core 6.0-c002 79.164460, 2020/05/12-16:04:17
+Creator Tool                    : Adobe Fresco 1.0.0 (iOS)
+Create Date                     : 2019:09:26 10:39:22+01:00
+Metadata Date                   : 2020:10:05 20:43:29-07:00
+Format                          : image/jpeg
+Color Mode                      : RGB
+ICC Profile Name                : sRGB IEC61966-2.1
+Current Color                   : 0x946A38FF
+Document Format                 : {"name":"My Size","units":"pixel","graphicType":"custom","width":2732,"height":2048,"pixelsPerInch":72,"backgroundColor":{"r":1,"g":1,"b":1,"a":1}}
+Document Version                : 100
+View State                      : {"brushPanel/scrollPositionPixelAllCollections":0.0,"brushPanel/scrollPositionPixelDisplayedCollection":0.0,"brushPanel/scrollPositionPixelFavorites":0.0,"colorPanel/colorWheelSectionExpanded":false,"colorPanel/colorModeSectionExpanded":false,"colorPanel/colorHistorySectionExpanded":true}
+Document ID                     : adobe:docid:photoshop:1449ccd7-2b22-c34f-ac5a-6f128f169942
+Instance ID                     : xmp.iid:e5f50149-824b-482d-827b-e1d04076463e
+Original Document ID            : xmp.did:9d3dc0cf-3360-4428-bcdf-0641a10fa2f6
+Color History                   : 0x946A38FF, 0xF0F0F0FF, 0xA3733BFF, 0x000000FF, 0xE8C269FF, 0xCBAE64FF, 0xCAE8F2FF, 0xF0D79BFF, 0x744A1AFF, 0x4E3416FF, 0xD9CAA6FF, 0xC59B37FF
+History Action                  : derived, saved, converted, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved, saved, converted, derived, saved
+History Parameters              : converted from application/vnd.adobe.photoshop to document/vnd.adobe.cpsd+dcx, from document/vnd.adobe.cpsd+dcx to application/vnd.adobe.photoshop, converted from application/vnd.adobe.photoshop to document/vnd.adobe.cpsd+dcx, from document/vnd.adobe.cpsd+dcx to application/vnd.adobe.photoshop, converted from application/vnd.adobe.photoshop to document/vnd.adobe.cpsd+dcx, from document/vnd.adobe.cpsd+dcx to application/vnd.adobe.photoshop, converted from document/vnd.adobe.cpsd+dcx to application/vnd.adobe.photoshop, from application/vnd.adobe.photoshop to image/jpeg, converted from application/vnd.adobe.photoshop to image/jpeg
+History Instance ID             : xmp.iid:9d3dc0cf-3360-4428-bcdf-0641a10fa2f6, xmp.iid:003534f6-e761-4a44-b258-c2f3f4623cf5, xmp.iid:33d1c200-c218-488d-8a63-c2a1d6595b9c, xmp.iid:dd7518f5-36c9-429d-9b18-2e8ae4d94d6e, xmp.iid:3e05f701-84c0-4b59-ad42-466eda32833f, xmp.iid:5f78469f-8681-4bac-8469-9475a9eaf3a0, xmp.iid:268a42ff-ba67-409e-8446-22871abe5ffa, xmp.iid:e5f50149-824b-482d-827b-e1d04076463e
+History When                    : 2019:09:26 10:39:22+01:00, 2019:09:26 11:12:50+01:00, 2019:09:26 20:06:23+01:00, 2019:09:27 13:37:03+01:00, 2019:10:22 22:22:20-07:00, 2019:10:22 22:22:20-07:00, 2020:10:05 20:43:29-07:00, 2020:10:05 20:43:29-07:00
+History Software Agent          : Adobe Fresco 1.0.0 (iOS), Adobe Fresco 1.0.0 (iOS), Adobe Fresco 1.0.0 (iOS), Adobe Fresco 1.0.0 (iOS), Adobe Fresco 1.1.0 (iOS), Adobe Fresco 1.1.0 (iOS), Adobe Photoshop 21.2 (Macintosh), Adobe Photoshop 21.2 (Macintosh)
+History Changed                 : /, /, /, /, /, /, /, /
+Derived From Instance ID        : xmp.iid:268a42ff-ba67-409e-8446-22871abe5ffa
+Derived From Document ID        : adobe:docid:photoshop:048bd30f-16fe-ed41-9f12-4da2ef8a66a4
+Derived From Original Document ID: xmp.did:9d3dc0cf-3360-4428-bcdf-0641a10fa2f6
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Thumbnail Image                 : (Binary data 7694 bytes, use -b option to extract)
+======== bear-test.jpg
+ExifTool Version Number         : 12.00
+File Name                       : bear-test.jpg
+Directory                       : .
+File Size                       : 101 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : ee2468be8b703757799ca822ef602399
+Original Transmission Reference : wb7CutiDgjB7Oy4k8NoX
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== bear-test2.jpg
+ExifTool Version Number         : 12.00
+File Name                       : bear-test2.jpg
+Directory                       : .
+File Size                       : 101 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : ee2468be8b703757799ca822ef602399
+Original Transmission Reference : wb7CutiDgjB7Oy4k8NoX
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== bear.jpg
+ExifTool Version Number         : 12.00
+File Name                       : bear.jpg
+Directory                       : .
+File Size                       : 101 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : ee2468be8b703757799ca822ef602399
+Original Transmission Reference : wb7CutiDgjB7Oy4k8NoX
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== bouquet.jpg
+ExifTool Version Number         : 12.00
+File Name                       : bouquet.jpg
+Directory                       : .
+File Size                       : 105 kB
+File Modification Date/Time     : 2020:11:01 10:48:10-08:00
+File Access Date/Time           : 2020:11:01 10:48:10-08:00
+File Inode Change Date/Time     : 2020:11:01 10:48:10-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 6375b18b000e2105773534132b8b0f95
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 02:20:29
+Digital Creation Date           : 2019:09:08
+Time Created                    : 02:20:29
+IPTC Digest                     : 6375b18b000e2105773534132b8b0f95
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:09:08 02:20:29
+Exif Version                    : 0221
+Date/Time Original              : 2019:09:08 02:20:29
+Create Date                     : 2019:09:08 02:20:29
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 115
+Sub Sec Time Digitized          : 115
+Flashpix Version                : 0100
+Exif Image Width                : 1958
+Exif Image Height               : 2437
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:09:08 02:20:29.115
+Image Width                     : 514
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 514x640
+Megapixels                      : 0.329
+Create Date                     : 2019:09:08 02:20:29.115
+Date/Time Original              : 2019:09:08 02:20:29.115
+Date/Time Created               : 2019:09:08 02:20:29
+Digital Creation Date/Time      : 2019:09:08 02:20:29
+======== chairs.jpg
+ExifTool Version Number         : 12.00
+File Name                       : chairs.jpg
+Directory                       : .
+File Size                       : 67 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : d1d1b83edab1379dc5e84db0545b9f0d
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 21:44:00
+Digital Creation Date           : 2019:10:21
+Date Created                    : 2019:10:21
+Time Created                    : 21:44:00
+IPTC Digest                     : d1d1b83edab1379dc5e84db0545b9f0d
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:10:21 21:44:00
+Exif Version                    : 0221
+Date/Time Original              : 2019:10:21 21:44:00
+Create Date                     : 2019:10:21 21:44:00
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 092
+Sub Sec Time Digitized          : 092
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 2732
+Exif Image Height               : 2048
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Create Date                     : 2019:10:21 21:44:00.092
+Date/Time Original              : 2019:10:21 21:44:00.092
+Date/Time Created               : 2019:10:21 21:44:00
+Digital Creation Date/Time      : 2019:10:21 21:44:00
+======== cidre.jpg
+ExifTool Version Number         : 12.00
+File Name                       : cidre.jpg
+Directory                       : .
+File Size                       : 47 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : cae9e1515862614e11ff16d14c0d077a
+Original Transmission Reference : I5JZNmwbL4xjzpKDacw3
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== cidre_photo.jpg
+ExifTool Version Number         : 12.00
+File Name                       : cidre_photo.jpg
+Directory                       : .
+File Size                       : 18 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:53-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Color Space                     : sRGB
+Exif Image Width                : 224
+Exif Image Height               : 320
+XMP Toolkit                     : XMP Core 5.4.0
+Transmission Reference          : LgYydIY5qH7o0g5NA_MB
+Current IPTC Digest             : 5cfca43f7bc3a4021dfad8bef07c1673
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Original Transmission Reference : LgYydIY5qH7o0g5NA_MB
+IPTC Digest                     : 5cfca43f7bc3a4021dfad8bef07c1673
+Image Width                     : 224
+Image Height                    : 320
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 224x320
+Megapixels                      : 0.072
+======== coffee_scale.jpg
+ExifTool Version Number         : 12.00
+File Name                       : coffee_scale.jpg
+Directory                       : .
+File Size                       : 72 kB
+File Modification Date/Time     : 2020:11:01 10:45:06-08:00
+File Access Date/Time           : 2020:11:01 10:45:07-08:00
+File Inode Change Date/Time     : 2020:11:01 10:45:06-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 720ef4b0c978a758be893d3b6e5dced6
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 01:39:43
+Digital Creation Date           : 2019:09:09
+Time Created                    : 01:39:43
+IPTC Digest                     : 720ef4b0c978a758be893d3b6e5dced6
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:09:09 01:39:43
+Exif Version                    : 0221
+Date/Time Original              : 2019:09:09 01:39:43
+Create Date                     : 2019:09:09 01:39:43
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 055
+Sub Sec Time Digitized          : 055
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 1717
+Exif Image Height               : 1843
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:09:09 01:39:43
+Image Width                     : 596
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 596x640
+Megapixels                      : 0.381
+Create Date                     : 2019:09:09 01:39:43.055
+Date/Time Original              : 2019:09:09 01:39:43.055
+Date/Time Created               : 2019:09:09 01:39:43
+Digital Creation Date/Time      : 2019:09:09 01:39:43
+======== coffee_table.jpg
+ExifTool Version Number         : 12.00
+File Name                       : coffee_table.jpg
+Directory                       : .
+File Size                       : 66 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:52-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 5d328fa488e74fc20230a5029e6b7bab
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 10:30:22
+Digital Creation Date           : 2019:11:14
+Date Created                    : 2019:11:14
+Time Created                    : 10:30:22
+IPTC Digest                     : 5d328fa488e74fc20230a5029e6b7bab
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:11:14 10:30:22
+Exif Version                    : 0221
+Date/Time Original              : 2019:11:14 10:30:22
+Create Date                     : 2019:11:14 10:30:22
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 278
+Sub Sec Time Digitized          : 278
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 2652
+Exif Image Height               : 2047
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 494
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x494
+Megapixels                      : 0.316
+Create Date                     : 2019:11:14 10:30:22.278
+Date/Time Original              : 2019:11:14 10:30:22.278
+Date/Time Created               : 2019:11:14 10:30:22
+Digital Creation Date/Time      : 2019:11:14 10:30:22
+======== cups.jpg
+ExifTool Version Number         : 12.00
+File Name                       : cups.jpg
+Directory                       : .
+File Size                       : 69 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : a04c1b6c5ac7458d62407fce5afc8cae
+Original Transmission Reference : GerfOZ8QZVKoyw886LFF
+Image Width                     : 640
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x640
+Megapixels                      : 0.410
+======== curtains.jpg
+ExifTool Version Number         : 12.00
+File Name                       : curtains.jpg
+Directory                       : .
+File Size                       : 60 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 531307c5591d0c23d3d187c07beb883d
+Original Transmission Reference : cXZ6CPl9uMOvpkbmQS-k
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== donau_auen_photo.jpg
+ExifTool Version Number         : 12.00
+File Name                       : donau_auen_photo.jpg
+Directory                       : .
+File Size                       : 67 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 3d61f9fadea1854c18b81d5a27fdff6f
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 14:17:37-07:00
+IPTC Digest                     : 3d61f9fadea1854c18b81d5a27fdff6f
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone XS
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 13.1.1
+Modify Date                     : 2019:10:06 14:17:37
+Tile Width                      : 512
+Tile Length                     : 512
+Exposure Time                   : 1/1812
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 25
+Exif Version                    : 0231
+Date/Time Original              : 2019:10:06 14:17:37
+Create Date                     : 2019:10:06 14:17:37
+Offset Time                     : +02:00
+Offset Time Original            : -07:00
+Offset Time Digitized           : -07:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/1812
+Aperture Value                  : 1.8
+Brightness Value                : 10.31375576
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Auto, Did not fire
+Focal Length                    : 4.2 mm
+Subject Area                    : 2013 1511 2217 1330
+Run Time Flags                  : Valid
+Run Time Value                  : 279607810102208
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Acceleration Vector             : 0.877973854 -0.003617117645 0.19502756
+Sub Sec Time Original           : 134
+Sub Sec Time Digitized          : 134
+Flashpix Version                : 0100
+Exif Image Width                : 3690
+Exif Image Height               : 2764
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 4.25-6mm f/1.8-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone XS back dual camera 4.25mm f/1.8
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Input Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2016:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 89050ebed36febc960c781f7839a0f4e
+Profile Description             : Apple Wide Color Sharing Profile
+Profile Copyright               : Copyright Apple Inc., 2016
+Media White Point               : 0.9642 1 0.8251
+A To B2                         : (Binary data 29772 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04781 0.02289 -0.05017 0.02953 0.99051 -0.01706 -0.00925 0.01506 0.75191
+A To B0                         : (Binary data 29772 bytes, use -b option to extract)
+A To B1                         : (Binary data 29772 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Creator Tool                    : 13.1.1
+Date Created                    : 2019::1:00T14:17:37:07:00
+Subject                         : 
+Image Width                     : 321
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 3 days 5:40:08
+Aperture                        : 1.8
+Image Size                      : 321x240
+Lens ID                         : iPhone XS back dual camera 4.25mm f/1.8
+Megapixels                      : 0.077
+Scale Factor To 35 mm Equivalent: 6.1
+Shutter Speed                   : 1/1812
+Create Date                     : 2019:10:06 14:17:37.134-07:00
+Date/Time Original              : 2019:10:06 14:17:37.134-07:00
+Modify Date                     : 2019:10:06 14:17:37+02:00
+Date/Time Created               : 2019:10:06 14:17:37-07:00
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 4.2 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.04 m
+Light Value                     : 14.5
+======== donau_auen_tree.jpg
+ExifTool Version Number         : 12.00
+File Name                       : donau_auen_tree.jpg
+Directory                       : .
+File Size                       : 13 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:53-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : 02024e6438f23a540b61bc1748304a98
+Original Transmission Reference : 9-4ZMF0V1VowuqscxPdV
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 320
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x240
+Megapixels                      : 0.077
+======== eurostar.jpg
+ExifTool Version Number         : 12.00
+File Name                       : eurostar.jpg
+Directory                       : .
+File Size                       : 74 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 54e9168be6fdd643a69112495a3203ce
+Original Transmission Reference : ahv5v2K9_B_6p_lHuB40
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== fiddleleaf.jpg
+ExifTool Version Number         : 12.00
+File Name                       : fiddleleaf.jpg
+Directory                       : .
+File Size                       : 34 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : ea350e1f169bd2bfa91ba343115bc034
+Original Transmission Reference : P-ljpG-63Pz9hJF5rEur
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 436
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 436x640
+Megapixels                      : 0.279
+======== fra.jpg
+ExifTool Version Number         : 12.00
+File Name                       : fra.jpg
+Directory                       : .
+File Size                       : 499 kB
+File Modification Date/Time     : 2020:10:29 10:46:16-07:00
+File Access Date/Time           : 2020:11:01 10:49:09-08:00
+File Inode Change Date/Time     : 2020:10:29 10:47:19-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2020:01:19 10:26:38
+Exif Version                    : 0221
+Date/Time Original              : 2020:01:19 10:26:38
+Create Date                     : 2020:01:19 10:26:38
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 752
+Sub Sec Time Digitized          : 752
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2732
+Exif Image Height               : 2048
+Scene Capture Type              : Standard
+Current IPTC Digest             : a25ecfe46ebfe2abcb08ca87b16363b3
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 10:26:38
+Digital Creation Date           : 2020:01:19
+Date Created                    : 2020:01:19
+Time Created                    : 10:26:38
+IPTC Digest                     : a25ecfe46ebfe2abcb08ca87b16363b3
+Image Width                     : 2732
+Image Height                    : 2048
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 2732x2048
+Megapixels                      : 5.6
+Create Date                     : 2020:01:19 10:26:38.752
+Date/Time Original              : 2020:01:19 10:26:38.752
+Date/Time Created               : 2020:01:19 10:26:38
+Digital Creation Date/Time      : 2020:01:19 10:26:38
+======== gare_du_nord.jpg
+ExifTool Version Number         : 12.00
+File Name                       : gare_du_nord.jpg
+Directory                       : .
+File Size                       : 39 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 534ca8e54c0d8ccc0f18a79d00c8eb70
+Original Transmission Reference : MJJC1fx9_bUz5dXhf22S
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== gare_montparnasse.jpg
+ExifTool Version Number         : 12.00
+File Name                       : gare_montparnasse.jpg
+Directory                       : .
+File Size                       : 26 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:53-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Color Space                     : sRGB
+Exif Image Width                : 640
+Exif Image Height               : 480
+XMP Toolkit                     : XMP Core 5.4.0
+Transmission Reference          : MJJC1fx9_bUz5dXhf22S
+Current IPTC Digest             : f56b11a172dd87ceeca775081d10556a
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Original Transmission Reference : MJJC1fx9_bUz5dXhf22S
+IPTC Digest                     : f56b11a172dd87ceeca775081d10556a
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== glassdoor.jpg
+ExifTool Version Number         : 12.00
+File Name                       : glassdoor.jpg
+Directory                       : .
+File Size                       : 46 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : d838c2a4494d28e100ed7d2e7af5ab5a
+Original Transmission Reference : GS-qRKwU-y_x-fZULOt3
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x640
+Megapixels                      : 0.410
+======== gormley-detail.jpg
+ExifTool Version Number         : 12.00
+File Name                       : gormley-detail.jpg
+Directory                       : .
+File Size                       : 77 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 22.0 (Macintosh)
+Modify Date                     : 2020:10:25 09:30:29
+Exif Version                    : 0221
+Date/Time Original              : 2019:09:30 13:25:49
+Create Date                     : 2019:09:30 13:25:49
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 434
+Sub Sec Time Digitized          : 434
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 640
+Exif Image Height               : 603
+Scene Capture Type              : Standard
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 522
+Thumbnail Length                : 5539
+Current IPTC Digest             : f334da4080eb29eb055e6f23fdd77ce1
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 13:25:49
+Digital Creation Date           : 2019:09:30
+IPTC Digest                     : f334da4080eb29eb055e6f23fdd77ce1
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+URL List                        : 
+Slices Group Name               : gormley-full-size
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 5539 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 2021
+Photoshop Quality               : 8
+Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : Adobe XMP Core 6.0-c002 79.164488, 2020/07/10-22:06:53
+Metadata Date                   : 2020:10:25 09:30:29-07:00
+Date Created                    : 2019:09:30 13:25:49
+Legacy IPTC Digest              : 3659AEF78F630810D9950C2265C580C5
+Color Mode                      : RGB
+ICC Profile Name                : Display P3
+Document ID                     : adobe:docid:photoshop:794a52b3-a8c2-cf4d-87c8-fcc934e536f5
+Instance ID                     : xmp.iid:2ecd9f98-c5ce-40c1-bbe5-f5b2eb1cca5c
+Original Document ID            : 27238C17FCA1EF209C5B17043CC77E2C
+Format                          : image/jpeg
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:8f517b26-f14b-4000-8b42-5e02facd6aa1, xmp.iid:2ecd9f98-c5ce-40c1-bbe5-f5b2eb1cca5c
+History When                    : 2020:10:25 09:30:29-07:00, 2020:10:25 09:30:29-07:00
+History Software Agent          : Adobe Photoshop 22.0 (Macintosh), Adobe Photoshop 22.0 (Macintosh)
+History Changed                 : /, /
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : (none)
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 640
+Image Height                    : 603
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x603
+Megapixels                      : 0.386
+Create Date                     : 2019:09:30 13:25:49.434
+Date/Time Original              : 2019:09:30 13:25:49.434
+Thumbnail Image                 : (Binary data 5539 bytes, use -b option to extract)
+Date/Time Created               : 2019:09:30 13:25:49
+======== gormley-final.jpg
+ExifTool Version Number         : 12.00
+File Name                       : gormley-final.jpg
+Directory                       : .
+File Size                       : 57 kB
+File Modification Date/Time     : 2020:11:01 10:41:57-08:00
+File Access Date/Time           : 2020:11:01 10:42:20-08:00
+File Inode Change Date/Time     : 2020:11:01 10:42:18-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 3659aef78f630810d9950c2265c580c5
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 13:25:49
+Digital Creation Date           : 2019:09:30
+Time Created                    : 13:25:49
+IPTC Digest                     : 3659aef78f630810d9950c2265c580c5
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:09:30 13:25:49
+Exif Version                    : 0221
+Date/Time Original              : 2019:09:30 13:25:49
+Create Date                     : 2019:09:30 13:25:49
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 434
+Sub Sec Time Digitized          : 434
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 3579
+Exif Image Height               : 2047
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:09:30 13:25:49
+Image Width                     : 640
+Image Height                    : 366
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x366
+Megapixels                      : 0.234
+Create Date                     : 2019:09:30 13:25:49.434
+Date/Time Original              : 2019:09:30 13:25:49.434
+Date/Time Created               : 2019:09:30 13:25:49
+Digital Creation Date/Time      : 2019:09:30 13:25:49
+======== gormley-sketch.jpg
+ExifTool Version Number         : 12.00
+File Name                       : gormley-sketch.jpg
+Directory                       : .
+File Size                       : 53 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 1d7723c6429c1b94edb883f133160e58
+Original Transmission Reference : eO3WejHkLp2iMG8fxKoo
+Image Width                     : 960
+Image Height                    : 720
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 960x720
+Megapixels                      : 0.691
+======== hibiki.jpg
+ExifTool Version Number         : 12.00
+File Name                       : hibiki.jpg
+Directory                       : .
+File Size                       : 52 kB
+File Modification Date/Time     : 2020:10:30 10:06:05-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:30 10:06:35-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 65f31b994289d72454ace56863071f2c
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 21:15:18
+Digital Creation Date           : 2020:10:29
+Date Created                    : 2020:10:29
+Time Created                    : 21:15:18
+IPTC Digest                     : 65f31b994289d72454ace56863071f2c
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2020:10:29 21:15:18
+Exif Version                    : 0221
+Date/Time Original              : 2020:10:29 21:15:18
+Create Date                     : 2020:10:29 21:15:18
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 743
+Sub Sec Time Digitized          : 743
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 1935
+Exif Image Height               : 1935
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x640
+Megapixels                      : 0.410
+Create Date                     : 2020:10:29 21:15:18.743
+Date/Time Original              : 2020:10:29 21:15:18.743
+Date/Time Created               : 2020:10:29 21:15:18
+Digital Creation Date/Time      : 2020:10:29 21:15:18
+======== inflight.jpg
+ExifTool Version Number         : 12.00
+File Name                       : inflight.jpg
+Directory                       : .
+File Size                       : 68 kB
+File Modification Date/Time     : 2020:10:29 10:42:47-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:29 10:45:18-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : ecc008a4d2bd78f6883204429a077de1
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 17:18:16
+Digital Creation Date           : 2020:02:21
+Date Created                    : 2020:02:21
+Time Created                    : 17:18:16
+IPTC Digest                     : ecc008a4d2bd78f6883204429a077de1
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2020:02:21 17:18:16
+Exif Version                    : 0221
+Date/Time Original              : 2020:02:21 17:18:16
+Create Date                     : 2020:02:21 17:18:16
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 741
+Sub Sec Time Digitized          : 741
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2732
+Exif Image Height               : 2048
+Scene Capture Type              : Standard
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Create Date                     : 2020:02:21 17:18:16.741
+Date/Time Original              : 2020:02:21 17:18:16.741
+Date/Time Created               : 2020:02:21 17:18:16
+Digital Creation Date/Time      : 2020:02:21 17:18:16
+======== jungsik.jpg
+ExifTool Version Number         : 12.00
+File Name                       : jungsik.jpg
+Directory                       : .
+File Size                       : 25 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:53-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : ec3ca76d514e8be664b9dee3d58a4c21
+Original Transmission Reference : StuO6yeesVo_VNdq_BnS
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x640
+Megapixels                      : 0.410
+======== keble.jpg
+ExifTool Version Number         : 12.00
+File Name                       : keble.jpg
+Directory                       : .
+File Size                       : 46 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : 26332a86c4f25fd17f576cd72ed5f9dd
+Original Transmission Reference : y3AvA5_47GEhcNj-0qiK
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== lufthansa.jpg
+ExifTool Version Number         : 12.00
+File Name                       : lufthansa.jpg
+Directory                       : .
+File Size                       : 67 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : c6f67b036ae9311e69684909a798a01c
+Original Transmission Reference : 5TKfJYQtzZPMrJCUwpbs
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== mr_rogers.jpg
+ExifTool Version Number         : 12.00
+File Name                       : mr_rogers.jpg
+Directory                       : .
+File Size                       : 79 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : c36ca23d4b448909a968c8ce35903332
+Original Transmission Reference : 6RRgTpErCz-2d-V6PVtm
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 588
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 588x640
+Megapixels                      : 0.376
+======== oxford_fountain.jpg
+ExifTool Version Number         : 12.00
+File Name                       : oxford_fountain.jpg
+Directory                       : .
+File Size                       : 68 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 7a66a264d7018c0fae5d6b33948e716f
+Original Transmission Reference : j4kg8W6B-UCl509Ow-PR
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== piano-player.jpg
+ExifTool Version Number         : 12.00
+File Name                       : piano-player.jpg
+Directory                       : .
+File Size                       : 19 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:53-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : 026aa644cedc98951dac11b5fa9ac5c2
+Original Transmission Reference : qIXTPstnm0whU0Cpy5oh
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 495
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 495x640
+Megapixels                      : 0.317
+======== pilea.jpg
+ExifTool Version Number         : 12.00
+File Name                       : pilea.jpg
+Directory                       : .
+File Size                       : 33 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : 7b8140dc73b0189f70eb091e66ccbc14
+Original Transmission Reference : WwKxzQG6o5IS0haSkwyh
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== pilea_flat.jpg
+ExifTool Version Number         : 12.00
+File Name                       : pilea_flat.jpg
+Directory                       : .
+File Size                       : 83 kB
+File Modification Date/Time     : 2020:10:29 10:42:47-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:29 10:43:36-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : eafd25145240e41e3d831da83d7aa8e5
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 08:43:03
+Digital Creation Date           : 2020:04:14
+Date Created                    : 2020:04:14
+Time Created                    : 08:43:03
+IPTC Digest                     : eafd25145240e41e3d831da83d7aa8e5
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2020:04:14 08:43:03
+Exif Version                    : 0221
+Date/Time Original              : 2020:04:14 08:43:03
+Create Date                     : 2020:04:14 08:43:03
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 043
+Sub Sec Time Digitized          : 043
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2100
+Exif Image Height               : 2100
+Scene Capture Type              : Standard
+Image Width                     : 640
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x640
+Megapixels                      : 0.410
+Create Date                     : 2020:04:14 08:43:03.043
+Date/Time Original              : 2020:04:14 08:43:03.043
+Date/Time Created               : 2020:04:14 08:43:03
+Digital Creation Date/Time      : 2020:04:14 08:43:03
+======== radcliffe.jpg
+ExifTool Version Number         : 12.00
+File Name                       : radcliffe.jpg
+Directory                       : .
+File Size                       : 86 kB
+File Modification Date/Time     : 2020:11:01 10:44:21-08:00
+File Access Date/Time           : 2020:11:01 10:44:27-08:00
+File Inode Change Date/Time     : 2020:11:01 10:44:21-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : d5c1e6f9e2d1433c4932597fb0ee9b21
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 05:59:23
+Digital Creation Date           : 2019:09:05
+Time Created                    : 05:59:23
+IPTC Digest                     : d5c1e6f9e2d1433c4932597fb0ee9b21
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:09:05 05:59:23
+Exif Version                    : 0221
+Date/Time Original              : 2019:09:05 05:59:23
+Create Date                     : 2019:09:05 05:59:23
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 518
+Sub Sec Time Digitized          : 518
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 2435
+Exif Image Height               : 1693
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:09:05 05:59:23
+Image Width                     : 640
+Image Height                    : 445
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x445
+Megapixels                      : 0.285
+Create Date                     : 2019:09:05 05:59:23.518
+Date/Time Original              : 2019:09:05 05:59:23.518
+Date/Time Created               : 2019:09:05 05:59:23
+Digital Creation Date/Time      : 2019:09:05 05:59:23
+======== radcliffe1.jpg
+ExifTool Version Number         : 12.00
+File Name                       : radcliffe1.jpg
+Directory                       : .
+File Size                       : 58 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:11:01 10:44:27-08:00
+File Inode Change Date/Time     : 2020:10:28 12:43:53-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : d41d8cd98f00b204e9800998ecf8427e
+IPTC Digest                     : d41d8cd98f00b204e9800998ecf8427e
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+User Comment                    : Screenshot
+Exif Image Width                : 1304
+Exif Image Height               : 925
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2020:10:05 08:24:54
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : 0
+Profile Description             : Display
+Profile Description ML (hr-HR)  : DELL 3008WFP
+Profile Description ML (ko-KR)  : DELL 3008WFP
+Profile Description ML (nb-NO)  : DELL 3008WFP
+Profile Description ML (hu-HU)  : DELL 3008WFP
+Profile Description ML (cs-CZ)  : DELL 3008WFP
+Profile Description ML (da-DK)  : DELL 3008WFP
+Profile Description ML (nl-NL)  : DELL 3008WFP
+Profile Description ML (fi-FI)  : DELL 3008WFP
+Profile Description ML (it-IT)  : DELL 3008WFP
+Profile Description ML (es-ES)  : DELL 3008WFP
+Profile Description ML (ro-RO)  : DELL 3008WFP
+Profile Description ML (fr-CA)  : DELL 3008WFP
+Profile Description ML (uk-UA)  : DELL 3008WFP
+Profile Description ML (he-IL)  : DELL 3008WFP
+Profile Description ML (zh-TW)  : DELL 3008WFP
+Profile Description ML (vi-VN)  : DELL 3008WFP
+Profile Description ML (sk-SK)  : DELL 3008WFP
+Profile Description ML (zh-CN)  : DELL 3008WFP
+Profile Description ML (ru-RU)  : DELL 3008WFP
+Profile Description ML (en-GB)  : DELL 3008WFP
+Profile Description ML (fr-FR)  : DELL 3008WFP
+Profile Description ML (hi-IN)  : DELL 3008WFP
+Profile Description ML (th-TH)  : DELL 3008WFP
+Profile Description ML (ca-ES)  : DELL 3008WFP
+Profile Description ML (en-AU)  : DELL 3008WFP
+Profile Description ML (es-XL)  : DELL 3008WFP
+Profile Description ML (de-DE)  : DELL 3008WFP
+Profile Description ML          : DELL 3008WFP
+Profile Description ML (pt-BR)  : DELL 3008WFP
+Profile Description ML (pl-PL)  : DELL 3008WFP
+Profile Description ML (el-GR)  : DELL 3008WFP
+Profile Description ML (sv-SE)  : DELL 3008WFP
+Profile Description ML (tr-TR)  : DELL 3008WFP
+Profile Description ML (pt-PT)  : DELL 3008WFP
+Profile Description ML (ja-JP)  : DELL 3008WFP
+Profile Copyright               : Copyright Apple Inc., 2020
+Media White Point               : 0.95251 1 1.08606
+Red Matrix Column               : 0.61687 0.28023 0.00752
+Green Matrix Column             : 0.20564 0.65846 0.08202
+Blue Matrix Column              : 0.14168 0.06131 0.73537
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Video Card Gamma                : (Binary data 48 bytes, use -b option to extract)
+Native Display Info             : (Binary data 62 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04576 0.02182 -0.04945 0.02797 0.99156 -0.01674 -0.00919 0.01505 0.75375
+Make And Model                  : (Binary data 40 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Image Width                     : 640
+Image Height                    : 454
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x454
+Megapixels                      : 0.291
+======== skeleton1.jpg
+ExifTool Version Number         : 12.00
+File Name                       : skeleton1.jpg
+Directory                       : .
+File Size                       : 23 kB
+File Modification Date/Time     : 2020:11:01 10:48:58-08:00
+File Access Date/Time           : 2020:11:01 10:48:59-08:00
+File Inode Change Date/Time     : 2020:11:01 10:48:58-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 4d644f45da23a093af6ed5a6a2e862c2
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 03:03:34
+Digital Creation Date           : 2019:09:24
+Time Created                    : 03:03:34
+IPTC Digest                     : 4d644f45da23a093af6ed5a6a2e862c2
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:09:24 03:03:34
+Exif Version                    : 0221
+Date/Time Original              : 2019:09:24 03:03:34
+Create Date                     : 2019:09:24 03:03:34
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 446
+Sub Sec Time Digitized          : 446
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2048
+Exif Image Height               : 2732
+Scene Capture Type              : Standard
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:09:24 03:03:34.446
+Image Width                     : 240
+Image Height                    : 320
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 1
+Image Size                      : 240x320
+Megapixels                      : 0.077
+Create Date                     : 2019:09:24 03:03:34.446
+Date/Time Original              : 2019:09:24 03:03:34.446
+Date/Time Created               : 2019:09:24 03:03:34
+Digital Creation Date/Time      : 2019:09:24 03:03:34
+======== skeleton2.jpg
+ExifTool Version Number         : 12.00
+File Name                       : skeleton2.jpg
+Directory                       : .
+File Size                       : 27 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:54-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:54-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Current IPTC Digest             : 3e6309816cd659db50c87e0ee82163ba
+Original Transmission Reference : A-7TsggoyG-bcfUaa1us
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 320
+Image Height                    : 427
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 320x427
+Megapixels                      : 0.137
+======== soup.jpg
+ExifTool Version Number         : 12.00
+File Name                       : soup.jpg
+Directory                       : .
+File Size                       : 77 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:54-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : efff8e284f4ff5f7b9550db5c0ba3f60
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 04:32:11-07:00
+IPTC Digest                     : efff8e284f4ff5f7b9550db5c0ba3f60
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Modify Date                     : 2019:10:05 04:32:11
+Date/Time Original              : 2019:10:05 04:32:11
+Create Date                     : 2019:10:05 04:32:11
+Offset Time Original            : -07:00
+Offset Time Digitized           : -07:00
+Sub Sec Time Original           : 000
+Sub Sec Time Digitized          : 000
+Color Space                     : sRGB
+Exif Image Width                : 2215
+Exif Image Height               : 1729
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019::1:00T04:32:11:07:00
+Subject                         : 
+Image Width                     : 640
+Image Height                    : 500
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x500
+Megapixels                      : 0.320
+Create Date                     : 2019:10:05 04:32:11.000-07:00
+Date/Time Original              : 2019:10:05 04:32:11.000-07:00
+Date/Time Created               : 2019:10:05 04:32:11-07:00
+======== soup_photo.jpg
+ExifTool Version Number         : 12.00
+File Name                       : soup_photo.jpg
+Directory                       : .
+File Size                       : 94 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:54-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 998ba72b6f68154e8e49a0515875b8da
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Time Created                    : 12:25:13-07:00
+IPTC Digest                     : 998ba72b6f68154e8e49a0515875b8da
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : Apple
+Camera Model Name               : iPhone XS
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : 13.1.1
+Modify Date                     : 2019:10:05 12:25:13
+Tile Width                      : 512
+Tile Length                     : 512
+Exposure Time                   : 1/49
+F Number                        : 1.8
+Exposure Program                : Program AE
+ISO                             : 80
+Exif Version                    : 0231
+Date/Time Original              : 2019:10:05 12:25:13
+Create Date                     : 2019:10:05 12:25:13
+Offset Time                     : +02:00
+Offset Time Original            : -07:00
+Offset Time Digitized           : -07:00
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/49
+Aperture Value                  : 1.8
+Brightness Value                : 2.930744929
+Exposure Compensation           : 0
+Metering Mode                   : Multi-segment
+Flash                           : Auto, Did not fire
+Focal Length                    : 4.2 mm
+Subject Area                    : 2013 1511 2217 1330
+Run Time Flags                  : Valid
+Run Time Value                  : 247904446610500
+Run Time Scale                  : 1000000000
+Run Time Epoch                  : 0
+Acceleration Vector             : -0.6187023524 0.008652083576 -0.7890970707
+Sub Sec Time Original           : 892
+Sub Sec Time Digitized          : 892
+Flashpix Version                : 0100
+Exif Image Width                : 4032
+Exif Image Height               : 3024
+Sensing Method                  : One-chip color area
+Scene Type                      : Directly photographed
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Focal Length In 35mm Format     : 26 mm
+Scene Capture Type              : Standard
+Lens Info                       : 4.25-6mm f/1.8-2.4
+Lens Make                       : Apple
+Lens Model                      : iPhone XS back dual camera 4.25mm f/1.8
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Input Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2016:01:01 00:00:00
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : e6e9f2ad410a663dd5b3daa1e2075bd5
+Profile Description             : Apple Wide Color Sharing Profile
+Profile Copyright               : Copyright Apple Inc., 2016
+Media White Point               : 0.9642 1 0.8251
+A To B2                         : (Binary data 29772 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04781 0.02289 -0.05017 0.02953 0.99051 -0.01706 -0.00925 0.01506 0.75191
+A To B0                         : (Binary data 29772 bytes, use -b option to extract)
+A To B1                         : (Binary data 29772 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Creator Tool                    : 13.1.1
+Date Created                    : 2019::1:00T12:25:13:07:00
+Subject                         : 
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Run Time Since Power Up         : 2 days 20:51:44
+Aperture                        : 1.8
+Image Size                      : 640x480
+Lens ID                         : iPhone XS back dual camera 4.25mm f/1.8
+Megapixels                      : 0.307
+Scale Factor To 35 mm Equivalent: 6.1
+Shutter Speed                   : 1/49
+Create Date                     : 2019:10:05 12:25:13.892-07:00
+Date/Time Original              : 2019:10:05 12:25:13.892-07:00
+Modify Date                     : 2019:10:05 12:25:13+02:00
+Date/Time Created               : 2019:10:05 12:25:13-07:00
+Circle Of Confusion             : 0.005 mm
+Field Of View                   : 69.4 deg
+Focal Length                    : 4.2 mm (35 mm equivalent: 26.0 mm)
+Hyperfocal Distance             : 2.04 m
+Light Value                     : 7.6
+======== st_stephens.jpg
+ExifTool Version Number         : 12.00
+File Name                       : st_stephens.jpg
+Directory                       : .
+File Size                       : 79 kB
+File Modification Date/Time     : 2020:11:01 10:46:01-08:00
+File Access Date/Time           : 2020:11:01 10:46:02-08:00
+File Inode Change Date/Time     : 2020:11:01 10:46:01-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : a32f1e2c4920ec50db2a48774278bcb5
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 15:48:47
+Digital Creation Date           : 2019:10:03
+Time Created                    : 15:48:47
+IPTC Digest                     : a32f1e2c4920ec50db2a48774278bcb5
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:10:03 15:48:47
+Exif Version                    : 0221
+Date/Time Original              : 2019:10:03 15:48:47
+Create Date                     : 2019:10:03 15:48:47
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 044
+Sub Sec Time Digitized          : 044
+Flashpix Version                : 0100
+Color Space                     : Uncalibrated
+Exif Image Width                : 2690
+Exif Image Height               : 1975
+Scene Capture Type              : Standard
+Profile CMM Type                : Apple Computer Inc.
+Profile Version                 : 4.0.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2017:07:07 13:22:32
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Apple Computer Inc.
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Apple Computer Inc.
+Profile ID                      : ca1a9582257f104d389913d5d1ea1582
+Profile Description             : Display P3
+Profile Copyright               : Copyright Apple Inc., 2017
+Media White Point               : 0.95045 1 1.08905
+Red Matrix Column               : 0.51512 0.2412 -0.00105
+Green Matrix Column             : 0.29198 0.69225 0.04189
+Blue Matrix Column              : 0.1571 0.06657 0.78407
+Red Tone Reproduction Curve     : (Binary data 32 bytes, use -b option to extract)
+Chromatic Adaptation            : 1.04788 0.02292 -0.0502 0.02959 0.99048 -0.01706 -0.00923 0.01508 0.75168
+Blue Tone Reproduction Curve    : (Binary data 32 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 32 bytes, use -b option to extract)
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:10:03 15:48:47
+Image Width                     : 640
+Image Height                    : 470
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x470
+Megapixels                      : 0.301
+Create Date                     : 2019:10:03 15:48:47.044
+Date/Time Original              : 2019:10:03 15:48:47.044
+Date/Time Created               : 2019:10:03 15:48:47
+Digital Creation Date/Time      : 2019:10:03 15:48:47
+======== stata.jpg
+ExifTool Version Number         : 12.00
+File Name                       : stata.jpg
+Directory                       : .
+File Size                       : 41 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:54-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : fc72f8afb315687d15c3840bd4de4b03
+Original Transmission Reference : IvWbFjfeeZMjdWPtHZ79
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+======== streetcars.jpg
+ExifTool Version Number         : 12.00
+File Name                       : streetcars.jpg
+Directory                       : .
+File Size                       : 103 kB
+File Modification Date/Time     : 2020:11:01 10:47:05-08:00
+File Access Date/Time           : 2020:11:01 10:47:06-08:00
+File Inode Change Date/Time     : 2020:11:01 10:47:05-08:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : f91ecd279bfe05cc212c72b469b21d16
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 10:17:46
+Digital Creation Date           : 2019:10:12
+Time Created                    : 10:17:46
+IPTC Digest                     : f91ecd279bfe05cc212c72b469b21d16
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:10:12 10:17:46
+Exif Version                    : 0221
+Date/Time Original              : 2019:10:12 10:17:46
+Create Date                     : 2019:10:12 10:17:46
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 270
+Sub Sec Time Digitized          : 270
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2732
+Exif Image Height               : 2048
+Scene Capture Type              : Standard
+XMP Toolkit                     : XMP Core 5.4.0
+Date Created                    : 2019:10:12 10:17:46
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Create Date                     : 2019:10:12 10:17:46.270
+Date/Time Original              : 2019:10:12 10:17:46.270
+Date/Time Created               : 2019:10:12 10:17:46
+Digital Creation Date/Time      : 2019:10:12 10:17:46
+======== temple.jpg
+ExifTool Version Number         : 12.00
+File Name                       : temple.jpg
+Directory                       : .
+File Size                       : 93 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:54-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 1e37a1336fc3b56ef5ca3a41ed575d82
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 02:06:11
+Digital Creation Date           : 2019:10:29
+Date Created                    : 2019:10:29
+Time Created                    : 02:06:11
+IPTC Digest                     : 1e37a1336fc3b56ef5ca3a41ed575d82
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2019:10:29 02:06:11
+Exif Version                    : 0221
+Date/Time Original              : 2019:10:29 02:06:11
+Create Date                     : 2019:10:29 02:06:11
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 558
+Sub Sec Time Digitized          : 558
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2732
+Exif Image Height               : 2048
+Scene Capture Type              : Standard
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Create Date                     : 2019:10:29 02:06:11.558
+Date/Time Original              : 2019:10:29 02:06:11.558
+Date/Time Created               : 2019:10:29 02:06:11
+Digital Creation Date/Time      : 2019:10:29 02:06:11
+======== twilight.jpg
+ExifTool Version Number         : 12.00
+File Name                       : twilight.jpg
+Directory                       : .
+File Size                       : 114 kB
+File Modification Date/Time     : 2020:10:29 10:42:47-07:00
+File Access Date/Time           : 2020:10:31 09:23:39-07:00
+File Inode Change Date/Time     : 2020:10:29 10:43:36-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Current IPTC Digest             : 58fec510d4772cf22c24abcb4bfcb687
+Coded Character Set             : UTF8
+Application Record Version      : 2
+Digital Creation Time           : 19:14:08
+Digital Creation Date           : 2020:04:26
+Date Created                    : 2020:04:26
+Time Created                    : 19:14:08
+IPTC Digest                     : 58fec510d4772cf22c24abcb4bfcb687
+Exif Byte Order                 : Big-endian (Motorola, MM)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Modify Date                     : 2020:04:26 19:14:08
+Exif Version                    : 0221
+Date/Time Original              : 2020:04:26 19:14:08
+Create Date                     : 2020:04:26 19:14:08
+Components Configuration        : Y, Cb, Cr, -
+Sub Sec Time Original           : 132
+Sub Sec Time Digitized          : 132
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 2100
+Exif Image Height               : 2100
+Scene Capture Type              : Standard
+Image Width                     : 640
+Image Height                    : 640
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x640
+Megapixels                      : 0.410
+Create Date                     : 2020:04:26 19:14:08.132
+Date/Time Original              : 2020:04:26 19:14:08.132
+Date/Time Created               : 2020:04:26 19:14:08
+Digital Creation Date/Time      : 2020:04:26 19:14:08
+======== verve_pix.jpg
+ExifTool Version Number         : 12.00
+File Name                       : verve_pix.jpg
+Directory                       : .
+File Size                       : 29 kB
+File Modification Date/Time     : 2020:10:28 12:43:52-07:00
+File Access Date/Time           : 2020:10:28 12:43:55-07:00
+File Inode Change Date/Time     : 2020:10:28 12:43:54-07:00
+File Permissions                : rw-r--r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 72
+Y Resolution                    : 72
+Current IPTC Digest             : 19761f64641e9a6c121f25e84ae70917
+Original Transmission Reference : Kqjr2ww2Ae1t33bHsa89
+Profile CMM Type                : Little CMS
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 2012:01:25 03:41:57
+Profile File Signature          : acsp
+Primary Platform                : Apple Computer Inc.
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : 
+Device Model                    : 
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Little CMS
+Profile ID                      : 0
+Profile Description             : c2
+Profile Copyright               : FB
+Media White Point               : 0.9642 1 0.82491
+Media Black Point               : 0.01205 0.0125 0.01031
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Red Tone Reproduction Curve     : (Binary data 64 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 64 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 64 bytes, use -b option to extract)
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+   45 image files read
