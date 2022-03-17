@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Photography is not Objective, Art is a Set of Choices
-summary: Art is not Perception 
+summary: "You don't take a photograph, you make it" —Ansel Adams
 author:  AaronHertzmann
 image: /images/perspective/fake_tunnel.jpg
 og:image: /images/perspective/fake_tunnel.jpg
