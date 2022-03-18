@@ -23,11 +23,11 @@ Over the years, I've heard—and believed—many variants of the ideas that phot
 
 These ideas can be summarized as: **an artwork displays the artist's perceptions and experiences**, and that **photography records and displays objective information.**  Photography, being made by a machine, records objective informations whereas artists record subjective information.  While many authors have pointed out problems with these ideas, they seem to nonetheless be widespread.
 
-In this blog post, I argue that these views are wrong. Photography is not objective truth.  **Photography and painting both result from  deliberate choices of depiction**, and there is no clear dividing line between them. 
+In this blog post, I argue that these views are wrong. Photography is not objective truth.  **Photography and painting both result from deliberate choices of depiction**, and there is no dividing line between them. 
 
-In two previous posts, I wrote about [perspective](/2022/02/28/how-does-perspective-work.html) and [tonal](/2022/03/10/photographic-tone.html) choices in all representational pictures, whether in photography or painting. These choices determine what a picture looks like, and, largely, how people interpret it.  Even though photography arises from mechanically recording light, artistic and technical choices determine how recorded of light gets displayed. Different choices lead to different photographs, which give a viewer different perceptions, and none is objectively "correct."  
+In two previous posts, I wrote about [perspective](/2022/02/28/how-does-perspective-work.html) and [tonal](/2022/03/10/photographic-tone.html) choices in representational pictures, whether in photography or painting. These choices determine what a picture looks like, and, largely, how people interpret it.  Even though photography arises from mechanically recording light, artistic and technical choices determine how recorded of light gets displayed. Different choices lead to different photographs or paintings, which give a viewer different perceptions, and none is objectively "correct."  These same kinds of choices are made in each, even though the process for making these choices are different.
 
-Instead, I argue that pictures are like stories that people tell with pictures. In short, **perception is interpretation, and visual art is a construction made for perception.**
+Pictures are like stories, told with light rather than words. **Perception is interpretation, and visual art is a construction made for perception.**
 
 
 # The Impossibility of Capturing Experience
@@ -167,9 +167,9 @@ Both painting and storytelling are skills that one can practice, and learn, and 
 
 # But Aren't Photographs Special? Is anything true?
 
-Photographs still feel different from paintings. They seem objective and real in a way that most paintings don't. In some ways, they are.  Cameras do measure light, and display it in a way that can be made repeatably and described objectively, e.g., via light sensitivity plots and color response curves. They replicate much of our experience of the real world, and "look real" in many ways.  They are surely better for many tasks.
+Photographs _seem_ objective and real in a way that most paintings don't. In some ways, they are.  Cameras do measure light, and display it in a way that can be made repeatably and described objectively, e.g., via light sensitivity plots and color response curves. They replicate much of our experience of the real world, and "look real" in many ways.  They are surely better for many tasks.  If you want to know the precise shape of building, you should look at a photo and not one of my paintings.  It is much easier and faster to make photographs that accurately measure aspects of the world.
 
-Nonetheless, the way the results are displayed are still the result of subjective choices, not objective truth.  The difference is when these choices are made. In a photograph, many of the compositional choices were made by camera manufacturers. If you pick up a camera and shoot, then nearly all of the representational choices come from rules set up by the manufacturer. If you adjust camera settings (zoom, exposure, lenses, etc.) then you gain more control, within the array of options designed by the manufacturer.   
+Nonetheless, the way iamges are displayed are still the result of subjective choices, not objective truth.  The difference is when these choices are made. In a photograph, many of the compositional choices were made by camera manufacturers. If you pick up a camera and shoot, then nearly all of the representational choices come from rules set up by the manufacturer. If you adjust camera settings (zoom, exposure, lenses, etc.) then you gain more control, within the array of options designed by the manufacturer.   
 
 Photographs can be very deceptive, e.g., misleading uses of [forced perspective](https://en.wikipedia.org/wiki/Forced_perspective). 
 These topics come up a lot in discussion of "fake news" and digital forgeries.
@@ -188,7 +188,7 @@ See [Frédo Durand's slides](http://people.csail.mit.edu/fredo/tmp/FredoDurand_E
 
 # What is a picture?
 
-Pictures defy simple explanation. Psychologists and philosophers have proposed all sorts of glib ways to understand images: they are purely a cultural construct; they are purely a science of illusionary optics.  Understanding how pictures work is far more complicated than this; they are a complex product of culture, biology, optics, evolution, and personal experience. To deny any aspect of these, whether the biological basis of vision or the cultural effects of different modes of communication, is to miss some aspects of picture-making.  To assume that photography is something set apart from painting and drawing is to mistake the nature of photography.
+Pictures defy simple explanation. Past psychologists and philosophers have proposed all sorts of glib ways to understand images: some have argued they are _purely_ a cultural construct, others have claimed they are  a an objective science of optics.  Understanding how pictures work is far more complicated than this; they are a complex product of culture, biology, optics, evolution, and personal experience. To deny any aspect of these, whether the biological basis of vision or the cultural effects of different modes of communication, is to miss some aspects of picture-making.  To assume that photography is something set apart from painting and drawing is to mistake the nature of photography.
 
 Vision and perception play important roles in picturemaking, but each picture we make is an act of construction, an act of creation, an act of deliberate communication. Just like a story, a picture can be truthful or deceptive or creative or imaginative&mdash;or even all of these things all at once.
 
