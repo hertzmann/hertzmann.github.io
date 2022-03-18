@@ -122,7 +122,7 @@ In fact, if you look at the photograph I worked from, it should be apparent how 
 </p>
 </figure>
 </center>
-One certainly can start from a photograph and create something new that's very different and new.  But it's  very different than starting from life. You begin with the choices in the photograph, and then either accept or modify them. It's like [anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias).) I don't think I would have come up with those first four sketches if I'd started from photographs.
+One certainly can start from a photograph and create something new that's very different and new.  But it's  very different than starting from life. You begin with the choices in the photograph, and then either accept or modify them. It's like [anchoring](https://en.wikipedia.org/wiki/Anchoring_(cognitive_bias)). I don't think I would have come up with those first four sketches if I'd started from photographs.
 
 I'm not saying that any of these images is intrinsically _better_ than another.  I think the photographs do a better job of "looking real" and conveying what the scene looks like. I think the drawings are more "expressive" and I like them better. I don't expect that anyone else likes them. But that's all beside the point; the main point is that these images all reflect different kinds of choices one can make.
 
