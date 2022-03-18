@@ -164,6 +164,9 @@ Pictures are like stories. They may be pleasurable for their own sake, and they 
 
 Both painting and storytelling are skills that one can practice, and learn, and get better at through experience, as well as by learning various techniques (e.g., three-act structure, timing). 
 
+Drawing and painting are skills of construction, like learning languages, and learning to write. It's not about innate talent, or just recording what you see; [it's about learning how to build images](https://twitter.com/visual_linguist/status/1373665959790190611).
+
+
 
 # But Aren't Photographs Special? Is anything true?
 
