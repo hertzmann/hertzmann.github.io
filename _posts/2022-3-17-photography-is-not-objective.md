@@ -38,7 +38,7 @@ It's worth appreciating just how impossible it is to try to capture real visual 
 
 Projecting all this information onto a low-resolution, flat, static, planar array of pixels or pigments naturally throws most of the information away. It only captures one tiny slice of the light in the world.    No conventional photograph or painting can capture the full richness of what we experience at any given instantaneous moment of real life.   And this is to say nothing of directly conveying concepts or emotions visually.
 
-Hence, pictures cannot fully convey real experience, at most they can only represent aspects of it.
+Hence, pictures cannot fully convey real experience. At most they can only represent aspects of it.
 <center>
 <figure>
    <img src="../../../images/perspective/bosse.jpg" alt="Abraham Bosse illustration of perspective rays"/>
