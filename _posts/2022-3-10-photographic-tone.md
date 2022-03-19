@@ -249,7 +249,7 @@ Notice how, not only do they make the image brighter, they add contrast and blui
 I recommend reading the [technical paper](https://github.com/google/night-sight/tree/master/docs) or [the blog post](https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html) for a fuller description of all the considerations involved.  
 
 
-The iPhone uses something similar; the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel. A week after I first posted this blog post, [the New Yorker also weighed in with some details, along with complaints about aggressive photo corrections on the iPhone](https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart)._
+The iPhone uses something similar; the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel. A week after I first posted this blog post, [the New Yorker also weighed in with some details, along with complaints about aggressive photo corrections on the iPhone](https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart).
 
 
 I love the way my phone takes amazing pictures of sunsets and nighttime skylines, and these pictures look so much better than those taken by my phone five years ago.  My photos are a collaboration between me and the algorithm designers and camera manufacturers, and they reflect a combination of aesthetic decisions made by each of us.
