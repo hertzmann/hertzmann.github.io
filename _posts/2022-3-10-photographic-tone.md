@@ -248,11 +248,13 @@ Perhaps the best place to see how photographic choices are embedded into mobile 
 Notice how, not only do they make the image brighter, they add contrast and bluish tints to parts of the image, while darkening shadows. 
 I recommend reading the [technical paper](https://github.com/google/night-sight/tree/master/docs) or [the blog post](https://ai.googleblog.com/2018/11/night-sight-seeing-in-dark-on-pixel.html) for a fuller description of all the considerations involved.  
 
-The iPhone uses something similar; the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel.
+
+The iPhone uses something similar; the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel. A week after I first posted this blog post, [the New Yorker also weighed in with complaints about aggressive HDR and other photo corrections on the iPhone](https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart)._
+
 
 I love the way my phone takes amazing pictures of sunsets and nighttime skylines, and these pictures look so much better than those taken by my phone five years ago.  My photos are a collaboration between me and the algorithm designers and camera manufacturers, and they reflect a combination of aesthetic decisions made by each of us.
 
-Read on about art and photography in [my next blog post](/2022/03/17/photography-is-not-objective.html)
+Read on about what this says about more general themes in art and photography in [my next blog post](/2022/03/17/photography-is-not-objective.html)
 
 <br>
 
