@@ -89,7 +89,7 @@ The best photographs often came from careful enhancements in the darkroom, where
   <figcaption align="center">James Dean photographed by Dennis Stock, 1955</figcaption>
 </figure>
 </center>
-and here is the original photo, along with the photographer's retouching notes:
+and here is the original photo, along with the [retouching notes from printer Pablo Inirio](https://theliteratelens.com/2012/02/17/magnum-and-the-dying-art-of-darkroom-printing/) :
 <center>
 <figure>
    <img src="../../../images/tone/james-dean-retouch-b.jpg" alt="Retouching example with James Dean photo"/>

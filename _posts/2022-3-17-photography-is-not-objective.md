@@ -42,7 +42,7 @@ Hence, pictures cannot fully convey real experience. At most they can only repre
 <center>
 <figure>
    <img src="../../../images/perspective/bosse.jpg" alt="Abraham Bosse illustration of perspective rays"/>
-  <figcaption align="left"><i>Rays on a sphere, projected to an image plane, by Abraham Bosse (1665), with text "To prove one can neither define nor paint as the eye sees."</i></figcaption>
+  <figcaption align="left"><i>Rays on a sphere, projected to an image plane, by Abraham Bosse (1665), with text "To prove one can neither draw nor paint as the eye sees."</i></figcaption>
 </figure>
 </center>
 

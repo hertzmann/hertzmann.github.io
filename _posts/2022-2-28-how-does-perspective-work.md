@@ -160,14 +160,14 @@ These observations mean that the perspective isn't entirely freeform, with no ru
 Computational photography for nonlinear perspective
 -------
 
-Inspired by the different kinds of perpsective systems in art, computer graphics and vision researchers have developed many kinds of nonlinear perspective. For me, [the seminal (though not first) paper in this space is by Rob Carroll et al.](http://vis.berkeley.edu/papers/capp/) This paper makes two important points. First, we needn't find a single parametric projection, as previous authors had, but instead can treat perspective as an image warp.  Second, because choosing a perspective projection entails trading off incompatible goals, the warp can be formulated as a nonlinear optimization. Here's an example showing different wide-angle projections of a single room:
+Inspired by the different kinds of perspective systems in art, computer graphics and vision researchers have developed many kinds of nonlinear perspective. For me, [the seminal (though not first) paper in this space is by Rob Carroll et al.](http://vis.berkeley.edu/papers/capp/) This paper makes two important points. First, we needn't find a single parametric projection, as previous authors had, but instead can treat perspective as an image warp.  Second, because choosing a perspective projection entails trading off incompatible goals, the warp can be formulated as a nonlinear optimization. Here's an example showing different wide-angle projections of a single room:
 <center>
 <figure>
    <img src="../../../images/perspective/carroll_comparison.jpeg" alt="Photo of projection results from Carroll et al."/>
   <figcaption align="center"><i>Different projections of the same scene, from <a href="http://vis.berkeley.edu/papers/capp/">Carroll et al.</a></i></figcaption>
 </figure>
 </center>
-Notice how distorted the wide-angle linear perspective image is (upper left). The stereographic and mercator images don't preserve straight lines, whereas Carroll's method has neither of these problems. [A more recent method](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/) automates this for some cases.
+Notice how distorted the wide-angle linear perspective image is (upper left). The stereographic and Mercator images don't preserve straight lines, whereas Carroll's method has neither of these problems. [A more recent method](https://people.csail.mit.edu/yichangshih/wide_angle_portrait/) automates this for some cases.
 
 Many other wonderful papers have introduced different types of artist-inspired nonlinear perspective, including methods inspired by [full-length Renaissance portraits](http://www.vision.caltech.edu/publications/ARTP2005-final.pdf), [cubism](https://ieeexplore.ieee.org/document/1260739), [de Chirico](https://graphics.stanford.edu/papers/mpr), [David Hockney's "joiners"](https://lihi.net.technion.ac.il/publications/automating-joiners-or-organized-memories/), and many others. And [many computational methods](https://www.glassner.com/wp-content/uploads/2014/04/CG-CGA-PDF-04-07-Digital-Cubism-2-July04.pdf) have no traditional analogue:
 
