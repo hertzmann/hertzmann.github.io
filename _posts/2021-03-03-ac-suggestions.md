@@ -25,7 +25,7 @@ Summary
 
 **Update: Computer vision review processes suffer from the following problems:**
 * Review process puts most of the weight on the reviewers, with few checks or balances
-* Little or no training and consistent for ACs.  Nothing to encourage consistency between ACs, even experienced ACs
+* Little or no training for ACs.  Nothing to encourage consistency between ACs, even between experienced ACs.
 * Paper matching algorithm (TPMS) doesn't work well anymore
 
 **Maybe these problems are hard to fix, but there are lots of reasons to believe that it's possible to do better.**
@@ -42,7 +42,7 @@ I don't mean to imply that SIGGRAPH is doing better than the vision conferences;
 The State of Things at CVPR
 =======
 
-**I interpret the CVPR committee philosophy as, roughly: the three reviewers select the papers, and the ACs (Area Chairs) manage the process and break ties in difficult cases.**If the reviewers reach a consensus, then the AC is not explicitly expected to read the paper. In more difficult cases, the AC often cannot get help outside of their triplet, even in difficult cases, or where the reviews are all borderline and the ACs do not know the subject area well. When the reviewers make a unanimous accept decision, going againt this decision is called "overturning" the reviewers, as if they were an judicial tribunal, no matter how slapdash the reviews actually were.
+**I interpret the CVPR committee philosophy as, roughly: the three reviewers select the papers, and the ACs (Area Chairs) manage the process and break ties in difficult cases.** If the reviewers reach a consensus, then the AC is not explicitly expected to read the paper. In more difficult cases, the AC often cannot get help outside of their triplet, even in difficult cases, or where the reviews are all borderline and the ACs do not know the subject area well. When the reviewers make a unanimous accept decision, going againt this decision is called "overturning" the reviewers, as if they were an judicial tribunal, no matter how slapdash the reviews actually were.
  
 Putting so much weight on the reviewers is a mistake. Even the most knowledgeable reviewers may have difficulty evaluating some work. Maybe they didn't invest much time in the review, or think very carefully. Maybe they missed something.  Maybe they weren't very knowledgeable, or they weren't very experienced. And the reviewers don't have the same responsibility and investment in the decisionmaking that the ACs have. It's easy to form strong opinions when you're just checking a box on an online form.
 

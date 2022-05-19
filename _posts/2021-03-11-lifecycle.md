@@ -16,6 +16,8 @@ Because of Twitter and GitHub repos, we have a sort of worldwide collaboration o
 
 Some of the most significant AI algorithms that have fed this cycle are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, and now DALL-E and CLIP.
 
+_Update (May 2022): since this post was written in March 2021, more recent tools like DALL-E 2 are being kept proprietary, and released only through limited access through APIs, which changes the dynamic somewhat._
+
 The phases in this cycle seem to be:
 
 1. **Computer science researchers release image generation code** on GitHub, usually accompanying a technical paper posted to arXiv or published at a conference.  Often these papers say little or nothing explicit about making art; they are focused on technical and algorithmic problems, even though the paper figures are often inspiring or delightful. 
