@@ -16,13 +16,14 @@ Because of Twitter and GitHub repos, we have a sort of worldwide collaboration o
 
 Some of the most significant AI algorithms that have fed this cycle are: DeepDream, StyleGAN, pix2pix, CycleGAN, BigGAN, and now DALL-E and CLIP.
 
-_Update (May 2022): since this post was written in March 2021, more recent tools like DALL-E 2 are being kept proprietary, and released only through limited access through APIs, which changes the dynamic somewhat._
 
 The phases in this cycle seem to be:
 
 1. **Computer science researchers release image generation code** on GitHub, usually accompanying a technical paper posted to arXiv or published at a conference.  Often these papers say little or nothing explicit about making art; they are focused on technical and algorithmic problems, even though the paper figures are often inspiring or delightful. 
 
-   We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.   There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
+We researchers share our papers and code online simply as part of the technical publication process, to allow other researchers to understand and reproduce our work.   There are some major downsides to the way this research has been conducted, but we can all agree that it has enabled technical development at a truly staggering pace, which have led to rapid development of new ideas in digital art.
+
+_Update (May 2022): since this post was written in March 2021, more recent tools like GPT-3, DALL-E 2 and Midjourney are being kept proprietary, and released only through limited-access APIs, which changes the dynamic._
 
 
 2. **The links get widely shared on Twitter,** sometimes together with news articles and press releases about the technology.  Sometimes the researchers don't make any announcement themselves, but the announcement appears in the arXiv daily digest email. Often other researchers, hunting for hidden gems, find papers via the daily digest.  Notably, [AK](https://twitter.com/ak92501) frequently Tweets highlights of the daily digest to  16K followers. 
@@ -31,11 +32,11 @@ The phases in this cycle seem to be:
 3. **Artists and other tinkerers download the code and experiment with the technology,** kicking its tires, experimenting with different ways to use the technology to make images.  These are tech-savvy artists, skilled in coding with the ML tools, and generally willing to play in the mud. These artists sometimes post their first experiments _within days_ of the ML code release.  They share their results with each other on Twitter and share information and ideas with each other; most likely, they are also noticing which images get the most Likes and comments.     
 
 
-    A lot of these experiments are whimsical, playing around, and play is an important part of exploration.  For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
+A lot of these experiments are whimsical, playing around, and play is an important part of exploration.  For example, [here's a review of Mario Klingemann's feed of BigGAN experiments](https://hyperallergic.com/481969/an-ai-artists-twitter-feed-is-an-art-gallery/)
 
-    [How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
+[How DeepDream's inspiring peculiarities arose from its research history](/2020/12/29/deepdream.html) is an instructive example of how seemingly-unimportant decisions made by researchers affect the artwork later on. 
 
-     Only a handful of research papers get this attention from artists. And some, like GauGAN, see a lot of experimentation, but don't move past the experimentation phase much.
+Only a handful of research papers get this attention from artists. And some, like GauGAN, see a lot of experimentation, but don't move past the experimentation phase much.
 
 
 4. **Artists begin to release new work that uses these tools, showing it in galleries and exhibitions.** DeepDream, StyleGAN, and BigGAN have all been used in fine art exhibitions. DALL-E and CLIP are so new that they haven't yet, but it's only a matter of time.
