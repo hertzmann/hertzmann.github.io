@@ -73,7 +73,7 @@ The goal of the conference track was to draw the brakes a bit: with a 7-page lim
 
 However, in the PC meeting this year I heard a strong urge to add flexibility to the process in ways that, ultimately, could make things worse again. Flexibility is how we got into this mess in the first place. 
 
-Flexibility causes Expectation Creep: the more wiggle room there is in the process, the more that authors will need to do more work to succeed, and the more work this creates for committee members. Some flexibility is good and helps everyone, but too much ends up being harmful.  It's good to have rebuttals, but they need to be limited. They should be sensible limits, not like that vision conference that limited the number of characters in the rebuttal; I remember seeing my colleague removing most of the vowels from his rebuttal. Finding the right trade-off is hard.
+Flexibility causes expectation creep: the more wiggle room there is in the process, the more that authors will need to do more work to succeed, and the more work this creates for committee members. Some flexibility is good and helps everyone, but too much ends up being harmful.  It's good to have rebuttals, but they need to be limited. They should be sensible limits, not like that vision conference that limited the number of characters in the rebuttal; I remember seeing my colleague removing most of the vowels from his rebuttal. Finding the right trade-off is hard.
 
 The main example that springs to mind is whether or not PC members can impose new experiments in the Required Changes onto Conference Papers.
 
