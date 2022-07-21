@@ -65,7 +65,7 @@ In other disciplines, journal papers could be many things. I've seen math journa
 
 
 
-# Preventing Expectation Creep
+# Flexibility Causes Expectation Creep
 
 For me, [the main goal of adding the conference process to SIGGRAPH is to reduce workload on paper authors and reviewers](/2020/05/08/siggraph-as-conference.html) compared to the existing journal process. Starting with the first SIGGRAPH in 1974, all papers were published in conference proceedings. In 2003, all subsequent SIGGRAPH publications were published as journal papers, and, with the end of printed proceedings in 2013, [the page lengths for SIGGRAPH papers grew longer and longer](https://twitter.com/_AlecJacobson/status/1259526238378561536), with common stories of papers going through many rounds of resubmission with reviewers asking for more and more experiments and changes.  The amount of work required to author and to review each paper grew considerably, and many graphics researchers started publishing their papers in vision conferences instead (myself included).
 
