@@ -1,11 +1,14 @@
 # SIGGRAPH Papers Committee Notes: 2022, and the future
 
 
+_Discuss this on [Twitter](https://twitter.com/AaronHertzmann/status/1550145353248231424) or [Facebook](https://www.facebook.com/aaron.hertzmann/posts/pfbid02CWFqcY6m8XMTP9s6xzPBCbF2hsa4Tt6ggeP1UXhWTqXMAcoAesFbMSBmT5astm5vl)._
+
+
 So far, the new SIGGRAPH Conference Paper track that we introduced this year seems to be going well.   The technical papers chair Niloy Mitra and professional administrator Leona Caffey did an extraordinary job running the whole process. 
 
 There were lots of difficult decisions involved, and hopefully future chairs will improve things and fix any policy mistakes that we made.
 
-**In this post, I mainly want to discuss two difficult policy choices that will affect future SIGGRAPH Conference Tracks.**  This is particularly targeted to the PC members that are making these decisions, or anyone interested in the process. But first, some numbers and a bit about the meeting process itself.
+**In this post, I mainly want to discuss two difficult policy choices that will affect future SIGGRAPH Conference Tracks,** and my opinions on them.  This is particularly targeted to the PC members that are making these decisions, or anyone interested in the process. But first, some numbers and a bit about the meeting process itself.
 
 **Some statistics.** We received 610 complete technical paper submissions: 257 for the journal track, and 353 dual track. 133 papers were accepted as journal papers, and 61 as conference papers. Out of the accepted journal papers, 17 of these had been submitted to the dual track as 7-page papers. In addition, 53 papers accepted directly to TOG and will be presented at the conference.
 
