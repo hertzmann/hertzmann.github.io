@@ -109,6 +109,6 @@ At the outset of the process, I originally advocated for not having Required Cha
 
 When I had my first paper accepted, to SIGGRAPH 98, my advisor said I should try to do the things the reviewers asked for, even though no one would check and I could make whatever changes I wanted to the final paper. In principle, with most conferences, you could replace every word in the final version with "chicken", and no one would check. But people don't do this (unless [the submission was like that](https://isotropic.org/papers/chicken.pdf)).  
 
-**I currently think that Required Changes should be allowed for writing, but not for experiments, and limited to small changes like adding citations or tweaking wording. The committee should be willing to accept papers they think are flawed, instead of requiring extensive changes.**
+**I currently think that Required Changes should be allowed for writing, but not for experiments, and limited to small changes like adding citations or tweaking wording. The committee should be willing to accept papers they think are imperfect, instead of requiring extensive changes.**
 
 Allowing required experiments and adding pages points us toward the slippery slope of more and more requirements each year, which is what got us into this mess with journal papers in the first place.
