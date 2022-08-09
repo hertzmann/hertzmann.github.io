@@ -57,7 +57,7 @@ A journal paper is a complete, archival piece of scholarly, scientific, and/or t
 
 In most cases at SIGGRAPH, the difference is whether the experimentation is thorough. **But journal vs. conferences isn't _always_ about the level of experimentation.** For example, the examples I listed above ([1](https://ssteinberg.xyz/2022/04/03/practical_plt),[2](https://www.labri.fr/perso/pbenard/publications/contours/)) don't have extensive experimentation in my opinion, but they do have extensive theory, math and/or theorems.
 
-**Are there other examples of different _kinds_ of journal papers that have been published at TOG** that could help define this precent? I think the standard for "journal paper" should be anything that is somehow "complete" and rigorous, but it would be nice to have specific examples of what that has meant in the past.
+**Are there other examples of different _kinds_ of journal papers that have been published at TOG** that could help define this precedent? I think the standard for "journal paper" should be anything that is somehow "complete" and rigorous, but it would be nice to have specific examples of what that has meant in the past.
 
 In other disciplines, journal papers could be many things. I've seen math journal papers that present a theorem in two pages total. Many journal publish "review" papers and papers that express an opinion about the field.  I really liked the NPAR meta papers track and I think more of our venues should offer tracks for publishing reviews, opinions, visions for the field, and so on.  Some of my favorite papers were essentially position papers, and many of our conferences have no venue for such papers.
 
@@ -109,6 +109,6 @@ At the outset of the process, I originally advocated for not having Required Cha
 
 When I had my first paper accepted, to SIGGRAPH 98, my advisor said I should try to do the things the reviewers asked for, even though no one would check and I could make whatever changes I wanted to the final paper. In principle, with most conferences, you could replace every word in the final version with "chicken", and no one would check. But people don't do this (unless [the submission was like that](https://isotropic.org/papers/chicken.pdf)).  
 
-I currently do think that Required Changes should be allowed for writing, but not for experiments. People do occasionally complain that authors did or didn't cite previous work properly in final versions, which can be fixed with Required Changes to writing.
+**I currently think that Required Changes should be allowed for writing, but not for experiments, and limited to small changes like adding citations or tweaking wording. The committee should be willing to accept papers they think are flawed, instead of requiring extensive changes.**
 
 Allowing required experiments and adding pages points us toward the slippery slope of more and more requirements each year, which is what got us into this mess with journal papers in the first place.
