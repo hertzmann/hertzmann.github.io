@@ -3,8 +3,8 @@ layout: page
 title: How Photography Became An Art Form
 summary: People saw it as replacing artists, but it became an artistic tool
 author:  AaronHertzmann
-image: "/images/photohistory/baudelaire.jpg"
-og:image: "/images/photohistory/baudelaire.jpg"
+image: "/images/photohistory/baudelaire-crop.jpg"
+og:image: "/images/photohistory/baudelaire-crop.jpg"
 ---
 
 # How Photography Became An Art Form
