@@ -10,7 +10,7 @@ og:image: "/images/photohistory/baudelaire-crop.jpg"
 # How Photography Became An Art Form
 
 
-_**The analogy between photography and AI art is evergreen**—I first made the analogy [in 2001](https://mrl.cs.nyu.edu/publications/hertzmann-thesis/hertzmann-thesis-300dpi.pdf)—and this year it's coming up again online.  Here is a brief history of photography, adapted from my [2018 paper "Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18).  AI art isn't the same as photography, but nonetheless it offers numerous lessons for how technology enables new art forms, influences old art forms, and how the technology is received._
+_**The analogy between photography and AI art is evergreen**—I first made the analogy [in 2001](https://mrl.cs.nyu.edu/publications/hertzmann-thesis/hertzmann-thesis-300dpi.pdf)—and this year it's coming up again online.  Here is a brief history of photography, adapted from my [2018 paper "Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18).  Photography isn't the same as AI art, but nonetheless it offers lessons for how technology enables new art forms, how it influences old art forms, and how the technology is received._
 
 
 Prior to the invention of photography, realistic images of the world could only be produced by skilled artists. In today’s world, we are so swamped with images that it is hard to imagine just how special and unique it must have felt to see a well-executed realistic painting. And, within the Western tradition, the skills of professional artists had steadily improved over the centuries; by the 19th-century, artists such as the Pre-Rafaelites and the French Neoclassicists have achieved dazzling visual realism in their work.  
