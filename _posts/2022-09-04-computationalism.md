@@ -18,9 +18,7 @@ In order to fill in some of the gaps, [Michaelson and Morley conducted experimen
 
 When I talk about how [computers can't be artists](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), people sometimes respond "But aren't we just computers?" To which I respond: [Maybe we are computers.](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full) But,
 
-| <center><b>We are people, and computers are not people. And only people can be artists.</b></center> | 
-
-In other words: People are computers, but computers aren't people.
+| <center><b>We are people, and computers are not people. Only people can be artists.</b></center> | 
 
 What is the difference? We do not know, but the difference is important.  When people say that we're _just_ computers, and thus computers could be artists, they sound to me like Michaelson, underestimating how little we know about how brains work.
 
