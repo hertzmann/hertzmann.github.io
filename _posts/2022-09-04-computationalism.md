@@ -28,7 +28,7 @@ We have no idea.
 
 We have all sorts of [interesting theories](https://www.nature.com/articles/s41583-022-00587-4), and lots of active research, but we really do not know. These questions are complex and multifaceted: there are many kinds of intelligence. We don't even know what question we're asking... what exactly is a person anyways?
 
-We have a long history of this kind of "[computationalism](https://twitter.com/chazfirestone/status/1565080804497035264)." The AI pioneers of the 1960s vigorously argued that intelligence could be modeled only with symbolic reasoning, and fought tooth-and-nail against those who argued for neural networks. They were sure that symbolic reasoning was all we needed. Now [Transformers are all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html).
+We have a long history of this kind of "[computationalism](https://twitter.com/chazfirestone/status/1565080804497035264)." The AI pioneers of the 1960s vigorously argued that intelligence could be modeled only with symbolic reasoning, and fought tooth-and-nail against the advocates of neural networks. They were sure that symbolic reasoning was all we needed. Now [Transformers are all you need](https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html).
 
 What is the difference? We're obviously not computers on a purely physical level: we operate with spiking neurons and chemical signalling, and possibly other unknown mechanisms. Quantum mechanics might play an important role. But [maybe these low-level processes could all be simulated in a sufficiently-powerful binary computer](https://www.nytimes.com/2015/06/28/opinion/sunday/face-it-your-brain-is-a-computer.html); we don't know.
 
@@ -54,7 +54,7 @@ Modern neural networks are just matrix multiplication with thresholding.  They d
 
 Perhaps human-like behaviors will emerge from neural networks. I really don't think so. But this won't come from the kinds of training that is used to train current neural networks. People even credit systems like DALL-E with this kind of emergent behavior, when they are just _supervised learning_ (weakly). They're data-fitting, just like one might have learned in a 1950's statistics class (but far more powerful). But this is a remote possibility, which so many people seem to be treating accepted as fact.
 
-These things are just code, they follow instructions, and they are not set up to anything but optimize a loss function like ["fit this caption data"](https://twitter.com/model_mechanic/status/1519621946232610817?lang=en) or "walk without falling in simulation." We have no idea how to train an algorithm to be a person. We have no idea what that even would mean.
+These things are just code, they follow instructions, and they are not set up to do anything but optimize a loss function like ["fit this caption data"](https://twitter.com/model_mechanic/status/1519621946232610817?lang=en) or "walk without falling in simulation." We have no idea how to train an algorithm to be a person. We have no idea what that even would mean.
 
 
 
