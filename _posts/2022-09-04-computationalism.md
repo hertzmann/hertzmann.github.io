@@ -82,9 +82,9 @@ Historically, we have granted moral status across ever-larger circles: to our ow
 
 **These are ancient questions**
 
-These ideas are new versions of an old questions: the question of free will and determinism. If you believe in [materialism](https://en.wikipedia.org/wiki/Materialism), the notion that we live in a world governed by physical laws without divine guidance, then, at some level, we are all just bags of atoms bouncing around and obeying physics. How can we have [free will](https://en.wikipedia.org/wiki/Free_will)?  In other words, aren't we just physical systems obeying physical laws, like computers or steam engines or waterfalls? Philosophers have asked this question for centuries. Theologians have long debated versions of this question, such as: [if God created us, then isn't he responsible for everything we do?](https://en.wikipedia.org/wiki/Free_will_in_theology).
+These ideas are new versions of an old questions: the question of free will and determinism. If you believe in [materialism](https://en.wikipedia.org/wiki/Materialism), the notion that we live in a world governed by physical laws without divine guidance, then, at some level, we are all just bags of atoms bouncing around and obeying physics. How can we have [free will](https://en.wikipedia.org/wiki/Free_will)?  In other words, aren't we just physical systems obeying physical laws, like computers or steam engines or waterfalls? Philosophers have asked this question for centuries. Theologians have long debated versions of this question, such as: [if God created us, then isn't he responsible for everything we do?](https://en.wikipedia.org/wiki/Free_will_in_theology)
 
-The question is old, and possibly unsolvable. The last ten years of progress in deep learning hasn't somehow changed this difficult old problem. Yet, even though we can't answer the free will question, we still go about our lives believing in our own ability and others' to make decisions.
+The question is old, and possibly unsolvable. The last ten years of progress in deep learning hasn't really changed this difficult old problem. Yet, even though we can't answer the free will question, we still go about our lives believing in our own ability and others' to make decisions, and the importance of our social and moral relationships.
 
 
 # It's science fiction
