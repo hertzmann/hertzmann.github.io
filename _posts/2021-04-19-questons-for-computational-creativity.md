@@ -67,15 +67,15 @@ similar results are reported in [this paper](https://songweige.github.io/project
 
 
 Another statement of the goal of CC research is that [**the creator of the system finds the results surprising**](https://link.springer.com/chapter/10.1007/978-3-642-31727-9_1). I think we have this too. For example, the Mandelbrot set [can be summarized in just a few lines of code](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings), yet it produces a seemingly-endless stream of mesmerizing imagery:
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PD2XgQOyCCk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-that surely no one (including Mandelbrot) could have predicted from the math itself. Even after developing a rich theory of chaos and fractals, we can't really explain how "creative" it seems. By any formal definition of CC that I've seen, the Mandelbrot set algorithm is creative.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b005iHf8Z3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+that surely no one (including Mandelbrot himself) could have predicted from the math itself. Even after developing a rich theory of chaos and fractals, we can't really explain how "creative" it seems. By any formal definition of CC that I've seen, the Mandelbrot set algorithm is creative.
 
 
 Indeed, many systems with simple rules can often demonstrate complex, emergent, seemingly-intelligent  behavior  (e.g., [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), Mandelbrot set, [flocking](https://en.wikipedia.org/wiki/Flocking_(behavior))).
 
 All the way back to Vera Molnár, who began work in the 1960s, [describes surprise as a major component of her generative art](https://opheliaming.medium.com/vera-moln%C3%A1r-the-computer-art-goddess-26a84efbea4b).  If you've written code to make images, you've probably been surprised at some point, and probably delightfully so at times.
+
+_UPDATE (Sep 2022): and all of the above was written before text-to-image models like DALL-E._
 
 [**Harold Cohen went through similar stages**](https://www.youtube.com/watch?v=_Xbt8lzWxIQ), first thinking that a procedural algorithm that made good artworks could be an artist, then realizing that all the works started to look similar, and then adding the additional criterion that the system must have its own changing worldview to be an artist. To me, this all looks like continually moving the goalposts.
 
@@ -137,3 +137,6 @@ Maybe I should just submit my NPR-ish papers to ICCC anyway, and ignore claims o
 Even if I'm right that there's no such thing as CC, I expect that the CC community will still do worthwhile research, and build interesting systems.  
 
 And I could be wrong–[I've backed the wrong horse before](http://www.dgp.toronto.edu/~hertzman/ibl2004/)–and maybe the CC community will make important discoveries. 
+
+
+[**UPDATE: My ICCC 2022 paper further discusses some of these topics, and adds a proposal.**](https://arxiv.org/abs/2205.01605)
