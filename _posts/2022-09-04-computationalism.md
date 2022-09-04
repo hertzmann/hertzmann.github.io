@@ -66,7 +66,7 @@ I believe [we care about art because we care about our human relationships](/202
 
 Why do you care about other people? Why do people have lifelong friends and get married? Why do you give gifts and spend time with people?
 
-We care about relationships because we are social beings, as a product of our evolution. We have these social relationships. And we care about other people because they're people.
+We care about relationships because we are social beings, as a product of our evolution. And we care about other people because they're people.
 
 What makes someone a person and not just a machine? No one knows. Social systems and behavior arose from evolution, but that's not enough of an answer.   The answer surely involves evolution, biology, psychology, evolution, and not just computing.
 
