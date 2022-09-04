@@ -20,6 +20,8 @@ When I talk about how [computers can't be artists](https://cacm.acm.org/magazine
 
 | <center><b>We are people, and computers are not people. And only people can be artists.</b></center> | 
 
+Or, in other words: People are computers, but computers aren't people.
+
 What is the difference? We do not know, but the difference is important.  When people say that we're just computers, and thus computers could be artists, they sound to me like Michaelson, underestimating just how little we know about how brains work.
 
 # What does it mean to be a person?

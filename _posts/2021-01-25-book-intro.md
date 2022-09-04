@@ -122,14 +122,14 @@ But, most important, advancing this understanding advances art.  Historically, m
 	* [My own experience with the artistic process](/2020/10/05/art-is-a-process.html)
 	* Visual art is about creating visual and aesthetic experiences
 		* It is not a mirror or snapshot of reality.
-		* Photography, persuasion, propaganda. Photography can be an objective measurement but not in the way we think.
+		* Photography, persuasion, propaganda. [Photography is not objective.](/2022/03/17/photography-is-not-objective.html)
 		* Tone and color: perception and reproduction. Ecological Valence Theory.
-		* Projection systems: there is no "correct" projection
+		* [Projection systems: there is no "correct" projection](/2022/02/28/how-does-perspective-work.html)
 		* Subject, composition, cropping, etc. 
 	* Art as optimization
 		* [Stroke-based optimization](https://www.dgp.toronto.edu/~hertzman/sbr02/)
 		* Reinforcement learning
-		* Open-ended exploration
+		* [Open-ended exploration and creativity](https://arxiv.org/abs/2205.01605)
 
 2. **Procedural models of artistic style**
 	* [John Willats](https://www.amazon.com/Art-Representation-Principles-Analysis-Pictures/dp/0691087377)
@@ -175,13 +175,14 @@ But, most important, advancing this understanding advances art.  Historically, m
 5. **[Can computers be artists?](http://www.mdpi.com/2076-0752/7/2/18)**
 	* History of artistic technology
 		* Watercolor, paints in tubes
-		* Photography as artistic machine, from Daguerre to Stieglitz
+		* [Photography as artistic machine, from Daguerre to Stieglitz](/2022/08/29/photography-history.html)
 		* Frieder Nake era
 		* Procedural artists (Harold Cohen, Karl Sims)
 		* Computer animation (Pixar)
 		* Media arts world (e.g., Processing)
 		* Current neural network revival (DeepDream, GANs, etc.). Twitter+GitHub.
 	* Computers do not create art
+	  * [People are computers, but computers are not people](/2022/09/04/computationalism.html)
 	* Could computers be artists in the future?
 		* [Definitions of art](/2020/05/19/wiwia.html)
 		* [Evolutionary theory and art](https://www.bloomsbury.com/us/the-art-instinct-9781608190553/)
