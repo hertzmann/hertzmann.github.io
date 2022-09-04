@@ -3,6 +3,8 @@ layout: page
 title: We Aren't Just Computation (and We Don't Even Know What We Don't Know)
 summary: If people are just computers, then why do we have morality?
 author:  AaronHertzmann
+image: /images/wica/bradford_viewers.jpg
+og:image: /images/wica/bradford_viewers.jpg
 ---
 
 
