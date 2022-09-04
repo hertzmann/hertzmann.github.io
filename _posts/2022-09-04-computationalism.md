@@ -14,7 +14,7 @@ By the late 19th Century, physicists had produced physical laws that matched exp
 
 In order to fill in some of the gaps, [Michaelson and Morley conducted experiments](https://en.wikipedia.org/wiki/Michelson%E2%80%93Morley_experiment) to measure the speed of light. Their experiments ultimately led to relativity theory, which completely toppled our previous understanding of physics.  It was as if, in trying to close the last few open windows in a chilly house, they discovered that an entire side of the house was missing.
 
-When I talk about how [computers can't be artists](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), people sometimes respond "But aren't we just computers?" To which I respond: [Maybe we are computers.](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full) But,
+When I talk about how [computers can't be artists](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/fulltext), people sometimes respond "But aren't we just computers?" To which I respond: Maybe we are computers, [depending on your definition.](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full) But,
 
 | <center><b>We are people, and computers are not people. Only people can be artists.</b></center> | 
 
