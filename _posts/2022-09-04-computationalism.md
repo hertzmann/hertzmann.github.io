@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We Aren't Just Computers (and We Don't Even Know What We Don't Know)
+title: We Aren't Just Computers
 summary: If people are just computers, then why do we have morality?
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
@@ -8,7 +8,7 @@ og:image: /images/wica/bradford_viewers.jpg
 ---
 
 
-# We Aren't Just Computers (and We Don't Even Know What We Don't Know)
+# We Aren't Just Computers
 
 By the late 19th Century, physicists had produced physical laws that matched experimental data very well—so well that some physicists thought they might soon be done. Albert Michaelson wrote "it seems probable that most of the grand underlying principles have been firmly established ... the future truths of physical science are to be looked for in the sixth place of decimals." All that remained in physics was to dot a few i's, cross a few t's, and measure a few things more precisely. Other physicists weren't so sure, like Lord Kelvin, who spoke about [two "clouds" obscuring the sky of physics](https://arxiv.org/abs/2106.16033).
 
