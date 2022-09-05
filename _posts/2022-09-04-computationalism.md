@@ -58,7 +58,7 @@ And all this talk of conscious, artistic machines distracts from the urgant soci
 
 <hr>
 
-_Thanks to Rif Saurous for comments._
+_Thanks to Rif A. Saurous for comments._
 
 
 
