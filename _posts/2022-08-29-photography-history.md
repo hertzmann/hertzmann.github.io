@@ -43,7 +43,7 @@ In 1839, the first two commercially-practical photographic processes were invent
 </figure>
 </center>
 
-In one of the first presentations of 1839, classical painter [Paul Delaroche](https://en.wikipedia.org/wiki/Paul_Delaroche) is reported to have blurted out “From today, painting is dead!”
+In one of the first presentations of the Daguerrotype in 1839, the great painter J. M. W. Turner said "This is the end of Art. I am glad I have had my day."
 
 # Portraiture and Other Practical Uses
 
