@@ -11,7 +11,7 @@ og:image: /images/wica/bradford_viewers.jpg
 # Definitions of Art Shouldn't Be Confusing, Part 2: Recommendations
 
 
-This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace notions, here I make some recommendations.
+This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace notions, and recommended avoiding the evaluative sense of art; here I make some more recommendations. 
 
 
 
@@ -44,7 +44,7 @@ We should spend less time discussing whether something is art, and more time dis
 
 
 
-What kind of art/artist do you mean?
+Say what kind of art/artist you mean
 ======
 
 People often treat "art" and "artist" like they are monolithic, unitary terms, when there are so many different kinds of art and artists; confusion occurs when people from different communities interact.  
