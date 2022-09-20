@@ -195,5 +195,5 @@ I believe it's possible to produce more precise and accurate definitions of art,
 Readings
 ========
 
-This post includes ideas from two books that shaped my understanding of the philosophical definitions of: [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) by Nigel Warburton, and [_The Art Instinct_](https://www.bloomsbury.com/us/art-instinct-9781608191932/) by Denis Dutton, briefly  [here](/2020/05/04/art-book-reviews.html). [This essay](https://www.jstor.org/stable/3700568), which later became part of _The Art Instict_, is highly readable and useful, particularly on the way theories of art have tracked the obsessions of their inventors (which I don't claim to be immune to).
+This post includes ideas from two books that shaped my understanding of the philosophical definitions of: [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) by Nigel Warburton, and [_The Art Instinct_](https://www.bloomsbury.com/us/art-instinct-9781608191932/) by Denis Dutton, briefly  [here](/2020/05/04/art-book-reviews.html). As a starting point, [here's an initial version of an essay](https://www.jstor.org/stable/3700568) from the _The Art Instinct_.
 
