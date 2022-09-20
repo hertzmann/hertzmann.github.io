@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Definitions of Art Shouldn't Be Confusing, Part 2
+title: Useful Definitions of Art (Definitions, Part 2)
 summary: Simple heuristics to make it easier to talk and think about art.
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
@@ -8,7 +8,7 @@ og:image: /images/wica/bradford_viewers.jpg
 ---
 
 
-# Definitions of Art Shouldn't Be Confusing, Part 2: Recommendations
+# Useful Definitions of Art (Definitions, Part 2)
 
 
 This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace notions, and recommended avoiding the evaluative sense of art; here I make some more recommendations. 
@@ -58,7 +58,7 @@ My advice here is: when talking about art and artists, be specific, if it's not 
 
 
 
-What is a Definition?
+Are Better Definitions Possible?
 ===========
 
 The way people use the phrases "definition of art" and "what is art" often perplex me, because people seem to mean totally different things by "definition." Different books on "what is art?" don't just have different answers, [they seem to be answering different questions entirely](/2020/05/19/wiwia.html).  Are we talking about a classificatory definition, how art's created, the way it functions, or something else?
@@ -67,7 +67,8 @@ On two separate occasions when I've lectured about [whether computers can be art
 
 All of our definitions [walk a line between descriptivism and prescriptivism](https://harpers.org/wp-content/uploads/HarpersMagazine-2001-04-0070913.pdf): we simultaneously enforce meanings for words based on their definitions, while updating definitions based on real-world usage.   Philosophers attempt to define "art" based on how people use the word, but the usage keeps changing. Sometimes these definitions have an agenda, [slyly redefining "art"](https://www.jstor.org/stable/3700568) to incorporate the avant-garde of their day.  But so far, the philosophers I've read have concluded that no simple definition is possible.
 
-**Are better definitions possible?**
+**Toward better definitions.**
+
 Good defintions of art could help us navigate future debates and discussions around art, helping us to understand how new technological and societal developments work as art. Some kinds of defintions, like Wittgenstein's ["family resemblances"](https://en.wikipedia.org/wiki/Family_resemblance) or Dutton's ["cluster concepts"](https://www.jstor.org/stable/3700568), provide useful categorizations of attributes for describing those things we call art today, but don't seem to provide much guidance for helping people grapple with new forms of art.
 
 
