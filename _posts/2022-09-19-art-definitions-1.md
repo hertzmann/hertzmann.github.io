@@ -13,7 +13,9 @@ redirect_from:
 # Confusing Defintions of Art (Definitions, Part 1)
 
 
-This series of essay talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In this first part, I'll talk about problems with some common definitions of art, and, in [Part 2](/2022/09/19/art-definitions-2.html), I'll give some recommendations for how to think about art instead.  In Part 3, I plan to talk about some of the different eras that inform these notions of art.
+This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. 
+
+In this first part, I'll talk about problems with some common definitions of art, and, in [Part 2](/2022/09/19/art-definitions-2.html), I'll give some recommendations for how to think about art instead.  In Part 3, I plan to talk about some of the different eras that inform these notions of art.
 
 In person and online, I frequently hear assertions of the impossibility of defining art, and the absurdity of even trying; and, simultaneously, other comments offering simple definitions of art. Just in the past week I have seen variations on: "art is about intent," and "art is emotional expression," and "art is about beauty" and other statements that contradict one another.
 
