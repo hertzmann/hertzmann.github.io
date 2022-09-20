@@ -138,7 +138,7 @@ Don't Worry About "Is It Art?"
 
 Here's a simple rule-of-thumb. If someone asks "is this art?" about something that someone made—and they're asking seriously, not as a gag—the answer is almost certainly "yes." Asking "is it art???" might have seemed like a serious provocation back in school days, but not any more.  As artist Jason Salavon commented on one of my posts, "I don’t think 'Is it art?' is a question the art world spends much time on nowadays."
 
-Almost anything could be art, but what we care about is how it functions as art: is it good in some way? Does it provoke ideas, emotions, experiences, or something else? Is it ethical or moral? Don't ask "is it art?", ask "is it good art?" or, better, some more specific question than that.  If someone wants to claim that their pizza is art, that's fine, but the real questions are how beautiful the pizza is, or creative, or expressive.
+Almost anything could be art, but what we care about is how it functions as art: is it good in some way? Does it provoke ideas, emotions, experiences, or something else? Is it ethical or moral? Don't ask "is it art?", ask "is it good in some way?" or, better, some more specific question than that.  The useful questions are subjective. If someone wants to claim that their pizza is art, that's fine, but the real questions are how beautiful the pizza is, or creative, or expressive.
 
 I prefer to use the word "art" as an empty vessel: it's whatever people want to create as art.
 The bar for making art is very low.
