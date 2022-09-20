@@ -6,7 +6,7 @@ author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
 og:image: /images/wica/bradford_viewers.jpg
 redirect_from:
-  - /2022/09/19/2022-09-19-art-definitions.html
+  - /2022/09/19/art-definitions.html
 ---
 
 
