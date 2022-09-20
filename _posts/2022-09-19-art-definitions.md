@@ -46,7 +46,7 @@ I find the evaluative sense to be elitist and gatekeepery, denying not just the 
 
 Suppose we gave all evaluations this way.  Suppose you showed your favorite movie to a friend, but they said they didn't like it by saying "it's not a movie."    Or, suppose you applied for a job, and the hiring manager rejected your application by saying "thank you for applying, but we have concluded that you aren't a person."  
 
-[In fact, Martin Scorsese has made such a distinction, saying that Marvel movies aren't cinema, making just such a distinction between mass entertainment and art.](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html)
+[In fact, Martin Scorsese made such a distinction, saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art."](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) I share many of his preferences, just not the evaluative usage.
 
 People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about they value in art, disguised as objective fact.
 
