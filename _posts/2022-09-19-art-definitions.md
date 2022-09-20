@@ -38,10 +38,9 @@ Confusingly, the word "art" occurs in a _classificatory_ sense and a _evaluative
 
 In the classificatory sense, we are making statements about which forms are arts and which are not.  Is pottery an art-form? Can it have artistic qualities? Are video games art? What makes live theatre an art form but spectator sports not, despite their similarities?  
 
-The evaluative sense involves statements like "this painting is skillful but it's not art," or ["can film be art?"](https://www.youtube.com/watch?v=oQNd3wlq5Bo&feature=youtu.be&t=27), or "Florentine weavers raised silk weaving to the level of art."  In these cases, the speaker is judging not the form but the quality of a work, whether or not it has reached the elevated, rarified plane of Art.  [This is particularly used by the contemporary art world](/2020/06/08/wica.html), who define only their own particular kinds of art as art. 
+The evaluative sense judges whether a work is "good enough" to reach the elevated, rarified plane of capital-A Art. Evaluative statements operate like "this painting is skillful but it's not art," or ["can film be art?"](https://www.youtube.com/watch?v=oQNd3wlq5Bo&feature=youtu.be&t=27), or "Florentine weavers raised silk weaving to the level of art."  [This is particularly common in the contemporary art world](/2020/06/08/wica.html), who define only their own particular kinds of art as Art. 
 
-These evaluative usages makes no sense to me. 
-To me, all evaluative statements sound classificatory. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium.   
+These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium.
 
 I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, **I advocate avoiding the evaluative usage.**
 
@@ -65,7 +64,8 @@ and so on. I think of these as "folk theories:" not rigorous philosophical theor
 
 It's fine to say that you _prefer_ art based on these things. But they makes no sense as theories of all art, because there are too many different things we call art in the Western world.
 
-**Emotion.**
+**Emotion**
+
 This idea that art is about conveying the artist's emotion is widespread in popular descriptions.
 
 Let's think through what this idea implies. It implies that a viewer should get a sense of the artist's emotions—or the ones they mean to convey—through the work. It implies this is the _primary_ goal of art, and a work of art is only good insofar as it conveys emotion effectively. 
@@ -102,7 +102,8 @@ While I do read anger in here, to read it solely as an expression of anger would
 
 In so much important film, theater, fiction, music... some works are driven by emotion, but emotion is just one part of the whole package.   If art were just about emotion, then the history of art wouldn't be so richly complicated, it would be more like a Twitter feed of hot takes.
 
-**Intent.** 
+**Intent** 
+
 Many non-artists I've talked to say art must have an intent. In this view, art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and goal, and executes on that idea.
 
 But this is often just not true of how many artists work. Just in my own reading [I've found numerous examples of artists describing their processes in terms of exploration and discovery](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_1L_Hertzmann.pdf), just [as I've found in my own experience as well](/2020/10/05/art-is-a-process.html). For example, here's Gerhard Richter describing his studio process:
@@ -195,5 +196,5 @@ I believe it's possible to produce more precise and accurate definitions of art,
 Readings
 ========
 
-I recommend the following excellent books that shaped my understanding of the philosophical definitions of: [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) by Nigel Warburton, [_The Art Instinct_](https://www.bloomsbury.com/us/art-instinct-9781608191932/) by Denis Dutton, and [_The Invention of Art_](https://en.wikipedia.org/wiki/The_Invention_of_Art) by Larry Shiner.   I've summarized impressions of these books [here](/2020/05/04/art-book-reviews.html) and [here](/2022/06/01/art-books-2022.html). [This essay](https://www.jstor.org/stable/3700568), which later became part of _The Art Instict_, is highly readable and useful, particularly on the way theories of art have tracked the obsessions of their inventors (which I don't claim to be immune to).
+This post includes ideas from two books that shaped my understanding of the philosophical definitions of: [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) by Nigel Warburton, and [_The Art Instinct_](https://www.bloomsbury.com/us/art-instinct-9781608191932/) by Denis Dutton, briefly  [here](/2020/05/04/art-book-reviews.html). [This essay](https://www.jstor.org/stable/3700568), which later became part of _The Art Instict_, is highly readable and useful, particularly on the way theories of art have tracked the obsessions of their inventors (which I don't claim to be immune to).
 
