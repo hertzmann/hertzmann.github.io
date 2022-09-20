@@ -116,7 +116,7 @@ Here are the Beatles, improvising "Get Back" from a formless jam:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8NKOMzckPo?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-At one point, [they considered making it a protest song](https://www.youtube.com/watch?v=e3obOF-rvwI), which would have had a very different "intent." The lyrics of the final song sort of might mean something, but they're mostly just evocative phrases around some vague theme, mostly it just ended up as a good song with a particular feeling. It does not reflect an "intent."
+At one point, [they considered making it a protest song](https://www.youtube.com/watch?v=e3obOF-rvwI), which would have had a very different "intent." The lyrics of the final song sort of might mean something, but they're mostly just evocative phrases around some vague theme; [it just ended up as a good song](https://www.youtube.com/watch?v=NnClAX6zHYU) with a particular feeling. It does not reflect an "intent."
 
 The meanings and goals of so many works of art are ambiguous.  Works often create an experience for viewers that can't easily be expressed as the author's "intent."  Contemporary art [_prefers_ ambiguity](/2020/06/08/wica.html). And consider all the famous artworks (e.g., Shakespeare) that have been analyzed, interpreted, reanalyzed, reinterpreted, over and over, offering up new meanings for each new generation.   
 
