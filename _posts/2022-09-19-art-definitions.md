@@ -36,7 +36,7 @@ Classificatory vs. Evaluative Definitions
 
 Confusingly, the word "art" occurs in a _classificatory_ sense and a _evaluative_ sense.  Writers rarely—if ever—make it clear which sense they are using. 
 
-In the classificatory sense, we are making statements about which forms are arts and which are not.  Is pottery an art-form? Can it have artistic qualities? Are video games art? What makes live theatre an art form but spectator sports not, despite their similarities?  
+In the classificatory sense, we are making statements about which forms are arts and which are not.  Is pottery an art-form? Can it have artistic qualities? [Are video games art](https://en.wikipedia.org/wiki/Video_games_as_an_art_form)? What makes live theatre an art form but spectator sports not, despite their similarities?  
 
 The evaluative sense judges whether a work is "good enough" to reach the elevated, rarified plane of capital-A Art. Evaluative statements operate like "this painting is skillful but it's not art," or ["can film be art?"](https://www.youtube.com/watch?v=oQNd3wlq5Bo&feature=youtu.be&t=27), or "Florentine weavers raised silk weaving to the level of art."  [This is particularly common in the contemporary art world](/2020/06/08/wica.html), who define only their own particular kinds of art as Art. 
 
@@ -44,7 +44,9 @@ These evaluative usages makes no sense to me. When someone writes that a movie r
 
 I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, **I advocate avoiding the evaluative usage.**
 
-Suppose we gave all evaluations this way.  Suppose you showed your favorite movie to a friend, but they said they didn't like it by saying "it's not a movie."  Or, suppose you applied for a job, and the hiring manager rejected your application by saying "thank you for applying, but we have concluded that you aren't a person."  
+Suppose we gave all evaluations this way.  Suppose you showed your favorite movie to a friend, but they said they didn't like it by saying "it's not a movie."    Or, suppose you applied for a job, and the hiring manager rejected your application by saying "thank you for applying, but we have concluded that you aren't a person."  
+
+[In fact, Martin Scorsese has made such a distinction, saying that Marvel movies aren't cinema, making just such a distinction between mass entertainment and art.](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html)
 
 People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about they value in art, disguised as objective fact.
 
@@ -197,3 +199,6 @@ Readings
 
 This post includes ideas from two books that shaped my understanding of the philosophical definitions of: [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) by Nigel Warburton, and [_The Art Instinct_](https://www.bloomsbury.com/us/art-instinct-9781608191932/) by Denis Dutton, briefly  [here](/2020/05/04/art-book-reviews.html). As a starting point, [here's an initial version of an essay](https://www.jstor.org/stable/3700568) from the _The Art Instinct_.
 
+
+<hr>
+Thanks to Rich Radke and others who commented.
