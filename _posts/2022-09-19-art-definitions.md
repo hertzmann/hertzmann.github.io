@@ -86,19 +86,18 @@ If so, what was the artist's emotion when making each of these works? How do you
 
 But, more importantly, even if some of these works have some emotional content, they are definitely not _primarily_ about emotions. These works have important aesthetic, social, political, and/or conceptual elements that cannot be distilled down to emotions. For example, [Raphael's School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) (image on left) glorifies ancient and contemporary philosophers, for the benefit of the Papal Apartments in Rome, a seat of power and privilege. The idea that emotional expression played a role in this work would have been entirely foreign to Raphael or to Pope Julius II who commissioned it.  
 
-Or consider this more overtly-political work:
+Or consider this work:
 
 <center>
 <figure>
    <p float="left">
-   <img src="../../../images/definitions/gg1989.jpg" alt="Guerrila Girls billboard"/>
+   <img src="../../../images/definitions/kruger_untitled_special.jpg" alt="Barbara Kruger artwork" width="60%"/>
 </p>
-  <figcaption align="center"><i><a href="https://www.guerrillagirls.com/naked-through-the-ages">Billboard from the Guerilla Girls</a>, 1989, later shown in museums</i>
+  <figcaption align="center"><i><a href="https://www.thebroad.org/art/barbara-kruger/untitled-you-are-very-special-person">Untitled (You are a very special person)</a>, 1995, Barbara Kruger</i>
 </figcaption>
 </figure>
 </center>
-
-While I do read anger in here, to read it solely as an expression of anger would be to miss the point of the work.
+It suggests various ideas around advertising messages and the consumer as royalty. These ideas in turn have some emotional connection; perhaps the artist was driven by anger about consumer culture. Or maybe it's not specifically about any of these things but just meant to suggest reactions. Regardless, this is not a piece that primarily expresses an emotion.
 
 In so much important film, theater, fiction, music... some works are driven by emotion, but emotion is just one part of the whole package.   If art were just about emotion, then the history of art wouldn't be so richly complicated, it would be more like a Twitter feed of hot takes.
 
