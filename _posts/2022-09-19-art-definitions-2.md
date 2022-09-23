@@ -11,6 +11,9 @@ og:image: /images/wica/bradford_viewers.jpg
 # Useful Definitions of Art (Definitions, Part 2)
 
 
+**Note: I am currently considering substantial changes to this blog post, perhaps wait before reading it. :)**
+
+
 This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace notions, and recommended avoiding the evaluative sense of art.
 
 In this essay, I make some more recommendations about how to talk about art. 

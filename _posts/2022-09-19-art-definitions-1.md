@@ -13,6 +13,8 @@ redirect_from:
 # Confusing Defintions of Art (Definitions, Part 1)
 
 
+**Note: I am currently considering substantial changes to this blog post, perhaps wait before reading it. :)**
+
 This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. 
 
 In this first part, I'll talk about problems with some common definitions of art, and, in [Part 2](/2022/09/19/art-definitions-2.html), I'll give some recommendations for how to think about art instead.  In Part 3, I plan to talk about some of the different eras that inform these notions of art.
@@ -53,7 +55,7 @@ Suppose we gave all evaluations this way.  Suppose you showed your favorite movi
 
 [In fact, Martin Scorsese made such a distinction, saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art,"](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, just not the evaluative usage.
 
-People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about they value in art, disguised as objective fact.
+People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about what they value in art, disguised as objective fact.
 
 
 Folk Definitions and Their Problems

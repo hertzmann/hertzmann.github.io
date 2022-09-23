@@ -18,7 +18,7 @@ When I talk about how [computers can't be artists](https://cacm.acm.org/magazine
 
 | <center><b>We are people, and computers are not people. Only people can be artists.</b></center> | 
 
-What is the difference? We do not know, but the difference is important.  When people say that we're _just_ computers, and thus computers could be artists, they sound to me like Albert Michaelson, underestimating how little we know about how brains work.
+What is the difference? We do not know, but the difference is important.  When people say that we're _just_ computers, and thus computers could be artists, they sound to me like Albert Michaelson, underestimating how little we know about how brains work, and what makes us people.
 
 # What does it mean to be a person?
 
@@ -31,11 +31,12 @@ What, scientifically, makes someone a person and not merely a machine? No one kn
 We have morality about other people, and not computers. Why?  If people are just computers, then why isn't it ok to kill people, but it is okay to turn off computers, to start programs and stop them, to spawn processes and then "kill" them?
 Someone who thinks that other people are just bags of meat carrying computers in their skulls, with no more moral status than a laptop, is a sociopath.  Someone who thinks that a computer has the same rights and moral status as a person, and that turning off a computer is murder, is a nutjob.
 
-These are new versions of old questions, like free will versus determinism. If you believe in [materialism](https://en.wikipedia.org/wiki/Materialism), the notion that we live in a world governed solely by physical laws, then we are all just groups of atoms bouncing around and obeying physics. How can we have [free will](https://en.wikipedia.org/wiki/Free_will)?  Theologians have also debated versions of this question: [if God created us, then isn't he responsible for everything we do?](https://en.wikipedia.org/wiki/Free_will_in_theology)  Even though we can't answer these questions, we still go about our lives believing in our own ability and others' to make decisions, and the importance of our interpersonal relationships.
+These are new versions of old questions, like free will versus determinism. If you believe in [materialism](https://en.wikipedia.org/wiki/Materialism), the notion that we live in a world governed solely by physical laws, then we are all just groups of atoms bouncing around and obeying physics. How can we have [free will](https://en.wikipedia.org/wiki/Free_will)?  Theologians have also debated versions of this question: [if God created us, then isn't he responsible for everything we do?](https://en.wikipedia.org/wiki/Free_will_in_theology)  Even though we can't answer these questions, we still go about our lives believing in our own ability and others' to make decisions, and the importance of our interpersonal relationships.  
+
 
 # False equivalences
 
-We are _like_ computers in many ways. [This article provides a clear description of how this depends on how you define "computer"](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
+We are _like_ computers in many ways, but [it totally depends on how you define "computer"](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
 Computation provides an immensely-useful model for understanding people and brains, and it has lead to many breakthroughs in neuroscience and cognitive science.
 I've used some of these ideas in my research, such as [artificial neural networks models of the sensory cortex](https://www.nature.com/articles/nn.4244) and [Bayesian models of cognition](https://en.wikipedia.org/wiki/Bayesian_cognitive_science). But it is largely an analogy or model for the brain, not equivalence. 
 
@@ -43,6 +44,7 @@ One can make many similar analogies with varying degrees of usefulness and absur
 
 Human consciousness is a complex system that seems to [_emerge_](https://en.wikipedia.org/wiki/Emergence) from simpler electrochemical processes.  But, even as a theory of consciouness, emergence [is so vague as to be uninformative](https://www.nature.com/articles/s41583-022-00587-4), it's a ["then a miracle occurs"](https://www.researchgate.net/profile/Michael-Wade-5/publication/302632920/figure/fig2/AS:751645805789184@1556217733527/Then-a-Miracle-Occurs-Copyrighted-artwork-by-Sydney-Harris-Inc-All-materials-used-with.png) leap from low-level circuity to creativity, intelligence, and culture. Neural networks are also complex systems with emergent behaviors, but this doesn't mean they're the same as people. The work of [Zeiler and Fergus](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53) and [David Bau](https://baulab.info/) provides useful analyses of what kinds of functions they're learning: things like image feature detectors and generators, not how to be people.
 
+Saying that we're just computers [implies to many people that we're like current desktop computers](https://arxiv.org/abs/2107.14042) and [risks dehumanizing us](https://youtu.be/wuU-5rGPbyg?t=780).
 
 
 # It's science fiction
