@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Useful Definitions of Art (Definitions, Part 2)
+title: Useful Ways to Talk About of Art (Definitions, Part 2)
 summary: Simple heuristics to make it easier to talk and think about art.
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
@@ -8,13 +8,13 @@ og:image: /images/wica/bradford_viewers.jpg
 ---
 
 
-# Useful Definitions of Art (Definitions, Part 2)
+# Useful Ways to Talk About of Art (Definitions, Part 2)
 
 
 **Note: I am currently considering substantial changes to this blog post based on feedback so far, perhaps wait before reading it. :)**
 
 
-This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace notions, and recommended avoiding the evaluative sense of art.
+This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace ways of talking about art, and recommended avoiding the evaluative usage of "art."
 
 In this essay, I make some more recommendations about how to talk about art. 
 
@@ -31,7 +31,7 @@ Almost anything could be art, but what we care about is how it functions as art:
 
 I prefer to use the word "art" as an empty vessel: it's whatever people want to create as art.
 The bar for making art is very low.
-As far as I'm concerned, a preschooler drawing with crayons is an artist, even though there few people in the world that will appreciate their art.   The bar for making good art is much higher, and subjective.
+A preschooler drawing with crayons is an artist, even though there few people in the world that will appreciate their art.   The bar for making art that lots of people care about is much higher, and subjective.
 
 This is not meant to be a careful and precise philosophical definition of art, but one that is useful in practice, a heuristic for better discussions. 
 We should spend less time discussing whether something is art, and more time discussing what value it has: do you like it? is it beautiful? interesting? provocative? unethical? etc.
@@ -66,7 +66,7 @@ My advice here is: when talking about art and artists, be specific, if it's not 
 Are Better Definitions Possible?
 ===========
 
-The way people use the phrases "definition of art" and "what is art" often perplex me, because people seem to mean totally different things by "definition." Different books on "what is art?" don't just have different answers, [they seem to be answering different questions entirely](/2020/05/19/wiwia.html).  Are we talking about a classificatory definition, how art's created, the way it functions, or something else?
+The way people use the phrases "definition of art" and "what is art" often perplex me, because people seem to mean totally different things by "definition." Different books on "what is art?" don't just have different answers, [they seem to be answering different questions entirely](/2020/05/19/wiwia.html).  Are we talking about a classificatory definition, how artists work, the way art functions, or something else?
 
 On two separate occasions when I've lectured about [whether computers can be artists](https://www.mdpi.com/2076-0752/7/2/18), a computer scientist raised their hand and said "Why don't you just look up the definition of art? Then that will tell you whether computers can be artists." As if these definitions are written in axiomatic language, inscribed in the Book of Standards by some formal Académie.
 

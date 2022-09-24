@@ -19,43 +19,69 @@ This series of essays talks about why commonplace definitions of art are wrong, 
 
 In this first part, I'll talk about problems with some common definitions of art, and, in [Part 2](/2022/09/19/art-definitions-2.html), I'll give some recommendations for how to think about art instead.  In Part 3, I plan to talk about some of the different eras that inform these notions of art.
 
-In person and online, I frequently hear assertions of the impossibility of defining art, and the absurdity of even trying; and, simultaneously, other comments offering simple definitions of art. Just in the past week I have seen variations on: "art is about intent," and "art is emotional expression," and "art is about beauty" and other statements that contradict one another.
+
+Why it matters
+======
+
+I've often heard people assert the impossibility of defining art, and the absurdity of even trying; and, simultaneously, other comments offering simple definitions of art. Just in the past week I have seen variations on: "art is about intent," and "art is emotional expression," and "art is about beauty" and other statements that contradict one another.  Sometimes the same person asserts that "art is about intent" and then later goes out of their way to tell me that it's a waste of time to talk about the meaning of art.
 
 Art in the Western world is a confusing thing.  **The better I've come to understand art, the more I see this confusion as harmful.**  I have an art degree (mostly studio art) and, yet, all my life, I've experienced and witnessed anxiety around it: "I don't understand Modern art," "I'm not a good artist," "I don't have very good taste." The word _Art_ carries so much baggage seemingly designed to tell you that you're not good enough. Anxiety about art prevents people from appreciating it, and from making it, even as an amateur hobby.
 
-**Moreover, recent debates around "AI art" underscore how badly our language around art and artists serve us,** because the words "art" and "artist" mean totally different things in different contexts. And these different uses often have value judgements built in, separating the sacred "art" from the profane "not art". Definitional claims about art stand in for underlying agendas about what is valuable in art, such as [in this Twitter debate](https://twitter.com/kortizart/status/1567949995512594433).  As societal and technological changes transform the nature of art, our difficulties discussing these things coherently makes everything harder. Art changes continually, and we need language and understanding to help us navigate these changes, rather than being stuck in 18th-century myths about artistic expression. 
+**Moreover, recent debates around "AI art" underscore how badly our language around art and artists serve us,** because the words "art" and "artist" mean totally different things in different contexts. And these different uses often have value judgements built in, separating the sacred "art" from the profane "not art". Definitional claims about art stand in for underlying agendas about what is valuable in art, such as [in this Twitter debate](https://twitter.com/kortizart/status/1567949995512594433).  
+We've decided that because defining art is hard, and so we've completely abandoned trying to have terminology that supports a meaningful conversation, and so we're stuck talking past each other, using the same words to mean totally different things.
+
+As societal and technological changes transform the nature of art, our inadequate terminology impedes meaningful discussion. Art changes continually, and we need language and understanding to help us navigate these changes, rather than being stuck in 18th-century myths about artistic expression. 
+
+Just a few days ago, an AI artist (not from a traditional art background) wrote to say that [my essay on understanding contemporary art](/2020/06/08/wica.html) helped to her to understand some art-world conflicts she'd experienced first-hand.   Gaining fluency in that conversation is very hard, in part because of confusing terminology around art. 
+Ideally, understanding provides better conceptual tools for appreciating art, opening one up to new experiences and ideas. 
 
 
 
-Why it's worth learning more
-==================
 
-Just a few days ago, an AI artist (not from a traditional art background) wrote to me that [my essay on understanding contemporary art](/2020/06/08/wica.html) helped to her to understand some art-world conflicts she'd experienced first-hand.  Ideally, understanding provides conceptual tools for appreciating art, opening one up to new experiences and ideas. 
-
-Like most people, at times I've found so much of the contemporary art world impenetrable. But, the more I immersed myself in it, the more I've discovered contemporary artists who's work I genuinely love, like Gerhard Richter, Kehinde Wiley, Marc Bradford, Sara Cwynar, and even Maurizio Cattelan, to name a few.   Even for historical art, the more I have some narrative or personal connection for the work, rather than just seeing images without context, the more I enjoy it.  The Contemporary Art world is often described as a "conversation," and, the more you know about the background to the conversation, the better you can appreciate it, or even participate.  Conversely, I've concluded that there's an entire academic thread of contemporary art that I detest (work that I'd characterize as purely intellectual, hostile to the viewer/participant's experience, and yet devoid even of original intellectual ideas), and knowing how it's separated from what I appreciate is useful; I can stay away from that conversation entirely.
-
-
-Popular narratives treat art as something you feel instinctually, that good art is universal.  This is not true at all; the art we value—and how we value it—results from our own culture and our personal experiences. Art that's wildly popular now was [hated](https://en.wikipedia.org/wiki/Salon_des_Refus%C3%A9s) or [largely unknown](https://en.wikipedia.org/wiki/Mona_Lisa#Refuge,_theft_and_vandalism) two centuries ago, and many now-famous artists were [marginal in their own times](https://en.wikipedia.org/wiki/Frida_Kahlo#Posthumous_recognition_and_%22Fridamania%22).  Contemporary art is so hard to appreciate because there's so much history behind it. Computer art is hard to appreciate because many people don't know much about how it is created.
-
-
-Classificatory vs. Evaluative Definitions
+Classification vs. Evaluation
 ==========
 
-Confusingly, the word "art" occurs in a _classificatory_ sense and a _evaluative_ sense.  Writers rarely—if ever—make it clear which sense they are using. 
+Consider the following three usages of "art:"
 
-In the classificatory sense, we are making statements about which forms are arts and which are not.  Is pottery an art-form? Can it have artistic qualities? [Are video games art](https://en.wikipedia.org/wiki/Video_games_as_an_art_form)? What makes live theatre an art form but spectator sports not, despite their similarities?  
+1. _Classificatory_: Film, like theatre or painting, is naturally an artistic medium.  A bad movie or a bad painting is still art, even if most people don't like it.
+2. _Evaluative_: _Some_ movies rise to the level of being art.
+3. _Combined_: Film is an art form _because_ some movies rise to the level of being art
 
-The evaluative sense judges whether a work is "good enough" to reach the elevated, rarified plane of capital-A Art. Evaluative statements operate like "this painting is skillful but it's not art," or ["can film be art?"](https://www.youtube.com/watch?v=oQNd3wlq5Bo&feature=youtu.be&t=27), or "Florentine weavers raised silk weaving to the level of art."  [This is particularly common in the contemporary art world](/2020/06/08/wica.html), who define only their own particular kinds of art as Art. 
+These three statements look very similar, but they suggest totally different attitudes toward what "counts" as art.  The first is the _classificatory_ usage, and the second is _evaluative_, and the third is, confusingly, both.  If you say "this movie is good enough to be art," then you are making an evaluative assertion.
+Confusingly, the word "art" occurs in a _classificatory_ sense and a _evaluative_ sense.  Writers rarely—if ever—make it clear which sense they are using.  And sometimes they are using both simultaneously.
+ 
+In the classificatory sense, we are making statements about which forms are arts and which are not.  What makes live theatre an art form but spectator sports not, despite their similarities?   
+The evaluative sense judges whether a work is "good enough" to reach the elevated, rarified plane of capital-A Art. Is it special somehow? This judgment varies from speaker to speaker.
+In everyday speech it seems to refer to creating an extraordinary experience in the viewer, or arising from extraordinary skill. The contemporary art world [uses it in a totally different way](/2020/06/08/wica.html), to indicate whether the work fits with their own current interests.
 
-These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium.
 
-I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, **I advocate avoiding the evaluative usage.**
+**Why to Avoid Evaluative Usage.**
+These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium. I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, I avoid the evaluative usage and recommend you do too.
 
-Suppose we gave all evaluations this way.  Suppose you showed your favorite movie to a friend, but they said they didn't like it by saying "it's not a movie."    Or, suppose you applied for a job, and the hiring manager rejected your application by saying "thank you for applying, but we have concluded that you aren't a person."  
+[In fact, Martin Scorsese made such a distinction, saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art,"](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, but just because you don't like it doesn't make it Not Art.  So many of our past "mass entertainments" are now our treasured art forms, like comic books ro 
 
-[In fact, Martin Scorsese made such a distinction, saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art,"](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, just not the evaluative usage.
+Suppose we gave all evaluations this way.  Suppose you showed your favorite movie to a friend, but they said they didn't like it by saying "it's not a movie."    Or, suppose you applied for a job, and the hiring manager rejected your application by saying "thank you for applying, but we have concluded that you aren't a person."  This kind of talk is utterly confusing!
 
 People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about what they value in art, disguised as objective fact.
+
+**The Combined Usage.** In 2010, Roger Ebert's wrote [that video games are not art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), saying "No one in or out ... has ever been able to cite a game worthy of comparison with the great poets, filmmakers, novelists and poets."  He then describes a few video games he'd played,   For Ebert, whether or not the form had given him _great artistic experiences_ determined whether or not it was an art form. His title gave the conclusion: "Video games can never be art." 
+Likewise, some critics nowadays say that generative (or "AI") art isn't art because none of it compares to Shakespeare or Rembrandt.
+
+An obvious problem is that it's hard to predict the future. Suppose, at the start of the 19th century, you were watching the first Lumière films of [workers leaving the factory in 1895](https://www.youtube.com/watch?v=DEQeIRLxaM4), or Georges Melies' 1902 short "A Trip To The Moon" from ten years later. Could one have concluded that film is Not Art And Never Will Be, because none of these trifles compared to Shakespeare?
+
+<center>
+<figure>
+   <p float="left">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xLVChRVfZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+  <figcaption align="center"><i>"A Trip to the Moon," 1902</i></figcaption>
+</figure>
+</center>
+
+[He later acknowledged](https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn) that, just because he himself hadn't had profound experiences with video games does not mean that others hadn't.  
+
+Regardless, the Combined form is still an Evaluative definition, effectively defining "art that didn't move me" as "Not Art."  Philosophers of art have spent considerable effort trying to define objective qualities that Art independent of individual preferences, while still elevating those profound art experiences, but this is what they all boil down to.
+
 
 
 Folk Definitions and Their Problems
@@ -63,7 +89,7 @@ Folk Definitions and Their Problems
 
 Some notions of art seem to come up again and again, both in in-person discussions, and [online](https://twitter.com/tomgoldsteincs/status/1569770340317904897), I started to hear the following commonplace ideas of art over and over:
 
-* "Art requires expression"
+* "Art is about expression"
 * "Art must create an emotional response"
 * "Art is about the artist's intent"
 * "That's not art, because there's no craft"
@@ -71,7 +97,7 @@ Some notions of art seem to come up again and again, both in in-person discussio
 
 and so on. I think of these as "folk theories:" not rigorous philosophical theories but, rather, heuristics that help people make sense of the art world.  These are often the tools we're taught in school or by popular culture.  They seem to be widely held. But, not only do they contradict one another, none of them stand up to the slightest bit of scrutiny, or provide genuinely useful tools for understanding art. 
 
-It's fine to say that you _prefer_ art based on these things. But they makes no sense as theories of all art, because there are too many different things we call art in the Western world.
+It's fine to say that you _prefer_ art based on these things like craft or emotion. But these statements make no sense as universal theory of art, because there are too many different things we call art in the Western world, that function in too many ways.
 
 **Emotion**
 
@@ -93,7 +119,7 @@ Yet, most of our most famous artworks—paintings, movies, novels, plays, etc—
 
 If so, what was the artist's emotion when making each of these works? How do you know? If your answer involves making inferences from the artist's biography, then does that mean they failed at directly conveying emotion?
 
-But, more importantly, even if some of these works have some emotional content, they are definitely not _primarily_ about emotions. These works have important aesthetic, social, political, and/or conceptual elements that cannot be distilled down to emotions. For example, [Raphael's School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) (image on left) glorifies ancient and contemporary philosophers, for the benefit of the Papal Apartments in Rome, a seat of power and privilege. The idea that emotional expression played a role in this work would have been entirely foreign to Raphael or to Pope Julius II who commissioned it.  
+But, more importantly, even if some of these works have some emotional content, they are definitely not _primarily_ about emotions. Artworks have important aesthetic, social, political, and/or conceptual elements that cannot be distilled down to emotions. For example, [Raphael's School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) (image on left) glorifies ancient and contemporary philosophers, for the benefit of the Papal Apartments in Rome, a seat of power and privilege. The idea that emotional expression played a role in this work would have been entirely foreign to Raphael or to Pope Julius II who commissioned it.  
 
 Or consider this work:
 
@@ -106,13 +132,14 @@ Or consider this work:
 </figcaption>
 </figure>
 </center>
-It suggests various ideas around advertising messages and the consumer as royalty. These ideas in turn have some emotional connection; perhaps the artist was driven by anger about consumer culture. Or maybe it's not specifically about any of these things but just meant to suggest reactions. Regardless, this is not a piece that primarily expresses an emotion.
 
-In so much important film, theater, fiction, music... some works are driven by emotion, but emotion is just one part of the whole package.   If art were just about emotion, then the history of art wouldn't be so richly complicated, it would be more like a Twitter feed of hot takes.
+It suggests various ideas around advertising and consumerism. These ideas in turn have some emotional connection; perhaps the artist is angry at consumer culture or wishes to convey a feeling of alienation. Or maybe not. Regardless, this piece too cannot be summarized purely in terms of emotion.
+
+In so much important film, theater, fiction, music... emotion is just one part of the whole package.   If art were primarily about emotion, then the history of art would be little more than a Twitter feed of hot takes.
 
 **Intent** 
 
-Many non-artists I've talked to say art must have an intent. In this view, art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and goal, and executes on that idea.
+Many non-artists I've talked to say art must have an intent. "Intent" is another word that is often used to mean multiple different things without explanation. But here I'll focus on the view that art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and a goal, and executes on that idea.
 
 But this is often just not true of how many artists work. Just in my own reading [I've found numerous examples of artists describing their processes in terms of exploration and discovery](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_1L_Hertzmann.pdf), just [as I've found in my own experience as well](/2020/10/05/art-is-a-process.html). For example, here's Gerhard Richter describing his studio process:
 
@@ -125,7 +152,7 @@ Here are The Beatles, improvising "Get Back" from a formless jam:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8NKOMzckPo?start=32" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-At one point, [they considered making it a protest song](https://www.youtube.com/watch?v=e3obOF-rvwI), which would have had a very different "intent." The lyrics of the final song sort of might mean something, but they're mostly just evocative phrases around some vague theme; [it just ended up as a good song](https://www.youtube.com/watch?v=NnClAX6zHYU) with a particular feeling. It does not reflect an "intent."
+At one point, [The Beatles considered making "Get Back" into a protest song](https://www.youtube.com/watch?v=e3obOF-rvwI), which would have had a very different "intent." The lyrics of the final song sort of might mean something, but they're mostly just evocative phrases around some vague theme; [it just ended up as a good song](https://www.youtube.com/watch?v=NnClAX6zHYU) with a particular feeling. It does not reflect an "intent."
 
 The meanings and goals of so many works of art are ambiguous.  Works often create an experience for viewers that can't easily be expressed as the author's "intent."  Contemporary art [_prefers_ ambiguity](/2020/06/08/wica.html). And consider all the famous artworks (e.g., Shakespeare) that have been analyzed, interpreted, reanalyzed, reinterpreted, over and over, offering up new meanings for each new generation.   
 
@@ -135,7 +162,8 @@ If we generalize "intent" sufficiently to describe all this artwork, the definit
 
 
 **Craft.** 
-Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  Of course, such disctinctions reflect more the values of the speaker—specifically what they value in art—rather than an objective statement about what is valid art.   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
+Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  
+Such disctinctions reflect more the values of the speaker—specifically what they value in art—rather than an objective statement about what is valid art.   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
 
 
 **How should we talk about "art" instead? Go to [Part 2](/2022/09/19/art-definitions-2.html) for my recommendations.**
