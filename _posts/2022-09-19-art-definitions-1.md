@@ -58,11 +58,11 @@ In everyday speech it seems to refer to creating an extraordinary experience in 
 
 These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium. I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, I avoid the evaluative usage and recommend you do too.
 
-[In fact, Martin Scorsese made such a distinction, saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art,"](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, but just because you don't like it doesn't make it Not Art.  So many of our past "mass entertainments" are now our treasured art forms, like comic books ro 
+[Martin Scorsese made such a distinction](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art," while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, but just because you don't like it doesn't make it Not Art.  So many of our past "mass entertainments" are now our treasured art forms, like comic books ro 
 
-Suppose we gave all evaluations this way.  Suppose you showed your favorite movie to a friend, but they said they didn't like it by saying "it's not a movie."    Or, suppose you applied for a job, and the hiring manager rejected your application by saying "thank you for applying, but we have concluded that you aren't a person."  This kind of talk is utterly confusing!
+What if we made all evaluations like this?  Then, if you loan your favorite novel to a friend but they don't like it, they would say "it's not a novel."   Or, a hiring manager would reject your job application by saying "thank you for applying, but we have concluded that you aren't a person."  This kind of talk is utterly confusing (and possibly dehumanizing)!
 
-People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about what they value in art, disguised as objective fact.
+People are going to keep saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about what they value in art, disguised as objective fact.
 
 **The Combined Usage.** 
 
