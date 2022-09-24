@@ -11,7 +11,6 @@ og:image: /images/wica/bradford_viewers.jpg
 # Useful Ways to Talk About of Art (Definitions, Part 2)
 
 
-**Note: I am currently considering substantial changes to this blog post based on feedback so far, perhaps wait before reading it. :)**
 
 
 In [Part 1](/2022/09/19/art-definitions.html) of this series of essays, I described problems with our commonplace ways of talking about art, and recommended avoiding the evaluative usage of "art."
@@ -75,16 +74,14 @@ On two separate occasions when I've lectured about [whether computers can be art
 
 All of our definitions [walk a line between descriptivism and prescriptivism](https://harpers.org/wp-content/uploads/HarpersMagazine-2001-04-0070913.pdf): we simultaneously enforce meanings for words based on their definitions, while updating definitions based on real-world usage.   Philosophers attempt to define "art" based on how people use the word, but the usage keeps changing. Sometimes these definitions have an agenda, [slyly redefining "art"](https://www.jstor.org/stable/3700568) to incorporate the avant-garde of their day.  But so far, the philosophers I've read have concluded that no simple definition is possible.
 
-**Toward better definitions.**
-
 Good defintions of art could help us navigate future debates and discussions around art, helping us to understand how new technological and societal developments work as art. Some kinds of defintions, like Wittgenstein's ["family resemblances"](https://en.wikipedia.org/wiki/Family_resemblance) or Dutton's ["cluster concepts"](https://www.jstor.org/stable/3700568), provide useful categorizations of attributes for describing those things we call art today, but don't seem to provide much guidance for helping people grapple with new forms of art.
 
 
-I do believe that a definition of art needs to reflect the way [art exists as a function of the community around it](/2020/06/08/wica.html).  Classical "institutional theories" of art from George Dickie and Arthur Danto, assume a singular definition of art, rather than one that varies between cultures and communities.  (This is evident in the names of old movements like ["New Media,"](https://en.wikipedia.org/wiki/New_media) and "Modern art" or the "Young British Artists"—who are now entering their 60s; these are the artworld equivalents of Oxford's "New College").  Instead of "the artworld," it's really "the artworlds."
+I believe that a definition of art needs to reflect the way [art exists as a function of the community around it](/2020/06/08/wica.html).  Classical "institutional theories" of art from George Dickie and Arthur Danto assume a singular definition of art, rather than one that varies between cultures and communities.  (This is evident in the names of old movements like ["New Media,"](https://en.wikipedia.org/wiki/New_media) and "Modern art" or the "Young British Artists"—who are now entering their 60s; these are the artworld equivalents of Oxford's ["New College"](https://en.wikipedia.org/wiki/New_College,_Oxford)).  Instead of "the artworld," it's really "the artworlds."
 
 I believe it's possible to produce more precise and accurate definitions of art, but they won't be simple one-sentence definitions, to capture all the different kinds of art and different roles across different cultures and time, maybe something more of a multipart beast.
 
-**In Part 3 of this series, I plan to talk about some of the important eras that inform our current notions of art.**
+**In Part 3 of this series, I plan to talk about some of the important eras that inform our current notions of art.**  And this notion of eras could even form the basis for better definitions.
 
 
 Readings

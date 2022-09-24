@@ -32,7 +32,7 @@ We've decided that because defining art is hard, and so we've completely abandon
 
 As societal and technological changes transform the nature of art, our inadequate terminology impedes meaningful discussion. Art changes continually, and we need language and understanding to help us navigate these changes, rather than being stuck in 18th-century myths about artistic expression. 
 
-Just a few days ago, an AI artist (not from a traditional art background) wrote to say that [my essay on understanding contemporary art](/2020/06/08/wica.html) helped to her to understand some art-world conflicts she'd experienced first-hand.   Gaining fluency in that conversation is very hard, in part because of confusing terminology around art. 
+Just a few days ago, an "AI" artist (not from a traditional art background) wrote to say that [my essay on understanding contemporary art](/2020/06/08/wica.html) helped to her to understand some art-world conflicts she'd experienced first-hand.   Gaining fluency in that conversation is very hard, in part because of confusing terminology around art. 
 Ideally, understanding provides better conceptual tools for appreciating art, opening one up to new experiences and ideas. 
 
 
@@ -56,6 +56,7 @@ In everyday speech it seems to refer to creating an extraordinary experience in 
 
 
 **Why to Avoid Evaluative Usage.**
+
 These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium. I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, I avoid the evaluative usage and recommend you do too.
 
 [In fact, Martin Scorsese made such a distinction, saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art,"](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, but just because you don't like it doesn't make it Not Art.  So many of our past "mass entertainments" are now our treasured art forms, like comic books ro 
@@ -64,17 +65,19 @@ Suppose we gave all evaluations this way.  Suppose you showed your favorite movi
 
 People are going to keep using it though, saying "that's not art." Just remember that when someone says "that's not art," they're expressing an opinion about what they value in art, disguised as objective fact.
 
-**The Combined Usage.** In 2010, Roger Ebert's wrote [that video games are not art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), saying "No one in or out ... has ever been able to cite a game worthy of comparison with the great poets, filmmakers, novelists and poets."  He then describes a few video games he'd played,   For Ebert, whether or not the form had given him _great artistic experiences_ determined whether or not it was an art form. His title gave the conclusion: "Video games can never be art." 
+**The Combined Usage.** 
+
+In 2010, Roger Ebert's wrote [that video games are not art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), saying "No one in or out ... has ever been able to cite a game worthy of comparison with the great poets, filmmakers, novelists and poets."  He then describes a few video games he'd played,   For Ebert, whether or not the form had given him _great artistic experiences_ determined whether or not it was an art form. His title gave the conclusion: "Video games can never be art." 
 Likewise, some critics nowadays say that generative (or "AI") art isn't art because none of it compares to Shakespeare or Rembrandt.
 
-An obvious problem is that it's hard to predict the future. Suppose, at the start of the 19th century, you were watching the first Lumière films of [workers leaving the factory in 1895](https://www.youtube.com/watch?v=DEQeIRLxaM4), or Georges Melies' 1902 short "A Trip To The Moon" from ten years later. Could one have concluded that film is Not Art And Never Will Be, because none of these trifles compared to Shakespeare?
+However, it's hard to predict the future. Suppose, at the start of the 19th century, you were watching the films of [the Lumière brothers](https://www.youtube.com/watch?v=DEQeIRLxaM4), or Georges Méliès. Could one have concluded that film is Not Art And Never Will Be, because these trifles failed to reach the level of Shakespeare?
 
 <center>
 <figure>
    <p float="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xLVChRVfZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-  <figcaption align="center"><i>"A Trip to the Moon," 1902</i></figcaption>
+  <figcaption align="center"><i>"A Trip to the Moon," 1902, by Georges Méliès</i></figcaption>
 </figure>
 </center>
 
@@ -162,6 +165,7 @@ If we generalize "intent" sufficiently to describe all this artwork, the definit
 
 
 **Craft.** 
+
 Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  
 Such disctinctions reflect more the values of the speaker—specifically what they value in art—rather than an objective statement about what is valid art.   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
 
