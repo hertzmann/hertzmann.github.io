@@ -13,7 +13,6 @@ redirect_from:
 # Confusing Definitions of Art (Definitions, Part 1)
 
 
-**Note: I am currently considering substantial changes to this blog post based on feedback so far, perhaps wait before reading it. :)**
 
 This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. 
 
