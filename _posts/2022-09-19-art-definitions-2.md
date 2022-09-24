@@ -14,7 +14,7 @@ og:image: /images/wica/bradford_viewers.jpg
 **Note: I am currently considering substantial changes to this blog post based on feedback so far, perhaps wait before reading it. :)**
 
 
-This series of essays talks about why commonplace definitions of art are wrong, simple heuristics to make it easier, and why it matters. In [Part 1](/2022/09/19/art-definitions.html), I described problems with our commonplace ways of talking about art, and recommended avoiding the evaluative usage of "art."
+In [Part 1](/2022/09/19/art-definitions.html) of this series of essays, I described problems with our commonplace ways of talking about art, and recommended avoiding the evaluative usage of "art."
 
 In this essay, I make some more recommendations about how to talk about art. 
 
@@ -49,7 +49,7 @@ We should spend less time discussing whether something is art, and more time dis
 
 
 
-Say what kind of art/artist you mean
+Use precise terms/phrases
 ======
 
 People often treat "art" and "artist" like they are monolithic, unitary terms, when there are so many different kinds of art and artists; confusion occurs when people from different communities interact.  
@@ -60,13 +60,16 @@ In computer graphics research, "artist" is used as a generic term. Papers descri
 
 My advice here is: when talking about art and artists, be specific, if it's not obvious from context. What kind of art/artist are you talking about? Contemporary/fine art? Animators? Cirque du Soleil performers? etc.
 
+Likewise, the way people use the phrases "definition of art" and "what is art" often perplex me, because people seem to mean totally different things by "definition." Different books on "what is art?" don't just have different answers, [they seem to be answering different questions entirely](/2020/05/19/wiwia.html).  Are we talking about a classificatory definition, how artists work, the way art functions, or something else?
+When people talk about the "intent" of a work, do they mean the artist's goal vs. message of the work vs. the intention to make art?
+
+Avoid these vague, overloaded terms and be specific.
 
 
 
 Are Better Definitions Possible?
 ===========
 
-The way people use the phrases "definition of art" and "what is art" often perplex me, because people seem to mean totally different things by "definition." Different books on "what is art?" don't just have different answers, [they seem to be answering different questions entirely](/2020/05/19/wiwia.html).  Are we talking about a classificatory definition, how artists work, the way art functions, or something else?
 
 On two separate occasions when I've lectured about [whether computers can be artists](https://www.mdpi.com/2076-0752/7/2/18), a computer scientist raised their hand and said "Why don't you just look up the definition of art? Then that will tell you whether computers can be artists." As if these definitions are written in axiomatic language, inscribed in the Book of Standards by some formal Académie.
 
