@@ -163,6 +163,8 @@ Art critic [Jerry Saltz writes](https://www.vulture.com/2018/11/jerry-saltz-how-
 If we generalize "intent" sufficiently to describe all this artwork, the definition becomes vacuous and circular: art must have an intent; the intent is to make an artwork.  Is the "intent" of a pizza to feed people? Then it's an artwork.  This isn't a definition of art, it's a definition of a planned activity.
 
 
+(Sometimes people mean something different about intent: something is art simply by the artist's _intention_ to make it art, which I'll discuss more in the next post.)
+
 **Craft.** 
 
 Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  
