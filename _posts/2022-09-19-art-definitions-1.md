@@ -26,7 +26,7 @@ I've often heard people assert the impossibility of defining art, and the absurd
 
 Art in the Western world is a confusing thing.  **The better I've come to understand art, the more I see this confusion as harmful.**  I have an art degree (mostly studio art) and, yet, all my life, I've experienced and witnessed anxiety around it: "I don't understand Modern art," "I'm not a good artist," "I don't have very good taste." The word _Art_ carries so much baggage seemingly designed to tell you that you're not good enough. Anxiety about art prevents people from appreciating it, and from making it, even as an amateur hobby.  To deal with this confusion, people come up with heuristics for describing art, but these heuristics often fail to provide useful guidance.
 
-Recent debates around "AI art" underscore how badly our language around art and artists serve us, because the words "art" and "artist" mean totally different things in different contexts. Leading to all sorts of confusion.  Definitional claims with hidden value judgements stand in for underlying agendas about what is valuable in art, such as [in this Twitter debate](https://twitter.com/kortizart/status/1567949995512594433).  
+Moreover, recent debates around "AI art" underscore how badly our language around art and artists serve us, because the words "art" and "artist" mean totally different things in different contexts. Leading to all sorts of confusion.  Definitional claims with hidden value judgements stand in for underlying agendas about what is valuable in art, such as [in this Twitter debate](https://twitter.com/kortizart/status/1567949995512594433).  
 We've decided that because defining art is hard, and we've abandoned hope of meaningful terminology, and so we're stuck talking past each other, using the same words to mean totally different things.
 
 Art—and the technology that supports it—changes continually, and we need language and understanding to help us navigate these changes, rather than being stuck in 18th-century myths about artistic expression. 
@@ -92,8 +92,7 @@ Folk Definitions and Their Problems
 
 Some notions of art seem to come up again and again, both in in-person discussions, and [online](https://twitter.com/tomgoldsteincs/status/1569770340317904897), I started to hear the following commonplace ideas of art over and over:
 
-* "Art is about expression"
-* "Art must create an emotional response"
+* "Art is about expressing emotion"
 * "Art is about the artist's intent"
 * "That's not art, because there's no craft"
 * "That's not art, it's just craft"
@@ -102,7 +101,7 @@ and so on. I think of these as "folk theories:" not rigorous philosophical theor
 
 It's fine to say that you _prefer_ art based on these things like craft or emotion. But these statements make no sense as universal theory of art, because there are too many different things we call art in the Western world, that function in too many ways.
 
-**Emotion**
+**"Art is about expressing emotion"**
 
 This idea that art is about conveying the artist's emotion is widespread in popular descriptions.
 
@@ -140,7 +139,7 @@ It suggests various ideas around advertising and consumerism. These ideas in tur
 
 In so much important film, theater, fiction, music... emotion is just one part of the whole package.   If art were primarily about emotion, then the history of art would be little more than a Twitter feed of hot takes.
 
-**Intent** 
+**"Art is about the artist's intent"** 
 
 Many non-artists I've talked to say art must have an intent. "Intent" is another word that is often used to mean multiple different things without explanation. But here I'll focus on the view that art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and a goal, and executes on that idea.
 
@@ -166,7 +165,7 @@ If we generalize "intent" sufficiently to describe all this artwork, the definit
 
 (Sometimes people mean something different about intent: something is art simply by the artist's _intention_ to make it art, which I'll discuss more in the next post.)
 
-**Craft.** 
+**"Art does/doesn't require craft."** 
 
 Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  
 Such disctinctions reflect more the values of the speaker—specifically what they value in art—rather than an objective statement about what is valid art.   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
