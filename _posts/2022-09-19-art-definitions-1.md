@@ -50,6 +50,7 @@ These three statements look very similar, but they suggest totally different att
 Confusingly, the word "art" occurs in a _classificatory_ sense and a _evaluative_ sense.  Writers rarely—if ever—make it clear which sense they are using.  And sometimes they are using both simultaneously.
  
 In the classificatory sense, we are making statements about which forms are arts and which are not.  What makes live theatre an art form but spectator sports not, despite their similarities?   
+
 The evaluative sense judges whether a work is "good enough" to reach the elevated, rarified plane of capital-A Art. Is it special somehow? This judgment varies from speaker to speaker.
 In everyday speech it seems to refer to creating an extraordinary experience in the viewer, or arising from extraordinary skill. The contemporary art world [uses it in a totally different way](/2020/06/08/wica.html), to indicate whether the work fits with their own current interests.
 
