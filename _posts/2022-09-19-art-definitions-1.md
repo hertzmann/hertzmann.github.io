@@ -141,7 +141,7 @@ In so much important film, theater, fiction, music... emotion is just one part o
 
 **"Art is about the artist's intent"** 
 
-Many non-artists I've talked to say art must have an intent. "Intent" is another word that is often used to mean multiple different things. Here I'll focus on the view that art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and a goal, and executes on that idea.
+Many non-artists I've talked to say art must have an intent. "Intent" is another word that is often used to mean multiple different things. Here I'll focus on the view that art is the expression of the artist's goals—which could be to express emotions, or something else.
 
 But this is often just not true of how many artists work. Just in my own reading [I've found numerous examples of artists describing their processes in terms of exploration and discovery](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_1L_Hertzmann.pdf), just [as I've found in my own experience as well](/2020/10/05/art-is-a-process.html). For example, here's Gerhard Richter describing his studio process:
 
