@@ -167,10 +167,9 @@ There's another, totally different usage of "intent:" something becomes art simp
 
 **"Art does/doesn't require craft."** 
 
-Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  
-Such disctinctions reflect the values of the speaker—specifically what they value in art—rather than any sort of broadly-true belief about what is "valid art."   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
+Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  Such disctinctions reflect the values of the speaker—specifically what they value in art—rather than any sort of broadly-true belief about what is "valid art."   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
 
-The word "craft" carries many meanings and connotations. I prefer "technical skill" instead of "craft" to avoid that baggage and to avoid making a distinction between art and craft.
+The word "craft" carries many meanings and connotations. I prefer "technical skill" instead of "craft", to avoid that baggage and to avoid making a distinction between art and craft.
 
 
 **How should we talk about "art" instead? Go to [Part 2](/2022/09/19/art-definitions-2.html) for my recommendations.**
