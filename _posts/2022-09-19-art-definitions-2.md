@@ -79,7 +79,7 @@ All of our definitions [walk a line between descriptivism and prescriptivism](ht
 Good defintions of art could help us navigate future debates and discussions around art, helping us to understand how new technological and societal developments work as art. Some kinds of defintions, like Wittgenstein's ["family resemblances"](https://en.wikipedia.org/wiki/Family_resemblance) or Dutton's ["cluster concepts"](https://www.jstor.org/stable/3700568), provide useful categorizations of attributes for describing those things we call art today, but don't seem to provide much guidance for helping people grapple with new forms of art.
 
 
-I believe that a definition of art needs to reflect the way [art exists as a function of the community around it](/2020/06/08/wica.html).  Classical "institutional theories" of art from George Dickie, Arthur Danto, and Jerrold Levinson assume an evolving but singular definition of art, rather than one that varies between cultures and communities. Art exists in the context of a community/culture, as evidenced by the names of old movements like ["New Media,"](https://en.wikipedia.org/wiki/New_media) and "Modern art" or the "Young British Artists"—who are now entering their 60s; these are the artworld equivalents of Oxford's ["New College"](https://en.wikipedia.org/wiki/New_College,_Oxford)).  Instead of "the artworld," it's really "the artworlds."
+I believe that a definition of art needs to reflect the way [art exists as a function of the community around it](/2020/06/08/wica.html).  Classical "institutional theories" of art from George Dickie, Arthur Danto, and Jerrold Levinson assume an evolving but singular definition of art, rather than one that varies between cultures and communities. Art exists in the context of a community/culture, as evidenced by the names of old movements like ["New Media,"](https://en.wikipedia.org/wiki/New_media) and "Modern art" or the "Young British Artists"—who are now entering their 60s; these are the artworld equivalents of Oxford's ["New College"](https://en.wikipedia.org/wiki/New_College,_Oxford)).  Instead of "the artworld," it's really "the artworlds."  Or, to use a phrase from Larry Shiner, "systems of art."
 
 I believe it's possible to produce more precise and accurate definitions of art, but they won't be simple one-sentence definitions, to capture all the different kinds of art and different roles across different cultures and time, maybe something more of a multipart beast.
 
@@ -96,4 +96,4 @@ This post includes ideas from two books that shaped my understanding of the phil
 
 
 <hr>
-Thanks to Rich Radke, Juliet Fiss, and others who commented.
+Thanks to Rich Radke, Juliet Fiss, Craig Reynolds, Rob Pepperell, and others who commented.
