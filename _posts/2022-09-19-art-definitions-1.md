@@ -70,36 +70,36 @@ People are going to keep saying "that's not art." Just remember that when someon
 In 2010, Roger Ebert's wrote [that video games are not art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), saying "No one in or out ... has ever been able to cite a game worthy of comparison with the great poets, filmmakers, novelists and poets."  He then describes a few video games he'd played,   For Ebert, whether or not the form had given him _great artistic experiences_ determined whether or not it was an art form. His title gave the conclusion: "Video games can never be art." 
 Likewise, some critics nowadays say that generative (or "AI") art isn't art because none of it compares to Shakespeare or Rembrandt.
 
-However, it's hard to predict the future. Suppose, at the start of the 19th century, you were watching the films of [the Lumière brothers](https://www.youtube.com/watch?v=DEQeIRLxaM4), or Georges Méliès. Could one have concluded that film is Not Art And Never Will Be, because these trifles failed to reach the level of Shakespeare?
+But it's hard to predict the future. Suppose, at the start of the 19th century, you were watching the films of [the Lumière brothers](https://www.youtube.com/watch?v=DEQeIRLxaM4), or Georges Méliès. Could one have concluded that film is Not Art And Never Will Be, because these trifles failed to reach the level of Shakespeare?
 
 <center>
 <figure>
    <p float="left">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xLVChRVfZ74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-  <figcaption align="center"><i>"A Trip to the Moon," 1902, by Georges Méliès</i></figcaption>
+  <figcaption align="center"><i>"A Trip to the Moon," 1902, by Georges Méliès. It's not Shakespeare, but it's still art.</i></figcaption>
 </figure>
 </center>
 
-[He later acknowledged](https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn) that, just because he himself hadn't had profound experiences with video games does not mean that others hadn't.  
+[He later acknowledged](https://www.rogerebert.com/roger-ebert/okay-kids-play-on-my-lawn) that, just because he himself hadn't had profound experiences with video games does not mean that others hadn't.  This points to yet another definition of art, i.e., potential to create profound experiences in people, which I think a lot of people share.
 
-Regardless, the Combined form is still an Evaluative definition, effectively defining "art that didn't move me" as "Not Art."  Philosophers of art have spent considerable effort trying to define objective qualities that Art independent of individual preferences, while still elevating those profound art experiences, but this is what they all boil down to.
+Regardless, the Combined form is still an Evaluative definition, effectively defining "art that didn't move me" as "Not Art."  Philosophers of art have spent considerable effort trying to define objective qualities of art independent of individual preferences, while still elevating those profound art experiences, but this is what they all boil down to.
 
 
 
 Folk Definitions and Their Problems
 ==========
 
-Some notions of art seem to come up again and again, both in in-person discussions, and [online](https://twitter.com/tomgoldsteincs/status/1569770340317904897), I started to hear the following commonplace ideas of art over and over:
+Some notions of art seem to come up [again and again](https://twitter.com/tomgoldsteincs/status/1569770340317904897):
 
 * "Art is about expressing emotion"
 * "Art is about the artist's intent"
 * "That's not art, because there's no craft"
 * "That's not art, it's just craft"
 
-and so on. I think of these as "folk theories:" not rigorous philosophical theories but, rather, heuristics that help people make sense of the art world.  These are often the tools we're taught in school or by popular culture.  They seem to be widely held. But, not only do they contradict one another, none of them stand up to the slightest bit of scrutiny, or provide genuinely useful tools for understanding art. 
+and so on. I think of these as "folk theories." They're not rigorous philosophical theories but, rather, heuristics that help people make sense of the art world.  These are often the tools we're taught in school or by popular culture.  They seem to be widely held. But, not only do they contradict one another, none of them stand up to the slightest bit of scrutiny, or provide genuinely useful tools for understanding art. 
 
-It's fine to say that you _prefer_ art based on these things like craft or emotion. But these statements make no sense as universal theory of art, because there are too many different things we call art in the Western world, that function in too many ways.
+It's fine to say that you _prefer_ art based on these things like craft or emotion. But these statements make no sense as universal theories of art, because there are too many different ways in which art functions.
 
 **"Art is about expressing emotion"**
 
@@ -107,7 +107,7 @@ This idea that art is about conveying the artist's emotion is widespread in popu
 
 Let's think through what this idea implies. It implies that a viewer should get a sense of the artist's emotions—or the ones they mean to convey—through the work. It implies this is the _primary_ goal of art, and a work of art is only good insofar as it conveys emotion effectively. 
 
-Yet, most of our most famous artworks—paintings, movies, novels, plays, etc—either convey no obvious emotion, or, if they do, have a complex set of emotions involved.  Do any of the following paintings convey clearly the artist's emotions?
+Yet, most of our most famous artworks—paintings, movies, novels, plays, etc—either convey no obvious emotion, or, if they do, embody a complex set of emotions involved.  Do any of the following paintings convey clearly the artist's emotions?
 
 
 <center>
@@ -121,7 +121,7 @@ Yet, most of our most famous artworks—paintings, movies, novels, plays, etc—
 
 If so, what was the artist's emotion when making each of these works? How do you know? If your answer involves making inferences from the artist's biography, then does that mean they failed at directly conveying emotion?
 
-But, more importantly, even if some of these works have some emotional content, they are definitely not _primarily_ about emotions. Artworks have important aesthetic, social, political, and/or conceptual elements that cannot be distilled down to emotions. For example, [Raphael's School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) (image on left) glorifies ancient and contemporary philosophers, for the benefit of the Papal Apartments in Rome, a seat of power and privilege. The idea that emotional expression played a role in this work would have been entirely foreign to Raphael or to Pope Julius II who commissioned it.  
+But, more importantly, even if some of these works have some emotional content, they are  not _primarily_ about emotions. Artworks have important aesthetic, social, political, and/or conceptual elements that cannot be distilled down to emotions. For example, [Raphael's School of Athens](https://en.wikipedia.org/wiki/The_School_of_Athens) (image on left) glorifies ancient and contemporary philosophers, for the benefit of the Papal Apartments in Rome, a seat of power and privilege. The idea that emotional expression played a role in this work would have been entirely foreign to Raphael or to Pope Julius II who commissioned it.  
 
 Or consider this work:
 
@@ -141,7 +141,7 @@ In so much important film, theater, fiction, music... emotion is just one part o
 
 **"Art is about the artist's intent"** 
 
-Many non-artists I've talked to say art must have an intent. "Intent" is another word that is often used to mean multiple different things without explanation. But here I'll focus on the view that art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and a goal, and executes on that idea.
+Many non-artists I've talked to say art must have an intent. "Intent" is another word that is often used to mean multiple different things. Here I'll focus on the view that art is the expression of the artist's goals—which could be to express emotions, or something else. An artist begins with an idea and a goal, and executes on that idea.
 
 But this is often just not true of how many artists work. Just in my own reading [I've found numerous examples of artists describing their processes in terms of exploration and discovery](https://computationalcreativity.net/iccc22/wp-content/uploads/2022/06/ICCC-2022_1L_Hertzmann.pdf), just [as I've found in my own experience as well](/2020/10/05/art-is-a-process.html). For example, here's Gerhard Richter describing his studio process:
 
@@ -162,13 +162,15 @@ Art critic [Jerry Saltz writes](https://www.vulture.com/2018/11/jerry-saltz-how-
 
 If we generalize "intent" sufficiently to describe all this artwork, the definition becomes vacuous and circular: art must have an intent; the intent is to make an artwork.  Is the "intent" of a pizza to feed people? Then it's an artwork.  This isn't a definition of art, it's a definition of a planned activity.
 
+There's another, totally different usage of "intent:" something becomes art simply by the artist's intention to make it art, which I'll discuss more in the next post.
 
-(Sometimes people mean something different about intent: something is art simply by the artist's _intention_ to make it art, which I'll discuss more in the next post.)
 
 **"Art does/doesn't require craft."** 
 
 Craft produces more paradoxical opinions about art.  On one hand, everyday crafts may be seen as being "elevated" to the level of art by extraordinary workmanship or creativity. On the other, the contemporary art world dimisses work that's "merely" technically skillful: a realistic landscape painting considered a historical masterpiece would be ignored today.  
-Such disctinctions reflect more the values of the speaker—specifically what they value in art—rather than an objective statement about what is valid art.   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
+Such disctinctions reflect the values of the speaker—specifically what they value in art—rather than any sort of broadly-true belief about what is "valid art."   Certainly, one can find numerous examples of highly-respected artworks that involve technical skill (e.g., historical masterpieces, Amy Sherald paintings), and others that do not (e.g., much [conceptual art](https://en.wikipedia.org/wiki/Conceptual_art), like [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) or [taping a banana to a wall](https://en.wikipedia.org/wiki/Comedian_(artwork))).
+
+The word "craft" carries many meanings and connotations. I prefer "technical skill" instead of "craft" to avoid that baggage and to avoid making a distinction between art and craft.
 
 
 **How should we talk about "art" instead? Go to [Part 2](/2022/09/19/art-definitions-2.html) for my recommendations.**

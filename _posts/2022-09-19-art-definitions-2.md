@@ -3,8 +3,8 @@ layout: page
 title: Useful Ways to Talk About of Art (Definitions, Part 2)
 summary: Simple heuristics to make it easier to talk and think about art.
 author:  AaronHertzmann
-image: /images/wica/bradford_viewers.jpg
-og:image: /images/wica/bradford_viewers.jpg
+image: /images/definitions/hoyo.jpg
+og:image: /images/definitions/hoyo.jpg
 ---
 
 
@@ -35,7 +35,7 @@ A preschooler drawing with crayons is an artist, even though there few people in
 This is not meant to be a careful and precise philosophical definition of art, but one that is useful in practice, a heuristic for better discussions. 
 We should spend less time discussing whether something is art, and more time discussing what value it has: do you like it? is it beautiful? interesting? provocative? unethical? etc.
 
-**I'm essentially describing a simple version of Jerrold Levinson's Institutional-Historical Theory of art:** _"an artwork is a thing (item, object, entity) that has been seriously intended for regard-as-a-work-of-art — i.e., regard in which any way preexisting artworks are or were correctly regarded."_  I recommend [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) if you're interested in more information on the nuances of that definition and what it's trying to say.
+**I'm essentially describing a simple version of Jerrold Levinson's Institutional-Historical Theory of art:** _"an artwork is a thing (item, object, entity) that has been seriously intended for regard-as-a-work-of-art — i.e., regard in which any way preexisting artworks are or were correctly regarded."_  An artist can pick up a rock and declare it to be art.  I recommend [_The Art Question_](https://www.amazon.com/Art-Question-Nigel-Warburton/dp/0415174902) if you're interested in more information on the nuances of that definition and what it's trying to say.
 
 <center>
 <figure>
