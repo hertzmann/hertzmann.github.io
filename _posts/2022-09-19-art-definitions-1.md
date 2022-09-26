@@ -3,8 +3,8 @@ layout: page
 title: Confusing Definitions of Art (Definitions, Part 1)
 summary: Why commonplace definitions of art are wrong, and why it matters.
 author:  AaronHertzmann
-image: /images/wica/melies.jpg
-og:image: /images/wica/melies.jpg
+image: /images/definitions/melies.jpg
+og:image: /images/definitions/melies.jpg
 redirect_from:
   - /2022/09/19/art-definitions.html
 ---
