@@ -57,7 +57,7 @@ In everyday speech it seems to refer to creating an extraordinary experience in 
 
 **Why to Avoid Evaluative Usage**
 
-These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium. I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment of quality into an absolute, categorical rejection. For these reasons, I avoid the evaluative usage and recommend you do too.
+These evaluative usages makes no sense to me. When someone writes that a movie rises to the level of art, they imply that film is not, by nature, an artistic medium. I find the evaluative sense to be elitist and gatekeepery, denying not just the qualities of the work, but that it could have artistic value for anybody. It turns a subjective judgment into an absolute, categorical rejection. For these reasons, I avoid the evaluative usage and recommend you do too.
 
 [Martin Scorsese made such a distinction](https://www.nytimes.com/2019/11/04/opinion/martin-scorsese-marvel.html) saying that Marvel movies aren't cinema, drawing a rhetorical line between "commercial mass entertainment" and "art," while referring back to earlier eras' debates about whether cinema is art. I share many of his preferences, but just because you don't like it doesn't make it Not Art.  So many of our past "cheap entertainments" are now  treasured art forms.
 
