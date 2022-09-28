@@ -101,7 +101,7 @@ and so on. I think of these as "folk theories." They're not rigorous philosophic
 
 It's fine to say that you _prefer_ art based on these things like craft or emotion. But these statements make no sense as universal theories of art, because there are too many different ways in which art functions.
 
-Perhaps it doesn't help that art history is [full of proclamations of what art is](https://mixedmedia.club/100-quotes-that-begin-with-art-is/) and [must do, expressed as universals.](https://twitter.com/ArtistisPresent/status/1550904972371451905)
+Perhaps it doesn't help that art history is [full of proclamations of what art is](https://mixedmedia.club/100-quotes-that-begin-with-art-is/) and [must do, expressed as universals.](https://twitter.com/ArtistisPresent/status/1550904972371451905)  So many things art _must_ be!
 
 
 **"Art is about expressing emotion"**
