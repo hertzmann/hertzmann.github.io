@@ -85,7 +85,7 @@ I believe that a definition of art needs to reflect the way [art exists as a fun
 
 I believe it's possible to produce more precise and accurate definitions of art, but they won't be simple one-sentence definitions, to capture all the different kinds of art and different roles across different cultures and time, maybe something more of a multipart beast.
 
-**In Part 3 of this series, I plan to talk about some of the important eras that inform our current notions of art.**  And this notion of eras could even form the basis for better definitions.
+**In my [next blog post](/2022/09/27/art-eras.html), I talk about some of the important eras that inform our current notions of art,** a notion that I think could inform better definitions.
 
 
 Readings
