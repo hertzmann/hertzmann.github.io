@@ -10,7 +10,7 @@ og:image: /images/perspective/fake_tunnel3.jpg
 
 # Photography is not Objective, Art is a Set of Choices
 
-_Note: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759)._
+_**Note: a different version of these ideas appear in [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759).**_
 
 
 
