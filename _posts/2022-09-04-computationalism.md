@@ -44,6 +44,8 @@ One can make many similar analogies with varying degrees of usefulness and absur
 
 Human consciousness is a complex system that seems to [_emerge_](https://en.wikipedia.org/wiki/Emergence) from simpler electrochemical processes.  But, even as a theory of consciouness, emergence [is so vague as to be uninformative](https://www.nature.com/articles/s41583-022-00587-4), it's a ["then a miracle occurs"](https://www.researchgate.net/profile/Michael-Wade-5/publication/302632920/figure/fig2/AS:751645805789184@1556217733527/Then-a-Miracle-Occurs-Copyrighted-artwork-by-Sydney-Harris-Inc-All-materials-used-with.png) leap from low-level circuity to creativity, intelligence, and culture. Neural networks are also complex systems with emergent behaviors, but this doesn't mean they're the same as people. The work of [Zeiler and Fergus](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_53) and [David Bau](https://baulab.info/) provides useful analyses of what kinds of functions they're learning: things like image feature detectors and generators, not how to be people.
 
+Some theories suggest that [cognition isn't just neuronal](https://currentsciencedaily.com/stories/632512856-london-u-s-scientists-suggest-cognition-far-more-than-neuron-processing-in-the-brain), it's a much more distributed biological proecess.
+
 Saying that we're just computers [implies to many people that we're like current desktop computers](https://arxiv.org/abs/2107.14042) and [risks dehumanizing us](https://youtu.be/wuU-5rGPbyg?t=780).
 
 
