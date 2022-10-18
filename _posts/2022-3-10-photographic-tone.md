@@ -11,7 +11,7 @@ og:image: /images/tone/james-dean-retouch-b.jpg
 
 # Why Dark and Light is Complicated in Photographs
 
-_**Note: a different version of these ideas appear in [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759).**_
+_**Note: portions of this post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759).**_
 
 This post describes some of the choices involved in photographic tone reproduction, that is, how bright or dim each part of a photo is.
 
