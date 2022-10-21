@@ -14,7 +14,7 @@ How I think about learning new skills as an adult, everything from sports to imp
 <img src="https://aaronhertzmann.com/images/skill_curve_plateau.jpg" alt="Curve of increasing skill, novice to excited to plateau to expert">
 </center>
 
-Of course, there are lots of things for which it's really worthwhile to learn  amateur-level skill and literacy; you don't have to be an expert for it to be worthwhile.
+There are lots of things for which it's really worthwhile to learn  amateur-level skill and literacy; you don't have to be an expert for it to be worthwhile.
 
 The source for this observation is a flyer for intermediate salsa students that a friend showed me, and also this wonderful Ira Glass quote (thanks for the link, Bill Baxter):
 
