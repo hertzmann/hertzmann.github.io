@@ -22,7 +22,7 @@ What is the difference? We do not know, but the difference is important.  When p
 
 # What does it mean to be a person?
 
-**[We care about art because we care about people and our human relationships](/2021/03/22/art-is-social.html)**.   We care about the art that people make.  If a natural process—like an insect colony or a tidal wave—creates something visually arresting, it shares some features of art but it's not art.
+**[We care about art because we care about people and our human relationships](/2021/03/22/art-is-social.html)**.   We care about the art that people make.  If a natural process—like a tidal wave or an insect colony—creates something visually arresting, it shares some features of art but it's not art.
 
 Why do you care about other people? Why do people have lifelong friends and get married? Why do you give gifts and spend time with people? We care about relationships because we are social beings, as a product of our evolution. And we care about other people because they're people.
 
