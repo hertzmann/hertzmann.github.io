@@ -64,7 +64,7 @@ A journal paper is a complete, archival piece of scholarly, scientific, and/or t
 
 (All of these terms are subjective and ambiguous, this is normal for calls-for-papers; most explanations of what kinds of papers a conference or journal accepts has similarly subjective terms like "high-quality" and "impact." It's impossible to put any of these standards in precise, concrete terms.)
 
-| In most cases at SIGGRAPH, the difference is whether the experimentation is thorough. **But journal vs. conferences isn't _always_ about the level of experimentation.** For example, the examples I listed above ([1](https://ssteinberg.xyz/2022/04/03/practical_plt),[2](https://www.labri.fr/perso/pbenard/publications/contours/)) don't have extensive experimentation in my opinion, but they do have extensive theory, math and/or theorems. |
+| In most cases at SIGGRAPH, the difference by journal and conference is whether the experimentation is thorough. But not always. For example, the examples I listed above ([1](https://ssteinberg.xyz/2022/04/03/practical_plt),[2](https://www.labri.fr/perso/pbenard/publications/contours/)) don't have extensive experimentation in my opinion, but they do have extensive theory, math and/or theorems. |
 
 **Are there other examples of different _kinds_ of journal papers that have been published at TOG** that could help define this precedent? I think the standard for "journal paper" should be anything that is somehow "complete" and rigorous, but it would be nice to have specific examples of what that has meant in the past.
 
@@ -82,9 +82,9 @@ The goal of the conference track was to draw the brakes a bit: with a 7-page lim
 
 However, in the PC meeting this year I heard a strong push to add flexibility to the process in ways that, ultimately, could make things worse again. 
 
-| **Flexibility—like required changes—causes expectation creep: the more wiggle room there is in the process, the more that authors will need to do more work to succeed. This creates more work for everyone and raises expectations. Flexibility is how we got into this mess in the first place.** |
+| **Flexibility—such as Required Changes—causes expectation creep: more wiggle room in the process leads to raised expectations for papers, creating more work for everyone. Flexibility is how we got into this mess in the first place.** |
 
-Some flexibility is good and helps everyone, but too much ends up being harmful.  It's good to have rebuttals, but they need to be limited. They should have sensible limits, not like that time when vision conferences limited the number of _characters_ in the rebuttal, and one of my colleagues would then remove most of the vowels from his rebuttals. Finding the right trade-off is hard.
+Some flexibility is good and helps everyone, but too much ends up being harmful.  It's good to have rebuttals, but they need to be limited in length so authors don't end up writing 60-page rebuttals (this has happened). Finding the right trade-off is hard.
 
 The main example that springs to mind is whether or not PC members can impose new experiments in the Required Changes onto Conference Papers.
 
