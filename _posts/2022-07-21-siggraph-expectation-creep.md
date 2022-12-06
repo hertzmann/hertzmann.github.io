@@ -10,11 +10,14 @@ There were lots of difficult decisions involved, and hopefully future chairs wil
 
 **In this post, I mainly want to discuss two difficult policy choices that will affect future SIGGRAPH Conference Tracks,** and my opinions on them.  This is particularly targeted to the PC members that are making these decisions, or anyone interested in the process. But first, some numbers and a bit about the meeting process itself.  
 
-**Some statistics.** We received 610 complete technical paper submissions: 257 for the journal track, and 353 dual track. 133 papers were accepted as journal papers, and 61 as conference papers. Out of the accepted journal papers, 17 of these had been submitted to the dual track as 7-page papers. In addition, 53 papers accepted directly to TOG and will be presented at the conference.
+**Some statistics.** 
+
+We received 610 complete technical paper submissions: 257 for the journal track, and 353 dual track. 133 papers were accepted as journal papers, and 61 as conference papers. Out of the accepted journal papers, 17 of these had been submitted to the dual track as 7-page papers. In addition, 53 papers accepted directly to TOG and will be presented at the conference.
 
 For comparison, SIGGRAPH 2021 received 449 full submissions and 149 were accepted for publication in the journal. The total acceptance rate was very similar: 34% last year versus 33% this year, but with a singificant growth in the number of papers, and the submission numbers support the idea that the new conference track was a big factor in this.
 
 **Online committee meeting.**
+
 As usual, the SIGGRAPH PC worked very hard to make the best possible decisions in the conference submissions. I really think that SIGGRAPH does better at this than the vision processes, and  [there's a lot they could learn from SIGGRAPH](/2021/03/03/ac-suggestions.html). Having plenary discussions is critical to people being able to learn from each other and shared decision-making. Currently the vision conferences aren't a single papers committee, it's more like 40 separate committees (or however many triplets there are), and the standards for vision reviewing are going to keep fracturing more and more.
 
 **The SIGGRAPH PC meeting _the best large-scale, online, virtual meeting_ I have ever seen, by far. Other committees, including vision conferences, are hurting their communities by not having well-run virtual committee meetings.**  A big factor is simply having good software.
@@ -27,17 +30,22 @@ You don't know how bad you have it with online meeting systems until you try one
 
 This year, authors could submit either to the Journal Track, which operated like previous years (no page limit), or to a new Dual Track (7 page limit plus references). Submissions to the Dual Track could be accepted to either the conference or the journal.  This meant that the committee ultimately had to decide whether to accept a dual track submission to conference or to journal, which was often a difficult decision, and I think future chairs/committees should refine this further.  I'll describe here a rough sense of what I think it should be.
 
-**The standards this year.** We told paper reviewers that all papers should meet SIGGRAPH’s high standards for papers with the potential to advance the research field and benefit the community, and that “The conference track is for new ideas with a clear (reproducible) algorithm, but ones that have not been exhaustively evaluated against a variety of alternative methods. Conference papers may be ‘riskier.’ For example, we’d accept any paper that presents an interesting idea/technique with the potential to make an impact, even if it does not have thorough experimentation. Indeed, riskier ideas are often harder to evaluate.”
+**The standards this year.** 
+
+We told paper reviewers that all papers should meet SIGGRAPH’s high standards for papers with the potential to advance the research field and benefit the community, and that “The conference track is for new ideas with a clear (reproducible) algorithm, but ones that have not been exhaustively evaluated against a variety of alternative methods. Conference papers may be ‘riskier.’ For example, we’d accept any paper that presents an interesting idea/technique with the potential to make an impact, even if it does not have thorough experimentation. Indeed, riskier ideas are often harder to evaluate.”
 
 As the papers committee went into the third day, I heard more and more of the committee discussions sound like "It seems like a journal paper has more experiments, and this paper doesn't have very many experiments, so we're going to accept it to the conference."
 
-**Counterexamples.** I don't think that experimental rigor should be the sole standard for conference vs. journal. Here's one SIGGRAPH 2022 journal paper that doesn't have very many experiments: **[Towards Practical Physical-Optics Rendering
+**Counterexamples.** 
+
+I don't think that experimental rigor should be the sole standard for conference vs. journal. Here's one SIGGRAPH 2022 journal paper that doesn't have very many experiments: **[Towards Practical Physical-Optics Rendering
 ](https://ssteinberg.xyz/2022/04/03/practical_plt/).**  It's 24 pages long, so it must have been a journal-track submission. It seems like a good example of a journal paper that deserves to be published in a journal, despite not having "extensive experimentation."  
 
 I'm sure there are many other examples in TOG's history, but one that I'm familiar with is our [TOG 2014 paper on occluding contours](https://www.labri.fr/perso/pbenard/publications/contours/).  The paper also doesn't have very thorough experiments, but it's 20 pages long nonetheless, and I don't recall any reviewers complaining about the thoroughness of the experiments.
 
 
 **A bit of history.** 
+
 Here's a little bit of historical context. In the 20th century, peer-reviewed journal papers (and books) have historically been the main outlets for scientific and scholarly work. This persists in many fields, where conferences are mainly for preliminary dissemination and feedback. In many fields, conferences accept 80+% of submissions without peer review, based on the abstract and authorship alone. Journal papers are meant to be thorough, carefully-written, and complete pieces of scholarship; "archival" pieces of knowledge to be stored in the library and available for future generations to reference.
 
 As I understand it (thanks, Moshe Vardi), computer science started out the same way. But then conferences became more selective, and then they started to add peer review, and conferences published full papers.  In [Jim Kajiya's talk from around SIGGRAPH 93](https://www.ee.columbia.edu/~sfchang/course/svia-F03/papers/siggraph-reject-how.htm), he wrote that the principal feature that made SIGGRAPH attractive was "speed. SIGGRAPH is one of the few high-quality publications that can publish a paper in less than a year. In 10 weeks, SIGGRAPH can do what other major publications take 10 months to do. In a fast-moving field like computer graphics, this is crucial."
@@ -51,11 +59,12 @@ Ten years later, new transformations began. People started talking about [radica
 For the moment, I believe there's value in many different kinds of publishing; there's value in conference papers, in journal papers, in arXiv, in social media, and we shouldn't try to shoehorn all publication into one format.
 
 **What should it be at SIGGRAPH?**  
+
 A journal paper is a complete, archival piece of scholarly, scientific, and/or technical research.  A conference paper contains most of the material of a journal paper, but may be missing some important experiments or theory. It might be "riskier", it might be missing some of the experiments that a full journal paper should have.
 
 (All of these terms are subjective and ambiguous, this is normal for calls-for-papers; most explanations of what kinds of papers a conference or journal accepts has similarly subjective terms like "high-quality" and "impact." It's impossible to put any of these standards in precise, concrete terms.)
 
-In most cases at SIGGRAPH, the difference is whether the experimentation is thorough. **But journal vs. conferences isn't _always_ about the level of experimentation.** For example, the examples I listed above ([1](https://ssteinberg.xyz/2022/04/03/practical_plt),[2](https://www.labri.fr/perso/pbenard/publications/contours/)) don't have extensive experimentation in my opinion, but they do have extensive theory, math and/or theorems.
+| In most cases at SIGGRAPH, the difference is whether the experimentation is thorough. **But journal vs. conferences isn't _always_ about the level of experimentation.** For example, the examples I listed above ([1](https://ssteinberg.xyz/2022/04/03/practical_plt),[2](https://www.labri.fr/perso/pbenard/publications/contours/)) don't have extensive experimentation in my opinion, but they do have extensive theory, math and/or theorems. |
 
 **Are there other examples of different _kinds_ of journal papers that have been published at TOG** that could help define this precedent? I think the standard for "journal paper" should be anything that is somehow "complete" and rigorous, but it would be nice to have specific examples of what that has meant in the past.
 
@@ -69,11 +78,13 @@ In other disciplines, journal papers could be many things. I've seen math journa
 
 For me, [the main goal of adding the conference process to SIGGRAPH is to reduce workload on paper authors and reviewers](/2020/05/08/siggraph-as-conference.html) compared to the existing journal process. Starting with the first SIGGRAPH in 1974, all papers were published in conference proceedings. In 2003, all subsequent SIGGRAPH publications were published as journal papers, and, with the end of printed proceedings in 2013, [the page lengths for SIGGRAPH papers grew longer and longer](https://twitter.com/_AlecJacobson/status/1259526238378561536), with common stories of papers going through many rounds of resubmission with reviewers asking for more and more experiments and changes.  The amount of work required to author and to review each paper grew considerably, and many graphics researchers started publishing their papers in vision conferences instead (myself included).
 
-The goal of the conference track was to draw the brakes a bit: with a 7-page limit, and explicit understanding that conference papers can be less thorough than journal papers, hopefully this would save everyone time and effort and make submitting more appealing.
+The goal of the conference track was to draw the brakes a bit: with a 7-page limit, and make explicit that conference papers can be less thorough than journal papers. Hopefully this would save everyone time and effort and make submitting more appealing.
 
-However, in the PC meeting this year I heard a strong urge to add flexibility to the process in ways that, ultimately, could make things worse again. Flexibility is how we got into this mess in the first place. 
+However, in the PC meeting this year I heard a strong push to add flexibility to the process in ways that, ultimately, could make things worse again. 
 
-Flexibility causes expectation creep: the more wiggle room there is in the process, the more that authors will need to do more work to succeed, and the more work this creates for committee members. Some flexibility is good and helps everyone, but too much ends up being harmful.  It's good to have rebuttals, but they need to be limited. They should be sensible limits, not like that time when vision conferences limited the number of _characters_ in the rebuttal, and one of my colleagues would then remove most of the vowels from his rebuttals. Finding the right trade-off is hard.
+| **Flexibility—like required changes—causes expectation creep: the more wiggle room there is in the process, the more that authors will need to do more work to succeed. This creates more work for everyone and raises expectations. Flexibility is how we got into this mess in the first place.** |
+
+Some flexibility is good and helps everyone, but too much ends up being harmful.  It's good to have rebuttals, but they need to be limited. They should have sensible limits, not like that time when vision conferences limited the number of _characters_ in the rebuttal, and one of my colleagues would then remove most of the vowels from his rebuttals. Finding the right trade-off is hard.
 
 The main example that springs to mind is whether or not PC members can impose new experiments in the Required Changes onto Conference Papers.
 
@@ -109,6 +120,6 @@ At the outset of the process, I originally advocated for not having Required Cha
 
 When I had my first paper accepted, to SIGGRAPH 98, my advisor said I should try to do the things the reviewers asked for, even though no one would check and I could make whatever changes I wanted to the final paper. In principle, with most conferences, you could replace every word in the final version with "chicken", and no one would check. But people don't do this (unless [the submission was like that](https://isotropic.org/papers/chicken.pdf)).  
 
-**I currently think that Required Changes should be allowed for writing, but not for experiments, and limited to small changes like adding citations or tweaking wording. The committee should be willing to accept papers they think are imperfect, instead of requiring extensive changes.**
+| **I currently think that Required Changes should only be allowed for writing, but not for experiments, and limited to small changes like adding citations or tweaking wording. The committee should be willing to accept papers they think are imperfect, instead of requiring extensive changes.** |
 
 Allowing required experiments and adding pages points us toward the slippery slope of more and more requirements each year, which is what got us into this mess with journal papers in the first place.
