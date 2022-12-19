@@ -314,7 +314,7 @@ New art technologies don't exist in a vacuum—they inherit the sociopolitical i
 
 Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics. Likewise, if we as a society conclude that it's ok to train models on peoples' data without their consent or involvement—which happens widely today—then it seems like the same principle should apply to "AI" art models as well.
 
-In a way, the debate over "AI" art reminds me of the debate over [cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a complex set of conflicting norms around art and different communities that doesn't have an easy answer or resolution; important issues that often get reduced to caricatures.  But I don't think anyone takes seriously the idea that White rock-and-roll is objectively worse than the Black music from which it was derived; it's not about the quality of the art, but the way it was produced and how benefitted.
+In a way, the debate over "AI" art reminds me of the debate over [cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a complex set of conflicting norms around art and different communities that doesn't have an easy answer or resolution; important issues that often get reduced to caricatures.  But I don't think anyone argues seriously that White rock-and-roll is objectively worse than the Black music from which it was derived; it's not about the quality of the art, but the way it was produced and how benefitted.
 
 
 
