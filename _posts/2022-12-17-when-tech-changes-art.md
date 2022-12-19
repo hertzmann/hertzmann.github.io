@@ -321,7 +321,7 @@ Whether or not it is "ok" to train models on peoples' data without their consent
 
 Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics. Conversely, if we as a society conclude that it's ok to train models on peoples' data without their consent or involvement—which already happens widely today—then it seems like the same principle should apply to "AI" art models as well (provided the outputs aren't direct copies).
 
-In a way, the debate over "AI" art reminds me of the debate over [cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a complex set of conflicting norms around art and different communities that doesn't have an easy answer or resolution; important issues that often get reduced to caricatures.  I don't think anyone publicly argues anymore that White rock-and-roll is _objectively_ worse than the Black music from which it was originally derived—it's not about the quality of the art, but the way it was produced and who benefitted.
+In a way, the debate over "AI" art reminds me of the debate over [cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a complex set of conflicting norms around art and different communities that doesn't have an easy answer or resolution; the important issues  get reduced to caricatures.  I don't think anyone publicly argues anymore that White rock-and-roll is _objectively_ worse than the Black music from which it was originally derived—it's not about the quality of the art, but the way it was produced and who benefitted.
 
 
 
@@ -334,7 +334,7 @@ In a way, the debate over "AI" art reminds me of the debate over [cultural appro
 **Hip-hop** grew—in part—from the technology of dual turntables with faders. Hip-hop relied heavily on remix and repurposing existing music, collaging it into something unrecognizably different. This led to a greater appreciation of the role of remix in art, from Homer to Shakepeare and beyond, and the idea that ["Everything is a remix"](https://www.everythingisaremix.info/watch-the-series), which [complicates simplistic notions of ownership and copyright](https://en.wikipedia.org/wiki/Remix_(book)).
 
 
-Now, **"AI" art** promises something similar, as we attempt to grapple what it means when algorithms appear to be doing things that we thought were the sole domain of human creativity, and we need to revise our understanding of what an artist does and how they use these tools to make art—what wasn't creativity but skill, and what is the real essence of human creativity.
+Now, **"AI" art** promises something similar, as we attempt to grapple what it means when algorithms appear to be doing things that we thought were the sole domain of human creativity, and we need to revise our understanding of what an artist does—what wasn't creativity but skill, what it means to make art with these tools, and what is the real essence of human creativity.
 
 
 
