@@ -325,7 +325,7 @@ In a way, the debate over "AI" art reminds me of the debate over [cultural appro
 
 # 7. We rethink what art is
 
-[Different eras have had radically different notions of what art "is"](/2022/09/27/art-eras.html), and shifts in the definition of art are often spurred by technological change. The concept of an "artist" as a special category, distinct from "artisan", [didn't exist until the societal transformations spurred by the Industrial Revolution](/2022/09/27/art-eras.html). Painters like Raphael or Leonardo wouldn't have even recognized the way we talk about artists today; they were highly-skilled craftspeople for hire, like woodworkers or goldsmiths.
+[Different eras have had radically different notions of what art "is"](/2022/09/27/art-eras.html), and some shifts in the definition of art have been spurred by technological change. Even the distinct concepts of "art" and "artist" [didn't really exist until the societal transformations spurred by the Industrial Revolution](/2022/09/27/art-eras.html). 
 
 **Photography** [automated things thought to be the sole domain of human creativity and skill](/2022/08/29/photography-history.html). It led to a rethinking of what "art is" and [the Modern Art movement](/2022/09/27/art-eras.html).
 
