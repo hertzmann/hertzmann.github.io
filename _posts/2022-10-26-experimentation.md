@@ -3,8 +3,8 @@ layout: page
 title: Artworks as Experiments
 summary: Artworks often function as experiments, akin to scientific experiments.
 author:  AaronHertzmann
-image: /images/brillo.jpg
-og:image: /images/brillo.jpg
+image: /images/arthistory/brillo.jpg
+og:image: /images/arthistory/brillo.jpg
 ---
 
 
@@ -50,7 +50,7 @@ Sol LeWitt created wall paintings, but he was really an early conceptual artist,
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/brillo.jpg" alt="Brillo Boxes"/>
+<img src="../../../images/arthistory/brillo.jpg" alt="Brillo Boxes"/>
 </p>
   <figcaption align="center"><i>Andy Warhol's Brillo Boxes, at SFMOMA </i>
 </figcaption>
@@ -103,7 +103,7 @@ In some cases, things I learned from this has led to research papers, such as [t
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/berkeley-hills.jpg" alt="Berkeley hills painting"/>
+<img src="../../../images/ipad_paintings/berkeley-hills.jpg" alt="Berkeley hills painting"/>
 </p>
   <figcaption align="center"><i>A digital painting I made, working from a reference photograph, informed by <a href="https://jov.arvojournals.org/Article.aspx?articleid=2783759">ideas about perspective projection</a></i>
 </figcaption>

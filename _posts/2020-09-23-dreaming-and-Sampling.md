@@ -23,7 +23,7 @@ Borges said, when introducing [J. W. Dunne's theories of dreaming](https://en.wi
 
 <center>
 <figure>
-  <img src="../../../images/goya.jpg" alt="Goya etching"/>
+  <img src="../../../images/arthistory/goya.jpg" alt="Goya etching"/>
   <figcaption align="center"><i>Random samples appear</i></figcaption>
 </figure>
 </center>

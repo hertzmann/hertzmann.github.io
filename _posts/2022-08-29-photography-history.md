@@ -115,7 +115,7 @@ Many painters of the 19th century, such as Pre-Raphaelites like John Everett Mil
 <center>
 <figure>
    <p float="left">
-   <img src="../../../images/photohistory/nocturne.jpg" alt="Whistler’s Nocturne painitng"/>
+   <img src="../../../images/arthistory/nocturne.jpg" alt="Whistler’s Nocturne painitng"/>
 </p>
   <figcaption align="center"><i>Whistler’s 1875 Nocturne was the first “Tonalist” painting: hazy and atmospheric, unlike the sharp realism of previous painting — and photography.</i>
 </figcaption>

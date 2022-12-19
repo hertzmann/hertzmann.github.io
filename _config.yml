@@ -16,6 +16,9 @@ email:
 twitter_username: "AaronHertzmann"
 instagram_username: "aaronhertzmann"
 facebook_username: 
+mastodon:
+- username: aaronhertzmann
+  instance: fediscience.org
 
 # Set this to true to get LaTeX math equation support
 use_math: false

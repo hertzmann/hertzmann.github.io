@@ -3,7 +3,7 @@ layout: page
 title: Why Edge Detection Doesn't Explain Line Drawing
 summary: Reasons to be skeptical of the conventional wisdom about line drawing perception
 author:  AaronHertzmann
-image: /images/DoG.jpg
+image: /images/howtodraw/DoG.jpg
 ---
 
 # Why Edge Detection Doesn't Explain Line Drawing
@@ -26,7 +26,7 @@ In order to discuss the hypothesis, we need a clear statement of what it actuall
 
 The idea arises from two compelling observations. First, since [the pioneering experiments of Hubel and Wiesel in 50's and 60's](https://www.youtube.com/watch?v=IOHayh06LJ4), we know that the visual cortex includes cells that are responsive the edge patterns. In short, one of the first things that happens to the signal from our retinas is edge detection.  Second, if you run an edge detector on a real image, and threshold the responses, then you often get something that looks like a line drawing. Here is one example, a Difference-of-Gaussians from the [XDoG paper](https://www.kyprianidis.com/p/cag2012/):
 
-![Difference-of-Gaussian filter](../../../images/DoG.jpg)
+![Difference-of-Gaussian filter](../../../images/howtodraw/DoG.jpg)
 
 The most basic statement of the hypothesis is: the lines in a line drawing are drawn at natural image edges, where an edge receptor would fire. These lines activate the same edge receptor cells that the natural image would. Hence, the line drawing produces a cortical response that is very similar to that of some natural image, and thus you perceive the drawing and the photograph in roughly the same way.
 
@@ -71,7 +71,7 @@ Problem #4: Visual art isn't just line drawings
 Suppose we add color to a line drawing:
 
 <p align="center">
-	<img src="../../../images/apple-watercolor2.jpg">
+	<img src="../../../images/ipad_paintings/apple-watercolor2.jpg">
 </p>
 
 Now you get a sense of the color of the object, and not just its outlines.  How would one generalize Lines-As-Edges to account for these different types of depiction? The visual system is no longer ignoring everything aside some gradients; it's now paying attention to some colors (and not others).  
@@ -79,7 +79,7 @@ Now you get a sense of the color of the object, and not just its outlines.  How 
 Or suppose we add hatching:
 
 <p align="center">
-	<img src="../../../images/apple-sketchy2.jpg">
+	<img src="../../../images/ipad_paintings/apple-sketchy2.jpg">
 </p>
 
 How does Lines-As-Edges now explain our perception of this style?
@@ -94,7 +94,7 @@ Problem #5: Edge detection is not a line drawing algorithm
 
 Lines-As-Edges starts from the observation that edge detection can produce line drawings. But it often doesn't.  Here are two examples from [Sayim and Cavanagh](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00118/full):
 
-![Lines vs. Edges](../../../images/sayim.jpg)
+![Lines vs. Edges](../../../images/howtodraw/sayim.jpg)
 
 That said, I think that Lines-As-Edges could be modified to account for this, combining ideas from [Judd et al. (2007)](http://people.csail.mit.edu/tjudd/apparentridges.html) and [my paper](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca).  The modified hypothesis would be: the visual system interprets line drawings as if they were edge images of a matte white object under headlight illumination, or averaged over a range of similar illumination. To my knowledge, this modified hypothesis is novel; except that Judd et al. make very similar assertions that come extremely close to this. However, this modification does not fix the other problems listed above.
 
