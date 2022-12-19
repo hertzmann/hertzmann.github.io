@@ -3,8 +3,8 @@ layout: page
 title: When Technology Changes Art
 summary: How photography, recorded music, and "AI" art might be similar.
 author:  AaronHertzmann
-image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.png"
-og:image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.png"
+image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.jpg"
+og:image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.jpg"
 ---
 
 
