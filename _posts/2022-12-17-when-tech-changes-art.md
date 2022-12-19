@@ -271,7 +271,7 @@ Then, in the 1930s, the AFM fought against the use of recorded music on the radi
 
 Obviously, use of movie soundtracks truly enlarged and invigorated the cinema artform: just the idea that you could have music specifically composed and recorded for the movie itself changed the genre, to say nothing of eidetic music, sound effects, and so on.  
 
-Even if the one part of the profession was decimated (performing music in movie theatres), other roles for musicians have expanded greatly.
+Even if the one part of the profession was decimated (performing music in movie theatres), other roles for musicians have expanded greatly.  
 
 **Lil Nas X** is a favorite example.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
 
@@ -282,6 +282,8 @@ Even if the one part of the profession was decimated (performing music in movie 
 None of this would have been possible ten years ago. And imagine all the people involved in making, recording, and distributing a record 50 years ago.
 
 Did the total number of musicians making a living from music go up or down (relative to the overall decline of the middle class)? I don't know if numbers are available for this.  It could be there's less room for megastars like Lil Nas X who got extremely lucky.
+
+Likewise, we have fewer painters today, but many many more people making pictures in one way or another.
 
 **The Short-Term versus the Long-Term** 
 
