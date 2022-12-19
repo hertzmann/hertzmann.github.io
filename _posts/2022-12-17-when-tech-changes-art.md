@@ -249,9 +249,9 @@ The effects are different for artistic media and distribution media.  Both the e
 
 By the early 2000s, Disney's traditional cel animation business was in bad shape. Together with Pixar's success, they interpreted this as signalling the death of traditional cel animation. They  shut down cel animation in Burbank, and laid off any traditional animators that couldn't learn computer animation.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy), and they gave up on traditional animation for good.  Audiences viewed it as old-fashioned.  Styles and tastes change, and technology is one of the driving factors.  
 
-But now, there are opportunities for many more animators than before, because computer animation makes smaller projects much more feasible, and computer animation is used throughout "live action" films. (Avatar is basically a computer animated movie with occasional actors and sets.)  VFX industry jobs are a mess now, but this is more about the business than the technology (Walt Disney had his own labor issues in the 1940s).
+But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and computer animation is used throughout "live action" films. Avatar is basically a computer animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney had his own labor issues in the 1940s.
 
-The Disney transition to computer animation is actually a lot more nuanced than that simple history. Disney animation faltered in the 2000s because of management dysfunction following the death of Frank Wells in a helicopter crash; most of those Disney animations were quite bad regardless of medium. "The Princess and The Frog" actually made a lot of money, just not the blockbuster success needed to justify its existence. Hand animation styles aren't actually dead; they're alive and well outside the US, and Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. 
+The Disney transition to computer animation is actually a lot more nuanced than that simple history. Disney animation faltered in the 2000s because of management dysfunction following the death of Frank Wells in a helicopter crash; most of those Disney animations were quite bad regardless of medium. "The Princess and The Frog" actually made a lot of money, just not the blockbuster success needed to justify its existence. Hand animation styles aren't actually dead; they're alive and well outside the US (using computers heavily in the process, as they had been at Disney), and Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. 
 
 When **Recorded music was invented**, musicians were worried it would take their jobs: why go listen to live music when you can buy a record and listen to it at home? 
 
@@ -296,7 +296,7 @@ Interestingly, in the 1930s, some countries musicians' unions [secured a fund to
 
 # 5. New distribution technologies shift the balance of power
 
-In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable.
+In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable, rather than them being "bad art."
 
 The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power (unless there antitrust mechanisms are enforced); I enjoyed the book [Chokepoint Capitalism](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's their chapter on how online distribution for music have been a huge double-edged sword for musicians](https://www.wired.com/story/spotify-streaming-playlists-music/). 
 
@@ -310,9 +310,12 @@ But there's a gray area: new distribution platforms lead to new styles of art. T
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Hip-hop came from dual turntables and faders—as deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate:" this was partly a clash of aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), but it was also mostly racism.
 
-"AI" art suffers from many ethical issues. But, I argue, _these all reflect broader ethical issues of "AI."_ They aren't specifically anything to do with art; they're the ethical problems of "AI."  Specifically, whether or not it is "ok" to train models on peoples' data without their consent is a huge societal question that's much broader than where the artistic training data comes from.  Racial bias and representation in image results have been a big concern in search engines, automated ad targetting, and beyond. And, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.
+"AI" art suffers from many ethical issues. But, I argue, _these all reflect broader ethical issues of "AI."_ They aren't specifically about art; they're the ethical problems of "AI."  Specifically, whether or not it is "ok" to train models on peoples' data without their consent is a huge societal question that's much broader than where artistic training data comes from.  (From an artistic point of view, [inspiration and remix are essential to art throughout history](https://www.everythingisaremix.info/watch-the-series); just direct copying that's generally not "ok".)  Racial bias and representation in image results have been a big concern in search engines, automated ad targetting, and beyond. And, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.
 
 Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics.
+
+In a way, the debate over "AI" art reminds me of the debate over [cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php)—especially the idea that White rock-and-roll grew from cultural appropriation—a complex set of conflicting norms around art and different communities that doesn't have an easy answer or resolution, but often get reduced to caricatures. 
+
 
 
 # 7. We rethink what art is
@@ -328,7 +331,7 @@ Now, **"AI" art** promises something similar, as we attempt to grapple what it m
 
 
 
-# "Laws"
+# "Laws": First Draft
 
 A colleague recommended framing some of these ideas as "laws," and, after reading [Kranzberg talk about his laws](https://www.jstor.org/stable/3105385), it seems like it's a bit of an art to formulate them.  Here are a few first stabs at some possible laws:
 
@@ -338,9 +341,7 @@ But conversely:
 
 |New technology can hurt artists in the short-run by shifting the economic balance of power.|
 
-And, more abstractly:
-
-|Ethical issues in "AI" Art are not specifically about art, they are instances of broader ethical issues in the field of "AI".|
+I think these need work; it's an interesting exercise.
 
 
 # This is a work-in-progress
