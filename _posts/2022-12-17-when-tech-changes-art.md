@@ -287,7 +287,7 @@ Likewise, we have fewer painters today, but many many more people making picture
 
 **The Short-Term versus the Long-Term** 
 
-These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over time.  
+These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over time.  [It's important to distinguish the short-term and long-term impacts](https://www.jstor.org/stable/3105385).
 
 On one hand, it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  At what point do we decide that technological progress or artistic development should stop?  At what point in history did we make a mistake by continuing to invent new things or to develop new artistic styles, and why is "right now" somehow that time?  
 
@@ -340,7 +340,7 @@ Now, **"AI" art** promises something similar, as we attempt to grapple what it m
 
 # "Laws": First Draft
 
-A colleague recommended framing some of these ideas as "laws," and, after reading [Kranzberg talk about his laws](https://www.jstor.org/stable/3105385), it seems like it's a bit of an art to formulate them.  Here are a few first stabs at some possible laws:
+A colleague recommended framing some of these ideas as "laws," and, after reading [Kranzberg's laws and discussion around them](https://www.jstor.org/stable/3105385), it seems like it's a bit of an art to formulate them.  Here are a few first stabs at some possible laws:
 
 |New technologies for making art are accused of threatening to "kill" art and make artists obsolete, but, in the long run, they actually enrich art and expand opportunities for artists.|
 
