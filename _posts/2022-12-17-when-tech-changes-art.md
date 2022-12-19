@@ -315,13 +315,16 @@ But there's a gray area: new distribution platforms lead to new styles of art. T
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Hip-hop came from dual turntables and faders—as deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.
 
-"AI" art suffers from many ethical issues. But, I argue, these issues are not about art. **The ethical issues of "AI" art are instances of the ethical issues of "AI."**
+"AI" art suffers from many ethical issues, which I am deeply ambivalent about, because I'm enthusiastic about the potential for new artistic tools, but concerned about the harms.
+
+I argue these issues are not really about art. **The ethical issues of "AI" art are instances of the ethical issues of "AI."**
 
 Whether or not it is "ok" to train models on peoples' data without their consent is a huge societal question that's much broader than where artistic training data comes from.  From an artistic point of view, [inspiration and remix are essential to art throughout history](https://www.everythingisaremix.info/watch-the-series); it's just direct copying that's generally not been "ok".  Likewise, racial bias and representation in image results have been a problem in search engines, automated ad targetting, and beyond; the question of what to do about it is similar to the question for image generation. And, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.
 
 Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics. Conversely, if we as a society conclude that it's ok to train models on peoples' data without their consent or involvement—which already happens widely today—then it seems like the same principle should apply to "AI" art models as well (provided the outputs aren't direct copies).
 
 In a way, the debate over "AI" art reminds me of the debate over [cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a complex set of conflicting norms around art and different communities that doesn't have an easy answer or resolution; the important issues  get reduced to caricatures.  I don't think anyone publicly argues anymore that White rock-and-roll is _objectively_ worse than the Black music from which it was originally derived—it's not about the quality of the art, but the way it was produced and who benefitted.
+
 
 
 
