@@ -198,9 +198,9 @@ For this critic, it was self-evident that pop music had become garbage by 1956, 
 
 **Wrong or impossible standards**
 
-I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the speaker with a profound experience.
+I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the speaker with a profound formative experience. 
 
-In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer for writing](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he writes (with obvious skepticism) that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.  Back in 1987 there probably hadn't been great literature written on computers, but surely there now has.   
+In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer for writing](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he writes (with obvious skepticism) that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.  Back in 1987 there probably hadn't been great literature written on computers, but surely there now has.   In 2010, [Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
 
 It sounds a lot like [Disruptive Innovation](https://en.wikipedia.org/wiki/Disruptive_innovation), where established players dismiss new technology because it doesn't perform as well as the old thing according to the old standards. But, because it's cheaper and easier than the old thing, it serves more customers and eventually surpasses the old thing. It turns out that the old standards weren't eternal.
  
@@ -271,14 +271,17 @@ Then, in the 1930s, the AFM fought against the use of recorded music on the radi
 
 Obviously, use of movie soundtracks truly enlarged and invigorated the cinema artform: just the idea that you could have music specifically composed and recorded for the movie itself changed the genre, to say nothing of eidetic music, sound effects, and so on.  
 
+Even if the one part of the profession was decimated (performing music in movie theatres), other roles for musicians have expanded greatly.
 
-**Lil Nas X** is another one of my favorite examples.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
+**Lil Nas X** is a favorite example.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
 
 <center>
 <iframe title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000006445156"></iframe>
 </center>
 
 None of this would have been possible ten years ago. And imagine all the people involved in making, recording, and distributing a record 50 years ago.
+
+Did the total number of musicians making a living from music go up or down (relative to the overall decline of the middle class)? I don't know if numbers are available for this.  It could be there's less room for megastars like Lil Nas X who got extremely lucky.
 
 **The Short-Term versus the Long-Term** 
 
