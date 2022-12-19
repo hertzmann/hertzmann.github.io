@@ -1,6 +1,6 @@
 ---
 layout: page
-title: When Technology Changes Art
+title: When Machines Change Art
 summary: How photography, recorded music, and "AI" art might be similar.
 author:  AaronHertzmann
 image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.jpg"
@@ -8,15 +8,15 @@ og:image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.jpg"
 ---
 
 
-# When Technology Changes Art
+# When Machines Change Art
 
 At certain times in history, new technologies came along that changed the way we make art. Sometimes they changed how we make art—and sometimes, they radically transformed what we thought that art is.
 
-Now seems to like one of those times.
+Now seems like one of those times.
 
-When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are eager for any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" "It'll unlock creativity, and just like photography did." 
+When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are eager for any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or the opposite view that, like, photography, it's just art and there's nothing to complain about.
 
-The reality of how past technologies changed art is nuanced and complex, and that's likely true for "AI" Art too. What can past examples of technology changing art have in common, and do they have lessons for the current moment?
+The reality of how past technologies changed art is nuanced and complex, and that's likely true for "AI" art too. What can past examples of technology changing art have in common, and do they have lessons for the current moment?
 
 My main thesis here is:
 
@@ -24,7 +24,7 @@ My main thesis here is:
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  **I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.**
 
 Identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) I've always been fascinated by new technologies for making art.
 
@@ -66,7 +66,7 @@ Before I started studying these things, I could not name a single significant ph
 
 ["AI" art has developed in a rapid cycle of iteration between new technologies, and artists experimenting with those technologies](https://aaronhertzmann.com/2021/03/11/lifecycle.html). 
 
-For the first period of the neural "AI" Art wave (2012-2021), most "AI" artists needed some technical skill to find, download, run, and modify the latest experimental machine learning code shared by research labs.  Much of the best "AI" art came from artists building their own training datasets (e.g., Helena Sarin, Scott Eaton, Sofia Crespo) and/or directly modifying their models.  Even ["AI" artworks with a message](https://kcimc.medium.com/working-with-faces-e63a86391a93) were still very experimental.
+For the first period of the neural "AI" art wave (2012-2021), most "AI" artists needed some technical skill to find, download, run, and modify the latest experimental machine learning code shared by research labs.  Much of the best "AI" art came from artists building their own training datasets (e.g., Helena Sarin, Scott Eaton, Sofia Crespo) and/or directly modifying their models.  Even ["AI" artworks with a message](https://kcimc.medium.com/working-with-faces-e63a86391a93) were still very experimental.
 
 When people (like art critic Ben Davis) accuse "AI" art of being focused on novelty, I say: of course it is. The dominant aesthetic of _any_ new art-making technology is novelty. The only way you figure out a new technology is by experimentation. And it's exciting to be there at the beginning, to know that something big is happening, even if you don't know what.
 
@@ -144,7 +144,7 @@ Frieder Nake's 1995 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O2
 
 **Does "AI Art" start out by mimicking?** 
 
-Much of the history of "AI" Art is imitation. Most commonly, [style transfer explicitly mimics existing artists](https://mrl.cs.nyu.edu/publications/image-analogies), with lots of "Van Gogh" and "Picasso" styles, and newer diffusion has a lot of ["in the style of"](/2022/05/25/dall-e.html). These are new styles in the spirit of existing artists rather than existing replications. 
+Much of the history of "AI" art is imitation. Most commonly, [style transfer explicitly mimics existing artists](https://mrl.cs.nyu.edu/publications/image-analogies), with lots of "Van Gogh" and "Picasso" styles, and newer diffusion has a lot of ["in the style of"](/2022/05/25/dall-e.html). These are new styles in the spirit of existing artists rather than existing replications. 
 More generally, aesthetically, a lot of "AI" art is about mimicking existing things: movie stills, conceptual art, 
 
 The lessons of history is that this simulation is temporary: people aren't going to want "paintings in the style of Van Gogh" for very long (if they ever do). "AI" art may evolve into something very different.
@@ -217,12 +217,11 @@ It's a sign that "AI" art isn't quite the same artform or tool as before, and th
 **Can technology be bad for art?** 
 
 The effects of new technologies can be complex and nuanced. In the words of [Kranzberg's First Law](https://www.jstor.org/stable/3105385), "Technology is neither good nor bad; nor is it neutral".
+On one hand, new distribution mechanisms can shift the balance of power, and I'll discuss this later.
 
-I think the answer is two-fold. On hand, new distribution mechanisms can shift the balance of power, and I'll discuss this later under section 5, below.
+But **I cannot think of a single example of a new artistic tool or medium that is objectively "bad for art."** In all the many times people have claimed that a new medium like photography is going to kill art, it's never been true. Not all technology has been great for art, but when a technology leads to "bad art"—like [Smell-o-Vision](https://en.wikipedia.org/wiki/Smell-O-Vision)—or it's artistically limited—like [autotune](https://en.wikipedia.org/wiki/Auto-Tune)—it doesn't last.  When people say these kinds of things about "AI" art, I cannot take these claims seriously, because this kind of claim has never ever been true in the past.  At worst, it'll be a fad, but never the death of art.
 
-But **I cannot think of a single example of a new artistic tool or medium that is objectively "bad for art."** It all the many times people have claimed that a new medium like photography is going to kill art, it's never been true. Not all technology has been great for art, but when a technology leads to "bad art"—like [Smell-o-Vision](https://en.wikipedia.org/wiki/Smell-O-Vision)—or it's artistically limited—like [autotune](https://en.wikipedia.org/wiki/Auto-Tune)—it doesn't last.  When people say these kinds of things about "AI" art, I cannot take these claims seriously, because this kind of claim has never ever been true in the past.  At worst, it'll be a fad, but never the death of art.
-
-There are certainly those that bemoan new technologies, like Neil Postman's 1985 claim that [the success of television dumbed-down public discourse](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death).  Perhaps television has been bad for society.  That doesn't make television a bad art form though.
+There are certainly those that bemoan new technologies, like Neil Postman's 1985 claim that [the success of television dumbed-down public discourse](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death).  Perhaps television has been bad for society.  That doesn't mean that television is automatically an "artistically bad medium". That doesn't make it good for society, but neither is it neutral; the case isn't simple or clear-cut.
 
 Can you think of a new artistic tool or medium that, decades later, we _regret as an art medium_? I cannot.
 
@@ -248,8 +247,7 @@ The effects are different for artistic media and distribution media.  Both the e
 
 **The shift from hand-drawn to computer animation** provides one example of this. In the 1980s, Disney animators were scared of computers, fearing that computers would replace them entirely. But then Pixar built an extraordinarily-successful business of making computer-animated movies—directed, written, and animated by enormously talented artists. The computer didn't do the animation, it was a new animation tool. 
 
-By the early 2000s, Disney's traditional cel animation business was in such bad shape they decided to stop making cel animation. They interpreted Pixar's success as the signalling the death of traditional animation. They shut down traditional animation in Burbank, and laid off any traditional animators that couldn't learn computer animation. But the failure of Disney's cel animation wasn't because of the technology, it was because of Disney's management dysfunction following the death of Frank Wells in a helicopter crash.  One Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy), and they gave up on traditional animation for good.  I've heard many different reasons for why Disney gave up on cel animation a second time (some of them spicier than others), but one of the quotes in that link sums it up: "It was viewed as old-fashioned by the audience." Styles and tastes change, and technology is one of the driving factors.
-
+By the early 2000s, Disney's traditional cel animation business was in such bad shape they decided to stop making cel animation. They interpreted Pixar's success as the signalling the death of traditional animation. They shut down traditional animation in Burbank, and laid off any traditional animators that couldn't learn computer animation. But the failure of Disney's cel animation wasn't because of the technology, it was because of Disney's management dysfunction following the death of Frank Wells in a helicopter crash.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy), and they gave up on traditional animation for good.  I've heard many different reasons for why Disney gave up on cel animation a second time (some of them spicier than others), but, in short, the audiences viewed it as old-fashioned. Styles and tastes change, and technology is one of the driving factors. 
 
 When **Recorded music was invented**, musicians were worried it would take their jobs: why go listen to live music when you can buy a record and listen to it at home? 
 
@@ -270,7 +268,7 @@ Then, in the 1930s, the AFM fought against the use of recorded music on the radi
 Obviously, use of movie soundtracks truly enlarged and invigorated the cinema artform: just the idea that you could have music specifically composed and recorded for the movie itself changed the genre, to say nothing of eidetic music, sound effects, and so on.  
 
 
-**Lil Nas X** is another one of my favorite examples.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed if for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
+**Lil Nas X** is another one of my favorite examples.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
 
 <center>
 <iframe title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000006445156"></iframe>
@@ -282,9 +280,9 @@ None of this would have been possible ten years ago. And imagine all the people 
 
 These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over time.  
 
-On one hand, it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  At point do we decide that technological progress or artistic development should stop?  At what point in history did we make a mistake by continuing to invent new things or to develop new artistic styles, and why is "right now" somehow that time?  
+On one hand, it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  At what point do we decide that technological progress or artistic development should stop?  At what point in history did we make a mistake by continuing to invent new things or to develop new artistic styles, and why is "right now" somehow that time?  
 
-On the other hand, it does seem heartbreaking and wrong to have a class of people left out in the cold if their skills become obsolete. In the past year, many working artists have shared their genuine anxiety and fear over what these technologies mean for their livelihoods and identities. 
+On the other hand, it does seem heartbreaking and wrong to have a class of people left out in the cold if their skills become obsolete. In the past year, many working artists have shared their genuine anxiety and fear over what these technologies mean for their livelihoods and identities. Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold.
 
 I've heard a lot of past stories of traditional artists—like illustrators and designed and the Disney animators mentioned above—who were left behind by the transition to digital tools a few decades ago.  Some could make the transition and some couldn't.  (To have it happen as a result of models trained from their own data feels much worse, but I think this is a totally separate issue intellectually, if not emotionally; see point 6 below.) 
 
@@ -317,7 +315,7 @@ Perhaps the questions of "AI" art ethics will force a broader reckoning of some 
 
 [Different eras have had radically different notions of what art "is"](/2022/09/27/art-eras.html), and shifts in the definition of art are often spurred by technological change. The concept of an "artist" as a special category, distinct from "artisan", [didn't exist until the societal transformations spurred by the Industrial Revolution](/2022/09/27/art-eras.html). Painters like Raphael or Leonardo wouldn't have even recognized the way we talk about artists today; they were highly-skilled craftspeople for hire, like woodworkers or goldsmiths.
 
-**Photography** [it what we thought we thought was the sole domain of human creativity and skill](/2022/08/29/photography-history.html), causing a rethinking of the definition of art, [the Modern Art movement](/2022/09/27/art-eras.html).
+**Photography** [automated things thought to be the sole domain of human creativity and skill](/2022/08/29/photography-history.html). It led to a rethinking of what "art is" and [the Modern Art movement](/2022/09/27/art-eras.html).
 
 **Hip-hop** grew—in part—from the technology of dual turntables with faders. Hip-hop relied heavily on remix and repurposing existing music, collaging it into something unrecognizably different. This led to a greater appreciation of the role of remix in art, from Homer to Shakepeare and beyond, and the idea that ["Everything is a remix"](https://www.everythingisaremix.info/watch-the-series), which [complicates simplistic notions of ownership and copyright](https://en.wikipedia.org/wiki/Remix_(book)).
 
@@ -348,4 +346,7 @@ I'm still developing these ideas, and it's an ambitious project.  This topic cro
 I'm not an expert in many of these fields this topic covers (and maybe no one is).  I still have a lot to learn; next on my reading list are books by Lev Manovich and Marshall McLuhan.  I'd like to publish this as a paper someday, and would be interested in connecting with experts on this.  I'm not even sure where best to publish.   
 
 
+
+<hr>
+Thanks to Rif A. Saurous, Serge Belongie, and others who commented.
 
