@@ -137,7 +137,7 @@ Hip-hop started in the 1970s as fun party music, meant to be danced to and forgo
 
 **Computer art**
 
-When people starting making art with computers, they consciously mimicked abstract artworks, like 
+When people starting making art with computers, they consciously mimicked abstract artworks, as in 
 A. Michael Noll's 1964 [Computer Composition with Lines](http://dada.compart-bremen.de/item/artwork/5) and
 Frieder Nake's 1965 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O211685/hommage-a-paul-klee-13965-print-nake-frieder/hommage-%C3%A0-paul-klee-13965-print-nake-frieder/), which explicitly mimicked previous abstract paintings.
 
