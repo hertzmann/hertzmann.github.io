@@ -10,23 +10,22 @@ og:image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.jpg"
 
 # When Machines Change Art
 
-At certain times in history, new technologies came along that changed the way we make art. Sometimes they changed how we make art—and sometimes, they radically transformed what we thought that art is.
+At a few times in history, new technologies came along that changed the way we make art. Machines, chemicals, and/or algorithms replaced some of the steps that artists did, changing how we made art—and, sometimes, radically transforming what we thought think art is.
 
 Now seems like one of those times.
 
 When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are eager for any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or the opposite view that, like, photography, it's just art and there's nothing to complain about.
 
-The reality of how past technologies changed art is nuanced and complex, and that's likely true for "AI" art too. What can past examples of technology changing art have in common, and do they have lessons for the current moment?
+I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process. The reality of how past technologies changed art is nuanced and complex, and that's likely true for "AI" art too. What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
 
 My main thesis here is:
-
 
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  **I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.**
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but at least we can use this history to avoid the naive, superficial takes that treat this as something completely unprecedented and new.
 
-Identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) I've always been fascinated by new technologies for making art.
+And, identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) I've always been fascinated by new technologies for making art.
 
 
 This expands on an earlier presentation I gave on this (starts at 20:33 in the video):
@@ -340,6 +339,16 @@ In a way, the debate over "AI" art reminds me of the [complex debate over cultur
 Now, **"AI" art** promises something similar, as we attempt to grapple what it means when algorithms appear to be doing things that we thought were the sole domain of human creativity, and we need to revise our understanding of what an artist does—what wasn't creativity but skill, what it means to make art with these tools, and what is the real essence of human creativity.
 
 
+# Is it different this time?
+
+Extrapolating from all these trends risks overlooking how this time is different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work (e.g., people who compare "human artists" to "AI artists").
+
+Moreover, the common trends and the underlying mechanisms line up so well between the current "AI" art and the past examples. A machine automates some stages of the process that people thought was essential to what artists did. These algorithms are generative art, and people have been making generative art for decades.  These algorithms automate more of the generative process than before, but they don't automate the high-level decisionmaking and curation key to many kinds of art. 
+
+These technologies will be highly transformative and impactful, but artists won't be obsolete; we'll always need and value human artists, in some form.
+
+Maybe the word "artist," will start to describe algorithms. There are other words, like "[computer](https://en.wikipedia.org/wiki/Computer_(occupation))", that used to refer to people and now refer to machines. But even if that happens, people will know the difference, just like we know the difference between a human messenger and Instant Messenger.
+
 
 # "Laws": First Draft
 
@@ -363,5 +372,5 @@ I'm not an expert in many of these fields this topic covers (and maybe no one is
 
 
 <hr>
-Thanks to Rif A. Saurous, Serge Belongie, and others who commented.
+Thanks to Rif A. Saurous, Serge Belongie, Juliet Fiss, and others who commented.
 
