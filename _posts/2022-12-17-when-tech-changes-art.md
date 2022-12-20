@@ -137,9 +137,9 @@ Hip-hop started in the 1970s as fun party music, meant to be danced to and forgo
 
 **Computer art**
 
-When people starting making art with computers, they started by conciously mimicking abstract artworks, like 
+When people starting making art with computers, they often consciously mimicked abstract artworks, like 
 A. Michael Noll's 1964 [Computer Composition with Lines](http://dada.compart-bremen.de/item/artwork/5) and
-Frieder Nake's 1995 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O211685/hommage-a-paul-klee-13965-print-nake-frieder/hommage-%C3%A0-paul-klee-13965-print-nake-frieder/), which explicitly mimicked previous abstract paintings.
+Frieder Nake's 1965 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O211685/hommage-a-paul-klee-13965-print-nake-frieder/hommage-%C3%A0-paul-klee-13965-print-nake-frieder/), which explicitly mimicked previous abstract paintings.
 
 **Does "AI Art" start out by mimicking?** 
 
@@ -347,7 +347,7 @@ Moreover, the common trends and the underlying mechanisms line up so well betwee
 
 These technologies will be highly transformative and impactful, but artists won't be obsolete; we'll always need and value human artists, in some form.
 
-Maybe the word "artist," will start to describe algorithms. There are other words, like "[computer](https://en.wikipedia.org/wiki/Computer_(occupation))", that used to refer to people and now refer to machines. But even if that happens, people will know the difference, just like we know the difference between a human messenger and Instant Messenger.
+Perhaps the word "artist" could start to describe algorithms. A "[computer](https://en.wikipedia.org/wiki/Computer_(occupation))" used to be a person and now it's a machine. But even if that happens, people will know the difference, just like we know the difference between a human messenger and Instant Messenger.
 
 
 # "Laws": First Draft
