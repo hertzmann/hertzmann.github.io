@@ -208,9 +208,9 @@ It sounds a lot like [Disruptive Innovation](https://en.wikipedia.org/wiki/Disru
 
 Some of the complaints about "AI" art complain about it looking "off," lacking the personal touch of hand-drawn art. It doesn't look like what we're used to; it doesn't work by the traditional standards of experts. It looks weird.
 
-The weirdness is what makes it exciting; it's a sign that there's something new going on here, and we don't yet quite know what it is.  This kind of [weirdness only appeals to certain kinds of people](/2022/10/11/amateurs.html).
+The weirdness is what makes it exciting; it's a sign that there's something new going on here, and we don't yet quite know what it is.  The weirdness is a sign that "AI" art isn't quite the same artform or tool as before, and that it functions subtly differently.
 
-It's a sign that "AI" art isn't quite the same artform or tool as before, and that it functions subtly differently.
+This kind of [weirdness only appeals to certain kinds of people](/2022/10/11/amateurs.html), as exemplified by  Janelle Shane's blog ["AI weirdness"](https://www.aiweirdness.com/).
 
 
 **Can technology be bad for art?** 
