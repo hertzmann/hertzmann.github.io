@@ -52,7 +52,7 @@ New artistic tools are created by a small group of experimenters. These experime
 
 Animation began with experiments like [Winsor McCay's Gertie The Dinosaur](https://en.wikipedia.org/wiki/Gertie_the_Dinosaur), and the inventive explorations of the Fleischer brothers and Walt Disney. Disney developed the art and science of animation in a focused decade-long drive, culminating in the movie Snow White in 1933. 
 
-The first fine-artists who used computers in the 1960s, people like [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), were playing around with very primitive computing tools, before such a thing as "computer code" even existed.
+The first fine-artists who used computers in the 1960s, people like [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), were playing around with very primitive computing tools, before computer monitors or "computer code" even existed.
 
 **These early explorations are largely forgotten** 
 
@@ -138,8 +138,8 @@ Hip-hop started in the 1970s as fun party music, meant to be danced to and forgo
 **Computer art**
 
 When people starting making art with computers, they consciously mimicked abstract artworks, as in 
-A. Michael Noll's 1964 [Computer Composition with Lines](http://dada.compart-bremen.de/item/artwork/5) and
-Frieder Nake's 1965 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O211685/hommage-a-paul-klee-13965-print-nake-frieder/hommage-%C3%A0-paul-klee-13965-print-nake-frieder/), which explicitly mimicked previous abstract paintings.
+A. Michael Noll's 1964 [Computer Composition with Lines](http://dada.compart-bremen.de/item/artwork/5) (based on [a Mondrian painting](https://arthistoryproject.com/artists/piet-mondrian/composition-with-lines-composition-in-black-and-white/)) and
+Frieder Nake's 1965 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O211685/hommage-a-paul-klee-13965-print-nake-frieder/hommage-%C3%A0-paul-klee-13965-print-nake-frieder/), inspired by a [Klee painting](https://www.mutualart.com/Artwork/Highroad-and-Byroads/9FCBB157DACDFADF).
 
 **Does "AI Art" start out by mimicking?** 
 
