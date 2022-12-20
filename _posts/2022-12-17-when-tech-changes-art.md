@@ -23,11 +23,9 @@ My main thesis here is:
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but at least we can use this history to avoid the naive, superficial takes that treat this as something completely unprecedented and new.
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but history could help avoid the naive, superficial takes that treat this as something completely unprecedented and new.
 
-
-And, identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) I've always been fascinated by new technologies for making art.  
-
+And, identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) Now the stakes feel high: the present moment now involves a vexing collision of new technologies, evolution of artistic media, and labor conflict (i.e., jobs for artists).
 
 This expands on an earlier presentation I gave on this (starts at 20:33 in the video):
 
@@ -95,7 +93,7 @@ As photography matured, some painters decided that this kind of realism wasn't a
 <center>
 <figure>
    <p float="left">
-   <img src="../../../images/arthistory/nocturne.jpg" alt="TODO"  width="45%"/>&nbsp;<img src="../../../images/photohistory/morning.jpg" alt="TODO" width="45%"/>
+   <img src="../../../images/arthistory/nocturne.jpg" alt="TODO"  width="45%"/>&nbsp;<img src="../../../images/photohistory/morning.jpg" alt="Whistler's Nocturne painting" width="45%"/>
 </p>
   <figcaption align="center"><i>Hazy atmospheric styles in <a href="https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge">painting (1872)</a> and <a href="https://en.wikipedia.org/wiki/Pictorialism#/media/File:Clarence_Hudson_White_-_Morning_-_Google_Art_Project.jpg">photography (1908)</a></i></figcaption>
 </figure>
@@ -233,6 +231,8 @@ Can you think of a new artistic tool or medium that, decades later, we _regret a
 
 
 # 4. Changing skills, more creators ("This will kill jobs for artists")
+
+**Note: I am continuing to edit this section, it's not done. It's a tricky topic.**
 
 On the other hand, the effect of technology on jobs is more nuanced and difficult, and a broad topic in general. Famously, [the Luddites](https://en.wikipedia.org/wiki/Luddite) were textile workers that [sabotaged](https://en.wikipedia.org/wiki/Sabotage#Etymology) new machines that replaced their jobs. New technologies do not eliminate the need for artists, but they transform the nature of the artistic process, and the kind of work.  The topic of how new technology affects jobs is an old one, widely studied by economists beyond just the discussion of art.
 
