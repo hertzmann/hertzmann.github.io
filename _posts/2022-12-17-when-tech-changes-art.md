@@ -25,7 +25,8 @@ My main thesis here is:
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
 By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but at least we can use this history to avoid the naive, superficial takes that treat this as something completely unprecedented and new.
 
-And, identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) I've always been fascinated by new technologies for making art.
+
+And, identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) I've always been fascinated by new technologies for making art.  
 
 
 This expands on an earlier presentation I gave on this (starts at 20:33 in the video):
