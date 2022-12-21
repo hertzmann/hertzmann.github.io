@@ -14,32 +14,41 @@ At a few times in history, new technologies came along that changed the way we m
 
 Now seems like one of those times.
 
-When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are eager for any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or the opposite view that, like, photography, it's just art and there's nothing to complain about.
+When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are enthusiastic about any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or the opposite view that, like, photography, it's just art and there's nothing to complain about.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-term and then the long-term.
 
-I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process. The reality of how past technologies changed art is nuanced and complex, and that's likely true for "AI" art too. What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
+I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
 
 My main thesis here is:
 
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but history could help avoid the naive, superficial takes that treat this as something completely unprecedented and new.
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
 
-And, identifying these themes is fascinating in itself, if you like thinking about how things change.  [Like many people,](/2022/10/11/amateurs.html) Now the stakes feel high: the present moment now involves a vexing collision of new technologies, evolution of artistic media, and labor conflict (i.e., jobs for artists).
 
-This expands on an earlier presentation I gave on this (starts at 20:33 in the video):
+**Relevance to "AI" art**
+
+When I first started exploring these ideas in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18) ([talk](https://www.youtube.com/watch?v=APkitEWqdKw)), this was a niche topic.  In the past year, the stakes and emotional pitch have raised.
+
+In this article, I'm primarily focused on neural "AI" art, 2015 and later, which encompasses a range of techniques and approaches, including techniques that haven't been developed yet.  I would divide this into two waves (so far): the First Neural "AI" Art Wave (2015–2021), including DeepDream to GANs and early text-to-image, and the second, current wave. In the first wave, most "AI" artists did their own coding, built on open-source tools, and often built their own datasets. In the nascent Second Wave (2022–), many people are experimenting with general purpose text-to-image or chatbots without doing their own coding or building their own datasets, which often rely on proprietary code and training.
+
+"AI" art is not one single thing.  I would define "AI" art as any art primarily based on the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  Prior to 2015, this would include artists like [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). I might also include work _about_ "AI" that doesn't necessarily use "AI", like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," [ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/), and "[White Collar](https://whitecollar.thenewinquiry.com/)".
+
+I am using terminology loosely about what is a new style, a new medium, or a new art form, since these are probably not useful distinctions here.  **"AI" art isn't just one thing,** it's both a faster way to make what we can already make; and a way to make new styles of existing media.   Even so, changing the way you make pictures means you'll make different pictures.
+
+
+**This is a work-in-progress**
+
+Academically, this is a collision of everything from computer science and art history to media studies to disruptive innovation to labor economics, and no one of these disciplines seems sufficient to cover the topic. I have a lot to learn about this topic; there's already more stuff on my reading list.  
+
+I'd like to publish this as a paper someday, and would be interested in connecting with experts on this. There are a whole lot of different ideas here and, really, the topic is rich enough for a book.
+
+Here's an earlier, shorter presentation I gave on this (starts at 20:33 in the video):
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56P-f_Dcxx8?start=1236" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
-Many of the ideas here began in my previous ["Can Computers Create Art" article](https://www.mdpi.com/2076-0752/7/2/18) and [talk](https://www.youtube.com/watch?v=APkitEWqdKw).
-
-**This is a work-in-progress**
-
-This topic covers many different disciplines, and I have a lot to learn about this topic. More discussion of this at the end of the post.
-
-I am using terminology loosely about what is a new style, a new medium, or a new art form, since these are probably not useful distinctions here.  **"AI" art isn't just one thing,** it's both a faster way to make what we can already make; and a way to make new styles of existing media (e.g., new kinds of images and video, new kinds of art installations, like Mario Klingemann's [Art Installations](https://underdestruction.com/2020/08/29/appropriate-response/)).   Even so, changing the way you make pictures means you'll make different pictures.
 
 # 1. It begins with experimentation
 
@@ -49,24 +58,23 @@ New artistic tools are created by a small group of experimenters. These experime
 
 [Photography](/2022/08/29/photography-history.html) was developed by isolated tinkerers like Talbot and Daguerre. Nowadays we might think of photography as a thing that was just invented by someone long ago, but it really arose from a fertile and complex set of many experiments and attempts to figure out how to build the technology, and many of those attempts are forgotten.
 
-Animation began with experiments like [Winsor McCay's Gertie The Dinosaur](https://en.wikipedia.org/wiki/Gertie_the_Dinosaur), and the inventive explorations of the Fleischer brothers and Walt Disney. Disney developed the art and science of animation in a focused decade-long drive, culminating in the movie Snow White in 1933. 
+Animation began with experiments like [Winsor McCay's Gertie The Dinosaur](https://www.youtube.com/watch?v=32pzHWUTcPc), and the inventive explorations of the Fleischer brothers and Walt Disney. Disney developed the art and science of animation in a focused decade-long drive, culminating in the movie Snow White in 1933. 
 
 The first fine-artists who used computers in the 1960s, people like [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), were playing around with very primitive computing tools, before computer monitors or "computer code" even existed.
 
 **These early explorations are largely forgotten** 
 
-I personally never saw [the big deal](https://www.moma.org/collection/works/120542) of some of the important computer art like [Ed Emshwiller's Sunstone](https://www.youtube.com/watch?v=tMW15OajuKc), but I imagine it must have been really striking back in 1979. 
 
-Before I started studying these things, I could not name a single significant photgrapher from the first 100 years of photography. I doubt most people could name a single film from the first 30 years of movies or a single early [computer artwork](https://en.wikipedia.org/wiki/Computer_art) before video games and "Toy Story," or say much about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles or Grandmaster Flash.
+Before I started studying these things, I could not name a single significant photgrapher from the first 100 years of photography. I doubt most people could name a single film from the first 30 years of movies or a single early [computer artwork](https://en.wikipedia.org/wiki/Computer_art) before video games and "Toy Story," or say much about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles or Grandmaster Flash.  To some extent, only buffs and enthusiasts like myself go and dig into that early work.  Until one does, one mostly just things of the current art forms as things that have always been around, fully formed.
 
 
 **For now, "AI" Art is largely about novelty** 
 
-["AI" art has developed in a rapid cycle of iteration between new technologies, and artists experimenting with those technologies](https://aaronhertzmann.com/2021/03/11/lifecycle.html). 
+During the First Neural "AI" Art Wave (DeepDream to GANs, 2012-2021), "AI" art developed in a [rapid cycle of new artists experimenting with new technologies as they emerge](https://aaronhertzmann.com/2021/03/11/lifecycle.html). Most "AI" artists needed some technical skill to find, download, run, and modify the latest experimental machine learning code shared by research labs.  The best "AI" art came from artists building their own training datasets (e.g., Helena Sarin, Scott Eaton, Sofia Crespo) and/or directly modifying their models.  Even ["AI" artworks with a message](https://kcimc.medium.com/working-with-faces-e63a86391a93) were still very experimental.
 
-For the first period of the neural "AI" art wave (2012-2021), most "AI" artists needed some technical skill to find, download, run, and modify the latest experimental machine learning code shared by research labs.  Much of the best "AI" art came from artists building their own training datasets (e.g., Helena Sarin, Scott Eaton, Sofia Crespo) and/or directly modifying their models.  Even ["AI" artworks with a message](https://kcimc.medium.com/working-with-faces-e63a86391a93) were still very experimental.
+With the new easy-to-use text-to-image models, we're now in a new wave of people exploring these models and what they can do, and still a heavy wave of experimentation. These things are exciting because they are novel. I spent [a fascinating month last May playing with DALL-E](/2022/05/25/dall-e.html) (until I lost interest in playing with it).
 
-When people (like art critic Ben Davis) accuse "AI" art of being focused on novelty, I say: of course it is. The dominant aesthetic of _any_ new art-making technology is novelty. The only way you figure out a new technology is by experimentation. And it's exciting to be there at the beginning, to know that something big is happening, even if you don't know what.
+When people (like art critic Ben Davis) accuse "AI" art of being focused on novelty, I say: of course it is. The dominant aesthetic of _any_ new art-making technology is novelty. The only way you figure out art in a new medium is [by experimentation](/2022/10/26/experimentation.html). And, for many of us, it's exciting to be there at the beginning, to know that something big is happening, even if you don't know what.
 
 
 
@@ -142,10 +150,9 @@ Frieder Nake's 1965 [Hommage à Paul Klee](https://collections.vam.ac.uk/item/O2
 
 **Does "AI Art" start out by mimicking?** 
 
-Much of the history of "AI" art is imitation. Most commonly, [style transfer explicitly mimics existing artists](https://mrl.cs.nyu.edu/publications/image-analogies), with lots of "Van Gogh" and "Picasso" styles, and newer diffusion has a lot of ["in the style of"](/2022/05/25/dall-e.html). These are new styles in the spirit of existing artists rather than existing replications. 
-More generally, aesthetically, a lot of "AI" art is about mimicking existing things: movie stills, conceptual art, 
+Imitation runs throughout the history of  "AI" art. Most commonly, [style transfer explicitly mimics existing artists](https://mrl.cs.nyu.edu/publications/image-analogies), with lots of "Van Gogh" and "Picasso" styles, and newer diffusion has a lot of ["in the style of"](/2022/05/25/dall-e.html). I would argue that, in attempting to mimic existing styles, they are still producing new styles; a picture "in the style of a Van Gogh" isn't actually in the style of Van Gogh, for many reasons.  More generally, aesthetically, a lot of "AI" art is about mimicking existing forms, whether traditional portraits or movie posters and so on.
 
-The lessons of history is that this simulation is temporary: people aren't going to want "paintings in the style of Van Gogh" for very long (if they ever do). "AI" art may evolve into something very different.
+The lessons of history is that this simulation is temporary: people aren't going to want "paintings in the style of Van Gogh" for very long (if they ever do). "AI" art may evolve into something very different.  
 
 One could also make the case that the popularity of [visual indeterminacy in GAN Art](https://direct.mit.edu/leon/article-abstract/53/4/424/96926/Visual-Indeterminacy-in-GAN-Art?redirectedFrom=fulltext) refers to [indeterminate visuals in Modern art](https://www.nytimes.com/interactive/2021/01/29/arts/design/juan-gris-cubism-collage.html), although without any specific reference in style.  It's more the feeling that's similar; GAN art often "feels like" Modern art because of the indeterminacy and ambiguity.
 
@@ -154,7 +161,9 @@ One could also make the case that the popularity of [visual indeterminacy in GAN
 # 3. The Backlash ("This will kill art / This is Not Art")
 
 
-The knee-jerk response to new technology is [often hyperbolic pessimism](https://www.amyorben.com/publication/2020_orben_pops/).  New technology can indeed have significantly negative impacts, but the initial backlash typically gets it completely wrong.
+When these new technologies get big enough, a backlash forms, with multiple sides to it. In this section, I talk about the aesthetic/artistic backlash: the claim that a new machine for making art produces inherently inferior art, which together with its ease-of-use, will "kill" "real art".
+
+But first, some general comments on reactions to new technologies and art styles.
 
 **Status quo bias**
 
@@ -175,6 +184,8 @@ This is now called [Status Quo bias](https://en.wikipedia.org/wiki/Status_quo_bi
 They described a new technology to participants, and, for each participant, told them a different year of the technology's invention. They repeated this for many technologies and participants, and they found that **peoples' judgments of whether a new technology is beneficial is best predicted by whether it was invented before or after they were born.**
 
 There are numerous famous examples of people condemning new technologies. [Plato bemoaned that invention of writing would ruin ruin peoples' memories](https://people.umass.edu/sharris/in/e491ho/PlatoWriting.htm).  
+
+The knee-jerk response to new technology is [often hyperbolic pessimism](https://www.amyorben.com/publication/2020_orben_pops/).  New technology can indeed have significantly negative impacts, but the initial backlash typically gets it completely wrong. The trick is to accurately judge the harms (and benefits) from very little information.
 
 Sociologists and psychologists have several theories why some people tend to predict catastrophe for new technologies. One possible explanation is that, for some people, it's hard to imagine the benefits of new inventions—which are diffuse and ambiguous—as compared to the very real prospect of losing something we have.  The positives and negatives are real, but they're often not the things that people are afraid of.
 
@@ -364,11 +375,7 @@ But conversely:
 I think these need work; it's an interesting exercise.
 
 
-# This is a work-in-progress
 
-I'm still developing these ideas, and it's an ambitious project.  This topic crosses many disciplines: Media Studies, Art History, History of Science, Psychology, Labor Economics, AI, Ethics, Disruptive Innovation, and maybe even critical theory and STS.   Just talking about the history of photography, or the Luddites, or dataset ethics _alone_ doesn't do justice to the topic.  There are a whole lot of different ideas here, and, really, there's enough here for a book.
-
-I'm not an expert in many of these fields this topic covers (and maybe no one is).  I still have a lot to learn; next on my reading list are books by Lev Manovich and Marshall McLuhan.  I'd like to publish this as a paper someday, and would be interested in connecting with experts on this.  I'm not even sure where best to publish.   
 
 
 
