@@ -54,7 +54,7 @@ We don't know enough to think through the implications of intelligent computers,
 
 Working out the nuances of intelligent or art-making computers is like trying to work out the political system for our future space colonies. Maybe it's a fun science fiction exercise, but we know so little about what a space colony might be like and what our technology and society will be like then—or even if it's possible at all—that it's an exercise unconnected to the reality of whatever that distant hypothetical situation might be.
 
-And all this talk of conscious, artistic machines distracts from the urgant societal and ethical questions around the use of these software algorithms misleadingly called "artificial intelligence" in our real world.
+And all this talk of conscious, artistic machines distracts from the urgent societal and ethical questions around the use of these software algorithms misleadingly called "artificial intelligence" in our real world.
 
 
 <hr>
