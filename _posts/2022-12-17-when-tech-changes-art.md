@@ -355,7 +355,7 @@ In this post I am mainly talking about artistic tools and media, but it's also i
 
 The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power unless antitrust mechanisms are enforced. 
 
-I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/). 
+I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/).   This book may be of interest to artists in general thinking about the topics in the previous section.
 
 It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
 
