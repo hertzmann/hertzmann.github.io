@@ -382,7 +382,7 @@ Now, **"AI" art** promises something similar, as we attempt to grapple what it m
 
 # Is it different this time?
 
-Extrapolating from all these trends risks overlooking how this time is different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work (e.g., people who compare "human artists" to "AI artists", or claim that diffusion models work by copying the data).
+Extrapolating from all these trends risks overlooking how this time is different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work (e.g., comparing "human artists" to "AI artists" or claiming that diffusion models work by copying the data).
 
 Moreover, the common trends and the underlying mechanisms line up so well between the current "AI" art and the past examples. A machine automates some stages of the process that people thought was essential to what artists did. These algorithms are generative art, and people have been making generative art for decades.  These algorithms automate more of the generative process than before, but they don't automate the high-level decisionmaking and curation key to many kinds of art. 
 
