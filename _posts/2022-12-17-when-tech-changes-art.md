@@ -216,7 +216,7 @@ I can't take these claims about "AI" art seriously, because this kind of claim h
 
 For example, people have long argued that television made inferior art, that television programming was ["a vast wasteland"](https://en.wikipedia.org/wiki/Television_and_the_Public_Interest) and that it [dumbed-down discourse](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death).  But there have been great television shows: great artistic achievements that couldn't have happened in the same way in any other media. (I recommend [Emily Nussbaum's defense of TV as an art form](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/), which includes an embrace of low-brow television.)  Perhaps television has been harmful to society in some ways (e.g., a certain Reality TV president), but it is not _artistically inferior_ to theatre, cinema, or literature.
 
-Can you think of a new artistic tool or medium that, decades later, we _regret as an art medium_? I cannot.
+Can you think of a new artistic tool or medium that, decades later, we _unambiguously regret as an art medium_? I cannot.
 
 
 
