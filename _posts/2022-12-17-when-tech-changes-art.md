@@ -245,12 +245,33 @@ If, in 1840, you asked "will this hurt jobs for artists?" and you thought that p
 
 Cinema, in its early days, required big bulky cameras and lights, and managing physical celluloid film. 
 
-Film was developed on celluloid strips, and editing movies required physically cutting strips of film with scissors and taping them together; just managing all these strips of film was a lot of work. By the 80s, an indie filmmaker could do their own cinematography; the initial development of digital video editing replaced cutting strips of film with moving files around on a computer. Many of the jobs around cinematography and film editing whittled down. 
+Film was developed on celluloid strips, and editing movies required physically cutting strips of film with scissors and taping them together; just managing all these strips of film was a lot of work. By the 80s, an indie filmmaker could do their own cinematography; digital video editing replaced physical strips of film with files around on a computer. The physical labor required for cinematography and film editing continually decreased, but the artistic decisions remained.
 
 Nowadays, many of the videos we watch are made by a single person filming and editing on their phone and sharing on social media.  Filmmaking has gone from a massive, multiperson effort to something you can do alone in your living room. More people are making video—and sharing them on social media—than ever before. 
 
 Yet, big budget filmmaking and TV are still massive enterprises, huge labor-intensive productions engaging large numbers of skilled crew and technicians.  As the technology has gotten better, the scale and breadth of filmmaking has expanded dramatically.
 
+<center>
+<figure>
+   <p float="left">
+   <img src="../../../images/cinemahistory/eisenstein.jpg" alt="Sergei Eisenstein editing film"/>
+</p>
+  <figcaption align="center"><i>Sergei Eisenstein editing film.</i>
+</figcaption>
+</figure>
+</center>
+
+<center>
+<figure>
+   <p float="left">
+   <img src="../../../images/cinemahistory/old-cinema-crop.jpg" alt="Film crew with large camera"  width="45%"/>&nbsp;<img src="../../../images/cinemahistory/rodriguez.jpg" alt="Robert Rodriguez filming" width="45%"/>
+</p>
+  <figcaption align="center"><i>Left: Film crew operating bulky camera and lighting equipment in 1932. Right: An indie filmmaker in 1992 could do his own low-budget cinematography.  
+  </i></figcaption>
+</figure>
+</center>
+
+Nowadays, this can all be done on a smartphone.
 
 **Recorded music**
 
