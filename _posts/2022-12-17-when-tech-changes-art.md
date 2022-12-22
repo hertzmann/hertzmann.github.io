@@ -319,7 +319,7 @@ The role of new distribution platforms, [like recorded music](http://cup.columbi
 
 I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/). 
 
-It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
+It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold on Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
 
 
 
