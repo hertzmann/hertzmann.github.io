@@ -326,7 +326,7 @@ But it's also worth pointing out that new distribution platforms lead to new sty
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.
 
-"AI" art suffers from many ethical issues, which I am deeply ambivalent about, because I'm enthusiastic about the potential of new artistic tools, but concerned about the harms.
+"AI" art suffers from many ethical issues, which I am deeply ambivalent about, because I'm enthusiastic about the potential of new artistic tools, but concerned about the harms to today's artists.
 
 |I argue these issues are not really about art. **The ethical issues of "AI" art are instances of the ethical issues of "AI."**|
 
@@ -335,12 +335,10 @@ Specifically,
 * Racial bias and representation in image results have been a problem in search engines, automated ad targetting, and beyond; the question of what to do about it is similar to the question for image generation. 
 * Misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.
 
-Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics. Conversely, if we as a society conclude that it's ok to train models on peoples' data without their consent or involvement—which already happens widely today—then it seems like the same principle should apply to "AI" art models as well (provided the outputs aren't direct copies).
+Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics.  If it's not ok to train on artists' data, then maybe it's not ok to train on more of our information (without, at the very least, some sort of compulsory licensing as is done in music).  Conversely, if we as a society conclude that it's ok to train models on peoples' data without their consent or involvement—which already happens widely today—then it seems like the same principle should apply to "AI" art models as well (provided the outputs aren't direct copies).
 
-In a way, the debate over "AI" art reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution; the important issues get reduced to caricatures. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll is _objectively_ worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
+The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution; the important issues get reduced to caricatures. Our norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues that White rock-and-roll is objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
-
-**Example of architects**
 
 
 
@@ -360,7 +358,7 @@ Now, **"AI" art** promises something similar, as we attempt to grapple what it m
 
 # Is it different this time?
 
-Extrapolating from all these trends risks overlooking how this time is different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work (e.g., people who compare "human artists" to "AI artists").
+Extrapolating from all these trends risks overlooking how this time is different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work (e.g., people who compare "human artists" to "AI artists", or claim that diffusion models work by copying the data).
 
 Moreover, the common trends and the underlying mechanisms line up so well between the current "AI" art and the past examples. A machine automates some stages of the process that people thought was essential to what artists did. These algorithms are generative art, and people have been making generative art for decades.  These algorithms automate more of the generative process than before, but they don't automate the high-level decisionmaking and curation key to many kinds of art. 
 
