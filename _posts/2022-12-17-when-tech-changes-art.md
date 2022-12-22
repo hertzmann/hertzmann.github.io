@@ -231,8 +231,15 @@ Photography replaced practical drafting skills for architecture and record-keepi
  
 We have fewer painters today, but many, many more people making pictures in one way or another, and many more people making pictorial art.  
 
-Painting was "harmed," but art was not.
-
+<center>
+<figure>
+   <p float="left">
+   <img src="../../../images/photohistory/housemann.jpg" alt="Cartoon by Theodor Hosemann"/>
+</p>
+  <figcaption align="center"><i>A portrait painter is replaced by a photographer in this 1843 cartoon by Theodor Hosemann.</i>
+</figcaption>
+</figure>
+</center>
 
 **Cinema**
 

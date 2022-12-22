@@ -80,7 +80,7 @@ Within a few decades, photography largely replaced most older forms of portraitu
    <p float="left">
    <img src="../../../images/photohistory/housemann.jpg" alt="Cartoon by Theodor Hosemann"/>
 </p>
-  <figcaption align="center"><i>A portrait painter is replaced by a photographer in this 1843 cartoon by Thedor Hosemann.</i>
+  <figcaption align="center"><i>A portrait painter is replaced by a photographer in this 1843 cartoon by Theodor Hosemann.</i>
 </figcaption>
 </figure>
 </center>
