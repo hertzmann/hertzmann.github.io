@@ -344,7 +344,7 @@ This won't work for everyone, though, just as not all traditional artists and an
 
 
 
-# 5. External socioeconomic issues are reflected
+# 5. Socioeconomic concerns pose as artistic judgements
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones. I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns and judgements as artistic ones.
 
