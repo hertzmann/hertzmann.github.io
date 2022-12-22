@@ -348,11 +348,13 @@ This won't work for everyone, though, just as not all traditional artists and an
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones. I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns and judgements as artistic ones.
 
-For example, hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
+Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
 Likewise, the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion).
 
-When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of valid socioeconomic concerns (like employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
+Baudelaire, who argued against photography, was generally rejected modernity, of which photography was but an expression.  That is, his artistic taste stemmed from his views on modernity and industrialism in general.
+
+**"AI" art.** When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
 
 "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be excited about the artistic potential of these tools while also being very worried about  short-range harm to currently-working artists.  
 
