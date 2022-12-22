@@ -180,9 +180,9 @@ In the early days of sound movies, people like Charlie Chaplin fought against it
 
 **Impossible or inappropriate standards**
 
-These responses often seem like [knee-jerk responses](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
-
 Critics often hold these experimental new forms to impossible standards.  I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the speaker with a profound formative experience. 
+
+These responses often seem like [knee-jerk responses](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
 
 In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer for writing](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he wrote—with obvious skepticism—that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.    In 2010, [film critic Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
 
