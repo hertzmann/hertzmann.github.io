@@ -390,18 +390,6 @@ These technologies will be highly transformative and impactful, but artists won'
 
 
 
-# "Laws": First Draft
-
-A colleague recommended framing some of these ideas as "laws," and, after reading [Kranzberg's laws and discussion around them](https://www.jstor.org/stable/3105385), it seems like it's a bit of an art to formulate them.  Here are a few first stabs at some possible laws:
-
-|New technologies for making art are accused of threatening to "kill" art and make artists obsolete, but, in the long run, they enrich art and expand opportunities for people to make art.|
-
-But conversely:
-
-|New technology can hurt established artists in the short-run by shifting the economic balance of power.|
-
-I think these need work; it's an interesting exercise.
-
 
 
 
