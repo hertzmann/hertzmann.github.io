@@ -217,11 +217,7 @@ Can you think of a new artistic tool or medium that, decades later, we _regret a
 
 # 4. Shifting employment ("This will kill jobs for artists")
 
-What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, for many reasons:
-
-* New technologies do not eliminate the _need_ for artists, but they transform the nature of the artistic process, the kind of work, and who can be an artist. 
-* The short-term effects look different from the long-term effects
-* New technologies for _making_ art have somewhat different effects than new technologies for _distributing_ it. This essay is primarily about the former, but it's hard not to talk about the latter as well.
+What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, because new technologies can change the nature of artistic work (causing conflicting notions of "what an artist is"), and the short-term effects can look very different from the long-term effects.  Moreover, some technologies are more about distribution mechanisms, which can have different functions than technologies that are purely tools. (This essay is primarily about the latter.)
 
 The effect of technology on jobs in general is a huge topic with a long history. We get the term ["Luddite" from texture workers](https://en.wikipedia.org/wiki/Luddite) that sabotaged new machines that replaced their jobs. (We also get the word [sabotage](https://en.wikipedia.org/wiki/Sabotage#Etymology) from a similar source.) 
 
