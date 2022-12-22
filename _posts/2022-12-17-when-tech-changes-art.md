@@ -49,6 +49,8 @@ Academically, this is a collision of everything from computer science and art hi
 
 I'd like to publish this as a paper someday, and would be interested in connecting with experts on this. There are a whole lot of different ideas here and, really, the topic is rich enough for a book.
 
+As always, this blog post reflects my own personal opinions, and not those of any institution I'm affiliated with.
+
 Here's an earlier, shorter presentation I gave on this (starts at 20:33 in the video):
 
 <center>
