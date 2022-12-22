@@ -354,7 +354,7 @@ Likewise, the older generations' rejection of the rock-and-roll music of the 195
 
 Baudelaire, who argued against photography, was generally rejected modernity, of which photography was but an expression.  That is, his artistic taste stemmed from his views on modernity and industrialism in general.
 
-**"AI" art.** When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
+**"AI" art.** When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns discussed above), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
 
 "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about   harm to currently-working artists, while also being excited about the artistic potential of these tools. 
 
