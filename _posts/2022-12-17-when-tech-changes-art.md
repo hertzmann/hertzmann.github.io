@@ -32,7 +32,7 @@ This was a niche topic when I first started exploring these ideas in my 2018 art
 
 In this article, I'm primarily focused on recent _neural_ "AI" art, which I divide into two waves (so far). The **First Neural "AI" Art Wave lasted 2015–2021** and included DeepDream to GANs and early text-to-image; "AI" artists did their own coding, built on open-source tools, and, in many cases, built their own datasets. In the nascent **Second Wave (2022–)**, artists are experimenting with general purpose text-to-image interfaces or chatbots without doing their own coding or building their own datasets; these models often rely on proprietary code and/or datasets—but there are still people building their own systems to make art.
 
-I would define "AI" art as any art primarily based on the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  "AI" artists prior to 2015 include like [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include work _about_ "AI" that doesn't necessarily _use_ "AI", like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," [ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/), and "[White Collar](https://whitecollar.thenewinquiry.com/)".  I put "AI" in quotes because [these things are not intelligent](https://aaronhertzmann.com/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.
+I would define "AI" art as any art primarily based on the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  Examples of "AI" artists active more than 3 decades ago include [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include work _about_ "AI" that doesn't necessarily _use_ "AI", like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," [ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/), and "[White Collar](https://whitecollar.thenewinquiry.com/)".  I put "AI" in quotes because [these things are not intelligent](https://aaronhertzmann.com/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.
 
 "AI" art isn't just one thing, these tools offer both faster ways to make what we can already make, and new types of media.   Even so, changing the way you make pictures changes the pictures you'll make. I am using terminology loosely about what is a new style, a new medium, or a new art form, since these are probably not useful distinctions here. 
 
@@ -175,13 +175,13 @@ In the early days of sound movies, people like Charlie Chaplin fought against it
 
 **Wrong or impossible standards**
 
-These responses often seem like [knee-jerk responses](/2022/12/21/knee-jerk-responses.html), judging a new artform as inferior because "it doesn't look like what I grew up with"), rather than its potential as a future artistic medium.
+These responses often seem like [knee-jerk responses](/2022/12/21/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
 
 Critics often hold these experimental new forms to impossible standards.  I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the speaker with a profound formative experience. 
 
-In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer for writing](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he wrote—with obvious skepticism—that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.    In 2010, [Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
+In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer for writing](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he wrote—with obvious skepticism—that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.    In 2010, [film critic Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
 
-It sounds a lot like ["disruptive innovation"](https://en.wikipedia.org/wiki/Disruptive_innovation), where established players dismiss new technology because it doesn't perform as well as the old thing according to the old standards. But, because it's cheaper and easier than the old thing, it serves more customers and eventually surpasses the old thing. It turns out that the old standards weren't eternal; they weren't the real thing that mattered.
+It sounds a lot like ["disruptive innovation"](https://en.wikipedia.org/wiki/Disruptive_innovation), where established players dismiss new technology because it doesn't perform as well as the old thing according to the old thing's standards. But, because it's cheaper and easier than the old thing, it serves more customers and eventually surpasses the old thing. It turns out that the old standards weren't eternal; they weren't the real thing that mattered.
  
 
 
@@ -191,7 +191,7 @@ My article could be accused of selection bias: I'm mostly focusing on inventions
 
 Not all technology has been great for art, but when a technology is gimmicky and/or artistically-limited—like [Smell-o-Vision](https://en.wikipedia.org/wiki/Smell-O-Vision) or [autotune](https://en.wikipedia.org/wiki/Auto-Tune)—it doesn't last.  
 
-3D cinema is a more complex case. I've seen a few 3D movies that seemed like richer experiences because of the 3D. 3D has been pushed by companies as a way to get more theatre attendance. But it doesn't seem like the benefit is enough to justify the cost and the drawbacks. Despite concerted pushes, audiences did not show up for 3D cinema enough to keep it alive.
+3D cinema is a more complex case. I've seen a few movies where the 3D cinematography felt like it added something to the storytelling and the experience. But it doesn't seem like the benefit is enough to justify the cost and the drawbacks. Despite a considerable push from studios and theatres, audiences did not show up for 3D cinema enough to keep it alive.
 
 
 **At this early stage in "AI" Art, the weirdness is the point**
@@ -203,9 +203,9 @@ The weirdness is what makes it exciting; it's a sign that there's something new 
 
 **Does technology make inferior art?** 
 
-I cannot think of a single example of a new artistic tool or medium that "kills" art by making "bad" art. In all the many times people have claimed that a new medium like photography is going to kill art, it's never been true. 
+I cannot think of a single example of a new artistic tool or medium that "kills" art by making "bad" art. Many times over the past two centuries people have claimed that some new medium like photography is going to kill art. They had good reasons at the time, but they were never right.
 
-When people say these kinds of things about "AI" art, I cannot take these claims seriously, because this kind of claim has never ever been true in the past, and I haven't seen any attempt to argue why this time is somehow different.  At worst, it'll be a fad, but never the death of art.
+I can't take these claims about "AI" art seriously, because this kind of claim has never ever been true in the past, and I haven't seen any attempt to argue why this time is somehow different.  At worst, it'll be a fad, but never the death of art.  Often these claims come with a strawman argument that the "AI" will be the artists instead of humans, [which I likewise find shallow and ahistorical](https://www.mdpi.com/2076-0752/7/2/18).
 
 For example, people have long argued against television, that television programming was ["a vast wasteland"](https://en.wikipedia.org/wiki/Television_and_the_Public_Interest) and that it [dumbed-down discourse](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death).  But there have been great television shows: great artistic achievements that couldn't have happened in the same way in any other media. (I recommend  [Emily Nussbaum's defense of TV as an art form](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/).)  Perhaps television has been harmful to society in some ways (e.g., a certain Reality TV president), but it is not _artistically inferior_ to theatre, cinema, or literature.
 
@@ -217,27 +217,36 @@ Can you think of a new artistic tool or medium that, decades later, we _regret a
 
 # 4. Shifting employment ("This will kill jobs for artists")
 
-**Note: I am continuing to edit this section, it's not done. It's a tricky topic.**
+What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, for many reasons:
 
-On the other hand, the effect of technology on jobs is more nuanced and difficult, and a broad topic in general (not just in the context of art). We get the term ["Luddite" from texture workers](https://en.wikipedia.org/wiki/Luddite) that sabotaged new machines that replaced their jobs. (We also get the word [sabotage](https://en.wikipedia.org/wiki/Sabotage#Etymology) from a similar source.) 
+* New technologies do not eliminate the _need_ for artists, but they transform the nature of the artistic process, the kind of work, and who can be an artist. 
+* The short-term effects look different from the long-term effects
+* New technologies for _making_ art have somewhat different effects than new technologies for _distributing_ it. This essay is primarily about the former, but it's hard not to talk about the latter as well.
 
-New technologies do not eliminate the need for artists, but they transform the nature of the artistic process, and the kind of work.  The topic of how new technology affects jobs is an old one, widely studied by economists beyond just the discussion of art.
-
-The effects are different for artistic media and distribution media.  Both the electronic synthesizer and music recording technology were predicted to kill art, and both did transform art, but in very different ways. In this essay I'm mostly talking about new artistic tools, but I'll come back to distribution media in the next section.
+The effect of technology on jobs in general is a huge topic with a long history. We get the term ["Luddite" from texture workers](https://en.wikipedia.org/wiki/Luddite) that sabotaged new machines that replaced their jobs. (We also get the word [sabotage](https://en.wikipedia.org/wiki/Sabotage#Etymology) from a similar source.) 
 
 
 
 **Photography**
 
+In the 19th Century, photography replaced the need for portrait painters and the inferior silhouette techniques. But they didn't all go out of work; many converted their portrait studios into photography studios.
 
-Photography did replace the need for portrait painters; most of them had to learn the new technology, as portrait studios replaced the inferior silhouette techniques and the more difficult and expensive portraiture. Photography replaced practical drafting skills for architecture and record-keeping, and displaced the veduta painters that sold who postcards to travelers in Italy. 
+Photography replaced practical drafting skills for architecture and record-keeping, and displaced the veduta painters that sold who postcards to travelers in Italy.
  
-We have fewer painters today, but many many more people making pictures in one way or another, and many more people making pictorial art.  
+We have fewer painters today, but many, many more people making pictures in one way or another, and many more people making pictorial art.  
+
+Painting was "harmed," but art was not.
 
 
 **Cinema**
 
-Cinema, in its early days, required big bulky cameras and lights. Film was developed on strips of film, and editing movies required physically cutting strips of film with scissors and taping them together; just managing all these strips of film was a lot of work. By the 80s, an indie filmmaker could do his own cinematography; the initial development of digital video editing replaced cutting strips of film with moving files around on a computer. Many of the jobs around cinematography and film editing were whittled. Nowadays, many of the videos we watch are made by a single person filming and editing on their phone and sharing on social media.  Filmmaking has gone from a massive, multiperson effort to something you can do alone in your living room. More people are making video—and sharing them on social media—than ever before. Yet, big budget filmmaking and TV are still massive enterprises, huge labor-intensive productions engaging large numbers of skilled crew and technicians.  As the technology has gotten better, the scale and breadth of filmmaking has expanded dramatically.
+Cinema, in its early days, required big bulky cameras and lights, and managing physical celluloid film. 
+
+Film was developed on celluloid strips, and editing movies required physically cutting strips of film with scissors and taping them together; just managing all these strips of film was a lot of work. By the 80s, an indie filmmaker could do his own cinematography; the initial development of digital video editing replaced cutting strips of film with moving files around on a computer. Many of the jobs around cinematography and film editing whittled down. 
+
+Nowadays, many of the videos we watch are made by a single person filming and editing on their phone and sharing on social media.  Filmmaking has gone from a massive, multiperson effort to something you can do alone in your living room. More people are making video—and sharing them on social media—than ever before. 
+
+Yet, big budget filmmaking and TV are still massive enterprises, huge labor-intensive productions engaging large numbers of skilled crew and technicians.  As the technology has gotten better, the scale and breadth of filmmaking has expanded dramatically.
 
 
 **Recorded music**
@@ -260,8 +269,6 @@ Even if the one part of the profession was decimated (performing music in movie 
 
 Moreover, [the use of movie soundtracks truly enlarged and invigorated the cinema artform](https://en.wikipedia.org/wiki/Film_score): music specifically composed and recorded for the movie itself changed filmmaking, to say nothing of dialogue, sound effects, and so on.  
 
-In the 1930s, the AFM fought against the use of recorded music on the radio.
-
 
 **Lil Nas X** is one of my favorite examples of how new technologies create new musical opportunities.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
 
@@ -275,25 +282,29 @@ Did recorded music cause the total number of musicians making a living from musi
 
 **Computer animation**
 
-In the 1980s, Disney animators were scared of computers, fearing that computers would replace them entirely. But then Pixar built an extraordinarily-successful business of making computer-animated movies—directed, written, and animated by enormously talented artists. The computer didn't do the animation, it was a new animation tool. 
+In the 1980s, Disney animators were scared of computers, fearing that computers would replace them entirely. But then Pixar built an extraordinarily-successful business of making computer-animated movies—directed, written, and animated by a large studio of enormously-talented artists. The computer didn't do the animation, it was a new animation tool. 
 
-By the early 2000s, Disney's traditional cel animation business was in bad shape. Together with Pixar's success, they interpreted this as signalling the death of traditional cel animation. They  shut down cel animation in Burbank, and laid off any traditional animators that couldn't learn computer animation.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy); audiences viewed it as old-fashioned. So Disney gave up on cel animation for good.  Styles and tastes change, and technology is one of the driving factors.  
+By the early 2000s, Disney's traditional cel animation business was in bad shape. Together with Pixar's success, Disney management interpreted this as signalling the death of traditional cel animation. They  shut down cel animation in Burbank, and laid off any traditional animators that couldn't learn computer animation.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy); audiences viewed it as old-fashioned. So Disney gave up on cel animation for good.  Styles and tastes change, and technology is one of the driving factors.  (For reasons I'm omitting, there are reasons to believe that this story is also, in part, about Disney's own management mistakes.)
 
-But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and computer animation is used throughout "live action" films. Avatar is basically a computer animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney had his own labor issues in the 1940s.
+Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   For reasons I'm omitting, I think Disney dropping cel animation is, in part, due to Disney's own management mistakes. Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) is a brilliant merger of hand-animation with video games, plus an absolutely banging soundtrack.)
 
-Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process. Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. 
-
+But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and computer animation is used throughout "live action" films. Avatar is basically a computer animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney had his own labor issues in the 1940s.  Computer animation is wide-spread in video games, both little indie games and big AAA games; it's common throughout television.  
 
 
 **The Short-Term versus the Long-Term** 
 
 These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over time.  [It's important to distinguish the short-term and long-term impacts](https://www.jstor.org/stable/3105385).
 
+I've heard a lot of past stories of traditional artists—like illustrators and designers and the Disney animators mentioned above—who were left behind by the transition to digital tools a few decades ago.  
+
+In the past year, many working artists have shared their genuine anxiety and fear over what these technologies mean for their livelihoods and identities. These fears seem entirely justified: 
+
+Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold.
+
 On one hand, it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  At what point do we decide that technological progress or artistic development should stop?  At what point in history did we make a mistake by continuing to invent new things or to develop new artistic styles, and why is "right now" somehow that time?  
 
 On the other hand, it does seem heartbreaking and wrong to have a class of people left out in the cold if their skills become obsolete. In the past year, many working artists have shared their genuine anxiety and fear over what these technologies mean for their livelihoods and identities. Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold.
 
-I've heard a lot of past stories of traditional artists—like illustrators and designed and the Disney animators mentioned above—who were left behind by the transition to digital tools a few decades ago.  Some could make the transition and some couldn't.  (To have it happen as a result of models trained from their own data feels much worse, but I think this is a totally separate issue intellectually, if not emotionally; see point 6 below.) 
 
 Interestingly, in the 1930s, some countries musicians' unions [secured a fund to support performance musicians put out of work](https://timesmachine.nytimes.com/timesmachine/1929/11/17/92007058.html?pageNumber=164) by sound recording technology.
 
@@ -325,6 +336,8 @@ Perhaps the questions of "AI" art ethics will force a broader reckoning of some 
 
 In a way, the debate over "AI" art reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution; the important issues get reduced to caricatures. Still, I maintain it's about the societal issues: I don't think anyone publicly argues anymore that White rock-and-roll is _objectively_ worse than the Black music from which it was originally derived. It's not about the quality of the art, but the way it was produced and who benefitted.
 
+
+**Example of architects**
 
 
 
