@@ -186,7 +186,7 @@ These responses often seem like [knee-jerk responses](/2022/12/17/knee-jerk-resp
 
 In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer for writing](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he wrote—with obvious skepticism—that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.    In 2010, [film critic Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
 
-It sounds a lot like ["disruptive innovation"](https://en.wikipedia.org/wiki/Disruptive_innovation), where established players dismiss new technology because it doesn't perform as well as the old thing according to the old thing's standards. But, because it's cheaper and easier than the old thing, it serves more customers and eventually surpasses the old thing. It turns out that the old standards weren't eternal; they weren't the real thing that mattered.
+It sounds a lot like ["disruptive innovation"](https://en.wikipedia.org/wiki/Disruptive_innovation), where established players dismiss new technology because it doesn't perform as well as the old thing according to the old thing's standards. But, because it's cheaper and easier than the old thing, it serves more customers and eventually surpasses the old thing. It turns out that the old standards were just heuristics.
  
 
 
