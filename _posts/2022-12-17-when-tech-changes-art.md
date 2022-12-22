@@ -23,7 +23,9 @@ My main thesis here is:
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  This is especially important for people working in creative fields today. 
+
+Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
 
 
 **What is "AI" art?**
