@@ -196,7 +196,7 @@ My article could be accused of selection bias: I'm mostly focusing on inventions
 
 Not all technology has been great for art, but when a technology is gimmicky and/or artistically-limited—like [Smell-o-Vision](https://en.wikipedia.org/wiki/Smell-O-Vision) or [autotune](https://en.wikipedia.org/wiki/Auto-Tune)—it doesn't last.  
 
-3D cinema is a more complex case. I've seen a few movies where the 3D cinematography felt like it added something to the storytelling and the experience. But it doesn't seem like the benefit is enough to justify the cost and the drawbacks. Despite a considerable push from studios and theatres, audiences did not show up for 3D cinema enough to keep it alive.
+3D cinema is a more complex case. I've seen a few movies where the 3D cinematography felt like it added something to the storytelling and the experience. But, so far, it doesn't seem like the benefit is enough to justify the cost and the drawbacks. Despite a considerable push from studios and theatres, audiences have not shown up for 3D cinema enough to keep it alive.
 
 
 **At this early stage in "AI" Art, the weirdness is the point**
