@@ -356,7 +356,7 @@ Baudelaire, who argued against photography, was generally rejected modernity, of
 
 **"AI" art.** When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
 
-"AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be excited about the artistic potential of these tools while also being very worried about  short-range harm to currently-working artists.  
+"AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about   harm to currently-working artists, while also being excited about the artistic potential of these tools. 
 
 I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.  Perhaps the questions of "AI" art ethics will force a broader reckoning of some of these questions of "AI" ethics.  
 
