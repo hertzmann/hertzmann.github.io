@@ -357,15 +357,15 @@ Hip-hop came from dual turntables and faders, deployed in funk party culture in 
 
 Likewise, the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion).
 
-Baudelaire, who argued against photography, was generally rejected modernity, of which photography was but an expression.  That is, his artistic taste stemmed from his views on modernity and industrialism in general.
+Baudelaire's argument against photography was an expression of his rejection of modernity in general.
 
-**"AI" art.** "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about  harm to currently-working artists, while also being excited about the artistic potential of these tools. 
-
-However, when people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns discussed above), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
-
-For example, I recently [participated in a architects' panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation. In fact, the first speaker enthusiastically showed many examples of Zaha Hadid-style MidJourney renderings—and he is the principal architect at Zaha Hadid. These artists were entirely unthreatened by "AI" because, for them, the image is not the final product, and the technology could only enhance their processes. And, they generally did not mention ethical concerns, even when showing results clearly based on training from their own firm's output.
+**"AI" art.** "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about harm to currently-working artists, while also being excited about the artistic potential of these tools. 
 
 I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.  Perhaps the questions of "AI" art ethics will force a broader reckoning of some of these questions of "AI" ethics.  
+
+When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns discussed above), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
+
+Conversely, I recently [participated in a architects' panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation. In fact, the first speaker enthusiastically showed many examples of Zaha Hadid-style MidJourney renderings—and he is the principal architect at Zaha Hadid. These artists were entirely unthreatened by "AI" because, for them, the image is not the final product, and the technology could only enhance their processes. And, they generally did not mention ethical concerns, even when showing results clearly based on training from their own firm's output.
 
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll was objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
