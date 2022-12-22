@@ -34,7 +34,9 @@ In this article, I'm primarily focused on recent _neural_ "AI" art, which I divi
 
 "AI" art isn't just one thing, these tools offer both faster ways to make what we can already make, and new types of media.   Even so, changing the way you make pictures changes the pictures you'll make. I am using terminology loosely about what is a new style, a new medium, or a new art form, since these are probably not useful distinctions here. 
 
-I would define "AI" art as any art primarily based on the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  Examples of "AI" artists active more than 3 decades ago include [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include work _about_ "AI" that doesn't necessarily _use_ "AI", like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," [ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/), and "[White Collar](https://whitecollar.thenewinquiry.com/)".  I put "AI" in quotes because [these things are not intelligent](https://aaronhertzmann.com/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.  
+I would define "AI" art as any art primarily based on the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  Examples of "AI" artists active more than 3 decades ago include [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include work _about_ "AI" that doesn't necessarily _use_ "AI", like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," [ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/), and "[White Collar](https://whitecollar.thenewinquiry.com/)".  
+
+I put "AI" in quotes because [these things are not intelligent](/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.  
 
 
 
