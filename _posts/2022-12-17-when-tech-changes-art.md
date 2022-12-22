@@ -295,30 +295,30 @@ But now, there are opportunities for many more animators than before, because 3D
 
 These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over time.  [It's important to distinguish the short-term and long-term impacts](https://www.jstor.org/stable/3105385).
 
-I've heard a lot of past stories of traditional artists—like illustrators and designers and the Disney animators mentioned above—who were left behind by the transition to digital tools a few decades ago.  
+**Short-term.** I've heard a lot of past stories of traditional artists—like illustrators and designers and the Disney animators mentioned above—who were left behind by the transition to digital tools a few decades ago.  
 
-In the past year, many working artists have shared their genuine anxiety and fear over what these technologies mean for their livelihoods and identities. These fears seem entirely justified: 
+In the past year, many working artists have shared their genuine anxiety and fear over what these "AI" technologies mean for their livelihoods and identities. The fear is real, and the concerns are not without precedent.  
 
-Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold.
+What should be done to protect today's artists? I do not know, but I believe it is fundamentally a _labor_ issue, not an _art_ issue: it's about buffering workers from changing employment conditions. Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold. Borrowing experience from past labor movements (particularly creative workers' unions) seems most relevant here. For example, in the 1930s, some musicians' unions [secured a fund to support performance musicians put out of work](https://timesmachine.nytimes.com/timesmachine/1929/11/17/92007058.html?pageNumber=164) by sound recording technology.  I don't have much expertise here to offer.
 
-On one hand, it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  At what point do we decide that technological progress or artistic development should stop?  At what point in history did we make a mistake by continuing to invent new things or to develop new artistic styles, and why is "right now" somehow that time?  
+Ideally, current working artists can look past the misleading hype about "creative AI", and recognize how new tools enhance their processes. I certainly believe that people with a better artistic sensibility can use "AI" tools better, just as some people take better photographs than others (there's a difference between me and Diane Arbus even if we're using the same tools).  This won't work for everyone, though, just as not all traditional artists and animators made the transition to digital tools.
 
-On the other hand, it does seem heartbreaking and wrong to have a class of people left out in the cold if their skills become obsolete. In the past year, many working artists have shared their genuine anxiety and fear over what these technologies mean for their livelihoods and identities. Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold.
+**In the long-term,** it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  While some inventions have been bad for employment of certain classes of artists (e.g., portrait painters, ink-and-paint animators), there are many jobs for artists and "creatives" in general, and more technologies that help non-professionals express themselves.  Sometimes these average-user technologies provide opportunities for budding artists, like the movie directors that started out shooting their films on Super-8 film or their smartphones at home.
 
-
-Interestingly, in the 1930s, some countries musicians' unions [secured a fund to support performance musicians put out of work](https://timesmachine.nytimes.com/timesmachine/1929/11/17/92007058.html?pageNumber=164) by sound recording technology.
 
 
 
 # 5. New distribution technologies shift the balance of power
 
-In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable, rather than them being "bad art."
+In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable.
 
-The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power (unless there antitrust mechanisms are enforced); I enjoyed the book [Chokepoint Capitalism](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's their chapter on how online distribution for music have been a huge double-edged sword for musicians](https://www.wired.com/story/spotify-streaming-playlists-music/). 
+The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power unless antitrust mechanisms are enforced. 
 
-Arguably there are fewer musicians now that we have recorded music; we see live performers far less often than we used to, and fewer actors.  It seems like families and friends used to entertain themselves with homemade music at home, a tradition I pine for, especially since I never learned to make music myself.
+I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on how the effects of online music streaming for artists](https://www.wired.com/story/spotify-streaming-playlists-music/). 
 
-But there's a gray area: new distribution platforms lead to new styles of art. The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media (but not the other way around).
+Arguably there are fewer musicians now that we have recorded music; we see live performers far less often than we used to, and fewer actors.  It seems like families and friends used to entertain themselves with homemade music at home, a tradition I regret missing, especially since I never learned to make music myself.
+
+But it's also worth pointing out that new distribution platforms lead to new styles of art. The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
 
 
 
