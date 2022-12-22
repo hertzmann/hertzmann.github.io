@@ -14,7 +14,7 @@ At a few times in history, new technologies came along that changed the way we m
 
 Now seems like one of those times.
 
-When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are enthusiastic about any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or the opposite view that, like, photography, it's just art and there's nothing to complain about.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-term and then the long-term.
+When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are enthusiastic about any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or "It's just like photography" and therefore there's no cause for concern.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-term and then the long-term.
 
 I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
 
