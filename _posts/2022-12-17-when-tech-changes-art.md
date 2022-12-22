@@ -279,7 +279,7 @@ When music recording was invented, musicians were worried it would take their jo
 
 In the 1920s, [the American Federation of Musicians (AFM) union decried music recording and forbid orchestras from recording albums](https://en.wikipedia.org/wiki/American_Federation_of_Musicians#Technology_and_legislation), a move that led to the growth of recorded folk music. 
 
-In 1927, the first movie with an audio soundtrack came out, and, within a few years, 20,000 live musicians lost their jobs performing in movie theatres.  The AFM launched [a campaign of newspaper advertisements against movie soundtracks](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/), including some illustrations that could still be used today:
+In 1927, the first movie with an audio soundtrack came out, and, within a few years, 20,000 live musicians lost their jobs performing in movie theatres.  In response, the AFM launched [a campaign of newspaper advertisements against movie soundtracks](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/), including some illustrations that could still be used today:
 
 <center>
 <figure>
@@ -289,20 +289,16 @@ In 1927, the first movie with an audio soundtrack came out, and, within a few ye
 </figure>
 </center>
 
-Even if the one part of the profession was decimated (performing music in movie theatres), other roles for musicians have expanded greatly.  
+Even if the one part of the profession was decimated (performing music in movie theatres), other roles for musicians have expanded greatly.  [Moreover, the use of movie soundtracks truly enlarged and invigorated the cinema artform](https://en.wikipedia.org/wiki/Film_score): music specifically composed and recorded for the movie itself changed filmmaking, to say nothing of dialogue, sound effects, and so on.  
 
-Moreover, [the use of movie soundtracks truly enlarged and invigorated the cinema artform](https://en.wikipedia.org/wiki/Film_score): music specifically composed and recorded for the movie itself changed filmmaking, to say nothing of dialogue, sound effects, and so on.  
+Did recorded music cause the _total_ number of musicians making a living from music go up or down (relative to the overall decline of the middle class)? I don't know if numbers are available for this.  
 
-
-**Lil Nas X** is one of my favorite examples of how new technologies create new musical opportunities.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019. 
+**Lil Nas X** is one of my favorite examples of how new technologies create new musical opportunities.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019.  This is not a path to success that many people follow, but online platforms can potentially allow many people to reach niche audiences as well.
 
 <center>
 <iframe title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000006445156"></iframe>
 </center>
 
-None of this would have been possible ten years ago. And imagine all the people involved in making, recording, and distributing a record 50 years ago.
-
-Did recorded music cause the total number of musicians making a living from music go up or down (relative to the overall decline of the middle class)? I don't know if numbers are available for this.  It could be there's less room for megastars like Lil Nas X who got extremely lucky.
 
 **Computer animation**
 
