@@ -352,7 +352,7 @@ For example, hip-hop came from dual turntables and faders, deployed in funk part
 
 Likewise, the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion).
 
-When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic issues (like employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
+When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of valid socioeconomic concerns (like employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
 
 "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be excited about the artistic potential of these tools while also being very worried about  short-range harm to currently-working artists.  
 
