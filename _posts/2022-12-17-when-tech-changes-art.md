@@ -330,17 +330,6 @@ This won't work for everyone, though, just as not all traditional artists and an
 
 
 
-# 5. New distribution technologies shift the balance of power
-
-In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable.
-
-The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power unless antitrust mechanisms are enforced. 
-
-I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/). 
-
-It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
-
-
 
 # 6. External socioeconomic issues are reflected
 
@@ -358,7 +347,7 @@ I argue that the socioeconomic issues are not really about art: the ethical issu
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll is objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
 
-
+If it's not ok to train on artists' data, then maybe it's not ok to train on more of our information (without, at the very least, some sort of compulsory licensing as is done in music).  Conversely, if we as a society conclude that it's ok to train models on peoples' data without their consent or involvement—which already happens widely today—then it seems like the same principle should apply to "AI" art models as well (provided the outputs aren't direct copies).
 
 # 7. We rethink what art is
 
