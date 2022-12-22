@@ -325,6 +325,17 @@ Ideally, current working artists can look past the misleading hype about "creati
 
 This won't work for everyone, though, just as not all traditional artists and animators made the transition to digital tools.
 
+**Distribution mechanisms.** In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable.
+
+The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power unless antitrust mechanisms are enforced. 
+
+I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/). 
+
+It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
+
+
+
+
 **In the long-range,** it's hard to look back in history and say "we shouldn't have invented X just so that the people 100 years ago could have kept their jobs."  While some inventions have been bad for employment of certain classes of artists (e.g., portrait painters, ink-and-paint animators), there are many jobs for artists and "creatives" in general, and more technologies that help non-professionals express themselves.  Sometimes these average-user technologies provide opportunities for budding artists, like the movie directors that started out shooting their films on Super-8 film or their smartphones at home.
 
 
@@ -349,18 +360,10 @@ The debate over "AI" art ethics reminds me of the [complex debate over cultural 
 
 
 
-# 6. New distribution technologies shift the balance of power
-
-In this post I am mainly talking about artistic tools and media, but it's also important to look at the adjacent topic of distribution media: the way new technologies change when, where, and how we buy and appreciate art also transform art.  A lot of the sins that people assign to new technologies are really around the new business shifts that they enable.
-
-The role of new distribution platforms, [like recorded music](http://cup.columbia.edu/book/electric-sounds/9780231136761), is a big topic with [a long and complex history](https://medium.com/@Vinylmint/history-of-the-record-industry-1920-1950s-6d491d7cb606).  The technologies that enable mass distribution also tend to enable consolidation of power unless antitrust mechanisms are enforced. 
-
-I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/).   This book may be of interest to anything thinking about the topics in the previous section as well.
-
-It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold in Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
 
 
-# 7. We rethink what art is
+
+# 6. We rethink what art is
 
 [Different eras have had radically different notions of what art "is"](/2022/09/27/art-eras.html), and some shifts in the definition of art have been spurred by technological change. Even the distinct concepts of "art" and "artist" [didn't really exist until the societal transformations spurred by the Industrial Revolution](/2022/09/27/art-eras.html). 
 
