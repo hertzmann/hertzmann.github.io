@@ -173,7 +173,7 @@ In the earliest demonstrations of photography (the Daguerotype) in 1838, [painte
 In the early days of sound movies, people like Charlie Chaplin fought against it; Adolph Zukor, the president of Paramount, said ["The so-called sound film shall never displace silent film. I believe as before that our future lies with silent film!"](https://www.filmportal.de/material/rudolf-arnheim-on-the-sound-film-confusion).   (For a superbly entertaining—but not very educational—take on the transition to talkies, watch the great ["Singin' in the Rain"](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain).)
 
 
-**Wrong or impossible standards**
+**Impossible or inappropriate standards**
 
 These responses often seem like [knee-jerk responses](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
 
@@ -286,7 +286,7 @@ In the 1980s, Disney animators were scared of computers, fearing that computers 
 
 By the early 2000s, Disney's traditional cel animation business was in bad shape. Together with Pixar's success, Disney management interpreted this as signalling the death of traditional cel animation. They  shut down cel animation in Burbank, and laid off any traditional animators that couldn't learn computer animation.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy); audiences viewed it as old-fashioned. So Disney gave up on cel animation for good.  Styles and tastes change, and technology is one of the driving factors.  
 
-Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   I'm omitting some detail about Disney's decisions that could have gone differently. Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) is a brilliant merger of hand-animation with video games, plus an absolutely banging soundtrack.)
+Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   I'm omitting some detail about Disney's decisions that could have gone differently. Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And the singular [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) brilliantly merges hand-animation with video games, plus an absolutely banging jazz soundtrack.)
 
 But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and computer animation is used throughout "live action" films. Avatar is basically a computer animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney had his own labor issues in the 1940s.  Computer animation is wide-spread in video games, both little indie games and big AAA games; it's common throughout television.  
 
