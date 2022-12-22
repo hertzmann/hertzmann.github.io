@@ -217,7 +217,7 @@ Can you think of a new artistic tool or medium that, decades later, we _regret a
 
 # 4. Shifting employment ("This will kill jobs for artists")
 
-What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, because new technologies can change the nature of artistic work (causing conflicting notions of "what an artist is"), and the short-term effects can look very different from the long-term effects.  Moreover, some technologies are more about distribution mechanisms, which can have different functions than technologies that are purely tools. (This essay is primarily about the latter.)
+What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, because new technologies can change the nature of artistic work (causing conflicting notions of "what an artist is"), and the short-term effects can look very different from the long-term effects.  Moreover, while this post is primarily about artists' tools (like photography), the topic overlaps considerably with new distribution mechanisms (like sound recording and online streaming), that have different-but-related effects.
 
 The effect of technology on jobs in general is a huge topic with a long history. We get the term ["Luddite" from texture workers](https://en.wikipedia.org/wiki/Luddite) that sabotaged new machines that replaced their jobs. (We also get the word [sabotage](https://en.wikipedia.org/wiki/Sabotage#Etymology) from a similar source.) 
 
@@ -225,11 +225,11 @@ The effect of technology on jobs in general is a huge topic with a long history.
 
 **Photography**
 
-In the 19th Century, photography replaced the need for portrait painters and the inferior silhouette techniques. But they didn't all go out of work; many converted their portrait studios into photography studios.
-
-Photography replaced practical drafting skills for architecture and record-keeping, and displaced the veduta painters that sold who postcards to travelers in Italy.
+In the 19th Century, photography replaced the need for portrait painters and the inferior silhouette techniques. But they didn't all go out of work; many converted their portrait studios into photography studios. Photography also replaced practical drafting skills for architecture and record-keeping, and displaced the veduta painters that sold who postcards to travelers in Italy.
  
-We have fewer painters today, but many, many more people making pictures in one way or another, and many more people making pictorial art.  
+We have fewer painters today, but many, many more people making pictures in one way or another, and many more people making pictorial art. 
+
+If, in 1840, you asked "will this hurt jobs for artists?" and you thought that physical painting with oil paints was the real art form, then the answer would have been Yes. But, according to the much broader class of things we call "art" today, the answer would be No.
 
 <center>
 <figure>
@@ -245,7 +245,7 @@ We have fewer painters today, but many, many more people making pictures in one 
 
 Cinema, in its early days, required big bulky cameras and lights, and managing physical celluloid film. 
 
-Film was developed on celluloid strips, and editing movies required physically cutting strips of film with scissors and taping them together; just managing all these strips of film was a lot of work. By the 80s, an indie filmmaker could do his own cinematography; the initial development of digital video editing replaced cutting strips of film with moving files around on a computer. Many of the jobs around cinematography and film editing whittled down. 
+Film was developed on celluloid strips, and editing movies required physically cutting strips of film with scissors and taping them together; just managing all these strips of film was a lot of work. By the 80s, an indie filmmaker could do their own cinematography; the initial development of digital video editing replaced cutting strips of film with moving files around on a computer. Many of the jobs around cinematography and film editing whittled down. 
 
 Nowadays, many of the videos we watch are made by a single person filming and editing on their phone and sharing on social media.  Filmmaking has gone from a massive, multiperson effort to something you can do alone in your living room. More people are making video—and sharing them on social media—than ever before. 
 
