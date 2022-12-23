@@ -335,7 +335,7 @@ It's also worth noting that new distribution technology can lead to new styles o
 
 **The Short-Range versus the Long-Range** 
 
-These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over decades.  [It's important to distinguish the short-range and long-range impacts, which can look quite different](https://www.jstor.org/stable/3105385).
+These debates over technology's effects tend to mix up two different things: what happens to workers right now, and what happens over decades.  [It's important to distinguish the short-range and long-range impacts, which can look quite different](https://www.jstor.org/stable/3105385), and to consider both.
 
 **Short-range.** I've heard a lot of past stories of traditional artists—like illustrators and designers and the Disney animators mentioned above—who were left behind by the transition to digital tools a few decades ago.  
 
