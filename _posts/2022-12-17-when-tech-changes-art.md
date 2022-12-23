@@ -345,7 +345,7 @@ What should be done to protect today's artists? I do not know, but I believe it 
 
 Borrowing experience from past labor movements (particularly creative workers' unions) seems relevant here. For example, in the 1930s, some musicians' unions [secured a fund for performance musicians put out of work](https://timesmachine.nytimes.com/timesmachine/1929/11/17/92007058.html?pageNumber=164) by sound recording technology.  I don't have much expertise or advice here to offer.  Again, the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) might be of interest here.
 
-In some cases, working artists will see past the misleading hype about "creative AI", and recognize ways that new tools enhance their processes.  The future of art is not people typing words into a text-box (we already have this with Image Search and Stock Photography), but artists integrating these tools into modified workflows.  People with artistic skill and experience will be best positioned to use these new tools as they evolved, provided they take the time to learn.
+Some working artists will be able to keep doing what they're doing. Others will see past the misleading hype about "creative AI", and recognize ways that new tools enhance their processes.  The future of art is not people typing words into a text-box (we already have this with Image Search and Stock Photography), but artists integrating these tools into modified workflows.  People with artistic skill and experience will be best positioned to use these new tools as they evolved, provided they take the time to learn.
 
 This won't work for everyone, sadly.
 
@@ -362,13 +362,13 @@ New art technologies don't exist in a vacuum—they inherit the sociopolitical i
 
 Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
-Likewise, the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion).
-
-Baudelaire's argument against photography was an expression of his rejection of modernity in general.
+Likewise, the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion). Baudelaire's argument against photography was an expression of his rejection of modernity in general.
 
 **"AI" art.** "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about harm to currently-working artists, while also being excited about the artistic potential of these tools. 
 
-I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.  Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics.  
+I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  
+
+Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from—even if this ends up being the most visible instance.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleadingly saying that the "AI" software is itself an artist reflects broader problems and potential harms of "AI" hype.  Perhaps the questions of "AI" art ethics will force a broader reckoning of some of the problems of "AI" ethics.  
 
 When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns discussed above), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html).
 
