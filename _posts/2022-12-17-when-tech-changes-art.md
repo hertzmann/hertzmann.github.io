@@ -280,7 +280,7 @@ Yet, big budget filmmaking and TV are still massive enterprises, huge labor-inte
 </figure>
 </center>
 
-Nowadays, this can all be done on a smartphone.
+Nowadays, this can all be done on a smartphone. But big budget, expensive productions with large crews still make movies—and, now, also, many expensive TV shows as well.
 
 **Recorded music**
 
@@ -313,7 +313,9 @@ Did recorded music cause the _total_ number of musicians making a living from mu
 
 In the 1980s, Disney animators were scared of computers, fearing that computers would replace them entirely. But then Pixar built an extraordinarily-successful business of making computer-animated movies—directed, written, and animated by a large studio of enormously-talented artists. The computer didn't do the animation, it was a new animation tool. 
 
-By the early 2000s, Disney's traditional cel animation business was in bad shape. Together with Pixar's success, Disney management interpreted this as signalling the death of traditional cel animation. They  shut down cel animation in Burbank, and laid off any traditional animators that couldn't learn computer animation.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy); audiences viewed it as old-fashioned. So Disney gave up on cel animation for good.  Styles and tastes change, and technology is one of the driving factors.  
+By the early 2000s, Disney interpreted their traditional cel animation business, together with Pixar's success, as signalling the death of traditional cel animation. They shut down cel animation in Burbank, and all traditional animators had to learn computer animation; the ones that couldn't were laid off.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy); audiences viewed it as old-fashioned. So Disney gave up on cel animation for good.  Styles and tastes change, and technology is one of the driving factors.  
+
+Note that the skills involved in computer animation are quite similar to those in hand-drawn animation. The input devices are different, but both are essentially skills of _performing through pictures_. I don't know if this is still true, but I remember hearing that Pixar would hire for people _who could animate well by hand_; being able to use specific tools was secondary. 
 
 Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And the singular [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) brilliantly merges hand-animation with video games, plus an absolutely banging jazz soundtrack.)
 
