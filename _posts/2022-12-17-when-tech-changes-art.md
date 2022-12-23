@@ -168,14 +168,14 @@ Imitation runs throughout the history of  "AI" art. Most commonly, [style transf
 
 History teaches that this simulation is temporary: people aren't going to want "paintings in the style of Van Gogh" for very long (if they ever do). "AI" art may evolve into something very different.  
 
-One could also make the case that the popularity of [visual indeterminacy in GAN Art](https://direct.mit.edu/leon/article-abstract/53/4/424/96926/Visual-Indeterminacy-in-GAN-Art?redirectedFrom=fulltext) refers to [indeterminate visuals in Modern art](https://www.nytimes.com/interactive/2021/01/29/arts/design/juan-gris-cubism-collage.html), although without any specific reference in style.  It's more the feeling that's similar; GAN art often "feels like" Modern art because of the indeterminacy and ambiguity.
+One could also make the case that the popularity of [visual indeterminacy in GAN Art](https://direct.mit.edu/leon/article-abstract/53/4/424/96926/Visual-Indeterminacy-in-GAN-Art?redirectedFrom=fulltext) refers to [indeterminate visuals in Modern art](https://www.nytimes.com/interactive/2021/01/29/arts/design/juan-gris-cubism-collage.html), although without any specific stylistic reference.  
 
 
 
 
 # 3. The Artistic Backlash ("This will kill art / This is Not Art")
 
-When a new machine for art emerges, an _artistic backlash_ responds, claiming that a new machine for making art produces inherently inferior art. Versions of this claim appear are that this new thing will "kill art," this is "not art," this will lead to dumbed-down and "soulless" art that will crowd out the good stuff, and so on.  (I'll discuss other sides to the backlash later.)
+When a new machine for art emerges, an _artistic backlash_ responds, claiming that a new machine for making art produces inherently inferior art. Versions of this claim appear are that this new thing will "kill art," this is "not art," this will lead to dumbed-down and "soulless" art that will crowd out the good stuff, and so on.  (I'll discuss other aspects of backlash later.)
 
 In the earliest demonstrations of photography (the Daguerotype) in 1838, [painters like Paul Delaroche and J. M. W. Turner reacted](/2022/08/29/photography-history.html) that "This is the end of art."  Twenty years later, in a review of a photography salon, the poet [Charles Baudelaire wrote](https://www.csus.edu/indiv/o/obriene/art109/readings/11%20baudelaire%20photography.htm) that "If photography is allowed to supplement art in some of its functions, it will soon supplant or corrupt it altogether, thanks to the stupidity of the multitude which is its natural ally.”
 
