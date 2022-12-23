@@ -349,7 +349,9 @@ In some cases, current working artists will see past the misleading hype about "
 
 This won't work for everyone, sadly, just as not all traditional artists and animators made the transition to digital tools.
 
-**In the long-range,** A common thread in all these cases is that a traditional role shrinks (e.g., live performance musician, portrait painter) but the types of roles expands (e.g., recording artist, house music DJ, indie filmmaker).  Creative tools are more available to nonexperts (e.g., home movies, consumer photography), which occasionally provides a starting point for kids growing up to be artists.  Traditional roles remain, but are more of a rarified event (e.g., attending live music concerts, buying hand-drawn art).  I would find it hard to believe that the overall range of artistic opportunities or forms of expression has been diminished by tools for making art.
+**In the long-range,** A common thread in all these cases is that a traditional role shrinks (e.g., live performance musician, portrait painter) but the types of roles expands (e.g., recording artist, house music DJ, indie filmmaker).  Creative tools are more available to nonexperts (e.g., home movies, consumer photography), which occasionally provides a starting point for kids growing up to be artists.  Traditional roles remain, but are more rarified event (e.g., attending live music concerts, buying hand-drawn art).  More artists' workflows will use these "AI" techniques extensively.  
+
+I would find it hard to believe that the overall range of artistic opportunities or forms of expression has been diminished by tools for making art.
 
 
 
