@@ -319,10 +319,11 @@ Note that the skills involved in computer animation are quite similar to those i
 
 Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And the singular [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) brilliantly merges hand-animation with video games, plus an absolutely banging jazz soundtrack.)
 
-A similar transition occured in visual effect (VFX); when ILM transitioned from model-making and stop-motion animation around the time of "Jurassic Park," [many of the traditional modelmakers resented and fear the digital painters and computer animation staff](https://en.wikipedia.org/wiki/Light_%26_Magic_(TV_series)). Some animators made the transition, and some didn't
+**Visual effects (VFX)**
 
-But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and because computer animation is used throughout "live action" films. 
-For example, "Avatar" is basically a computer-animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney [had an animators strike in 1941](https://en.wikipedia.org/wiki/Disney_animators%27_strike) (see the way he depicted unionizers as clowns in that year's "Dumbo").  Computer animation is wide-spread in video games, both little indie games and big AAA games; it's common throughout television.  
+A similar transition occured in VFX: when ILM transitioned from model-making and stop-motion animation around the time of "Jurassic Park," [many of the traditional modelmakers resented and fear the digital painters and computer animation staff](https://en.wikipedia.org/wiki/Light_%26_Magic_(TV_series)). Some animators made the transition, and some didn't
+
+But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and because computer animation is used throughout "live action" films. For example, "Avatar" is basically a computer-animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney [had an animators strike in 1941](https://en.wikipedia.org/wiki/Disney_animators%27_strike).  Computer animation is wide-spread in video games, both little indie games and big AAA games; it's common throughout television.  
 
 
 **Distribution mechanisms** 
