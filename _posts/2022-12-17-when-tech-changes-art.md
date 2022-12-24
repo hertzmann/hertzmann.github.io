@@ -23,9 +23,9 @@ My main thesis here is:
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  This is especially important for people working in creative fields today. 
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  I suggest that understanding this history is particularly important for working artists today.  
 
-Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
+Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. Things like this have happened before. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
 
 
 **What is "AI" art?**
@@ -319,7 +319,10 @@ Note that the skills involved in computer animation are quite similar to those i
 
 Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And the singular [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) brilliantly merges hand-animation with video games, plus an absolutely banging jazz soundtrack.)
 
-But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and because computer animation is used throughout "live action" films. For example, "Avatar" is basically a computer-animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney [had an animators strike in 1941](https://en.wikipedia.org/wiki/Disney_animators%27_strike) (see the way he depicted unionizers as clowns in that year's "Dumbo").  Computer animation is wide-spread in video games, both little indie games and big AAA games; it's common throughout television.  
+A similar transition occured in visual effect (VFX); when ILM transitioned from model-making and stop-motion animation around the time of "Jurassic Park," [many of the traditional modelmakers resented and fear the digital painters and computer animation staff](https://en.wikipedia.org/wiki/Light_%26_Magic_(TV_series)). Some animators made the transition, and some didn't
+
+But now, there are opportunities for many more animators than before, because 3D computer animation makes smaller projects much more feasible, and because computer animation is used throughout "live action" films. 
+For example, "Avatar" is basically a computer-animated movie with occasional actors and sets.  VFX industry jobs are a mess now, but this is more about the business than the technology; Walt Disney [had an animators strike in 1941](https://en.wikipedia.org/wiki/Disney_animators%27_strike) (see the way he depicted unionizers as clowns in that year's "Dumbo").  Computer animation is wide-spread in video games, both little indie games and big AAA games; it's common throughout television.  
 
 
 **Distribution mechanisms** 
@@ -370,7 +373,9 @@ Likewise, the older generations' rejection of the rock-and-roll music of the 195
 
 I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from—even if this ends up being the most visible instance.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleading claims the "AI" software is itself an artist reflects broader dangers of "AI" hype.  Perhaps the visibility of "AI" art will force a broader reckoning of some of the problems of "AI" ethics.  
 
-When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html). Conversely, I recently [participated in an architectural panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation—even when generating results in their own firms' styles. For them, the image is not the final product, and so the technology could only enhance their processes.
+When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html). 
+
+Conversely, I recently [participated in an architectural panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation—even when generating results in their own firms' styles. For them, the image is not the final product, and so the technology could only enhance their processes.
 
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll was objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
@@ -397,10 +402,13 @@ Now, **"AI" art** promises something similar, as we again attempt to grapple wit
 
 # Is it different this time?
 
-Extrapolating from all these trends risks missing the ways  this time could be different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work, for example, claiming that diffusion models work by copying the data, or by presenting "the [AI as artist](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/abstract)" as a serious possibility.
+Extrapolating from all these trends risks missing the ways  this time could be different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work, for example, claiming that diffusion models work by copying the data, or by presenting ["the AI as artist" as a serious possibility](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/abstract).
 
-Moreover, the common trends and the underlying mechanisms line up so well between the current "AI" art and the past examples. A machine automates some stages of the process that people thought was essential to what artists did. These algorithms are generative art, and people have been making generative art for decades.  These algorithms automate more of the generative process than before. [Art is social, it is about connection between humans](/2021/03/22/art-is-social.html), and computers can never replace the human element.
+Moreover, the common trends and the underlying mechanisms line up so well between the current "AI" art and the past examples. A machine automates some stages of the process that people thought was essential to what artists did. These algorithms are generative art, and people have been making generative art for decades.  These algorithms automate more of the generative process than before. 
 
+There are a few key differences between previous iterations that change the discussion. First, the misleading notion of "artificial intelligence" distorts the discussion, and the mistaken impression that computer algorithms can be artists is stronger. Second, the sourcing of training data may change the societal response. 
+
+Regardless, [art is social, it is about connection between humans](/2021/03/22/art-is-social.html), and computers can never replace human authorship. The questions are authorship is expressed, and how ownership and control shift.
 
 
 
