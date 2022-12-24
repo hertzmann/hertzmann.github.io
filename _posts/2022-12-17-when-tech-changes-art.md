@@ -196,7 +196,7 @@ It sounds a lot like ["disruptive innovation"](https://en.wikipedia.org/wiki/Dis
 
 **Mediocre forms fade away**
 
-My article could be accused of selection bias: I'm mostly focusing on inventions that ended up being wildly successful and influential. What about ones that didn't? These, I argue, generally faded away on their own.
+This article so far could be accused of selection bias: I'm mostly focusing on inventions that ended up being wildly successful and influential. What about ones that didn't? These, I argue, generally faded away on their own.
 
 Not all technology has been great for art, but when a technology is gimmicky and/or artistically-limited—like [Smell-o-Vision](https://en.wikipedia.org/wiki/Smell-O-Vision) or [autotune](https://en.wikipedia.org/wiki/Auto-Tune)—it doesn't last.  
 
