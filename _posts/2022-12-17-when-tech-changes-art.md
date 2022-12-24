@@ -364,17 +364,17 @@ I would find it hard to believe that the overall range of artistic opportunities
 
 # 5. Socioeconomic concerns pose as artistic judgements
 
-New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones. I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns and judgements as artistic ones.
+New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html)). I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns and judgements as artistic ones.
 
 Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
-Likewise, the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion). Baudelaire's argument against photography was an expression of his rejection of modernity in general.
+Baudelaire's argument against photography expressed his rejection of modernity in general; the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion). 
 
-**"AI" art.** "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about harm to currently-working artists, while also being excited about the artistic potential of these tools. 
+**"AI" art.** "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about harm to currently-working artists, while also being excited about the artistic potential of these tools, extending the 60-year history of computer art. 
 
 I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from—even if this ends up being the most visible instance.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleading claims the "AI" software is itself an artist reflects broader dangers of "AI" hype.  Perhaps the visibility of "AI" art will force a broader reckoning of some of the problems of "AI" ethics.  
 
-When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns), perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html). 
+When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns (like the very valid employment concerns). 
 
 Conversely, I recently [participated in an architectural panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation—even when generating results in their own firms' styles. For them, the image is not the final product, and so the technology could only enhance their processes.
 
