@@ -184,7 +184,7 @@ In the early days of sound movies, people like Charlie Chaplin fought against it
 
 **Impossible or inappropriate standards**
 
-Critics often hold these experimental new forms to impossible standards.  I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the speaker with a profound formative experience. 
+Critics often hold these experimental new forms to impossible standards.  I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the author with a profound formative experience. 
 
 These responses often seem like [knee-jerk responses](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
 
