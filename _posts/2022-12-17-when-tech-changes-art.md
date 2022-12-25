@@ -30,7 +30,7 @@ Maybe the future won't repeat the past, but history could help avoid the superfi
 
 **What is "AI" art?**
 
-This was a niche topic when I first started exploring these ideas in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18) ([talk](https://www.youtube.com/watch?v=APkitEWqdKw)).  In the past year, the stakes and emotional pitch have raised.
+This was a niche topic when I first started exploring these ideas in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18) ([talk](https://www.youtube.com/watch?v=APkitEWqdKw)), but now it seems to have exploded.
 
 In this article, I'm primarily focused on recent _neural_ "AI" art, which I divide into two waves (so far). The **First Neural "AI" Art Wave lasted 2015–2021** and included DeepDream to GANs and early text-to-image; "AI" artists did their own coding, built on open-source tools, and, in some cases, built their own datasets. In the nascent **Second Wave (2022–)**, artists are experimenting with general purpose text-to-image interfaces or chatbots without doing their own coding or building their own datasets; these models often rely on proprietary code and/or datasets, although there are still some people building their own systems to make art.
 
@@ -38,7 +38,7 @@ In this article, I'm primarily focused on recent _neural_ "AI" art, which I divi
 
 I would define _"AI art"_ as any art primarily made with the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  "AI" art has been around for many decades, e.g.,  [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include art _about_ "AI"—whether or not it uses "AI"—like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," "[ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/)," and "[White Collar](https://whitecollar.thenewinquiry.com/)".  But this post is focused on the neural generative stuff.
 
-These definitions will become increasingly blurry, as "AI" tools become more and more integrated into everyones' workflows, the way ["AI" tools are already in everyones' smartphone cameras](https://jov.arvojournals.org/Article.aspx?articleid=2783759) (whether or not they realize it).
+These definitions will become increasingly blurry, as "AI" tools become more and more integrated into everyones' workflows, the way ["AI" tools are already in everyones' smartphone cameras](https://jov.arvojournals.org/Article.aspx?articleid=2783759) (whether or not they realize it).  Many of the techniques used in digital imaging today might have been called "AI" a few decades ago.
 
 I put "AI" in quotes because [these things are not intelligent](/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.  
 
@@ -186,7 +186,7 @@ In the early days of sound movies, people like Charlie Chaplin fought against it
 
 Critics often hold these experimental new forms to impossible standards.  I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the author with a profound formative experience. 
 
-These responses often seem like [knee-jerk responses](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
+These responses often seem like [status quo bias](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
 
 In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he wrote—with obvious skepticism—that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.    In 2010, [film critic Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
 
@@ -302,7 +302,7 @@ Even if the one part of the profession was decimated (performing music in movie 
 
 Did recorded music cause the _total_ number of musicians making a living from music go up or down (relative to the overall decline of the middle class)? I don't know if numbers are available for this.  
 
-**Lil Nas X** is one of my favorite examples of how new technologies create new musical opportunities.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019.  This is not a path to success that many people follow, but online platforms can potentially allow many people to reach niche audiences as well.
+**Lil Nas X** is one of my favorite examples of how new technologies create new musical opportunities.  At one point he was just some unemployed guy in his bedroom, finding beats online and rapping over them. He found a beat by some Dutch guy making beats in his attic—that he'd made by sampling a Nine Inch Nails song—and licensed it for $30; Lil Nas X shared his song  ["Old Town Road,"](https://en.wikipedia.org/wiki/Old_Town_Road) online, and it became huge...  the megahit of 2019.  This is not a path to success that many people can follow (online distribution platforms may lead to rich-get-richer effects), but online platforms can potentially allow many people to reach niche audiences as well.
 
 <center>
 <iframe title="New York Times Video - Embed Player" width="480" height="321" frameborder="0" scrolling="no" allowfullscreen="true" marginheight="0" marginwidth="0" id="nyt_video_player" src="https://www.nytimes.com/video/players/offsite/index.html?videoId=100000006445156"></iframe>
@@ -315,7 +315,7 @@ In the 1980s, Disney animators were scared of computers, fearing that computers 
 
 By the early 2000s, Disney interpreted their traditional cel animation business, together with Pixar's success, as signalling the death of traditional cel animation. They shut down cel animation in Burbank, and all traditional animators had to learn computer animation; the ones that couldn't were laid off.  Once Disney bought Pixar, Pixar's leadership took over Disney animation and resurrected Disney cel animation, because they loved the traditional art form and Disney's history. Yet, [their first traditional animation wasn't considered successful enough](https://en.wikipedia.org/wiki/The_Princess_and_the_Frog#Impact,_debates,_and_legacy); audiences viewed it as old-fashioned. So Disney gave up on cel animation for good.  Styles and tastes change, and technology is one of the driving factors.  
 
-Note that the skills involved in computer animation are quite similar to those in hand-drawn animation. The input devices are different, but both are essentially skills of _performing through pictures_. I don't know if this is still true, but I remember hearing that Pixar would hire for people _who could animate well by hand_; being able to use specific tools was secondary. 
+Note that the skills involved in computer animation are quite similar to those in hand-drawn animation. The input devices are different, but both are essentially skills of _performing through pictures_.  I remember hearing at one time that Pixar would hire for people _who could animate well by hand_ rather than being trained in specific animation software.
 
 Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And the singular [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) brilliantly merges hand-animation with video games, plus an absolutely banging jazz soundtrack.)
 
@@ -334,9 +334,7 @@ The role of new distribution platforms, [like recorded music](http://cup.columbi
 
 I recommend the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) on this topic.  [Here's the chapter on the effects of online music streaming on artists](https://www.wired.com/story/spotify-streaming-playlists-music/). 
 
-It's also worth noting that new distribution technology can lead to new styles of art.  The transition from live performance to recorded music—and then to music sold on Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes (like Old Town Road) that are only possible with recorded media.  New distribution platforms create new media.
-
-
+It's also worth noting that new distribution technology can enable new styles of art.  The transition from live performance to recorded music—and then to music sold on Long Playing (LP) records—changed music, leading to things like [album-oriented rock](https://en.wikipedia.org/wiki/Album-oriented_rock) and TikTok remixes that are only possible with recorded media.  Pink Floyd and Radiohead and Old Town Road couldn't exist without recording technology. 
 
 
 **The Short-Range versus the Long-Range** 
@@ -347,8 +345,7 @@ These debates over technology's effects tend to mix up two different things: wha
 
 In the past year, many working artists have shared their genuine anxiety and fear over what these "AI" technologies mean for their livelihoods and identities. The fear is real, and, as illustrated above, the concerns are not without precedent.  
 
-What should be done to protect today's artists? I do not know, but I believe it is fundamentally a _labor_ issue, not an _art_ issue. New restrictions on how training data is used could slow down progress. Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold. How do we as a society protect artists and build better buffers against change?
-
+What should be done to protect today's artists? I do not know, but I believe it is fundamentally a _labor_ issue, not an _art_ issue.  Unfortunately, we here in the US do not have much of a social safety net, so, if you lose your employment for whatever reason, even just bad luck, you can really be out in the cold. How do we as a society protect artists and build better buffers against change?  New restrictions on how training data use could slow down progress.  
 Borrowing experience from past labor movements (particularly creative workers' unions) seems relevant here. For example, in the 1930s, some musicians' unions [secured a fund for performance musicians put out of work](https://timesmachine.nytimes.com/timesmachine/1929/11/17/92007058.html?pageNumber=164) by sound recording technology.  I don't have much expertise or advice here to offer.  Again, I suggest the book [_Chokepoint Capitalism_](https://www.penguinrandomhouse.com/books/710957/chokepoint-capitalism-by-cory-doctorow-and-rebecca-giblin/) as offering some useful suggestions here.
 
 Some working artists will be able to keep doing what they're doing. Others will see past the misleading hype about "creative AI", and recognize ways that new tools enhance their processes.  The future of art is not people typing words into a text-box (we already have this with Image Search and Stock Photography), but artists integrating these tools into modified workflows.  People with artistic skill and experience will be best positioned to use these new tools as they evolved, provided they take the time to learn.
