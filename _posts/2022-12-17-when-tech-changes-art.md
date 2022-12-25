@@ -352,18 +352,20 @@ Some working artists will be able to keep doing what they're doing. Others will 
 
 This won't work for everyone, sadly.
 
-(Are there examples where development of a promising new technology was deliberately halted? They're naturally harder to find, which could lead to some survivorship bias. I'm not sure there are [relevant examples here](https://en.wikipedia.org/wiki/Who_Killed_the_Electric_Car%3F).)
+(Are there examples where development of a promising new technology was deliberately halted? They're naturally harder to find, which could lead to some survivorship bias. The only examples I can think of are [electric cars](https://en.wikipedia.org/wiki/Who_Killed_the_Electric_Car%3F) and biological things like human cloning, but I'm not sure those are relevant here.)
 
 **In the long-range,** A common thread in all these cases is that a traditional role shrinks (e.g., live performance musician, portrait painter) but the types of roles expands (e.g., recording artist, house music DJ, indie filmmaker).  Creative tools are more available to nonexperts (e.g., home movies, consumer photography), which occasionally provides a starting point for kids growing up to be artists.  Traditional roles remain, but are more rarified event (e.g., attending live music concerts, buying hand-drawn art).  More artists' workflows will use these "AI" techniques extensively.  
 
-I would find it hard to believe that the overall range of artistic opportunities or forms of expression has been diminished by tools for making art.
+I find it hard to imagine that the overall range of artistic opportunities or forms of expression has been diminished by developing tools for making art, or that the new "AI" tools will be different in this regard.
 
 
 
 
 # 5. Socioeconomic concerns pose as artistic judgements
 
-New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html)). I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns and judgements as artistic ones.
+New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html)). 
+
+I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns as artistic judgments.  This may be difficult; I suspect it's easier to accept a new artistic style when it doesn't make you feel threatened.
 
 Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
