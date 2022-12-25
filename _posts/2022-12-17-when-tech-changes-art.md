@@ -14,18 +14,18 @@ At a few times in history, new technologies came along that changed the way we m
 
 Now seems like one of those times.
 
-When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are enthusiastic about any change.  A lot of the discussions around "AI" art tend toward these extreme views: "It's not Real Art!" "It will kill art!" or "It's just like photography" and therefore there's no cause for concern.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-range and then the long-range.
+When change happens, it's surprising. Some people seem to act as though the way that things are now is the way they always have been, and always should be. Others are enthusiastic about any change.  As a result, a lot of the discussions tend toward extreme views: the new technology is either going to improve everything or ruin everything.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-range and then the long-range.
 
-I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
+In this post, I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
 
 My main thesis here is:
 
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  I suggest that understanding this history is particularly important for working artists today.  
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  I suggest that understanding this history is particularly important for artists working today.  
 
-Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. Things like this have happened before. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
+Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
 
 
 **What is "AI" art?**
