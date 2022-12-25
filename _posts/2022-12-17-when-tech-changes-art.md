@@ -352,6 +352,8 @@ Some working artists will be able to keep doing what they're doing. Others will 
 
 This won't work for everyone, sadly.
 
+(Are there examples where development of a promising new technology was deliberately halted? They're naturally harder to find, which could lead to some survivorship bias. I'm not sure there are [relevant examples here](https://en.wikipedia.org/wiki/Who_Killed_the_Electric_Car%3F).)
+
 **In the long-range,** A common thread in all these cases is that a traditional role shrinks (e.g., live performance musician, portrait painter) but the types of roles expands (e.g., recording artist, house music DJ, indie filmmaker).  Creative tools are more available to nonexperts (e.g., home movies, consumer photography), which occasionally provides a starting point for kids growing up to be artists.  Traditional roles remain, but are more rarified event (e.g., attending live music concerts, buying hand-drawn art).  More artists' workflows will use these "AI" techniques extensively.  
 
 I would find it hard to believe that the overall range of artistic opportunities or forms of expression has been diminished by tools for making art.
