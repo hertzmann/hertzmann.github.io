@@ -365,7 +365,7 @@ I find it hard to imagine that the overall range of artistic opportunities or fo
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html)). 
 
-I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns as artistic judgments.  This may be difficult; I suspect it's easier to accept a new artistic style when it doesn't make you feel threatened.
+I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns as artistic judgments.  This may be difficult; I suspect it's easier to accept a new artistic style when it doesn't make you feel threatened ("Old Town Road"'s [removal from the country charts](https://en.wikipedia.org/wiki/Old_Town_Road#Genre_controversy) is another example).
 
 Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
