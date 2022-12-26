@@ -16,7 +16,7 @@ Now seems like one of those times.
 
 When change happens, it's surprising. Some people seem to act as though [the way that things are now is the way they always have been](/2022/12/16/knee-jerk-responses.html), and always should be. Others are enthusiastic about any change.  As a result, a lot of the discussions tend toward extreme views: the new technology is either going to improve everything or ruin everything.  But art styles, trends, and techniques are not static and change frequently.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-range and then the long-range.  
 
-In this post, I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
+In this post, I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?  How are they different?
 
 My main thesis here is:
 
@@ -34,11 +34,11 @@ This was a niche topic when I first started exploring these ideas in my 2018 art
 
 In this article, I'm primarily focused on recent _neural_ "AI" art, which I divide into two waves (so far). The **First Neural "AI" Art Wave lasted 2015–2021** and included DeepDream to GANs and early text-to-image; "AI" artists did their own coding, built on open-source tools, and, in some cases, built their own datasets. In the nascent **Second Wave (2022–)**, artists are experimenting with general purpose text-to-image interfaces or chatbots without doing their own coding or building their own datasets; these models often rely on proprietary code and/or datasets, although there are still some people building their own systems to make art.
 
-"AI" art isn't just one thing: these tools offer both faster ways to make what we can already make, and new types of media.   Even so, changing the way you make pictures changes the pictures you'll make.  Much of the discussion this year is about text-to-image tools, but I believe this is a temporary stage; these things are going to keep evolving very quickly.
+"AI" art isn't just one thing: these tools offer both faster ways to make what we can already make, and new types of media.   Even so, changing the way you make pictures changes the pictures you'll make.  Much of the discussion this year is about text-to-image tools, but I believe this is a temporary stage; these things are going to continue evolving very quickly.
 
 I would define _"AI art"_ as any art primarily made with the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  "AI" art has been around for many decades, e.g.,  [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include art _about_ "AI"—whether or not it uses "AI"—like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," "[ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/)," and "[White Collar](https://whitecollar.thenewinquiry.com/)".  But this post is focused on the neural generative stuff.
 
-These definitions will become increasingly blurry, as "AI" tools become more and more integrated into everyones' workflows, the way ["AI" tools are already in everyones' smartphone cameras](https://jov.arvojournals.org/Article.aspx?articleid=2783759) (whether or not they realize it).  Many of the techniques used in digital imaging today might have been called "AI" a few decades ago.
+These definitions will become increasingly blurry, as "AI" tools become more and more integrated into everyones' workflows, the way [there's already some "AI" in everyones' smartphone cameras](https://jov.arvojournals.org/Article.aspx?articleid=2783759).  Many of the techniques used in digital imaging today might have been called "AI" a few decades ago.
 
 I put "AI" in quotes because [these things are not intelligent](/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.  
 
