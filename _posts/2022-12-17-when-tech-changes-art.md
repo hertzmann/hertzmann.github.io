@@ -23,16 +23,19 @@ My main thesis here is:
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
-By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better.  I suggest that understanding this history is particularly important for artists working today as well as people working on the technology.  
+By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better. Maybe the future won't repeat the past, but this history can help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before.
 
-Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before, although there are also some differences. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
+**The problems are broader than art**
 
+With these new technologies, artists are justifiably worried about their livelihoods, and they're upset about training on their data without consent. These are significant problems and concerns that need to be addressed.  
+
+Addressing these threats and the potential harms of these technologies first requires identifying the problems correctly: they are ethical, legal, and labor problems. These problems are not unique to art; they reflect many structural problems affecting our society.
+
+But these threats are often expressed as threats to art itself, to the expression of human creativity.  However, as I argued in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw)), computers have never been artists even as they've gotten technologically quite good. I explained why they have never made artists obsolete, and I why I think they never will. Humans make art using technology, including computer software such as "AI" algorithms.  Nothing fundamental has changed in this equation with the latest developments. The new algorithms do not "automate creativity" or make all artists obsolete, just like all the previous technological developments that were previously predicted to do those same things. 
 
 
 
 **What is "AI" art?**
-
-This was a niche topic when I first started exploring these ideas in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18) ([talk](https://www.youtube.com/watch?v=APkitEWqdKw)). In that paper and talk, I discussed why computers are not artists, and why I do not think they will ever be, no matter how good the technology gets (and the technology has been extremely good for a long time). Humans make art using technology, including computer software such as "AI" algorithms.
 
 In this article, I'm primarily focused on recent _neural_ "AI" art, which I divide into two waves (so far). The **First Neural "AI" Art Wave lasted 2015–2021** and included DeepDream to GANs and early text-to-image; "AI" artists did their own coding, built on open-source tools, and, in some cases, built their own datasets. In the nascent **Second Wave (2022–)**, artists are experimenting with general purpose text-to-image interfaces or chatbots without doing their own coding or building their own datasets; these models often rely on proprietary code and/or datasets, although there are still some people building their own systems to make art.
 
