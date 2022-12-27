@@ -14,9 +14,9 @@ At a few times in history, new technologies came along that changed the way we m
 
 Now seems like one of those times.
 
-When change happens, it's surprising. Some people seem to act as though [the way that things are now is the way they always have been](/2022/12/16/knee-jerk-responses.html), and always should be. Others are enthusiastic about any change.  As a result, a lot of the discussions tend toward extreme views: the new technology is either going to improve everything or ruin everything.  But art styles, trends, and techniques are not static and change frequently.  The reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-range and then the long-range.  
+When change happens, it's surprising, and it's tempting to see it in extremes: the new technology is either going to improve everything or ruin everything.  But the reality of how past technologies changed art is nuanced and complex, with different effects for different communities in the short-range and then the long-range.  
 
-In this post, I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?  How are they different?
+In this post, I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
 
 My main thesis here is:
 
@@ -28,9 +28,11 @@ By understanding and recognizing patterns in new art-making technologies, we can
 Maybe the future won't repeat the past, but history could help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before, although there are also some differences. And, identifying these themes is fascinating in itself, if you like thinking about how things change.  
 
 
+
+
 **What is "AI" art?**
 
-This was a niche topic when I first started exploring these ideas in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18) ([talk](https://www.youtube.com/watch?v=APkitEWqdKw)), but now it seems to have exploded.
+This was a niche topic when I first started exploring these ideas in my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18) ([talk](https://www.youtube.com/watch?v=APkitEWqdKw)). In that paper and talk, I discussed why computers are not artists, and why I do not think they will ever be, no matter how good the technology gets (and the technology has been extremely good for a long time). Humans make art using technology, including computer software such as "AI" algorithms.
 
 In this article, I'm primarily focused on recent _neural_ "AI" art, which I divide into two waves (so far). The **First Neural "AI" Art Wave lasted 2015–2021** and included DeepDream to GANs and early text-to-image; "AI" artists did their own coding, built on open-source tools, and, in some cases, built their own datasets. In the nascent **Second Wave (2022–)**, artists are experimenting with general purpose text-to-image interfaces or chatbots without doing their own coding or building their own datasets; these models often rely on proprietary code and/or datasets, although there are still some people building their own systems to make art.
 
