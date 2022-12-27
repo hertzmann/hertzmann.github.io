@@ -243,7 +243,7 @@ In the 19th Century, photography replaced the need for portrait painters and the
  
 We have fewer painters today, but many, many more people making pictures in one way or another, and many more people making pictorial art. 
 
-If, in 1840, you asked "will this hurt jobs for artists?" and you thought that physical painting with oil paints was the real art form, then the answer would have been Yes. But, according to the much broader class of things we call "art" today, the answer would be No.
+If, in 1840, you asked "will this hurt jobs for artists?": the answer would be "yes," because "artists" were, solely, people who painted physical pictures with real paint (or sculpted, or wrote, and so on). But, according to the much broader class of things we call "art" today, the answer would be No.
 
 <center>
 <figure>
