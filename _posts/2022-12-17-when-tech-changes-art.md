@@ -18,7 +18,7 @@ When change happens, it's surprising, and it's tempting to see it in extremes: t
 
 In this post, I'm specifically focused on technologies that automate (or seem to automate) steps of the artistic process.  What can past examples of such technologies changing art have in common, and do they have lessons for the current moment?
 
-My main thesis here is:
+My main thesis is:
 
 |**New art-making technologies change art in consistent ways, and studying the past helps us understand how things will change in the future.**|
 
@@ -27,7 +27,7 @@ By understanding and recognizing patterns in new art-making technologies, we can
 
 **The problems are broader than art**
 
-With these new technologies, artists are justifiably worried about their livelihoods, and they're upset about training on their data without consent. **These are significant threats and potential harms that need to be addressed.  Addressing them requires identifying the problems correctly: they are ethical, labor, and legal problems. These problems are not unique to art;** they reflect many structural problems in our society.  I suggest that artists confronting the threat of automation study both the history of previous eras when artists have confronted the threat of automation, and, indeed, past times when all kinds of workers have confronted this threat.  (I am not attempting to offer specific solutions here.)
+With these new technologies, artists are justifiably worried about their livelihoods, and they're upset about training on their data without consent. **These are significant threats and potential harms that need to be addressed.  Addressing them requires identifying the problems correctly: they are ethical, labor, and legal problems. These problems are not unique to art;** they reflect many structural problems in our society.  I suggest that confronting the threat of automation benefits from studying the history of previous eras when artists have confronted the threat of automation.  (I am not attempting to offer specific solutions here.)
 
 But these threats are often expressed as threats to art itself, to the expression of human creativity.  Things like this have been claimed many times in the past 200 years and, in retrospect, the claims have never been correct. In my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw)), I summarized why technology has never made artists obsolete, and why  I think it never will. People have been making art with computers for nearly 60 years, and nothing fundamental has changed in this equation with the latest developments. Today's latest algorithms do not "automate creativity" or make all artists obsolete, just like all the previous technological developments that were previously predicted to do those same things.  Humans make art using technology, including computer software such as "AI" algorithms.  
 
