@@ -25,11 +25,17 @@ My main thesis is:
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
 By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better. Maybe the future won't repeat the past, but this history can help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before.
 
-**The problems are broader than art**
+**Identifying the real risks**
 
-With these new technologies, artists are justifiably worried about their livelihoods, and they're upset about training on their data without consent. **These are significant threats and potential harms that need to be addressed.  Addressing them requires identifying the problems correctly: they are ethical, labor, and legal problems. These problems are not unique to art;** they reflect many structural problems in our society.  I suggest that confronting the threat of automation benefits from studying the history of previous eras when artists have confronted the threat of automation, and, of course, past times when workers in general have confronted this threat.  (I am not attempting to offer specific solutions here.)
+In the past year, many working artists have publicly shared intense fear and anger over what new "AI" technologies mean for their livelihoods, over training on data without consent, and the perception that "AI" researchers are trying to automate creativity to make human artists obsolete. These threats to livehoods are real and the potential harms need to be addressed. 
 
-But these threats are often described as threats to art itself, to the expression of human creativity.  Things like this have been claimed many times in the past 200 years and, in hindsight, the claims have never been correct. In my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw)), I summarized why technology has never made artists obsolete, and why  I think it never will. People have been making art with computers for nearly 60 years, and nothing fundamental has changed in this equation with the latest developments. Today's latest algorithms do not "automate creativity" or make all artists obsolete, just like all the previous technological developments that were previously predicted to do those same things.  Humans make art using technology, including computer software such as "AI" algorithms.  
+Addressesing these threats requires identifying them correctly, and one of the goals of this post is to look **at similar historical examples that help better understand the threats.**   One theme here is that these threats are about ethics and labor; they reflect many structural problems in our society.  I believe that studying history can help provide examples of how to respond to this threat, although I don't go into this much here.
+
+But these threats are often described as threats to art itself, to the expression of human creativity.  Things like this have been claimed many times in the past 200 years and, in hindsight, the claims have never been correct. In my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw)), I summarized why technology has never made artists obsolete, and why, I argue, it never will. People have been making art with computers for nearly 60 years, and nothing fundamental has changed in this equation with the latest developments.  Today's latest algorithms do not "automate creativity" or make all artists obsolete, just like all the previous technological developments that were previously predicted to do those same things.  Humans make art using technology, including computer software such as "AI" algorithms.  
+
+There's an important distinction between the long-term effects of new technologies versus the short-term ones. Arguments that these things will "kill art" or "make artists obsolete" will be increasingly unconvincing as these tools mature and more artists use them. Many people are already deploying the very-relevant analogy to photography.  As we will see, history teaches that new technologies that initially _appear_ do automate art end up enriching it in the long run.
+
+The harms and threats to focus on the shorter-term dangers to current working artists, focusing on the labor and ethical problems created (or made worse) by these technologies.
 
 
 **What is "AI" art?**
@@ -420,5 +426,5 @@ Regardless, [art is social, it is about connection between humans](/2021/03/22/a
 
 
 <hr>
-Thanks to Rif A. Saurous, Serge Belongie, Juliet Fiss, and others who commented.
+Thanks to Cassidy Curtis, Rif A. Saurous, Serge Belongie, Juliet Fiss, and others who commented.
 
