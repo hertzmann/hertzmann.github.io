@@ -27,7 +27,7 @@ By understanding and recognizing patterns in new art-making technologies, we can
 
 **Identifying the real risks**
 
-In the past year, many working artists  have publicly shared intense fear and anger over what new "AI" technologies mean for their livelihoods, over training on data without consent, and the perception that "AI" researchers are trying to automate creativity to make human artists obsolete. These threats to livehoods are real and the potential harms need to be addressed.  This is particularly relevant for certainly classes of professionals like concept artists and illustrators.
+In the past year, many working artists  have publicly shared intense fear and anger over what new "AI" technologies mean for their livelihoods, over training on data without consent, and the perception that "AI" researchers are trying to automate creativity to make human artists obsolete. These threats to livehoods are real and the potential harms need to be addressed.  This is particularly relevant to certain classes of professionals like concept artists and illustrators.
 
 Addressesing threats requires identifying them correctly. One of the goals of this post is to look **at similar historical examples that help better understand the threats.**   Focusing on the wrong problem leads to bad solutions, and arguments that are easily rebut.
 
