@@ -35,7 +35,7 @@ There's an important distinction between the long-term effects of new technologi
 
 Arguments that these things will "kill art" or "make artists obsolete" will grow unconvincing as these tools mature and more people use them as creative tools. Many people are already deploying the very-relevant analogy to photography.   The notion of a threat to "art itself" is abstract and doesn't lead to real solutions, just [fruitless arguments about the nature of art](https://aaronhertzmann.com/2022/09/19/art-definitions-1.html).
   
-**The harms and threats to focus on the shorter-term dangers to current working artists, focusing on the labor and ethical problems created (or made worse) by these technologies.**  I believe that studying history can also provide examples of how to respond to this threat, although I don't go into this much here.  
+**The harms and threats to focus on the shorter-term dangers to current working artists, focusing on the labor and ethical problems created (or made worse) by these technologies.**  I believe that studying history can also provide examples of how to respond to this threat, although I don't go into this much here.  These problems shouldn't be dismissed by pointing to the long march of progress when they have a real impact on peoples' lives.
 
 
 
