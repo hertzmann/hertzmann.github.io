@@ -96,6 +96,7 @@ When I [restarted painting and drawing in 2019](/2020/10/05/art-is-a-process.htm
 Art is most exciting when [you don't know what you're going go to get](/2020/10/05/art-is-a-process.html). As I've argued, this is [a key aspect of creative processes](https://arxiv.org/abs/2205.01605): artists try new things to see what will happen, guided by a theory or initial idea. Any artwork created in this spirit of exploration is an experiment to see what will happen and what you'll learn.
 
 One of the benefits of thinking of artworks as experiments is that it reduces the pressure, since making art can be very stressful if your expectations are too high. It's ok for an experiment to "fail."
+[Many artists](https://quoteinvestigator.com/2019/03/01/abandon/) have said that "an artwork is never finished, only abandoned." My coworker [Mick Storm](https://mickstorm.artstation.com/) says "I keep making new things to correct the mistakes of the last thing." Art is a never-ending series of mistakes.
 
 In some cases, things I learned from this has led to research papers, such as [this paper on creative exploration](https://arxiv.org/abs/2205.01605). I began thinking [one thing about perspective, discovered another](/2022/02/28/how-does-perspective-work.html), read many papers on perspective, wrote [a paper on perspective](https://jov.arvojournals.org/Article.aspx?articleid=2783759), and now ideas about nonlinear perspective occasionally inform my drawing.
 
