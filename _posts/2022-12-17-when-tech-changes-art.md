@@ -429,5 +429,5 @@ Regardless, [art is social, it is about connection between humans](/2021/03/22/a
 
 
 <hr>
-Thanks to Cassidy Curtis, Rif A. Saurous, Serge Belongie, Juliet Fiss, and others who commented.
+Thanks to Mick Storm, Cassidy Curtis, Rif A. Saurous, Serge Belongie, Juliet Fiss, and others who commented.
 
