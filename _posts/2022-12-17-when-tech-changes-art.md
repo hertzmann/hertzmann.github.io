@@ -166,7 +166,7 @@ The earliest rappers were inspired by [comedians](https://www.youtube.com/watch?
 </center>
 and turntablism and remixing and sampling culture went [far far from that original party music, into all sorts of far-out directions like jungle music](https://www.youtube.com/watch?v=5SaFTm2bcac).
 
-Hip-hop started in the 1970s as fun party music, meant to be danced to and forgotten. In 2018, Kendrick Lamar won the Pulitzer Prize for Music.
+Hip-hop started in the 1970s as dance music at New York house parties. Within a few decades, it dominated popular culture and eventually became part of our cultural institutions. For example, in 2018, Kendrick Lamar won the Pulitzer Prize for Music.
 
 
 
