@@ -52,6 +52,8 @@ In this article, I'm primarily focused on recent _neural_ "AI" art, which I divi
 
 "AI" art isn't just one thing: these tools offer both faster ways to make what we can already make, and new types of media.   Even so, changing the way you make pictures changes the pictures you'll make.  Much of the discussion this year is about text-to-image tools, but I believe this is a temporary stage; these things are going to continue evolving very quickly.
 
+|**Although most of the energy these days focuses on text-to-image, "AI" art is much more than just those techniques, and they will continue to evolve and change in the future.  This post is not specifically about text-to-image.**|
+
 I would define _"AI art"_ as any art primarily made with the tools that we happen to be calling "[artificial intelligence](https://en.wikipedia.org/wiki/History_of_artificial_intelligence)" at the time.  "AI" art has been around for many decades, e.g.,  [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)) and [Karl Sims](https://www.karlsims.com/). One could also include art _about_ "AI"—whether or not it uses "AI"—like "[Signs of the Times](https://www.scottconradkelly.com/signs-of-the-times)," "[ImageNetRoulette](https://paglen.studio/2020/04/29/imagenet-roulette/)," and "[White Collar](https://whitecollar.thenewinquiry.com/)".  But this post is focused on the neural generative stuff.
 
 These definitions will become increasingly blurry, as "AI" tools become more and more integrated into everyones' workflows, the way [there's already some "AI" in everyones' smartphone cameras](https://jov.arvojournals.org/Article.aspx?articleid=2783759).  Many of the techniques used in digital imaging today might have been called "AI" a few decades ago.
