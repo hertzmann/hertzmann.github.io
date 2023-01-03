@@ -199,7 +199,7 @@ In the early days of sound movies, people like Charlie Chaplin fought against it
 
 Critics often hold these experimental new forms to impossible standards.  I often read things like "AI art is no good because it hasn't give me the same experience as a Rembrandt does", or whatever once provided the author with a profound formative experience. 
 
-These responses often seem like [status quo bias](/2022/12/17/knee-jerk-responses.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
+These responses often seem like [status quo bias](/2022/12/17/status-quo-bias.html), judging a new artform as inferior because it doesn't reach the highest standards of the current form, rather than trying to gauge its future potential as new, different artistic medium.
 
 In respected novelist and activist [Wendell Berry's 1987 essay on why he will never buy a computer](https://classes.matthewjbrown.net/teaching-files/philtech/berry-computer.pdf), he wrote—with obvious skepticism—that he will only respect computers as a writing tool when someone uses a computer to produce a work of art comparable to Dante.    In 2010, [film critic Roger Ebert wrote that video games could never be art](https://www.rogerebert.com/roger-ebert/video-games-can-never-be-art), because no existing game was worthy of comparison to the great historical masterpieces.
 
@@ -227,7 +227,7 @@ The weirdness is what makes it exciting; it's a sign that there's something new 
 
 I cannot think of a single example of a new artistic tool or medium that "kills" art by making "bad" art. Many times over the past two centuries people have claimed that some new medium like photography is going to kill art. They had good reasons at the time, but they were never right.
 
-I don't take these claims about "AI" art seriously, because this kind of claim has never ever been true in the past, and I haven't seen any serious attempt to argue why this time is somehow different. By "serious," I mean grounded both in how these tools actually work and in how art techniques evolve historically, rather than just [status quo bias](https://aaronhertzmann.com/2022/12/16/knee-jerk-responses.html).  These claims are often based on science fiction notions of how "AI" works, or that the "AI" will be the artists, [which I likewise find implausible and ahistorical](https://www.mdpi.com/2076-0752/7/2/18).  At worst, it'll be a fad, but never the death of art.  
+I don't take these claims about "AI" art seriously, because this kind of claim has never ever been true in the past, and I haven't seen any serious attempt to argue why this time is somehow different. By "serious," I mean grounded both in how these tools actually work and in how art techniques evolve historically, rather than just [status quo bias](/2022/12/16/status-quo-bias.html).  These claims are often based on science fiction notions of how "AI" works, or that the "AI" will be the artists, [which I likewise find implausible and ahistorical](https://www.mdpi.com/2076-0752/7/2/18).  At worst, it'll be a fad, but never the death of art.  
 
 For example, people have long argued that television made inferior art, that television programming was ["a vast wasteland"](https://en.wikipedia.org/wiki/Television_and_the_Public_Interest) and that it [dumbed-down discourse](https://en.wikipedia.org/wiki/Amusing_Ourselves_to_Death).  But there have been great television shows: great artistic achievements that couldn't have happened in the same way in any other media. (I recommend [Emily Nussbaum's defense of TV as an art form](https://www.penguinrandomhouse.com/books/563025/i-like-to-watch-by-emily-nussbaum/).)  Perhaps television has been harmful to society in some ways (e.g., a certain Reality TV president), but it is not _artistically inferior_ to theatre, cinema, or literature, and great TV is truly great.
 
@@ -376,7 +376,7 @@ I find it hard to imagine that the overall range of artistic opportunities or fo
 
 # 5. Socioeconomic concerns pose as artistic judgements
 
-New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/knee-jerk-responses.html)). 
+New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/status-quo-bias.html)). 
 
 I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns as artistic judgments.  This may be difficult; I suspect it's easier to accept a new artistic style when it doesn't make you feel threatened ("Old Town Road"'s [removal from the country charts](https://en.wikipedia.org/wiki/Old_Town_Road#Genre_controversy) is another example).
 

@@ -1,12 +1,12 @@
 ---
 layout: page
-title: "Status Quo Bias: knee-jerk responses to new technology"
+title: "Status Quo Bias"
 summary: A bit on naive responses to new technology
 author:  AaronHertzmann
 ---
 
 
-# Status Quo Bias: Knee-Jerk Responses to New Technology
+# Status Quo Bias
 
 
 The effects of new technologies can be complex and nuanced. In the words of [Kranzberg's First Law](https://www.jstor.org/stable/3105385), "Technology is neither good nor bad; nor is it neutral".  As he describes, the consequences of new technologies can be subtle, complex, and hard-to-predict, and vary depending on the context in which they're deployed.  **There are legitimate criticisms to be raised against any new technology, but instead we often hear simplistic, knee-jerk responses.** This post discusses some of where they come from.
