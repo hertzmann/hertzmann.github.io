@@ -394,7 +394,7 @@ When people claim that the new art made with "AI" will be worse than the old art
 
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll was objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
-
+Nettrice Gaskins [writes more about between _appropriation_ and _reappropriation_ and how the distinction gets very blurry with "AI."](https://nettricegaskins.medium.com/ai-techno-vernacular-creativity-314281e1be68).
 
 
 
