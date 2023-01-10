@@ -97,7 +97,7 @@ The early days of computer animation likewise involved numerous experiments buil
 
 **These early explorations are largely forgotten** 
 
-Before I started studying these things, I could not name a single significant photgrapher from the first 100 years of photography. I doubt most people could name a single film from the first 30 years of movies or a single early [computer artwork](https://en.wikipedia.org/wiki/Computer_art) before video games and "Toy Story," or say much about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles or Grandmaster Flash.  To some extent, only buffs and enthusiasts like myself go and dig into that early work.  Until one does, one mostly just things of the current art forms as things that have always been around, fully formed.
+Before I started studying these things, I could not name a single significant photgrapher from the first 100 years of photography. I doubt most people could name a single film from the first 30 years of movies or a single early [computer artwork](https://en.wikipedia.org/wiki/Computer_art) before video games and "Toy Story," or say much about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles or Grandmaster Flash.  To some extent, only buffs and enthusiasts like myself go and dig into that early work.  Until one does, one mostly just thinks of the current art forms as things that have always been around, fully formed.
 
 
 **For now, "AI" Art is largely about novelty** 
@@ -207,6 +207,7 @@ In respected novelist and activist [Wendell Berry's 1987 essay on why he will ne
 
 It sounds a lot like ["disruptive innovation"](https://en.wikipedia.org/wiki/Disruptive_innovation), where established players dismiss new technology because it doesn't perform as well as the old thing according to the old thing's standards. But, because it's cheaper and easier than the old thing, it serves more customers and eventually surpasses the old thing. It turns out that the old standards were just heuristics.
  
+
 
 
 **Mediocre forms fade away**
