@@ -27,7 +27,7 @@ By understanding and recognizing patterns in new art-making technologies, we can
 
 **Computers are not artists**
 
-This post is a follow-up to my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw), in which I argue that computers will (almost certainly) never be artists and they will never make artists obsolete. People have been making art with computers for nearly 60 years, some by writing code that makes pictures, and others that paint and animate with digital tools, and I described how each of these examples are authored by artists, and controlled by artists.  
+This post is a follow-up to my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw), in which I argue that computers will (almost certainly) never be artists and they will never make artists obsolete. People have been making art with computers for nearly 60 years, some by writing code that makes pictures, and others by painting and animating with digital tools, and I described how each of these examples are authored by artists, and controlled by artists.  
 
 Nothing fundamental has changed with the latest developments: the latest algorithms do not "automate creativity" or make artists obsolete---they are computer software tools used by humans to make art.   If these ideas are unfamiliar you may wish to read [my previous paper](https://www.mdpi.com/2076-0752/7/2/18) or watch [the talk](https://www.youtube.com/watch?v=APkitEWqdKw), especially if this year's diffusion models are your first exposure to generative computer art.
 
@@ -394,7 +394,7 @@ When people claim that the new art made with "AI" will be worse than the old art
 
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll was objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
-Nettrice Gaskins [writes more about between _appropriation_ and _reappropriation_ and how the distinction gets very blurry with "AI."](https://nettricegaskins.medium.com/ai-techno-vernacular-creativity-314281e1be68).
+Nettrice Gaskins [writes about between _appropriation_ and _reappropriation_ and how the distinction gets very blurry with "AI."](https://nettricegaskins.medium.com/ai-techno-vernacular-creativity-314281e1be68).
 
 
 
