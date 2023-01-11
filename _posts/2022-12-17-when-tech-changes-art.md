@@ -34,7 +34,7 @@ Nothing fundamental has changed with the latest developments: the latest algorit
 
 **Identifying the real risks**
 
-In the past year, many working artists  have publicly shared intense fear and anger over new "AI" technologies. They've spoken about fear over the threat of "AI" to them: threats to their livelihoods, professional identities (through associating their name with prompts), as well as reusing their personal styles, and their anger at models being trained on their artwork without consent and the perception that "AI" researchers are trying to automate creativity to make human artists obsolete. This is particularly relevant to certain classes of professionals like concept artists and illustrators.
+In the past year, many working artists  have publicly shared intense fear and anger over new "AI" technologies. They've spoken about fear over the threat of "AI" to them: threats to their livelihoods, professional identities (through associating their name with prompts), as well as reusing their personal styles, and their anger at models being trained on their artwork without consent and the perception that "AI" researchers are trying to automate creativity to make human artists obsolete. This is mainly relevant to certain classes of professionals like concept artists and illustrators.
 
 These threats to livehoods are real, the fear is valid and legitimate, and the potential harms need to be addressed.  
 
