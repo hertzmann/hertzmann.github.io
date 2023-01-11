@@ -44,7 +44,7 @@ New technologies for art are often described as threats to "art itself," and to 
   
 **The ethical discussion should focus on threats to current working artists, such as threats to employment,** and the others listed above. I believe that studying history can provide examples of how some of these harms play out and how to respond to them, though I don't attempt to say anything to say about solutions here.  
 
-Conversely, the potential impact on peoples' lives shouldn't be dismissed by pointing to the long march of progress.
+Conversely, the potential impact on peoples' lives shouldn't be dismissed just by pointing to the long march of progress.
 
 
 
