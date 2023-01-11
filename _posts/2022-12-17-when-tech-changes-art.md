@@ -381,7 +381,7 @@ I find it hard to imagine that the overall range of artistic opportunities or fo
 
 New art technologies don't exist in a vacuum—they inherit the sociopolitical issues around them. Inevitably, people conflate these external issues with the artistic, aesthetic ones (perhaps combined with a bit of [status quo bias](/2022/12/16/status-quo-bias.html)). 
 
-I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns as artistic judgments.  This may be difficult; I suspect it's easier to accept a new artistic style when it doesn't make you feel threatened ("Old Town Road"'s [removal from the country charts](https://en.wikipedia.org/wiki/Old_Town_Road#Genre_controversy) is another example).
+I argue that it's better to keep them separate: if we want to understand how the art will evolve in the future, we shouldn't present our socioeconomic concerns as artistic judgments.  This may be difficult; I suspect it's easier to accept a new artistic style when it doesn't make you feel threatened. I don't think ["Old Town Road" was removed from the Country Music charts](https://en.wikipedia.org/wiki/Old_Town_Road#Genre_controversy) for purely definitional reasons.
 
 Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
@@ -391,11 +391,13 @@ Baudelaire's argument against photography expressed his rejection of modernity i
 
 I argue that these ethical issues are not really about art: the ethical issues of "AI" art are instances of the ethical issues of "AI."  Specifically, when it is or isn't "ok" to train models on peoples' data is a huge societal question that's much broader than where artistic training data comes from—even if this ends up being the most visible instance.  Racial bias and representation in "AI" models is a much bigger problem than just in image generation. Finally, misleading claims the "AI" software is itself an artist reflects broader dangers of "AI" hype.  Perhaps the visibility of "AI" art will force a broader reckoning of some of the problems of "AI" ethics.  
 
-When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns, like the very valid employment concerns. Conversely, I recently [participated in an architectural panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation—even when generating results in their own firms' styles. For them, the image is not the final product, and so the technology could only enhance their processes.
+When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns, like the very valid employment concerns. 
+
+Conversely, I recently [participated in an architectural panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation—even when generating results in their own firms' styles. For them, the image is not the final product, and so the technology could only enhance their processes.
 
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll was objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
-Nettrice Gaskins [writes about between _appropriation_ and _reappropriation_ and how the distinction gets very blurry with "AI."](https://nettricegaskins.medium.com/ai-techno-vernacular-creativity-314281e1be68).
+Nettrice Gaskins [writes about the distinction between _appropriation_ and _reappropriation_ and how the distinction gets very blurry with "AI."](https://nettricegaskins.medium.com/ai-techno-vernacular-creativity-314281e1be68).
 
 
 
