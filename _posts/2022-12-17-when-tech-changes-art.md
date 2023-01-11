@@ -29,7 +29,7 @@ By understanding and recognizing patterns in new art-making technologies, we can
 
 This post is a follow-up to my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw), in which I argue that computers will (almost certainly) never be artists and they will never make artists obsolete. People have been making art with computers for nearly 60 years, some by writing code that makes pictures, and others by painting and animating with digital tools, and I described how each of these examples are authored by artists, and controlled by artists.  
 
-Nothing fundamental has changed with the latest developments: the latest algorithms do not "automate creativity" or make artists obsolete---they are computer software tools used by humans to make art.   If these ideas are unfamiliar you may wish to read [my previous paper](https://www.mdpi.com/2076-0752/7/2/18) or watch [the talk](https://www.youtube.com/watch?v=APkitEWqdKw), especially if this year's diffusion models are your first exposure to generative computer art.
+Nothing fundamental has changed with the latest developments: the latest algorithms do not "automate creativity" or make artists obsolete---they are computer software tools used by humans to make art.   If these ideas are unfamiliar you may wish to read [my previous paper](https://www.mdpi.com/2076-0752/7/2/18) or watch [the talk](https://www.youtube.com/watch?v=APkitEWqdKw), especially if the past year's diffusion models are your first exposure to generative computer art.
 
 
 **Identifying the real risks**
