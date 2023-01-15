@@ -246,9 +246,10 @@ Can you think of a new artistic tool or medium that, decades later, we _unambigu
 
 # 4. Shifting employment ("This will kill jobs for artists")
 
-What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, because new technologies can change the nature of artistic work (causing conflicting notions of "what an artist is"), and the short-range effects can look very different from the long-range effects.  Moreover, while this post is primarily about artists' tools (like photography), the topic overlaps considerably with new distribution mechanisms (like sound recording and online streaming), that have different-but-related effects.
+What is the effect of new artistic technology on artistic jobs? Despite the various simplisticated narratives, it's a really complex question, because new technologies can change the nature of artistic work (causing conflicting notions of "what an artist is"), and the short-range effects can look very different from the long-range effects.  Moreover, while this post is primarily about artists' tools (like photography), the topic overlaps considerably with new distribution mechanisms (like sound recording and online streaming), that have different-but-related effects.  
 
 The effect of technology on jobs in general is a huge topic with a long history. We get the term ["Luddite" from texture workers](https://en.wikipedia.org/wiki/Luddite) that sabotaged new machines that replaced their jobs. (We also get the word [sabotage](https://en.wikipedia.org/wiki/Sabotage#Etymology) from a similar source.) 
+
 
 
 
@@ -398,6 +399,8 @@ I argue that these ethical issues are not really about art: the ethical issues o
 When people claim that the new art made with "AI" will be worse than the old art, I hear this as an expression of socioeconomic concerns, like the very valid employment concerns. 
 
 Conversely, I recently [participated in an architectural panel discussion](https://www.youtube.com/watch?v=ButDfjQohB0) in which the architects seemed entirely unconcerned about "AI" appropriation—_even when generating images in their own firms' styles_. For them, the image is not the final product, and so the technology could only enhance their processes.
+
+In [the words of Ted Chiang](https://www.nytimes.com/2021/03/30/podcasts/ezra-klein-podcast-ted-chiang-transcript.html): "I tend to think that most fears about A.I. are best understood as fears about capitalism. And I think that this is actually true of most fears of technology, too."
 
 The debate over "AI" art ethics reminds me of the [complex debate over cultural appropriation](https://www.sfchronicle.com/food/restaurants/article/asian-cultural-appropriation-food-sf-soleil-ho-16172795.php), a  conflict of norms around art and different communities that doesn't have easy answers or resolution, and the important issues get reduced to caricatures. Our previous norms and rules don't seem quite appropriate to address the underlying problems. Still, I maintain it's about the societal issues, not the quality of the art. I don't think anyone publicly argues anymore that White rock-and-roll was objectively worse than the Black music from which it was originally derived; it's about the way it was made and who benefitted.
 
