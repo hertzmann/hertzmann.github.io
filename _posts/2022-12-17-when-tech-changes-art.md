@@ -25,6 +25,8 @@ My main thesis is:
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
 By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better. Maybe the future won't repeat the past, but this history can help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before.
 
+Since deep neural networks are hard-to-interpret mathematical functions, the debate over "AI" art is expressed in analogies: is it more like photography, how humans learn to make art, sampling, collage, image compression, conceptual art, recorded music, or textile machinery? Each of the precedents discussed here represents different analogies that may or may not be useful.
+
 **Computers are not artists**
 
 This post is a follow-up to my 2018 article ["Can Computers Create Art"](https://www.mdpi.com/2076-0752/7/2/18)  and [talk](https://www.youtube.com/watch?v=APkitEWqdKw), in which I argue that computers will (almost certainly) never be artists and they will never make artists obsolete. People have been making art with computers for nearly 60 years, some by writing code that makes pictures, and others by painting and animating with digital tools, and I described how each of these examples are authored by artists, and controlled by artists.  
@@ -387,7 +389,7 @@ I argue that it's better to keep them separate: if we want to understand how the
 
 Hip-hop came from dual turntables and faders, deployed in funk party culture in poor New York neighborhoods. When hip-hop blew up in the 1980s, the backlash said "hip-hop isn't really music" or "it's degenerate." While this was in part about aesthetics (when "it's not music" means "it doesn't sound like the music I grew up with"), it was mostly racism.  That is, people disguised their racism as artistic judgements.
 
-Baudelaire's argument against photography expressed his rejection of modernity in general; the older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict around counterculture (and teenage rebellion). 
+Baudelaire's argument against photography expressed his rejection of modernity in general; the [older generations' rejection of the rock-and-roll music of the 1950s and 1960s reflected a broader generational conflict](https://twitter.com/paulisci/status/1592300804069011456) around counterculture (and teenage rebellion). 
 
 **"AI" art.** "AI" art suffers from many ethical concerns, which I am deeply ambivalent about.  I believe we can be very worried about harm to currently-working artists, while also being excited about the artistic potential of these tools, extending the 60-year history of computer art. 
 
@@ -423,6 +425,7 @@ Now, **"AI" art** promises something similar, as we again attempt to grapple wit
 
 
 # Is it different this time?
+
 
 Extrapolating from all these trends risks missing the ways  this time could be different. But, so far, many of the claims about how it's different seem hyperbolic to me, ungrounded in the reality of how these algorithms actually work, for example, claiming that diffusion models work by copying the data, or by presenting ["the AI as artist" as a serious possibility](https://cacm.acm.org/magazines/2020/5/244330-computers-do-not-make-art-people-do/abstract).
 
