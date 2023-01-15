@@ -25,7 +25,7 @@ My main thesis is:
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
 By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better. Maybe the future won't repeat the past, but this history can help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before.
 
-Since deep neural networks are hard-to-interpret mathematical functions, the debate over "AI" art is expressed in analogies: is it more like photography, how humans learn to make art, sampling, collage, image compression, conceptual art, recorded music, or textile machinery? Each of the precedents discussed here represents different analogies that may or may not be useful.
+Since deep neural networks are hard-to-interpret mathematical functions, the debate over "AI" art is expressed in analogies: is it more like photography, how humans learn to make art, sampling, collage, image compression, conceptual art, recorded music, or textile machinery? Each of the precedents discussed here represents different analogies that may or may not be useful in some way.
 
 **Computers are not artists**
 
