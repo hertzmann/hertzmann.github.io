@@ -69,7 +69,7 @@ I put "AI" in quotes because [these things are not intelligent](/2022/09/04/comp
 
 **This is a work-in-progress**
 
-Academically, this is a collision of everything from computer science and art history to media studies to disruptive innovation to labor economics, and no one of these disciplines seems sufficient to cover the topic. I have a lot to learn about this topic; there's already more stuff on my reading list.  This post was inspired in part by reading Amy Orben's [paper on technology panics](https://www.amyorben.com/publication/2020_orben_pops/).
+Academically, this is a collision of everything from computer science and art history to media studies to disruptive innovation to labor economics, and no one of these disciplines seems sufficient to cover the topic. I have a lot to learn about this topic; there's already more stuff on my reading list.  
 
 I'd like to publish this as a paper someday, and would be interested in connecting with experts on this. There are a whole lot of different ideas here and, really, the topic is rich enough for a book.  
 
@@ -81,6 +81,7 @@ Here's an earlier, shorter presentation I gave on this (starts at 20:33 in the v
 <iframe width="560" height="315" src="https://www.youtube.com/embed/56P-f_Dcxx8?start=1236" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 
+This post was inspired in part by reading Amy Orben's [paper on technology panics](https://www.amyorben.com/publication/2020_orben_pops/).
 
 # 1. It begins with experimentation
 
