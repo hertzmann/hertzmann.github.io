@@ -341,6 +341,16 @@ Note that the skills involved in computer animation are quite similar to those i
 
 Hand-drawn animation styles aren't actually dead; they're alive and well outside the US—though using computers heavily in the process.   Sony's fantastic Spider-Verse movies are an encouraging sign for stylistic innovation in American animation. (And the singular [Cuphead](https://www.youtube.com/watch?v=NN-9SQXoi50) brilliantly merges hand-animation with video games, plus an absolutely banging jazz soundtrack.)
 
+<center>
+<figure>
+   <p float="left">
+   <img src="../../../images/animation_omca.jpg" alt="Sign with text beginning: Before computers, animated filmes were entirely hand-drawn."/>
+</p>
+  <figcaption align="center"><i>An educational sign I recently came across (in the Oakland Museum of California)</i></figcaption>
+</figure>
+</center>
+
+
 **Visual effects (VFX)**
 
 A similar transition occured in VFX: when ILM transitioned from model-making and stop-motion animation around the time of "Jurassic Park," [many of the traditional modelmakers resented and fear the digital painters and computer animation staff](https://en.wikipedia.org/wiki/Light_%26_Magic_(TV_series)). Some animators made the transition, and some didn't
