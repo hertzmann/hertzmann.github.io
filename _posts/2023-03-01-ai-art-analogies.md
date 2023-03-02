@@ -153,7 +153,7 @@ In the past week, two high-profile art critics called an AI artworks a "lava lam
 
 Large Language Models (LLMs) are not sentient or intelligent, they are trained to produce high-probability sequences of text similar to a training corpus, like a parrot repeating things it has heard, without understanding.
 
-**How It's Useful**: Deflates the wrong and misleading notions of AI sentience and intelligence.
+**How It's Useful**: Deflates the wrong, misleading notions of AI sentience and intelligence.
 
 **The Not-So-Subtext**: These things are convincing nonsense generators.
 
