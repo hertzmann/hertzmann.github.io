@@ -149,7 +149,7 @@ In the past week, two high-profile art critics called an AI artworks a "lava lam
 **How It's Misleading**: Dismisses the value of [experimentation](/2022/10/11/amateurs.html), form, and the many great things that have already been created with these techniques. 
 
 
-# Stochastic Parrots
+# [Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 Large Language Models (LLMs) are not sentient or intelligent, they are trained to produce high-probability sequences of text similar to a training corpus, like a parrot repeating things it has heard, without understanding.
 
