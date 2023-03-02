@@ -160,7 +160,7 @@ Large Language Models (LLMs) are not sentient or intelligent, they are trained t
 **How It's Misleading**: It doesn't quite ring true, because parrots repeats words or phrases, but you couldn't ask them to, say, generate an essay.  LLMs are much richer models than just repeating sentences.
 
 
-# A Blurry JPEG of the Web
+# A Blurry JPEG
 
 [Ted Chiang wrote an article entitled "ChatGPT Is a Blurry JPEG of the Web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web).
 
