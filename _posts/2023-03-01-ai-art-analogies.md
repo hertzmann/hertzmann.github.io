@@ -85,13 +85,13 @@ Appropriation refers to at least two distinct, complex concepts: appropriation a
 
 **The Subtext**: It's complicated.
 
-**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't. Or that nothing is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
+**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't try. Or that nothing is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
 
 
 
 
 # How Humans Learn to Make Art
-Advocates say that training models from training data is "just like" how humans learn to make art and to get inspired from other art.
+Advocates say that training models from data is "just like" how humans learn to make art and to get inspired from other art.
 
 
 **How It's Useful**:
