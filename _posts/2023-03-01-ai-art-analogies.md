@@ -140,7 +140,7 @@ At a few times in the 1920s and the 1930s, [musicians unions fought against the 
 
 # Lava Lamp
 
-In the past week, three separate, high-profile art critics used this term to describe AI artworks, [Ben Davis](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329), [Jerry Saltz](https://www.vulture.com/article/jerry-saltz-moma-refik-anadol-unsupervised.html) in regard to a specific work, and [Adam Gopnik](https://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing) on AI art in general.  
+In the past week, two high-profile art critics called an AI artworks a "lava lamp," ([Ben Davis](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329), [Jerry Saltz](https://www.vulture.com/article/jerry-saltz-moma-refik-anadol-unsupervised.html)), and [a third used the term for AI art in general](https://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing).
 
 **How It's Useful**: Illustrates how something can be visually dazzling but otherwise hollow of meaning or significance.
 
