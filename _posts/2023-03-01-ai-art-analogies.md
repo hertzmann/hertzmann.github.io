@@ -146,7 +146,7 @@ In the past week, two high-profile art critics called an AI artworks a "lava lam
 
 **The Not-So-Subtext**: This stuff is just gimmicky eye-candy.
 
-**How It's Misleading**: Dismisses the value of [experimentation](), form, and the many great things that have already been created with these techniques. 
+**How It's Misleading**: Dismisses the value of [experimentation](/2022/10/11/amateurs.html), form, and the many great things that have already been created with these techniques. 
 
 
 # Stochastic Parrots
@@ -164,7 +164,7 @@ Large Language Models (LLMs) are not sentient or intelligent, they are trained t
 
 [Ted Chiang wrote an article entitled "ChatGPT Is a Blurry JPEG of the Web"](https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web).
 
-**How It's Useful**: Conveys the important concept that the model is lossily fitting and encoding data at a specific point in time.
+**How It's Useful**: Conveys the important concept that the model is lossily fitting and encoding a dataset.
 
 **The Subtext**: It's regurgitating the data.
 
