@@ -124,7 +124,7 @@ At a few times in the 1920s and the 1930s, [musicians unions fought against the 
 
 **The Subtext**: Technological change happens, get over it.
 
-**How It's Misleading**: Music recording first and foremost about distribution platforms, although it enabled new art forms as well. The role of distribution platforms (like streaming) is a related but somewhat different topic, and one that arguably has bigger implications for creators.
+**How It's Misleading**: Music recording is, first and foremost, about distribution platforms, although it enabled new kinds of art  as well (e.g., AOR). The role of distribution platforms (like streaming) is a related but somewhat different topic, and one that arguably has bigger implications for creators.
 
 
 
