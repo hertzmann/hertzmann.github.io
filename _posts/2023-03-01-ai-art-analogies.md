@@ -69,7 +69,7 @@ Critics of text-to-image say that it's theft.
 
 **The Subtext**: "AI" art is unethical and immoral.
 
-**How It's Misleading**: "Theft" implies taking a physical object, like breaking into your home and taking a painting, or removing digital assets, like draining a bank account. Copying a JPEG is very different, because, if I copy your JPEG, you still have the JPEG.  [Unlike physical ownership, copyright law is not absolute ownership, and expanding copyright further could be harmful for artists and society](https://pluralistic.net/2023/02/09/ai-monkeys-paw/#bullied-schoolkids).
+**How It's Misleading**: "Theft" implies taking a physical object, like breaking into your home and taking a painting, or removing digital assets, like draining a bank account. Copying an image file is very different: if I copy your JPEG, you still have the JPEG.  [Unlike physical ownership, copyright law is not absolute ownership, and expanding copyright further could be harmful for artists and society](https://pluralistic.net/2023/02/09/ai-monkeys-paw/#bullied-schoolkids).
 
 <center>
 <a href="https://knowyourmeme.com/memes/piracy-its-a-crime"><img src="../../../images/piracy.jpg" alt="You Wouldn't Download A Car graphic"></a>
@@ -85,7 +85,7 @@ Appropriation refers to at least two distinct, complex concepts: appropriation a
 
 **The Subtext**: It's complicated.
 
-**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't. Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
+**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't. Or that nothing is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
 
 
 
