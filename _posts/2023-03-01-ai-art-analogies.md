@@ -168,4 +168,4 @@ Large Language Models (LLMs) are not sentient or intelligent, they are trained t
 
 **The Subtext**: It's regurgitating the data.
 
-**How It's Misleading**: Supports the misleading idea that these things are _just_ memorizing the data, rather than forming new, plausible combinations of it. 
+**How It's Misleading**: Like many of these analogies, it suggests these things are _just_ memorizing or collaging the data, rather than forming new, plausible combinations of it. 
