@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Catalog of "AI" Art Analogies
-summary:  Is AI art more like photography, conceptual art, copying, image compression, recording music, or lava lamps?
+summary:  "Is AI art more like photography, conceptual art, copying, image compression, recording music, or lava lamps?"
 author:  AaronHertzmann
 image: "/images/baldessari.jpg"
 og:image: "/images/baldessari.jpg"
