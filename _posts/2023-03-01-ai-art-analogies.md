@@ -100,7 +100,7 @@ We often underestimate the role of influence and inspiration on art, and the way
 **The Subtext**: Training a model on data is a completely valid thing to do.
 
 **How It's Misleading**:
-To say that an "AI" algorithm works "just like" how a person does is wrong and misleading. [Computers are not people:](/2022/09/04/computationalism.html) we are not explainable by algorithms, and we have a higher moral status than machines. Even the term [machine learning is misleading](https://arxiv.org/abs/2104.12871) when it leads people to equate ML with human learning.  To say that "it's just like how humans learn" dismisses legitimate concerns with the ways these algorithms process data—and, besides, there are limits on when it's ok for humans to copy.
+To say that an "AI" algorithm works "just like" how a person does is wrong and misleading. [Computers are not people, and humans are not CPUs.](/2022/09/04/computationalism.html) We are not explainable by algorithms, and we have a higher moral status than machines. Even the term [machine learning is misleading](https://arxiv.org/abs/2104.12871) when it leads people to equate ML with human learning.  To say that "it's just like how humans learn" dismisses legitimate concerns with the ways these algorithms process data—and, besides, there are limits on when it's ok for humans to copy.
 
 
 # Sampling and Collage
@@ -110,7 +110,7 @@ In music, sampling involves taking bits of pieces of sounds and reusing them in 
 **How It's Useful**:
 Remix in hip-hop and electronic music revealed to a lot of people how reusing existing elements can be transformative and create new art forms.
 
-**The Subtext**: "AI" art is transformative, therefore it's it's own valid and legitimate artform.
+**The Subtext**: "AI" art is transformative, therefore it is it's own valid and legitimate artform.
 
 **How It's Misleading**: 
 Just as it's wrong to say these models are just copying the training data, it's probably wrong to say that they're copying bits and pieces of them in most cases. But it might be less wrong (or less-often wrong). Again, more research and study is needed here. The way these results are generated are often quite different from hip-hop sampling in lots of ways, for one thing the context is quite different. 
