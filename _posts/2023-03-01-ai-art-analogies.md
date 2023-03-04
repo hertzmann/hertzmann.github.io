@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A Catalog of "AI" Art Analogies
-summary:  "Is AI art more like photography, conceptual art, copying, image compression, recorded music, or lava lamps?"
+summary:  "Is AI art more like photography, conceptual art, collage, image compression, recorded music, or lava lamps?"
 author:  AaronHertzmann
 image: "/images/baldessari.jpg"
 og:image: "/images/baldessari.jpg"
@@ -48,18 +48,6 @@ Since artists like [Marcel Duchamp, Sol LeWitt, and John Baldessari](/2020/06/08
   <figcaption align="center"><i>Conceptual art by John Baldessari, in which he hired another painter to paint a picture.</i></figcaption>
 </figure>
 </center>
-
-
-# Copying
-Many recent critics of text-to-image call it copying, going so far as to say that these algorithms store databases of pictures on the web and use them at run-time to produce new images.
-
-
-**How It's Useful**: [A few recent preprints have demonstrated cases](https://arxiv.org/abs/2301.13188) where some models can reproduce training images.
-
-**The Subtext**: "AI" art is not art, it's dishonest and unoriginal.
-
-**How It's Misleading**: 
-This analogy is so wrong that it's hard to imagine how anyone came up with it in good faith.  These models do not store copies at test-time. So far, the instances when they duplicate training data seem to be quite rare and amenable to mitigation, e.g., they are cases with extensive training dataset duplication. More research is needed to fully understand these issues, but to say that it's "just copying" is simply wrong. 
 
 
 # Theft
@@ -110,10 +98,10 @@ In music, sampling involves taking bits of pieces of sounds and reusing them in 
 **How It's Useful**:
 Remix in hip-hop and electronic music revealed to a lot of people how reusing existing elements can be transformative and create new art forms.
 
-**The Subtext**: "AI" art is transformative, therefore it is a valid and legitimate artform.
+**The Subtext**: "AI" art is transformative, therefore it is a valid and legitimate artform.  Or: "AI" art is directly copying examples, therefore it's invalid and illegal.
 
 **How It's Misleading**: 
-Just as it's wrong to say these models are just copying the training data, it's probably wrong to say that they're copying bits and pieces of them in most cases. But it might be less wrong (or less-often wrong). Again, more research and study is needed here. The way these results are generated are often quite different from hip-hop sampling in lots of ways, for one thing the context is quite different. 
+Just as it's wrong to say these models are just directly copying the training data, it's probably wrong to say that they're copying bits and pieces of them in most cases. But it might be less wrong (or less-often wrong). Again, more research and study is needed here. The way these results are generated are often quite different from hip-hop sampling in lots of ways, for one thing the context is quite different. 
 
 
 # Music Recording
