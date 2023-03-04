@@ -57,7 +57,7 @@ Critics of text-to-image say that it's theft.
 
 **The Subtext**: "AI" art is unethical and immoral.
 
-**How It's Misleading**: "Theft" implies taking a physical object, like breaking into your home and taking a painting, or transferring digital assets, like draining a bank account. Copying an image file is very different: if I copy your JPEG, you still have the JPEG.  [Unlike physical ownership, copyright law is not absolute ownership, and expanding copyright further could be harmful for artists and society](https://pluralistic.net/2023/02/09/ai-monkeys-paw/#bullied-schoolkids).
+**How It's Misleading**: "Theft" implies taking a physical object, like breaking into your home and taking a painting, or transferring digital assets, like draining a bank account. Copying an image file is very different: if I copy your JPEG, you still have the JPEG.  [Unlike physical ownership, copyright is not absolute ownership, and expanding copyright further could be harmful for artists and society](https://pluralistic.net/2023/02/09/ai-monkeys-paw/#bullied-schoolkids).
 
 <center>
 <a href="https://knowyourmeme.com/memes/piracy-its-a-crime"><img src="../../../images/piracy.jpg" alt="You Wouldn't Download A Car graphic"></a>
