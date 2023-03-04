@@ -69,11 +69,11 @@ Critics of text-to-image say that it's theft.
 
 Appropriation refers to at least two distinct, complex concepts: appropriation art (a form of conceptual art), and cultural appropriation. I haven't actually heard these analogies made much, but I think they're interesting.
 
-**How It's Useful**: Both Appropriation Art and Cultural Appropriation are complex, difficult topics. Sometimes they're ok and sometimes they're not (e.g., Sherry Levine vs. Richard Prince), and there's no simple rules about which, and no consensus either. But, in both contexts, they signify, on one that, the benefits of cultural mixings and remix, and, on the other, thinking about systematic cultural harms to a class of individuals that can't easily be reduced to a simple formula.
+**How It's Useful**: Both Appropriation Art and Cultural Appropriation are complex, difficult topics. Sometimes they're ok and sometimes they're not (e.g., Sherry Levine vs. Richard Prince), and there's no simple rules about which, and no consensus either. But, in both contexts, they signify both, in some cases, cultural mixing can be beneficial and vital, but can can contribute to systematic harms to a class of individuals.  Which cases are "ok" or "not ok" can't easily be reduced to a simple formula.
 
 **The Subtext**: It's complicated.
 
-**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't try. Or that nothing is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
+**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't try. That nothing is "ok," or everything is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
 
 
 
