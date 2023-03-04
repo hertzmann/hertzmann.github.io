@@ -22,7 +22,7 @@ In this post, I catalogue a few of the analogies for "AI" art and how they are u
 The most common analogy for computer-generated and procedural art, e.g., I used the analogy in [my  thesis back in 2001](https://mrl.cs.nyu.edu/publications/hertzmann-thesis/hertzmann-thesis-300dpi.pdf); I suspect many people come up with this analogy independently.  [There are many related analogies of technological shifts in art](/2022/12/17/when-tech-changes-art.html)
 
 **How It's Useful**: 
-Some of the most naive criticisms of "AI" art ("you just pushed a button!" "the machine did all the work!" "this will replace artists") were things that people said (and sometimes still say) about photography. If your criticism of "AI" also applies to photography, then maybe it's a naive criticism.
+Some of the most naive criticisms of "AI" art ("you just pushed a button!" "the machine did all the work!" "this will replace artists") were things that people said (and sometimes still say) about photography. If your criticism of "AI" is also something that people could (and have) said about photography, then maybe it's a naive criticism.
 
 **The Subtext**: "AI" art is another tool for art, we just don't appreciate it yet. It will become an accepted, essential tool in our society, just as photography did.
 
