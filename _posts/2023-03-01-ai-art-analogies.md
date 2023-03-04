@@ -101,7 +101,7 @@ Remix in hip-hop and electronic music revealed to a lot of people how reusing ex
 **The Subtext**: "AI" art is transformative, therefore it is a valid and legitimate artform.  Or: "AI" art is directly copying examples, therefore it's invalid and illegal.
 
 **How It's Misleading**: 
-Just as it's wrong to say these models are just directly copying the training data, it's probably wrong to say that they're copying bits and pieces of them in most cases. But it might be less wrong (or less-often wrong). Again, more research and study is needed here. The way these results are generated are often quite different from hip-hop sampling in lots of ways, for one thing the context is quite different. 
+Just as it's wrong to say these models are just directly copying the training data, it's probably wrong to say that they're copying bits and pieces of them in most cases. But it might be less wrong (or less-often wrong). More research and study is needed here. The way these results are generated are often quite different from hip-hop sampling in lots of ways, for one thing the context is quite different. 
 
 
 # Music Recording
