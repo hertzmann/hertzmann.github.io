@@ -167,7 +167,9 @@ I wanted to call the paper "Learning Image Filters," but my coauthors preferred 
 
 After [the paper was published in 2001](https://dl.acm.org/doi/10.1145/383259.383295), someone downloaded our software and applied it to an application we hadn't thought of: [generating terrain from maps](https://mrl.cs.nyu.edu/projects/image-analogies/flightsim.html).
 
-None of these ideas were planned. They were all the product of a focused exploration and constantly throwing out the old goals when better ones appeared.
+**None of these ideas were planned. They were all the product of a focused exploration and constantly throwing out the old goals when better ones appeared.**
+
+I've heard from other colleagues about projects that had similarly circuitous routes. The PatchMatch algorithm, which became "Content-Aware Fill," began as an attempt to summarize videos. DALL-E began as an attempt to improve language models.
 
 At the time, we translated the title of the painting "変奏曲" as "Changing Melody." While Google Translate now gives me a different translation, that title and the zig-zag path seems like a suitable analogy of exploration.
 
