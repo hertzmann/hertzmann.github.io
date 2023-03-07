@@ -169,7 +169,7 @@ After [the paper was published in 2001](https://dl.acm.org/doi/10.1145/383259.38
 
 **None of these ideas were planned. They were all the product of a focused exploration and constantly throwing out the old goals when better ones appeared.**
 
-I've heard from other colleagues about projects that had similarly circuitous routes. The PatchMatch algorithm, which became "Content-Aware Fill," began as an attempt to summarize videos. DALL-E (I once heard) began as an attempt to improve language models using image data.
+I've heard from other colleagues about projects that had similarly circuitous routes. The PatchMatch algorithm, which became "Content-Aware Fill," began as an attempt to summarize videos. DALL-E (someone once told me) began as an attempt to improve language models using image data.
 
 At the time, we translated the title of the painting "変奏曲" as "Changing Melody." While Google Translate now gives me a different translation, that title and the zig-zag path seems like a suitable analogy of exploration.
 
