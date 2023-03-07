@@ -19,7 +19,7 @@ I believe that both these conceptions are often wrong.
 
 |**Very often, the best art and the best research arises from open-ended exploration: when the artist or the researcher starts with an idea without knowing where it will lead.**|
 
-We often interpret art and research works as though they had been intended all along—often they are presented that way: the artist or research makes a statement or solves a problem they'd intended all along. But often the apparent "intentions" came during the work, not before it.
+We often interpret art and research works as though they had been intended all along. They are often they are presented that way But often the apparent "intentions" came during the work, not before it.
 
 Understanding this has been liberating for me when I paint, and I think it's essential to understand when doing research, managing or funding research, and building tools for artists.
 
