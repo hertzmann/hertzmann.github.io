@@ -197,6 +197,8 @@ One could also make the case that the popularity of [visual indeterminacy in GAN
 
 When a new machine for art emerges, an _artistic backlash_ responds, claiming that a new machine for making art produces inherently inferior art. Versions of this claim appear are that this new thing will "kill art," this is "not art," this will lead to dumbed-down and "soulless" art that will crowd out the good stuff, and so on.  (I'll discuss other aspects of backlash later.)
 
+In the 15th century, Michaelangelo felt that the new oil paint technology was for amateurs, because you can “correct” things with oil, unlike with fresco.
+
 In the earliest demonstrations of photography (the Daguerotype) in 1838, [painters like Paul Delaroche and J. M. W. Turner reacted](/2022/08/29/photography-history.html) that "This is the end of art."  Twenty years later, in a review of a photography salon, the poet [Charles Baudelaire wrote](https://www.csus.edu/indiv/o/obriene/art109/readings/11%20baudelaire%20photography.htm) that "If photography is allowed to supplement art in some of its functions, it will soon supplant or corrupt it altogether, thanks to the stupidity of the multitude which is its natural ally.”
 
 In the early days of sound movies, people like Charlie Chaplin fought against it; Adolph Zukor, the president of Paramount, said ["The so-called sound film shall never displace silent film. I believe as before that our future lies with silent film!"](https://www.filmportal.de/material/rudolf-arnheim-on-the-sound-film-confusion)   (For a superbly entertaining—but not very educational—take on the transition to talkies, watch the great ["Singin' in the Rain"](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain).)
