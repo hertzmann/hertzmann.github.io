@@ -135,7 +135,9 @@ I started working on curve filtering for rotoscoping, and, in collaboration, one
 </p>
 </figure>
 </center>
-along with various other filters.  We started to find applications for it everywhere.   At one point while working on the project, I walked into a friend's school office and saw this painting by Masaaki Miyasako on the wall:
+along with various other filters.  
+
+One we had a technique for learning filters, we started to find applications for it everywhere.   At one point while working on the project, I walked into a friend's office and saw this painting by Masaaki Miyasako on the wall:
 <center>
 <figure>
    <p float="left">
