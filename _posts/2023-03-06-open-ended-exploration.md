@@ -127,7 +127,7 @@ Here a few of the slides from the internship proposal presentation that I gave a
 </center>
 
 
-I started working on curve filtering for rotoscoping, and, in collaboration, one idea led to a different one which led to a different one, **eventually leading to a very different project,** namely a way to "learn" image transformations from examples.  Since it was my thesis topic, we applied it to artistic image stylization, such as learning painting, pen-and-ink, and pastel styles:
+I started working on curve filtering for rotoscoping, and, in collaboration, one idea led to a different one which led to a different one, **eventually leading to a very different project,** namely a way to "learn" image transformations from examples (by guided texture synthesis).  Since it was my thesis topic, we applied it to artistic image stylization, such as learning painting, pen-and-ink, and pastel styles:
 <center>
 <figure>
    <p float="left">
