@@ -31,7 +31,7 @@ When I started painting again in 2019, I started each painting with a goal, and 
 I embraced the idea of not needing to achieve a specific goal, but starting a painting only with an intuition that "this looks like an interesting thing to try."  I then read [_Why Greatness Cannot Be Planned_](https://link.springer.com/book/10.1007/978-3-319-15524-1) which provided many vivid examples of accidental innovations.
 [While I disagree with the book's theory of exploration](https://arxiv.org/abs/2205.01605), I loved its emphasis on open-ended exploration as a practice in itself.
 
-Then, in my readings and viewings, I began to notice more and quotes from artists and scientists who describe their processes in open-ended terms, which I've been collecting since then. Here are a few of those examples.
+Then, in my readings and viewings, I began to notice more quotes from artists and scientists who describe their processes in open-ended terms, which I've been collecting since then. Here are a few of those examples.
 
 
 # Examples from Fine Art
