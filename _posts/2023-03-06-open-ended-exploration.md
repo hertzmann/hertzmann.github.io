@@ -168,4 +168,4 @@ After [the paper was published in 2001](https://dl.acm.org/doi/10.1145/383259.38
 
 I've heard from other colleagues about projects that had similarly circuitous routes. The PatchMatch algorithm began as an attempt to [summarize videos](https://gfx.cs.princeton.edu/pubs/Barnes_2010_VTW/index.php). DALL-E (someone once told me) began as an attempt to improve language models using image data.
 
-At the time, we translated the title of the painting "変奏曲" as "Changing Melody" or "Musical Improvisation." While Google Translate now gives me a different translation, that title and the zig-zag path seems like a suitable analogy of exploration.
+At the time, we translated the title of the painting "変奏曲" as "Changing Melody" or "Musical Improvisation." While Google Translate now gives me a different translation, those titles and the zig-zag path seems like a good analogy of exploration.
