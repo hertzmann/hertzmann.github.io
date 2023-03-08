@@ -34,7 +34,7 @@ I embraced the idea of not needing to achieve a specific goal, but starting a pa
 Then, in my readings and viewings, I began to notice more quotes from artists and scientists who describe their processes in open-ended terms, which I've been collecting since then. Here are a few of those examples.
 
 
-# Examples from Fine Art
+# Examples from Abstract Art
 
 Artists carefully consider and develop their artistic processes; process is not merely incidental to outcomes. In the context of the fine art world,  Jerry Saltz writes **"serious artists tend to develop a kind of creative mechanism—a conceptual approach—that allows them to be led by new ideas and surprise themselves without deviating from their artistic principles."**
 
