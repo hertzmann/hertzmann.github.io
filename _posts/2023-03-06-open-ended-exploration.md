@@ -67,6 +67,8 @@ Here's **Gerhard Richter** describing his process:
 
 In a separate interview, **Gerhard Richter** said "I want to end up with a picture that I haven't planned," for which he uses a process that involves chance. "There have been times when this has worried me a great deal, and I've seen this reliance on chance as a shortcoming on my part." But, "it's never blind chance: it's a chance that is always planned, but also always surprising. And I need it in order to carry on, in order to eradicate my mistakes, to destroy what I've worked out wrong, to introduce something different and disruptive. I'm often astonished to find how much better chance is than I am."
 
+**Amy Sillman** [on the practice of abstract art](https://www.frieze.com/article/shit-happens): "The art-making process is a recording of these restless interactions ... Perhaps this is particular to abstract painting, where you often don’t really ‘know’ what you’re doing, and so you are doomed to work in between hoping and groping. In abstraction, time goes by in fits and starts, with resistance of materials being part of that time. ... I know of no artist who is attempting to make something more beautiful, but I do know many artists who are looking for a form that ‘feels right’ without knowing why. Maybe it’s just satisfying to see something productive come of feeling like an idiot and the accompanying feeling of embarrassment."
+
 **Computer Art.**
 People often think of computer art as somehow mechanical or automatic. But the earliest generative art pioneers talk about how they use it as a tool for discovery and surprise.  Here are two pioneering computer artists, who began making generative art with random numbers in the 1960s. [**Charles Csuri**:](https://www.artnews.com/art-news/news/charles-csuri-dead-1234621107/)
 "When I allow myself to play and search in the space of uncertainty, the more creativity becomes a process of discovery. The more childlike and curious I become about this world and space full of objects, the better the outcome." [**Vera Molnar**:](https://news.artnet.com/art-world/vera-molnar-venice-biennale-2098046) talks about using randomness and "the thing that is not planned" to find surprising solutions, that she uses her generative art code to find surprises.  (I had a better quote from her but cannot find it at the moment.)
@@ -169,3 +171,8 @@ After [the paper was published in 2001](https://dl.acm.org/doi/10.1145/383259.38
 I've heard from other colleagues about projects that had similarly circuitous routes. The PatchMatch algorithm began as an attempt to [summarize videos](https://gfx.cs.princeton.edu/pubs/Barnes_2010_VTW/index.php). DALL-E (someone once told me) began as an attempt to improve language models using image data.
 
 At the time, we translated the title of the painting "変奏曲" as "Changing Melody" or "Musical Improvisation." While Google Translate now gives me a different translation, those titles and the zig-zag path seems like a good analogy of exploration.
+
+
+<hr>
+
+<i>Thanks to Heidi McDowell for pointing me to the Amy Sillman essay.</i>
