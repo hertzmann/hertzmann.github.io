@@ -10,7 +10,7 @@ image: /images/ipad_paintings/coffee_table.jpg
 
 In computer algorithms for image stylization, we tend to think of an image's "style" and its "content" as being independent, and we can apply any style to any image.  In my own experience with painting, however, I found that the style was a function of the scene I was trying to depict, because different challenges required different strategies.
 
-[As described previously, the choices I made early on in a painting could completely change the final outcome.](/art-is-a-process.html)  This post describes some more of those choices in detail, how they depended on the scene, and how they affected the final painting style.   
+[As described previously, the choices I made early on in a painting could completely change the final outcome.](/2020/10/05/art-is-a-process.html)  This post describes some more of those choices in detail, how they depended on the scene, and how they affected the final painting style.   
 
 *This is the third part of a series of blog posts about my recent experience in digital painting and drawing. [Click here for the first part.](/2020/10/05/art-is-a-process.html)*  
 

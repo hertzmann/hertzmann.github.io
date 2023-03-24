@@ -10,34 +10,33 @@ og:image: "/images/baldessari.jpg"
 
 # A Catalog of "AI" Art Analogies
 
-Since deep neural networks are hard-to-interpret mathematical functions, discussions and debate over "AI" art is partly expressed in analogies. Analogies are useful: they help us identify how the new thing might end up being similar to old things. [The ability to think with analogies may be the key to how humans have been able to collectively create entirely new things.](https://oneusefulthing.substack.com/p/blinded-by-analogies?utm_medium=reader2)
-But they hide differences. All are useful in some ways, misleading in others.
+Since deep neural networks are hard-to-interpret mathematical functions, discussions and debate over "AI" art is partly expressed in analogies. Analogies are useful: they help us identify how the new thing might end up being similar to old things. [The ability to think with analogies may even be key to how ingenuity.](https://oneusefulthing.substack.com/p/blinded-by-analogies?utm_medium=reader2)
+But they hide differences. Each analogy are useful in some ways, misleading in others.
 
-The choice of analogy may reflect the speaker's agenda. Those of us who [compare it to photography](/2022/08/29/photography-history.html) emphasize its similarity to previous artistic technologies and movements that came to be accepted, but this has the danger of downplaying impacts on real peoples' careers.  People that say it's just direct copying argue that there's no value whatsoever in "AI" art.  Analogies sometimes serve as footsoldiers in the rhetorical battleground of social media.
+The choice of analogy may reflect the speaker's agenda. Those of us who [compare "AI" Art to photography](/2022/08/29/photography-history.html) emphasize its similarity to previous artistic technologies that seemed to automate art but came to be widely accepted.  But the photography analogy downplays the impact on real peoples' careers.  On the other hand, people that say it's just direct copying argue that there's no value whatsoever in "AI" art.  At times, analogies serve as footsoldiers in a rhetorical battleground.
 
-In this post, I catalogue a few of the analogies for "AI" art and how they are useful analogies and how they're misleading.  [My previous blog post](/2022/12/17/when-tech-changes-art.html) delved into a few of these precedents in far more depth; read that post for a deeper analysis.
+In this post, I catalogue a few of the analogies for "AI" art, how they are useful, and how they're misleading.  [My previous blog post](/2022/12/17/when-tech-changes-art.html) delved into a few of these precedents in far more depth; read that post for a deeper analysis.
 
 
 # [Photography](/2022/08/29/photography-history.html)
-The most common analogy for computer-generated and procedural art, e.g., I used the analogy in [my  thesis back in 2001](https://mrl.cs.nyu.edu/publications/hertzmann-thesis/hertzmann-thesis-300dpi.pdf); I suspect many people come up with this analogy independently.  [There are many related analogies of technological shifts in art](/2022/12/17/when-tech-changes-art.html)
+The most common analogy for computer-generated and procedural art, e.g., I used the analogy in [my  thesis back in 2001](https://mrl.cs.nyu.edu/publications/hertzmann-thesis/hertzmann-thesis-300dpi.pdf); I suspect many people come up with this analogy independently.
 
 **How It's Useful**: 
-Some of the most naive criticisms of "AI" art ("you just pushed a button!" "the machine did all the work!" "this will replace artists") were things that people said (and sometimes still say) about photography. If your criticism of "AI" is also something that people could (and have) said about photography, then maybe it's a naive criticism.
+Some of the most naive criticisms of "AI" art ("you just pushed a button!" "the machine did all the work!" "this will replace artists") were things that people said about photography. If your criticism of "AI" is also something that people could say about photography, then maybe it's a naive criticism.
 
 **The Subtext**: "AI" art is another tool for art, we just don't appreciate it yet. It will become an accepted, essential tool in our society, just as photography did.
 
-**How It's Misleading**:
-Disregards the role of training data, including the ethics of where the data came from and how data biases affects the outputs.
+**How It's Misleading**: Dismisses short-term impacts. Disregards the role of training data, including the ethics of where the data came from and how data biases affects the outputs.
 
 
 # Conceptual Art
-Since artists like [Marcel Duchamp, Sol LeWitt, and John Baldessari](/2020/06/08/wica.html), contemporary art—and, especially, conceptual art—emphasizes the artist's initial idea, and not the execution. 
+Since conceptual artists like Marcel Duchamp, Sol LeWitt, and John Baldessari, contemporary art [emphasize the artist's driving idea](/2020/06/08/wica.html) over the execution. 
 
 **How It's Useful**: Providing instructions to software is much like Sol LeWitt or John Baldessari providing instructions to a painter. Ideas about technical skill and craft being essential to art [are old-fashioned](/2022/09/27/art-eras.html).
 
 **The Subtext**: Anything you do can be art, therefore "AI" art is art.
 
-**How It's Misleading**: Most art in our world isn't conceptual art. Aesthetics, skill, and effort are important for most kinds of art that we care about.
+**How It's Misleading**: Most art in our world isn't conceptual art, or even contemporary art. Aesthetics, skill, and effort are important for most kinds of art that we care about.
 
 
 <center>
@@ -55,9 +54,9 @@ Critics of text-to-image say that it's theft.
 
 **How It's Useful**: It could unjustly deprive people of income.
 
-**The Subtext**: "AI" art is unethical and immoral.
+**The Not-So-Subtext**: "AI" art is unethical and immoral.
 
-**How It's Misleading**: "Theft" implies taking a physical object, like breaking into your home and taking a painting, or transferring digital assets, like draining a bank account. Copying an image file is very different: if I copy your JPEG, you still have the JPEG.  [Unlike physical ownership, copyright is not absolute ownership, and expanding copyright further could be harmful for artists and society](https://pluralistic.net/2023/02/09/ai-monkeys-paw/#bullied-schoolkids).
+**How It's Misleading**: "Theft" implies taking a physical object, like breaking into your home and taking a painting, or transferring digital assets, like draining a bank account. Copying an image file is very different: if I copy your JPEG, you still have the JPEG.  [Unlike physical ownership, copyright is not absolute ownership, and expanding copyright too much can be harmful for artists and society](https://pluralistic.net/2023/02/09/ai-monkeys-paw/#bullied-schoolkids).
 
 <center>
 <a href="https://knowyourmeme.com/memes/piracy-its-a-crime"><img src="../../../images/piracy.jpg" alt="You Wouldn't Download A Car graphic"></a>
@@ -67,19 +66,19 @@ Critics of text-to-image say that it's theft.
 
 # Appropriation
 
-Appropriation refers to at least two distinct, complex concepts: appropriation art (a form of conceptual art), and cultural appropriation. I haven't actually heard these analogies made much, but I think they're interesting.
+Appropriation refers to at least two distinct, complex concepts: [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) (a form of conceptual art), and [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). I haven't actually heard these analogies made much, but I think they're useful.
 
-**How It's Useful**: Both Appropriation Art and Cultural Appropriation are complex, difficult topics. Sometimes they're ok and sometimes they're not (e.g., Sherry Levine vs. Richard Prince), and there's no simple rules about which, and no consensus either. But, in both contexts, they signify both, in some cases, cultural mixing can be beneficial and vital, but can can contribute to systematic harms to a class of individuals.  Which cases are "ok" or "not ok" can't easily be reduced to a simple formula.
+**How It's Useful**: Both Appropriation Art and Cultural Appropriation are complex, difficult topics. Cultural mixing and remix is vital and beneficial to culture, but can be done in harmful ways.  Sometimes appropriation is "ok" and sometimes not (e.g., Sherry Levine vs. Richard Prince), and there's no simple rules about which is which, and no consensus either. 
 
 **The Subtext**: It's complicated.
 
-**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't try. That nothing is "ok," or everything is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for people to dismiss.
+**How It's Misleading**: The fact that it's hard to draw a line about what's "ok" or "not ok" is sometimes taken to mean that you shouldn't try, and thus either nothing is "ok" or everything is "ok." Unfortunately, the concept of cultural appropriation has been reduced to caricature, making it easier for some people to dismiss it.
 
 
 
 
 # How Humans Learn to Make Art
-Advocates say that training models from data is "just like" how humans learn to make art and to get inspired from other art.
+Advocates say that training models from data is just like how humans learn to make art and to get inspired from other art.
 
 
 **How It's Useful**:
@@ -88,12 +87,12 @@ We often underestimate the role of influence and inspiration on art, and the way
 **The Subtext**: Training a model on data is a completely valid thing to do.
 
 **How It's Misleading**:
-To say that an "AI" algorithm works "just like" how a person does is wrong and misleading. [Computers are not people, and humans are not CPUs.](/2022/09/04/computationalism.html) We are not explainable by algorithms, and we have a higher moral status than machines. Even the term [machine learning is misleading](https://arxiv.org/abs/2104.12871) when it leads people to equate ML with human learning.  To say that "it's just like how humans learn" dismisses legitimate concerns with the ways these algorithms process data—and, besides, there are limits on when it's ok for humans to copy.  
+To say that an "AI" algorithm works "just like" how a person does is wrong and misleading. [Computers are not people, and humans are not CPUs.](/2022/09/04/computationalism.html) We are not explainable by algorithms, and we have a higher moral status than machines. Even the term ["machine learning" is misleading](https://arxiv.org/abs/2104.12871) when it leads people to equate ML with human learning.  To say that "it's just like how humans learn" dismisses legitimate concerns with the ways these algorithms process data—and, besides, there are limits on when it's ok for humans to copy.  
 
 
 # Sampling and Collage
 
-In music, sampling involves taking bits of pieces of sounds and reusing them in new ways, from musique concrète to hip-hop and beyond. In visual art, collage and photomontage involves cutting out photos and putting them together in new ways.
+In music, sampling involves taking bits sounds and reusing them in new ways, from musique concrète to hip-hop and beyond. In visual art, collage and photomontage involve cutting out photos and putting them together in new ways.
 
 **How It's Useful**:
 Remix in hip-hop and electronic music revealed to a lot of people how reusing existing elements can be transformative and create new art forms.
@@ -101,14 +100,14 @@ Remix in hip-hop and electronic music revealed to a lot of people how reusing ex
 **The Subtext**: "AI" art is transformative, therefore it is a valid and legitimate artform.  Or: "AI" art is directly copying examples, therefore it's invalid and illegal.
 
 **How It's Misleading**: 
-Just as it's wrong to say these models are just directly copying the training data, it's probably wrong to say that they're copying bits and pieces of them in most cases. But it might be less wrong (or less-often wrong). More research and study is needed here. The way these results are generated are often quite different from hip-hop sampling in lots of ways, for one thing the context is quite different. 
+The preliminary evidence that these models perform widespread copying is very weak, and there are effective memorization mitigations, but more research is needed to really understand what they're doing.  Whether they're copying bits and pieces hasn't been studied yet and may not be easy to study in a rigorous way, because of combinatorics and because you can't just report every match as being a copy (as one paper has done).
 
 
 # Music Recording
 
-At a few times in the 1920s and the 1930s, [musicians unions fought against the introduction of recorded music](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/), including an advertising campaign against "robots" that seems eerily familiar today.
+In the 1920s and 1930s, [musicians unions fought against the introduction of recorded music](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/), including an advertising campaign against "robots" that seems familiar today, and downright silly in retrospect. For example, the ad below asserted that recorded music isn't really music, like people today saying that "AI" art isn't really art.
 
-**How It's Useful**: It's a previous example of technological disruptions to art and employment, changing the availability of jobs but creating a tool that most of us take for granted. Musician unions were able to advocate for some protections for their members in spite of change.
+**How It's Useful**: It's a previous example of technological disruptions to art and employment, changing the availability of jobs but creating a tool that most of us now take for granted. Musician unions were able to advocate for some protections for their members in spite of change.
 
 **The Subtext**: Technological change happens, get over it.
 
@@ -128,24 +127,24 @@ At a few times in the 1920s and the 1930s, [musicians unions fought against the 
 
 # Lava Lamp
 
-In the past week, two high-profile art critics called an AI artworks a "lava lamp," ([Ben Davis](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329), [Jerry Saltz](https://www.vulture.com/article/jerry-saltz-moma-refik-anadol-unsupervised.html)), and [a third used the term for AI art in general](https://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing).
+In the past week, two high-profile art critics called an AI artwork a "lava lamp," ([Ben Davis](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329), [Jerry Saltz](https://www.vulture.com/article/jerry-saltz-moma-refik-anadol-unsupervised.html)), and [a third used the term for AI art in general](https://www.newyorker.com/culture/cultural-comment/what-can-ai-art-teach-us-about-the-real-thing).
 
-**How It's Useful**: Illustrates how something can be visually dazzling but otherwise hollow of meaning or significance.
+**How It's Useful**: Something can be dazzling but otherwise hollow of meaning or significance.
 
 **The Not-So-Subtext**: This stuff is just gimmicky eye-candy.
 
-**How It's Misleading**: Dismisses the value of [experimentation](/2022/10/11/amateurs.html), form, and the many great things that have already been created with these techniques. 
+**How It's Misleading**: Dismisses the value of [experimentation](/2022/10/11/amateurs.html), form, and the many great things that have already been created with these techniques that are more than just visuals. 
 
 
 # [Parrots](https://dl.acm.org/doi/10.1145/3442188.3445922)
 
 Large Language Models (LLMs) are not sentient or intelligent, they are trained to produce high-probability sequences of text similar to a training corpus, like a parrot repeating things it has heard, without understanding.
 
-**How It's Useful**: Deflates the wrong, misleading notions of AI sentience and intelligence.
+**How It's Useful**:  You can generate valid text without understanding.  Deflates the wrong, misleading notions of AI sentience and intelligence.  
 
 **The Not-So-Subtext**: These things are convincing nonsense generators.
 
-**How It's Misleading**: It doesn't quite ring true, because parrots repeats words or phrases, but you couldn't ask them to, say, generate an essay.  LLMs are much richer models than just repeating sentences.
+**How It's Misleading**: The analogy doesn't really resonate because parrots only repeat isolated words or phrases. A parrot can't compose a coherent essay for you.  LLMs are much richer models than just repeating sentences.
 
 
 # A Blurry JPEG
