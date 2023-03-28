@@ -30,7 +30,7 @@ Some of the most naive criticisms of "AI" art ("you just pushed a button!" "the 
 
 
 # Conceptual Art
-Since conceptual artists like Marcel Duchamp, Sol LeWitt, and John Baldessari, contemporary art [emphasize the artist's driving idea](/2020/06/08/wica.html) over the execution. 
+As a product of conceptal artists—such as Marcel Duchamp, Sol LeWitt, and John Baldessari—contemporary art [emphasize the artist's driving idea](/2020/06/08/wica.html) over the execution. 
 
 **How It's Useful**: Providing instructions to software is much like Sol LeWitt or John Baldessari providing instructions to a painter. Ideas about technical skill and craft being essential to art [are old-fashioned](/2022/09/27/art-eras.html).
 
