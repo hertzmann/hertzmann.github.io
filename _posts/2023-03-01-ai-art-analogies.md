@@ -10,7 +10,7 @@ og:image: "/images/baldessari.jpg"
 
 # A Catalog of "AI" Art Analogies
 
-Since deep neural networks are hard-to-interpret mathematical functions, discussions and debate over "AI" art is partly expressed in analogies. Analogies are useful: they help us identify how the new thing might end up being similar to old things. [The ability to think with analogies may even be key to how ingenuity.](https://oneusefulthing.substack.com/p/blinded-by-analogies?utm_medium=reader2)
+Since deep neural networks are hard-to-interpret mathematical functions, discussions and debate over "AI" art is partly expressed in analogies. Analogies are useful: they help us identify how the new thing might end up being similar to old things. [The ability to think with analogies may even be key to ingenuity.](https://oneusefulthing.substack.com/p/blinded-by-analogies?utm_medium=reader2)
 But they hide differences. Each analogy are useful in some ways, misleading in others.
 
 The choice of analogy may reflect the speaker's agenda. Those of us who [compare "AI" Art to photography](/2022/08/29/photography-history.html) emphasize its similarity to previous artistic technologies that seemed to automate art but came to be widely accepted.  But the photography analogy downplays the impact on real peoples' careers.  On the other hand, people that say it's just direct copying argue that there's no value whatsoever in "AI" art.  At times, analogies serve as footsoldiers in a rhetorical battleground.
