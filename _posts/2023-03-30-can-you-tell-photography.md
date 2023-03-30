@@ -2,6 +2,8 @@
 layout: page
 title: Can You Tell If A Painting Came From A Photograph?
 author:  AaronHertzmann
+image: "/images/ipad_paintings/rainyday.jpg"
+og:image: "/images/ipad_paintings/rainyday.jpg"
 ---
 
 
