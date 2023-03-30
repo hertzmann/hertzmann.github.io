@@ -58,8 +58,7 @@ In a sense, he is saying that: _a picture made from a photograph (or other optic
 
 Few of the historians I've read spend much time on this part of his argument. Which seems natural, since it seems so hard to tell just by looking, very hard to verify his claims.
 
-I'm now working on a separate blog post on this question alone. It directly ties to questions of how we make pictures and how we perceive them.
-
+[Here's a separate blog post about the question of whether you can tell.](/2023/03/30/can-you-tell-photography.html)
 
 **Backlash**
 
