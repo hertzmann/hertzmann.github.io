@@ -30,7 +30,7 @@ I care about this for several reasons. For one, I've frequently struggled with w
 
 Moreover, if it's easy to tell how a picture was made, this indicates some fundamental differences between media—and possibly the unique capabilities of each.  Is there some greater value in the skill of an artist who forgoes optical aids like photography? If, on the other hand, there's no difference between these techniques, then an artist might as well pick whichever approach is easiest.  
 
-**Motivated by these questions, this post reviews differences I see in my own pictures, made with and without photographs.**  Even if it's specific to my own paintings, I hope they can give a sense of how a painting from a photograph _can_ look very distinctly different from one drawn from life. 
+**Motivated by these questions, this post reviews differences I see in my own pictures, made with and without photographs.**  Even if it's specific to my own paintings—and I often can't articulate what the difference is—I hope they can give a sense of how a painting from a photograph _can_ look very distinctly different from one drawn from life. 
 
 I don't normally like to share the accompanying photographs [because I think they change the perception of my paintings](/2020/10/12/the-goal-of-painting.html), but I'll make a few exceptions here.  Even when I draw directly from life, I often take a picture for later reference or comparison.
 
