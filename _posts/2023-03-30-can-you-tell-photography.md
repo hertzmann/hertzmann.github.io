@@ -21,7 +21,7 @@ I sometimes play a game with myself where I try to tell whether a particular pai
   <figcaption align="center"><i>Paintings by <a href="https://jirsapaints.com/">Jessica Jirsa</a> and <A href="https://www.kirillova.com/">Mila Kirillova</A></i></figcaption>
 </figure>
 </center>
-Was one or both of them painting [en plein air](https://en.wikipedia.org/wiki/En_plein_air) (i.e., outdoors), working from a photograph, or some other way?  How can you tell?  Can you tell from the colors, shapes, and perspective alone, or does it require thinking about practicalities like  changing light and  people that don't stand still?   Or maybe it's impossible to tell: each of them could have been painted in many different ways?  (You can get some information by viewing their webpages, but that's not the point.)
+Was one or both of them painting [en plein air](https://en.wikipedia.org/wiki/En_plein_air) (i.e., outdoors), working from a photograph, or some other way?  How can you tell?  Can you tell from the colors, shapes, and perspective alone, or does it require thinking about practicalities like  changing light and  people that don't stand still?   Or maybe it's impossible to tell: each of them could have been painted in many different ways?  
 
 [Here's another collection from local artists](https://www.californiaartclub.org/exhibition/california-dreaming/); I _believe_ I can tell some that came from photographs and some that did not. 
 
