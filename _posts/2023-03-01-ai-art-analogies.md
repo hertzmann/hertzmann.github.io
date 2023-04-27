@@ -68,7 +68,7 @@ Critics of text-to-image say that it's theft.
 
 Appropriation refers to at least two distinct, complex concepts: [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)) (a form of conceptual art), and [cultural appropriation](https://en.wikipedia.org/wiki/Cultural_appropriation). I haven't actually heard these analogies made much, but I think they're useful.
 
-**How It's Useful**: Both Appropriation Art and Cultural Appropriation are complex, difficult topics. Cultural mixing and remix is vital and beneficial to culture, but can be done in harmful ways.  Sometimes appropriation is "ok" and sometimes not (e.g., Sherry Levine vs. Richard Prince), and there's no simple rules about which is which, and no consensus either. 
+**How It's Useful**: Both Appropriation Art and Cultural Appropriation are complex, difficult topics. Cultural mixing and remix is vital and beneficial to culture, but can be done in harmful ways.  Sometimes appropriation is "ok" and sometimes not (e.g., compare [Sherry Levine](https://en.wikipedia.org/wiki/Sherrie_Levine) vs. [Richard Prince](https://www.thecut.com/article/emily-ratajkowski-owning-my-image-essay.html) vs. [Roy Lichtenstein](https://news.artnet.com/art-world/whaam-blam-roy-lichtenstein-documentary-2268088)), and there's no simple rules about which is which, and no consensus either.
 
 **The Subtext**: It's complicated.
 
