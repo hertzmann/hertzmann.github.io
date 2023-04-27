@@ -47,9 +47,9 @@ Two pitfalls
 
 I think there are two particular common pitfalls:
 
-1. _Foregone conclusions_: The results in the paper figures are good enough that obviously the method is better, and a user study is redundant. This is probably the common case among _accepted_ papers. The study was just a bunch of unnecessary extra work.
+Pitfall 1 (_Foregone conclusions_): The results in the paper figures are good enough that obviously the method is better, and a user study is redundant. This is probably the common case among _accepted_ papers. The study was just a bunch of unnecessary extra work.
 
-2. _Replicability problem_: The method isn't very good, but the user study misleadingly shows that the method is.
+Pitfall 2 (_Replicability problem_): The method isn't very good, but the user study misleadingly shows that the method is.
 
 I think the former pitfall is straightforward; I propose later cases where such a study could be useful as a "sanity check" on the figures.
 
