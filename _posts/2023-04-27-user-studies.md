@@ -56,7 +56,7 @@ I think the former pitfall is straightforward; I propose later cases where such 
 The latter pitfall requires more explanation.
 
 
-Replicability pitfall: an illustrative example
+Replicability pitfall: a story
 =====
 
 Here's an in-depth example from a recent project, that ought to unsettle anyone that uncritically relies on crowdworker studies.  
