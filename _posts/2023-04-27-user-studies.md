@@ -157,14 +157,16 @@ The "users" in our so-called "user studies" are almost never actual users of the
 
 Hence, reviewers must make judgement calls about whether the ideas and results are valid, interesting, and worth publishing. User studies can help with these judgments if done well, but, more often, they're just a box to check on a form.
 
-**Accept that no study tells you scientific facts**
+**Accept that studies are often ambiguous**
 
 I experienced first-hand the ambiguity in study data with our [2011 paper on color compatibility](http://www.dgp.toronto.edu/~donovan/color/).
 For years, psychologists had used limited in-person studies on simple pairings to measure color compatibility on just a few subjects. We began thinking that big datasets and crowdwork would allow us to figure out much better which colors go best together. 
 
 Each time we formulated another study or data analysis, we thought it might answer basic questions, like which color theories worked better.  And, with each study we ran, we realized there were multiple explanations for the results.  Maybe the results depended on the background color when viewing the ratings. Maybe the fact that some data sources came with titles affected the ratings.  We would then devise tests to separate factors (e.g., with and without titles), and each of these led more questions, and an endless rabbit-hole of confounding factors.  
 
-Doing science means acknowledging and understanding the limitations of your studies. No user study on its own is conclusive, but, still, some studies are better than others.
+During this process, a colleague Ryan Schmidt, who published frequently in HCI, commented that reviewers could poke holes in any study. If they did a line drawing study on paper, reviewers would complain about which kind of paper was used and whether the study generalizes to other drawing media.
+
+Doing science means acknowledging and understanding the limitations of your studies. No user study on its own is conclusive, but some are better than others.
 
 
 **Consider crowdworker evaluations as "sanity checks"**
