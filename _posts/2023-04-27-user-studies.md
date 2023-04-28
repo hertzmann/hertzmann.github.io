@@ -158,7 +158,7 @@ Hence, reviewers must make judgement calls about whether the ideas and results a
 
 **Accept that no study tells you scientific facts**
 
-I experienced first-hand the ambiguity in study data with our [2011 paper on color compatibility](http://www.dgp.toronto.edu/~donovan/color/)—which was, I believe, the first use of crowdwork at SIGGRAPH. 
+I experienced first-hand the ambiguity in study data with our [2011 paper on color compatibility](http://www.dgp.toronto.edu/~donovan/color/).
 For years, psychologists had used limited in-person studies on simple pairings to measure color compatibility on just a few subjects. We began thinking that big datasets and crowdwork would allow us to figure out much better which colors go best together. 
 
 Each time we formulated another study or data analysis, we thought it might answer basic questions, like which color theories worked better.  And, with each study we ran, we realized there were multiple explanations for the results.  Maybe the results depended on the background color when viewing the ratings. Maybe the fact that some data sources came with titles affected the ratings.  We would then devise tests to separate factors (e.g., with and without titles), and each of these led more questions, and an endless rabbit-hole of confounding factors.  
