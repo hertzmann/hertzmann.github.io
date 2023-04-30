@@ -49,11 +49,13 @@ I think there are two particular common pitfalls in papers:
 
 **Pitfall 1 (_Foregone conclusions_):** The results in the paper figures are good enough that obviously the method is better, and a user study is redundant. This is probably the common case among _accepted_ papers. The study was just a bunch of unnecessary extra work.
 
+Quantitative evaluation used to be rare, almost unheard of. Yet reviewers could still evaluate papers. None of my PhD work had it; it was only years later we started doing some user studies. I recently went through the SIGGRAPH 2008 proceedings (i.e., just before crowdworking took hold), and only two papers in the whole proceedings had anything you might call a "user study."  Yet, somehow there was lots of good work.  Of course, studies and quantitative evaluations are often useful or necessary, but they are not _always_ necessary.
+
+I think this pitfall is straightforward; below, I propose that we can think of studies in the former cases as a "sanity check" on the figures.
+
 **Pitfall 2 (_Replicability_):** The method isn't very good, but the user study shows it is.
 
-I think the former pitfall is straightforward; I propose later cases where such a study could be useful as a "sanity check" on the figures.
-
-The latter pitfall requires more explanation.
+This pitfall requires more explanation.
 
 
 Replicability pitfall: a story
