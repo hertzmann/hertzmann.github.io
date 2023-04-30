@@ -13,7 +13,7 @@ Anyone who has spent enough time publishing some kind of artistic tools in compu
 
 As an author, reviewer, and PC member who works in more "artistic" subjective subfields, I have experienced or witnessed cases like these many times in the past few years.  So often, the user study seems unnecessary or even useless, just a waste of everyone's precious time.  
 
-I suspect many studies published in graphics and vision are **performative, not informative**: we do them not because we want to learn something, but solely because reviewers expect to see a study. That is, these are studies as performance, like stage acting, not doing something for real.
+I suspect many studies published in graphics and vision are **performative, not informative**: we do them not because we want to learn something, but solely because reviewers expect to see a study. So we put on a show, a performance.
 
 Some subfields, including animation and tone-mapping, do have long traditions of rigorous, worthwhile perceptual studies, as does the field of HCI.  For example, I think Forrester Cole's work on [making](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/index.php) and [perceiving](https://gfx.cs.princeton.edu/proj/ld3d/) line drawings are quite significant, high-quality perceptual studies.  This post isn't about those lines of work.  This post is about the performative user studies that have become common since the advent of crowdworking in 2008.  Crowdworking made gathering numerical scores easy, by allowing researchers to treat human individuals as algorithmic data sources.
 
