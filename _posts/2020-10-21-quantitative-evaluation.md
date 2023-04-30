@@ -10,6 +10,7 @@ author:  AaronHertzmann
 *"Who are you going to believe, the numerical scores or your own eyes?" — [The Marx Brothers, sort of](https://www.youtube.com/watch?v=cHxGUe1cjzM).*
 
 
+
 Computer vision paper reviewers generally expect that paper submissions will have quantitative evaluations, typically, a table of numbers showing that the proposed method outperforms the state-of-the-art on some dataset. **I think that computer vision reviewers are overly obsessed with quantitative evaluation in a way that can hurt the field.** 
 
 Why We Perform Quantitative Evaluation
@@ -43,6 +44,7 @@ A general rule of thumb I've heard from computer vision researchers is that a da
 
 More broadly, the way that measurement-based incentive structures can fail society is a broader topic, e.g., this is a major theme of the TV show The Wire; see also [Goodheart's Law](https://www.nature.com/news/watch-out-for-cheats-in-citation-game-1.20246).
 
+_Note: [In a newer post](/2023/04/27/user-studies.html), I focus on problems specifically with user studies in graphics and vision, expanding on topics in [a new paper on the topic](https://arxiv.org/abs/2206.11461)._
 
 Image Synthesis and Graphics Papers
 ---
