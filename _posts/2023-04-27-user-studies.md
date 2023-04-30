@@ -53,7 +53,7 @@ Quantitative evaluation used to be rare, almost unheard of. Yet reviewers could 
 
 This pitfall is straightforward. I suggest that we can think of studies in the former cases as a "sanity check" on the figures, which I will expand on later in this essay.
 
-**Pitfall 2 (_Replicability_):** The method isn't very good, but the user study shows it is.
+**Pitfall 2 (_Replicability_):** The method isn't very good, but the user study purports to show that it is.
 
 This pitfall requires more explanation.
 
@@ -85,7 +85,7 @@ We finally obtained the results we expected both by changing the task structure,
 1. We used crowdworking methods common in graphics and vision, and
 2. Different experiments gave opposite conclusions. 
 
-We could have just reported the results of our final study. This would have made our paper much more impressive and exciting.  But this would have been misleading, and, arguably, unethical.  Instead, we were open to learning something from these studies, and so we tried many experiments, and reported all of our findings, which will hopefully inspire future studies to disentangle all the factors we identified.
+We could have just reported the results of our final study. This would have made our paper much more impressive and exciting.  But this would have been misleading, and, arguably, unethical.  Instead, we were open to learning something from these studies, and so we tried many experiments, and reported all of our findings, which will hopefully inspire future studies to disentangle all the factors we identified. The fact that we were dealing with a difficult and divisive style related to Modern Art probably made judgements particularly mixed.
 
 But I wonder how many published "user studies" in graphics and vision were performed this way: keep running crowdworker evaluations until you get the result you want, _only_ publish that final evaluation, and then declare victory.
 
