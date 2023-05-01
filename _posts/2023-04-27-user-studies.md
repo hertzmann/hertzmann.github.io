@@ -17,10 +17,11 @@ I suspect many studies published in graphics and vision are **performative, not 
 
 Some subfields, including animation and tone-mapping, do have long traditions of rigorous, worthwhile studies, as does the field of HCI.  For example, I think Forrester Cole's work on [making](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/index.php) and [perceiving](https://gfx.cs.princeton.edu/proj/ld3d/) line drawings are quite significant, high-quality perceptual studies.  This post isn't about those lines of work.  This post is about the performative user studies that have become common since the advent of crowdworking in 2008.  Crowdworking made gathering numerical scores easy, by allowing researchers to treat human individuals as algorithmic data sources.
 
+[In a new paper](https://arxiv.org/abs/2206.11461), we make this case, and even a stronger one: the best user studies take time and effort, and often don't involve crowdworking or quantitative methods at all.  The best user studies are ones you do _before_ developing a system, in order to learn more about the problems and possible solutions.
+
 **We need a better understanding of if, when, and how user studies are valuable.** When done thoughtfully, user studies can provide invaluable insights and new information, even leading you to new research ideas.  But, in much of graphics and vision, the growth of crowdwork has diluted the concept of "user study" to the point of meaninglessness. User studies are often considered necessary for publication, but few standards—if any—seem to govern how these studies are conducted.  **In this piece, I'll provide some recommendations for what we can do about it.**
 
 
-[In a recent paper](https://arxiv.org/abs/2206.11461), we make this case, and even a stronger one: the best user studies take time and effort, and often don't involve crowdworking or quantitative methods at all.  The best user studies are ones you do _before_ developing a system, in order to learn more about the problems and possible solutions.
 
 
 # An example of bad reviews
@@ -48,9 +49,9 @@ I think there are two particular common pitfalls in papers:
 
 **Pitfall 1 (_Foregone conclusions_):** The results in the paper figures are good enough that obviously the method is better, and a user study is redundant. This is probably the common case among _accepted_ papers. The study was just a bunch of unnecessary extra work.
 
-Quantitative evaluation used to be rare, almost unheard of. Yet reviewers could still evaluate papers. None of my PhD work had it; it was only years later we started doing some user studies. I recently went through the SIGGRAPH 2008 proceedings (i.e., just before crowdworking took hold), and counted only two papers in the whole proceedings that had anything you might call a "user study."  Yet, somehow there was lots of good work.  Of course, studies and quantitative evaluations are often useful or necessary, but they are not _always_ necessary.
+Quantitative evaluation used to be rare, almost unheard of. Yet reviewers could still evaluate papers. None of my PhD work had it; it was only years later we started doing some user studies. I recently went through the entire SIGGRAPH 2008 proceedings (i.e., just before crowdworking took hold), and counted only three papers that had anything you might call a "user study."  Yet, somehow lots of good work got published.  There were lots of good papers without user studies.
 
-This pitfall is straightforward. I suggest that we can think of studies in the former cases as a "sanity check" on the figures, which I will expand on later in this essay.
+I suggest that we can think of studies as a "sanity check" on the figures, but a sanity check isn't always necessary. I will expand on later in this essay.
 
 **Pitfall 2 (_Replicability_):** The method isn't very good, but the user study purports to show that it is.
 
