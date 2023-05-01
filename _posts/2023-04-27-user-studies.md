@@ -17,11 +17,10 @@ I suspect many studies published in graphics and vision are **performative, not 
 
 Some subfields, including animation and tone-mapping, do have long traditions of rigorous, worthwhile studies, as does the field of HCI.  For example, I think Forrester Cole's work on [making](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/index.php) and [perceiving](https://gfx.cs.princeton.edu/proj/ld3d/) line drawings are quite significant, high-quality perceptual studies.  This post isn't about those lines of work.  This post is about the performative user studies that have become common since the advent of crowdworking in 2008.  Crowdworking made gathering numerical scores easy, by allowing researchers to treat human individuals as algorithmic data sources.
 
-**We need a better understanding of if, when, and how user studies are valuable.** When done thoughtfully, user studies can provide invaluable insights and new information, even leading you to new research ideas. 
-[As we describe in a recent paper](https://arxiv.org/abs/2206.11461), the best user studies take time and effort, and often don't involve crowdworking or quantification at all. But, in much of graphics and vision, the growth of crowdwork has diluted the concept of "user study" to the point of meaninglessness. User studies are often considered necessary for publication, but few standards—if any—seem to govern how these studies are conducted.  **In this piece, I'll provide some recommendations for what we can do about it.**
+**We need a better understanding of if, when, and how user studies are valuable.** When done thoughtfully, user studies can provide invaluable insights and new information, even leading you to new research ideas.  But, in much of graphics and vision, the growth of crowdwork has diluted the concept of "user study" to the point of meaninglessness. User studies are often considered necessary for publication, but few standards—if any—seem to govern how these studies are conducted.  **In this piece, I'll provide some recommendations for what we can do about it.**
 
 
-
+[In a recent paper](https://arxiv.org/abs/2206.11461), we make this case, and even a stronger one: the best user studies take time and effort, and often don't involve crowdworking or quantitative methods at all.  The best user studies are ones you do _before_ developing a system, in order to learn more about the problems and possible solutions.
 
 
 # An example of bad reviews
@@ -63,9 +62,9 @@ Replicability pitfall: a story
 
 Here's an in-depth example from a recent project, that ought to unsettle anyone that uncritically relies on crowdworker studies.  
 
-A few years ago, some artists began making art by [manipulating Generative Adversarial Networks (GANs) to produce weird-but-intriguing outputs](https://direct.mit.edu/leon/article-abstract/53/4/424/96926/Visual-Indeterminacy-in-GAN-Art?redirectedFrom=fulltext), rather than the realistic-but-plain-looking images that GANs normally made. They "looked like" Modern Art, especially much of the weird and surreal art from the early 20th Century; why?
+A few years ago, some artists began making art by [manipulating Generative Adversarial Networks (GANs) to produce weird-but-intriguing outputs](https://direct.mit.edu/leon/article-abstract/53/4/424/96926/Visual-Indeterminacy-in-GAN-Art?redirectedFrom=fulltext), rather than the realistic-but-plain-looking images that GANs normally made. They "looked like" Modern Art, especially much of the weird and surreal art from the early 20th Century.
 
-Inspired by GAN art, [we developed a way to quantify](http://cybertron.cg.tu-berlin.de/xiwang/tap-project-page) the ["indeterminacy"](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00084/full) of an image.  Here's our quantification on some GAN images from [Artbreeder](https://www.artbreeder.com/):
+Inspired by these observations, [we developed a way to quantify](http://cybertron.cg.tu-berlin.de/xiwang/tap-project-page) the ["indeterminacy"](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00084/full) of an image.  Here's our quantification on some GAN images from [Artbreeder](https://www.artbreeder.com/):
 
 ![high and low entropy images](../../../images/image-entropy.jpeg)
 
@@ -106,7 +105,7 @@ If that's not concerning enough, consider this. Crowdworking on MTurk grew popul
 If There's A Crisis, Would Anyone Care?
 =====
 
-All of the above **leads me to believe that most "user studies" in computer graphics and vision are not replicable:** they would not hold up if someone tried to redo the study with new participants.  In fact, they're not even reproducible, given that few authors provide complete details about their methodology. In other fields, recognizing this would lead to a wake-up call, a need to reform publication practices. 
+All of the above **leads me to believe that many "user studies" in computer graphics and vision are not replicable:** they would not hold up if someone tried to redo the study with new participants.  In fact, they're not even reproducible, given that few authors provide complete details about their methodology. In other fields, recognizing this would lead to a wake-up call, a need to reform publication practices. 
 
 
 [I've complained about performative user studies many times before](/2020/10/21/quantitative-evaluation.html). But most people (with a few exceptions) don't seem particularly concerned about whether or not our studies are "true."
@@ -115,7 +114,7 @@ Suppose we ran a large-scale study _about studies_, and found that many of our p
 
 (One important consideration I'm glossing over is whether we'd want to judge replicability among crowdworkers or among a different pool of participants. Our crowdworker studies may technically be replicable because they can have large sample sizes, but there may be important other problems with the study.)
 
-But, if no one cares, isn't that a sign that these studies don't matter?  
+But, if no one cares, isn't that a sign that these studies don't matter?  And, if they don't matter, why are we doing them? 
 
 
 
