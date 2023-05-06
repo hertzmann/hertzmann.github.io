@@ -99,7 +99,15 @@ What causes this problem? [One influential 2011 paper](https://journals.sagepub.
 
 If rigorous scientific experiments have gone through such an upheaval, shouldn't we wonder about some of our own experiements? Indeed, there have been related concerns raised of a [replication crisis in computer science](https://cacm.acm.org/magazines/2020/8/246369-threats-of-a-replication-crisis-in-empirical-computer-science/abstract) and in [machine learning](https://reproducible.cs.princeton.edu/), as well as evidence that [dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf) leads to results that [do not generalize well](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf).  (Note that the easily-confused terms "reproducibility" and "replicability" [are sometimes swapped in their meanings](https://www.frontiersin.org/articles/10.3389/fninf.2017.00076/full). I'm skipping over the precise meanings here.)
 
+
+Could MTurk Lose All Value?
+=======
+
 If that's not concerning enough, consider this. Crowdworking on MTurk grew popular for user studies after a series of studies in [HCI](https://dl.acm.org/doi/abs/10.1145/1357054.1357127), [visualization](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf), and [psychology](https://journals.sagepub.com/doi/10.1177/1745691610393980) showed that crowdworking gave similar outcomes to in-person studies. But, there's some evidence that [the reliability of MTurk data has _gone down_ over the years](https://journals.sagepub.com/doi/abs/10.1177/1948550619875149).
+
+What's more, Large Language Models (like GPT) [can generate plausible responses to user survey questions](https://research.aalto.fi/files/106452436/SCI_H_m_l_inen_etal_CHI_2023.pdf). This means that MTurk is likely to be even more flooded with bots and fake accounts that are indistinguishable from the real thing. I've already heard anecdotally of MTurk survey responses that begin with "As an AI Language Model", indicating that this is already happening.
+
+MTurk might not be useful for much longer.
 
 
 
