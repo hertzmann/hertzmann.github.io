@@ -224,5 +224,3 @@ How working with real users can inform and drive good research in computer graph
 
 * Maneesh Agrawala, Wilmot Li, Floraine Berthouzoz.
 [**Design Principles for Visual Communication**](http://vis.berkeley.edu/papers/designprinciples/). _Communications of the ACM_, April 2011, 54 (4), pp. 60-69.
-
-
