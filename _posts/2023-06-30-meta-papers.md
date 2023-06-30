@@ -1,3 +1,11 @@
+---
+layout: page
+title: Computer Science Venues Should Publish Position Papers
+summary: We should have peer-reviewed venues for discussing our fields.
+author: AaronHertzmann
+---
+
+
 # Computer Science Venues Should Publish Position Papers
 
 
