@@ -45,7 +45,8 @@ Position papers should be accessible to researchers in the relevant community.  
 
 Position Papers should have their own reviewing tracks and reviewing standards. Single-blind reviewing should be the default, since the identity and direct experiences of the authors may be an important part of the paper (although perhaps authors could be given the option of double-blind).  A senior author with experiences across many parts of the reviewing process would be read differently from those of a new researcher (and both can be valuable).
 
-Position Papers can be cited like any other paper. They can be useful when writing a paper when you need to motivate the problem or the approach. For example, I've published papers on physics-based character animation and tracking at various times, and often we need to argue why this is a worthwhile research area (especially back in the early 2000s when physics-based animation was out of favor), and arguing for different evaluation metrics (since the evaluation metrics often used in vision don't measure the right things).
+Position Papers can be cited like any other paper; citing them can be helpful when you need to motivate the problem or the approach. Why work on this problem at all, or why evaluate things this way? In one of our paper rebuttals last year, we cited several position papers to argue against reviewers who said our paper needed to have user studies. 
+
 
 Survey Papers are not position papers if they merely summarize published work. But Position Papers frequently survey and summarize the literature in support of the point they make; Position Papers often have very long lists of references.
 
