@@ -37,6 +37,7 @@ A position paper may cover any topic relevant to the research field, such as:
 * Review processes and conference/journal formats (e.g., arXiv ban, new conference tracks)
 * Broader context and societal impact, and how it should affect research publications
 * Blind spots in the literature, and how to correct them
+* Reinterpretation of existing results with a new theory
 
 A position paper should not just be science fiction ideation ("what if we figured out how the brain does vision?") nor should they be angry rants. They may be fantastical or opinionated, but they should be supported by careful reasoning and citation, and they should provide novelty, i.e., new insight and depth.   For example, a paper shouldn't just complain about single-blind or double-blind reviewing, and stupid reviewers; it should construct an argument one way or the other, drawing on the extensive literature and studies on these topics, and even the author's own experience, weighing the benefits and harms of each. Papers should be specific to the field where they are published (e.g., not just about double-blind reviewing in general).
 
@@ -46,7 +47,7 @@ Position Papers should have their own reviewing tracks and reviewing standards. 
 
 Position Papers can be cited like any other paper. They can be useful when writing a paper when you need to motivate the problem or the approach. For example, I've published papers on physics-based character animation and tracking at various times, and often we need to argue why this is a worthwhile research area (especially back in the early 2000s when physics-based animation was out of favor), and arguing for different evaluation metrics (since the evaluation metrics often used in vision don't measure the right things).
 
-Survey Papers are not position papers, if they merely summarize published work. But Position Papers frequently survey and summarize the literature in support of the point they make; they often have very long lists of references.
+Survey Papers are not position papers if they merely summarize published work. But Position Papers frequently survey and summarize the literature in support of the point they make; Position Papers often have very long lists of references.
 
 
 # Why Write One?  Why Not Just Blog Posts and Tweets?
@@ -78,7 +79,7 @@ My 2003 invited paper arguing for [the use of machine learning in computer graph
 **Review papers.** 
 One interesting case are "review papers" in scientific fields.  I've only learned about this category recently (as I am currently preparing a review paper), and realized that many of my favorite scientific papers are reviews. The Journal of Vision defines a review paper as "Reviews are meant to sum up the current state of the research on an important topic and are regarded as being the first place to get authoritative information about that topic. They should contain new insights on the topic or provide a new synthesis of data."
 
-Some of my favorite scientific papers are essentially review papers/Perspectives, such as [Rosenholtz on foveal and peripheral vision](https://rdcu.be/b0EWf), [Yamins and DiCarlo on neural network models of the brain](https://www.nature.com/articles/nn.4244), or classic examples on reproducible science like [Simmons et al on False-Positive Psychology](https://journals.sagepub.com/doi/10.1177/0956797611417632) or [Ioannidis on why most published studies are false](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124).  I would argue that papers like these, which are extremely valuable and often influential, could not find homes in our CS venues.
+Some of my favorite scientific papers are essentially review papers/Perspectives, such as [Rosenholtz on foveal and peripheral vision](https://rdcu.be/b0EWf), [Yamins and DiCarlo on neural network models of the brain](https://www.nature.com/articles/nn.4244), or classic examples on reproducible science like [Simmons et al on False-Positive Psychology](https://journals.sagepub.com/doi/10.1177/0956797611417632) or [Ioannidis on why most published studies are false](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124).  I would argue that papers like these, which are extremely valuable and often influential, could not find homes in our CS venues.  (My own papers on [line drawing perception](/2021/05/13/why-does-line-drawing-work.html) could fit into these categories as well, as they do not include new experiments or algorithms but instead reinterpret existing results.)
 
 Incidentally, I would support seeing more "review papers" in [FnTCG&amp;A](https://www.nowpublishers.com/CGV) ([our recent paper on user studies](https://www.nowpublishers.com/article/Details/CGV-106) might fit into this category, although it wasn't conceived that way).
 
