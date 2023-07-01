@@ -46,7 +46,9 @@ Position papers should be accessible to researchers in the relevant community.  
 
 Position papers should offer some future vision, lessons, advocacy, or call-to-action for the reader and/or the field. They shouldn't just be a list of experiences or opinions or complaints.
 
-Position Papers should have their own reviewing tracks and reviewing standards. Single-blind reviewing should be the default, since the identity and direct experiences of the authors may be an important part of the paper (although perhaps authors could be given the option of double-blind).  A senior author with experiences across many parts of the reviewing process would be read differently from those of a new researcher (and both can be valuable).
+Since position papers will often be interdisciplinary in some way, they should include citations from the relevant fields. We often make claims about human, cultures, coginition, and/or physics that should be grounded in the literature.
+
+Position Papers should have their own reviewing tracks and reviewing standards. Single-blind reviewing should be the default, since the identity and direct experiences of the authors may be an important part of the paper (although perhaps authors could be given the option of double-blind).  A senior author with experiences across many parts of the reviewing process would be read differently from those of a new researcher (and both can be valuable).  Why peer review? For one thing, position papers should ground their opinions in fact, with rigorous citations. Second, peer review offers deeper feedback and evaluation than a single editor simply making a thumbs-up/thumbs-down jugdment. Third, peer review signals that these papers are taken seriously, both to conference-goers and to authors who are incentivized to author peer-reviewed publications (e.g., for tenure, awards, and annual reviews, etc).
 
 Position Papers can be cited like any other paper; citing them can be helpful when you need to motivate the problem or the approach. Why work on this problem at all, or why evaluate things this way? In one of our paper rebuttals last year, we cited several position papers to argue against reviewers who said our paper needed to have user studies. 
 
@@ -63,6 +65,7 @@ I was spurred to write this post by the plenary and workshop discussion at CVPR 
 In my experience, there's a big difference between writing some Tweets, writing a blog post, and writing a real paper; each has value. Blogging is good for getting an initial set of ideas out there, without putting too much pressure on yourself.   Writing things down forces you to think through your ideas—**you learn a lot by writing things down**.  Writing a real paper requires polishing the ideas even more. And, you learn a lot by seeing what anonymous peer reviewers say—even if you initially think the peer reviewers are nuts, their feedback is still useful.  
 
 The good things about blogging is that you don't need to careful edit or to cite all the related work and studies.  The good thing about publishing papers it that you have to carefully edit your text and carefully cite all the related work and studies.
+
 
 Position Papers may even be useful for historians of science, to understand what the researchers were thinking at the time, and not just what methods ended up being adopted. I've recently read several criticisms from outside these fields purporting to explain what CS researchers believed about the world based on the epistemology embedded in our models: while the criticisms of the models are valid, the descriptions of the pioneers' beliefs seemed to have been invented from whole cloth. Yet, there were no public writings to show otherwise. 
 
@@ -86,4 +89,9 @@ One interesting case are "review papers" in scientific fields.  I've only learne
 Some of my favorite scientific papers are essentially review papers/Perspectives, such as [Rosenholtz on foveal and peripheral vision](https://rdcu.be/b0EWf), [Yamins and DiCarlo on neural network models of the brain](https://www.nature.com/articles/nn.4244), or classic examples on reproducible science like [Simmons et al on False-Positive Psychology](https://journals.sagepub.com/doi/10.1177/0956797611417632) or [Ioannidis on why most published studies are false](https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.0020124).  I would argue that papers like these, which are extremely valuable and often influential, could not find homes in our CS venues.  (My own papers on [line drawing perception](/2021/05/13/why-does-line-drawing-work.html) could fit into these categories as well, as they do not include new experiments or algorithms but instead reinterpret existing results.)
 
 Incidentally, I would support seeing more "review papers" in [FnTCG&amp;A](https://www.nowpublishers.com/CGV) ([our recent paper on user studies](https://www.nowpublishers.com/article/Details/CGV-106) might fit into this category, although it wasn't conceived that way).
+
+
+
+------
+_Thanks to Alyosha Efros and Ahmad Elgammal._
 
