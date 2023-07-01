@@ -38,10 +38,13 @@ A position paper may cover any topic relevant to the research field, such as:
 * Broader context and societal impact, and how it should affect research publications
 * Blind spots in the literature, and how to correct them
 * Reinterpretation of existing results with a new theory
+* Historical or personal retrospectives with lessons for the future
 
 A position paper should not just be science fiction ideation ("what if we figured out how the brain does vision?") nor should they be angry rants. They may be fantastical or opinionated, but they should be supported by careful reasoning and citation, and they should provide novelty, i.e., new insight and depth.   For example, a paper shouldn't just complain about single-blind or double-blind reviewing, and stupid reviewers; it should construct an argument one way or the other, drawing on the extensive literature and studies on these topics, and even the author's own experience, weighing the benefits and harms of each. Papers should be specific to the field where they are published (e.g., not just about double-blind reviewing in general).
 
 Position papers should be accessible to researchers in the relevant community.  When bringing in ideas from other fields—whether from X-ray crystallography or critical race theory—unfamilar terminology and concepts should be defined in an accessible manner.  Authors expressing controversial views should make an extra effort to be understandable and persuasive to a broad audience, e.g., acknowledge, respect, and respond to differing views—but without diminishing the force of their own views.
+
+Position papers should offer some future vision, lessons, advocacy, or call-to-action for the reader and/or the field. They shouldn't just be a list of experiences or opinions or complaints.
 
 Position Papers should have their own reviewing tracks and reviewing standards. Single-blind reviewing should be the default, since the identity and direct experiences of the authors may be an important part of the paper (although perhaps authors could be given the option of double-blind).  A senior author with experiences across many parts of the reviewing process would be read differently from those of a new researcher (and both can be valuable).
 
