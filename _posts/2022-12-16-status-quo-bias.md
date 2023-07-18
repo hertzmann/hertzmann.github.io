@@ -33,6 +33,7 @@ I've come up with a set of rules that describe our reactions to technologies:
 This is now called [Status Quo bias](https://en.wikipedia.org/wiki/Status_quo_bias), an emotional preference for the current state of things. In one recent study, [researchers' found evidence supporting Adams' description](https://journals.sagepub.com/doi/abs/10.1177/09567976221102868).
 They described a new technology to participants, and, for each participant, told them a different year of the technology's invention. They repeated this for many technologies and participants, and they found that **peoples' judgments of whether a new technology is beneficial is best predicted by whether it was invented before or after they were born.**
 
+[Another set of studies](https://www.nature.com/articles/s41586-023-06137-x) show that people have continually perceived morality to be in decline over at least the last 70 years, and that this is a psychological illusion.
 
 |[New technology can indeed have significantly negative impacts, but the initial backlash often gets it completely wrong](https://www.amyorben.com/publication/2020_orben_pops/). The consequences of new technologies are subtle and complex. The trick is to accurately judge the harms (and benefits) from the very initial stages of a thing.|
 
