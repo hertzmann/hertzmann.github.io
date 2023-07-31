@@ -36,8 +36,6 @@ But there are entire classes of occluding contour stylizations we can't do relia
 <center>
 <figure>
   <img src="../../../images/howtodraw/styles.jpg" alt="NPR contour styles"/>
-  <figcaption align="center"><i>The character on the left has occluding contour outlines.
-</i></figcaption>
 </figure>
 </center>
 We can author all sorts of beautiful rendering styles.  But the algorithms aren't robust. All of the existing contour algorithms for smooth surfaces have unpredictable failure cases. And we've never really understood why.  
