@@ -69,7 +69,8 @@ Many other elements of drawing and rendering depend on their appearance in the i
 <center>
 <figure>
   <img src="../../../images/howtodraw/seuss.png" alt="Seuss rendering"/>
-  <figcaption align="center"><i>Dr. Seuss-style rendering (on right) based on the 3D model on the left, by [Kowalski et al.](http://graphics.cs.brown.edu/research/art/)
+  <figcaption align="center"><i>Dr. Seuss-style rendering (on right) based on the 3D model on the left, by 
+    <a href="http://graphics.cs.brown.edu/research/art">Kowalski et al.</a>
 </i></figcaption>
 </figure>
 </center>
