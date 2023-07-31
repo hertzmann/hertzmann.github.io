@@ -215,7 +215,7 @@ This method avoids all the complexity of finding valid polyline approximations, 
 Moreover, it's much faster than ConTesse. It takes at most one second per frame at run-time for most of the meshes we tested.
 
 
-**I believe this represents the state-of-the-art for efficiently producing smooth, sensible occluding contours from a triangle mesh.** And, even if you're starting with a subdivision surface, depending on your needs, your best may be to turn it into a triangle mesh and then run our algorithm.
+**I believe this represents the state-of-the-art for efficiently producing smooth, sensible occluding contours from a triangle mesh.** And, even if you're starting with a subdivision surface, depending on your needs, your best bet may be to turn it into a triangle mesh and then run our algorithm.
 
 
 
