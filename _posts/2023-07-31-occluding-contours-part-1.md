@@ -32,7 +32,15 @@ and the Spider-Verse movies:
 </center>
 
 
-But there are entire classes of occluding contour stylizations we can't do reliably or robustly. It's not because they're hard to design---we can author beautiful rendering styles that work _sometimes_. But all of the existing contour algorithms for smooth surfaces have unpredictable failure cases. And we've never really understood why.
+But there are entire classes of occluding contour stylizations we can't do reliably or robustly—and we're not seeing them in movies or games. Here are some examples of occluding contour stylizations from research papers over the years:
+<center>
+<figure>
+  <img src="../../../images/howtodraw/styles.jpg" alt="NPR contour styles"/>
+  <figcaption align="center"><i>The character on the left has occluding contour outlines.
+</i></figcaption>
+</figure>
+</center>
+We can author all sorts of beautiful rendering styles.  But the algorithms aren't robust. All of the existing contour algorithms for smooth surfaces have unpredictable failure cases. And we've never really understood why.  
 
 This year, we finally cracked the case. 
 
