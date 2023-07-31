@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem"
+author:  AaronHertzmann
+image: "/images/howtodraw/cupid_hatch.png"
+og:image: "/images/howtodraw/cupid_hatch.png"
+---
+
+
 # Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem
 
 
