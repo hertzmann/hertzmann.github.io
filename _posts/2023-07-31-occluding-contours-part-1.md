@@ -90,7 +90,7 @@ I'm assuming that the surface is _oriented_: the faces have normal directions co
 (In this post, I am being very casual with definitions and terminology.  You can see [our tutorial paper for a detailed and precise definitions](https://arxiv.org/abs/1810.01175).)
 
 
-**For smooth surfaces,** i.e., surfaces with continous normals, the occluding contours are still the places where the surface folds over itself in image space. This happens at any _visible_ surface point where _the tangent plane contains the view vector_. For example:
+**For smooth surfaces,** i.e., surfaces with continous normals, the occluding contours are all _visible_ surface points where _the tangent plane contains the view vector_. For example:
 
 <center>
 <figure>
@@ -147,13 +147,13 @@ Note how the stylization flickers and strokes appear and disappear, despite a nu
 
 If you are like most researchers, you might think there are simple solutions to this problem. In my experience, pretty much _everyone_, when confronted with these problems, immediately suggests simple solutions that they confidently believe will solve the problem.  
 
-For example, you could come up with [simple rules to fix up the curves](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/artistic-sils-300dpi.pdf), but these will all fail in various ways. One might think you could subdivide the surface so that it converges (as did one very confident paper reviewer this year), but, this doesn't fix anything (we analyzed why [in our 2014 paper](enard/publications/contours/)).  Nothing has worked robustly.  Many other algorithms are surveyed in [our tutorial paper](https://arxiv.org/abs/1810.01175), Chapters 6 and 7.
+For example, you could come up with [simple rules to fix up the curves](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/artistic-sils-300dpi.pdf), but these will all fail in various ways. One might think you could subdivide the surface so that it converges (as did one very confident paper reviewer this year), but, this doesn't fix anything (we analyzed why [in our 2014 paper](https://www.labri.fr/perso/pbenard/publications/contours/).  Nothing has worked robustly.  Many other algorithms are surveyed in [our tutorial paper](https://arxiv.org/abs/1810.01175), Chapters 6 and 7.
 
 [We proposed one of these algorithms in our 2001 paper](https://mrl.cs.nyu.edu/publications/illustrating-smooth/), an interpolation-based approach that makes nice smooth curves. But, if you zoom in on the figures, you can see gaps in the outlines camoflaged by the hatching:
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/cupid-gaps.png" alt="Occluding contours for meshes" width="40%"/>
+<img src="../../../images/howtodraw/cupid-gaps.png" alt="Occluding contours and hatching on a cupid model" width="40%"/>
 </p>
 </figure>
 </center>
@@ -164,7 +164,7 @@ And this affects real applications. For example,  [Blender Freestyle](https://en
 <figure>
    <p float="left">
    	<a href="https://blenderartists.org/t/trying-to-close-gaps-in-freestyle-lines/688753">
-<img src="../../../images/howtodraw/freestyle.png" alt="Occluding contours for meshes" width="60%"/></a>
+<img src="../../../images/howtodraw/freestyle.png" alt="Blender forum discussion of gaps in Freestyle" width="60%"/></a>
 </p>
 </figure>
 </center>

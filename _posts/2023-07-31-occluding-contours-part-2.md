@@ -35,7 +35,7 @@ For example, this simple loop is _valid_ because it's the projection of a polyhe
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/mesh-contour-def.png" alt="Occluding contours for meshes" width="80%"/>
+<img src="../../../images/howtodraw/mesh-contour-def.png" alt="Defintion of mesh occluding contours" width="80%"/>
 </p>
 </figure>
 </center>
@@ -47,22 +47,22 @@ A valid contour loop might intersect itself in 2D, if the surface overlaps itsel
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/gamma-camera.png" alt="Occluding contours for meshes" width="20%"/>
-<img src="../../../images/howtodraw/gamma-side.png" alt="Occluding contours for meshes" width="20%"/>
+<img src="../../../images/howtodraw/gamma-camera.png" alt="Smooth self-overlapping object in camera view" width="20%"/>
+<img src="../../../images/howtodraw/gamma-side.png" alt="Smooth self-overlapping object in side view" width="20%"/>
 </p>
 </figure>
 </center>
 Here's a valid 2D polygon approximating this contour:
 <center>
 <figure>
-<img src="../../../images/howtodraw/gamma-polygon.png" alt="Occluding contours for meshes" width="20%"/>
+<img src="../../../images/howtodraw/gamma-polygon.png" alt="Smooth self-overlapping object, polygonal approximation" width="20%"/>
 </figure>
 </center>
 and, once we compute visibility, the rendering would look something like this:
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/gamma_vis.jpg" alt="Occluding contours for meshes" width="20%"/>
+<img src="../../../images/howtodraw/gamma_vis.jpg" alt="Smooth self-overlapping object, polygonal approximation with visibility" width="20%"/>
 </p>
 </figure>
 </center>
@@ -73,7 +73,7 @@ Here's a contour polygon that's _invalid_:
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/bowtie.png" alt="Occluding contours for meshes" width="30%"/>
+<img src="../../../images/howtodraw/bowtie.png" alt="Bowtie polygon" width="30%"/>
 </p>
 </figure>
 </center>
@@ -81,7 +81,7 @@ This is a single, self-intersecting polygon in a figure-8 configuration. I've dr
 
 Hence, there's no "correct" way to determine visibility for this curve.
 
-(One way to see this is to try to attach triangles that satisfy the constraint that contour edges connect front-faces to back-faces, and non-contour edges connect same-orientation faces. This constraint can't be satisfied because the contour is one-sided, like a Möbius strip. However, "one-sidedness" isn't a sufficient condition for validity.)
+(One way to see this is to try to attach triangles that satisfy the constraint that contour edges connect front-faces to back-faces, and non-contour edges connect same-orientation faces. This constraint can't be satisfied because the contour is one-sided, like a Möbius strip. However, "two-sidedness" isn't a sufficient condition for validity.)
 
 (In fact, there's no way to triangulate the above polygon that fills it with consistently oriented triangles. This is a broader notion of _validity_, and the one we actually use: any closed polygon is _valid_ if and only if it could be the projection of the boundary a patch of 3D triangles that are all front-faces or all back-faces. )
 
@@ -94,7 +94,7 @@ When do invalid contours occur? Well, suppose the actual smooth contour looks li
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/invalid-source.png" alt="Occluding contours for meshes" width="30%"/>
+<img src="../../../images/howtodraw/invalid-source.png" alt="Curved object with smooth feature" width="30%"/>
 </p>
 </figure>
 </center>
@@ -102,7 +102,7 @@ If you discretize it, you might get the figure-8 configuration:
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/invalid.png" alt="Occluding contours for meshes" width="30%"/>
+<img src="../../../images/howtodraw/invalid.png" alt="Discretization with bowtie structure" width="30%"/>
 </p>
 </figure>
 </center>
@@ -124,7 +124,7 @@ Let's look again at this example:
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/mesh-contour-def.png" alt="Occluding contours for meshes" width="80%"/>
+<img src="../../../images/howtodraw/mesh-contour-def.png" alt="Mesh contour definition" width="80%"/>
 </p>
 </figure>
 </center>
@@ -143,7 +143,7 @@ So how can we deal with invalid polygons?  In the example above, we can simply r
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/invalid-subsampled.png" alt="Occluding contours for meshes" width="30%"/>
+<img src="../../../images/howtodraw/invalid-subsampled.png" alt="Refined invalid configuration" width="30%"/>
 </p>
 </figure>
 </center>
@@ -154,7 +154,7 @@ Then, we generate a new 3D mesh with contours that are both valid, and topologic
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/fertility.png" alt="Occluding contours for meshes" width="90%"/>
+<img src="../../../images/howtodraw/fertility.png" alt="Example of our method on the Fertility model" width="90%"/>
 </p>
 </figure>
 </center>
@@ -191,7 +191,7 @@ Let's consider a single parametric patch **p**(_u_,_v_):
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/quadratic-patch.png" alt="Occluding contours for meshes" width="50%"/>
+<img src="../../../images/howtodraw/quadratic-patch.png" alt="Patch parameterization" width="50%"/>
 </p>
 </figure>
 </center>
@@ -212,7 +212,7 @@ This method avoids all the complexity of finding valid polyline approximations, 
 <center>
 <figure>
    <p float="left">
-<img src="../../../images/howtodraw/quadratic-fertility.png" alt="Occluding contours for meshes" width="90%"/>
+<img src="../../../images/howtodraw/quadratic-fertility.png" alt="Example of quadratic algorithm" width="90%"/>
 </p>
 </figure>
 </center>
