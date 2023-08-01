@@ -82,12 +82,15 @@ For a triangle mesh, it's easy to find the occluding contours: take all the edge
 </p>
 </figure>
 </center>
+Our existing algorithms for triangle mesh contours are robust and effective.
 
-In this post, I am being very casual with definitions and terminology.  You can see [our tutorial paper for a detailed and precise definitions](https://arxiv.org/abs/1810.01175).
+I'm assuming that the surface is _oriented_: the faces have normal directions consistent with their neighbors, and the camera position is constrained, so that only front-facing surface will ever be visible. These assumptions are common in computer graphics applications.
 
-I'm also assuming that the surface is _oriented_: the faces have normal directions consistent with their neighbors, and the camera position is constrained, so that only front-facing surface will ever be visible. These assumptions are common in computer graphics applications.
 
-For smooth surfaces, i.e., surfaces with continous normals, the occluding contours are still the places where the folds over itself in image space. This happens at any _visible_ surface point where _the tangent plane contains the view vector_. For example:
+(In this post, I am being very casual with definitions and terminology.  You can see [our tutorial paper for a detailed and precise definitions](https://arxiv.org/abs/1810.01175).)
+
+
+**For smooth surfaces,** i.e., surfaces with continous normals, the occluding contours are still the places where the folds over itself in image space. This happens at any _visible_ surface point where _the tangent plane contains the view vector_. For example:
 
 <center>
 <figure>

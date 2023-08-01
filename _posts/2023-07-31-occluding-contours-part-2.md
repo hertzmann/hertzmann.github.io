@@ -20,6 +20,7 @@ And then I'll discuss our even-newer approach:
 * Ryan Capouellez, Jiacheng Dai, Aaron Hertzmann, Denis Zorin. _**Algebraic Smooth Occluding Contours**_. Proceedings of SIGGRAPH 2023. \[[paper webpage](http://ryanjcapouellez.com/papers/algebraic_smooth_occluding_contours.html)\]
 
 
+
 # When Are Curves _Valid_?
 
 Let's begin with a simple case: smooth objects for which the contour is a single, closed curve. For smooth surfaces, we can't compute the exact contour, so instead, we typically approximate it with a polyline in 3D. But how do we compute visbility of the polyline in a sensible way, [since the polyline isn't the contour of the surface](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2008.01258.x)? We need to define a new triangle mesh for which the polyline is its contour.
@@ -169,6 +170,8 @@ However, making it work for entire surfaces is _far_ more involved than I've des
 Ultimately, I view the ConTesse paper as a theoretical contribution together with an algorithmic proof-of-concept. It suggests future algorithms that are much more practical and efficient; there's also room to refine the theory.  Even when we were developing it we came up with better versions, but knew that we would never finish the project if we pursued them. See our Discussion section for much more on these topics.
 
 This line of work began in [our 2014 paper](https://www.labri.fr/perso/pbenard/publications/contours/), which produced the idea that we should look for a valid mesh that preserves a smooth surface's contours (but not a reliable way to find it). That paper took five years from start to finish, with many, many false starts. It's amazing how these long, multiyear research efforts ultimately lead to ideas that seem so obvious and simple in retrospect.
+
+I also want to acknowledge the extraordinarily hard work and insight that Chenxi brought to this paper under difficult pandemic conditions, as we stumbled through figuring out the theory and algorithms. 
 
 We can also look back and ask: do any historical algorithms guarantee validity?  In fact, I _think_ some do (although I'm not 100% sure). Specifically some of the Planar Map methods—[Winkenbach and Salesin's 1998 paper](https://dl.acm.org/doi/10.1145/237170.237287) and [Stroila et al.'s 2007 paper](https://ieeexplore.ieee.org/document/4359481/)—should give consistent contour visibility.  For example, Stroila et al. sample contour polylines  and then throw these polylines into a planar map library that (I believe) will break up any invalid polygons into valid pieces.
 So they might produce lots of extra little bits of geometry, but they will all be valid. (The paper mentions that they remove tiny regions.) 
