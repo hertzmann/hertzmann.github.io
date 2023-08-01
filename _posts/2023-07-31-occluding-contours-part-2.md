@@ -132,9 +132,9 @@ The 3D contour bounds a set of front faces. These triangles project to a 2D coll
 
 So, _for a 2D polygon to be valid, it must be possible to triangulate it with positively-oriented triangles_.  
 
-How can we check if a polyline is valid?  Fortunately, there's a [dynamic programming algorithm from computational geometry that can check this](https://dl.acm.org/doi/abs/10.1145/73833.73838).  Specifically, the class of polygons I've discussed so far is called "self-overlapping."
+How can we check if a polyline is valid?  Fortunately, there's a [dynamic programming algorithm from computational geometry](https://dl.acm.org/doi/abs/10.1145/73833.73838) to check this.  Specifically, the class of polygons I've discussed so far is called "self-overlapping."
 
-I've only discussed very simple objects. Things get more complicated for typical surfaces: contours may have cusps, and collections of front-faces may have holes. These cases are discussed [in our paper](https://dgp.toronto.edu/~hertzman/contesse/).
+Things get more complicated for typical surfaces: contours may have cusps, and collections of front-faces may have holes. These cases are discussed [in our paper](https://dgp.toronto.edu/~hertzman/contesse/).
 
 
 # The ConTesse approach
