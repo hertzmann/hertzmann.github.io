@@ -124,7 +124,9 @@ ACM Transactions on Graphics. Vol. 22, No. 3. July 2003.**
 * **T. Goodwin, I. Vollick, A. Hertzmann.  Isophote Distance: A Shading Approach to Artistic Stroke Thickness. Proc. NPAR 2007.**
 [Project page](https://www.dgp.toronto.edu/~todd/isophote/)
 
-Also, a significant precursor is the 1985 work by [Pearson and Robinson](https://ieeexplore.ieee.org/abstract/document/1457470).
+Also, a significant precursor is:
+
+* **D. E. Pearson, J.A. Robinson. Visual communication at very low data rates. Proc. IEEE.** [Paper](https://ieeexplore.ieee.org/abstract/document/1457470).
 
 For a more complete tutorial/survey on line drawing algorithms, see:
 
