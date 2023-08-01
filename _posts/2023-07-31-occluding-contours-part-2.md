@@ -83,7 +83,7 @@ Hence, there's no "correct" way to determine visibility for this curve.
 
 (One way to see this is to try to attach triangles that satisfy the constraint that contour edges connect front-faces to back-faces, and non-contour edges connect same-orientation faces. This constraint can't be satisfied because the contour is one-sided, like a Möbius strip. However, "two-sidedness" isn't a sufficient condition for validity.)
 
-(In fact, there's no way to triangulate the above polygon that fills it with consistently oriented triangles. This is a broader notion of _validity_, and the one we actually use: any closed polygon is _valid_ if and only if it could be the projection of the boundary a patch of 3D triangles that are all front-faces or all back-faces. )
+(In fact, there's no way to triangulate the above polygon that fills it with consistently oriented triangles. This is a broader notion of _validity_, and the one we actually use: any closed polygon is _valid_ if and only if it could be the projection of the boundary of a patch of 3D triangles that are all front-faces or all back-faces. )
 
 So, there exist invalid polygons. Where do they come from? And how can we tell if a curve _is_ valid?
 
