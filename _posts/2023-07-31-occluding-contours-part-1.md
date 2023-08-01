@@ -31,14 +31,13 @@ and the Spider-Verse movies:
 </figure>
 </center>
 
-
-But there are entire classes of occluding contour stylizations we can't do reliably or robustly—and we're not seeing them in movies or games. Here are some examples of occluding contour stylizations from research papers over the years:
+Now, there are a lot richer classes of stylizations in the research literature. Here are some examples:
 <center>
 <figure>
   <img src="../../../images/howtodraw/styles.jpg" alt="NPR contour styles"/>
 </figure>
 </center>
-We can author all sorts of beautiful rendering styles.  But the algorithms aren't robust. All of the existing contour algorithms for smooth surfaces have unpredictable failure cases. And we've never really understood why.  
+But we're not seeing these styles in games or movies. Why not? These styles rely on vector contour extraction algorithms, and all of the existing algorithms for smooth surfaces have unpredictable failure cases. And we've never really understood why.  
 
 This year, we finally cracked the case. 
 
@@ -147,7 +146,7 @@ Note how the stylization flickers and strokes appear and disappear, despite a nu
 
 If you are like most researchers, you might think there are simple solutions to this problem. In my experience, pretty much _everyone_, when confronted with these problems, immediately suggests simple solutions that they confidently believe will solve the problem.  
 
-For example, you could come up with [simple rules to fix up the curves](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/artistic-sils-300dpi.pdf), but these will all fail in various ways. One might think you could subdivide the surface so that it converges (as did one very confident paper reviewer this year), but, this doesn't fix anything (we analyzed why [in our 2014 paper](https://www.labri.fr/perso/pbenard/publications/contours/).  Nothing has worked robustly.  Many other algorithms are surveyed in [our tutorial paper](https://arxiv.org/abs/1810.01175), Chapters 6 and 7.
+For example, you could come up with [simple rules to fix up the curves](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/artistic-sils-300dpi.pdf), but these will all fail in various ways. One might think you could subdivide the surface so that it converges (as did one very confident paper reviewer this year), but, this doesn't fix anything (we analyzed why [in our 2014 paper](https://www.labri.fr/perso/pbenard/publications/contours/)).  Nothing has worked robustly.  Many other algorithms are surveyed in [our tutorial paper](https://arxiv.org/abs/1810.01175), Chapters 6 and 7.
 
 [We proposed one of these algorithms in our 2001 paper](https://mrl.cs.nyu.edu/publications/illustrating-smooth/), an interpolation-based approach that makes nice smooth curves. But, if you zoom in on the figures, you can see gaps in the outlines camoflaged by the hatching:
 <center>
