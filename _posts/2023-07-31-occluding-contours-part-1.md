@@ -148,7 +148,7 @@ If you are like most researchers, you might think there are simple solutions to 
 
 For example, you could come up with [simple rules to fix up the curves](https://www.cs.princeton.edu/courses/archive/fall00/cs597b/papers/artistic-sils-300dpi.pdf), but these will all fail in various ways. You could try subdividing the surface (as did one very confident paper reviewer recently told us), but this doesn't fix anything (we analyzed why [in our 2014 paper](https://www.labri.fr/perso/pbenard/publications/contours/)).  Nothing has worked robustly.  Many other algorithms are surveyed in [our tutorial paper](https://arxiv.org/abs/1810.01175), Chapters 6 and 7.
 
-[We proposed one of these algorithms in our 2001 paper](https://mrl.cs.nyu.edu/publications/illustrating-smooth/), an interpolation-based approach that makes nice smooth curves. But, if you zoom in on the figures, you can see gaps in the outlines camoflaged by the hatching:
+[We proposed one of these algorithms in our 2001 paper](https://mrl.cs.nyu.edu/publications/illustrating-smooth/), an interpolation-based approach that makes nice smooth curves. But, if you zoom in on the figures, you can see gaps in the outlines:
 <center>
 <figure>
    <p float="left">
