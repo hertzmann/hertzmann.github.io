@@ -90,7 +90,7 @@ I'm assuming that the surface is _oriented_: the faces have normal directions co
 (In this post, I am being very casual with definitions and terminology.  You can see [our tutorial paper for a detailed and precise definitions](https://arxiv.org/abs/1810.01175).)
 
 
-**For smooth surfaces,** i.e., surfaces with continous normals, the occluding contours are still the places where the folds over itself in image space. This happens at any _visible_ surface point where _the tangent plane contains the view vector_. For example:
+**For smooth surfaces,** i.e., surfaces with continous normals, the occluding contours are still the places where the surface folds over itself in image space. This happens at any _visible_ surface point where _the tangent plane contains the view vector_. For example:
 
 <center>
 <figure>
