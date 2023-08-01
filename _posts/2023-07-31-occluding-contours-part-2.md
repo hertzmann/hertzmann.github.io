@@ -67,6 +67,7 @@ and, once we compute visibility, the rendering would look something like this:
 </figure>
 </center>
 
+# Invalid Polygons
 
 Here's a contour polygon that's _invalid_:
 <center>
