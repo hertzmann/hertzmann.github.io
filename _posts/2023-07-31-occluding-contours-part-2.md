@@ -108,7 +108,7 @@ If you discretize it, you might get the figure-8 configuration:
 </center>
 It's an invalid polygon, and now your visibility is busted.  
 
-In a nutshell, this the fundamental problem: **All contour algorithms for smooth surfaces discretize the contours into polylines. Often, this discretization produces invalid polygons.** And invalid polygons do not have meaningful visibility. Sometimes it doesn't matter, because the invalid polygons are entirely hidden by occluders. But, eventually, all existing algorithms are going to produce visible errors due to invalid curves.  
+In a nutshell, this the fundamental problem: **All contour algorithms for smooth surfaces discretize the contours into polylines. This odiscretization often produces invalid polygons.** And invalid polygons do not have meaningful visibility. Sometimes it doesn't matter, because the invalid polygons are entirely hidden by occluders. But, eventually, all existing algorithms are going to produce visible errors due to invalid curves.  
 
 This is an instance of the common-but-surprising fact that discretizing a continuous system does not preserve its properties, e.g., discretization breaks [some differential geometric properties on smooth surfaces](https://en.wikipedia.org/wiki/Discrete_differential_geometry), and breaks some conservation laws and collision handling in physical simulation.   
 
