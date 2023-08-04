@@ -49,7 +49,7 @@ And I noticed two things. First, putting the photograph next to the painting mad
 
 Second, I didn't care. I still liked the painting more.
 
-I concluded I could solve this "problem" by not showing these photographs publicly.  Julia Child said to never tell your guests what your dish was supposed to be like.
+I concluded I could solve this "problem" by not showing these photographs publicly.  
 
 I'll make an exception to this rule, to show one example:
 <center>
