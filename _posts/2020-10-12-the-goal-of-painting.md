@@ -49,7 +49,7 @@ And I noticed two things. First, putting the photograph next to the painting mad
 
 Second, I didn't care. I still liked the painting more.
 
-I concluded I could solve this "problem" by not showing these photographs publicly.
+I concluded I could solve this "problem" by not showing these photographs publicly.  Julia Child said to never tell your guests what your dish was supposed to be like.
 
 I'll make an exception to this rule, to show one example:
 <center>
@@ -60,7 +60,7 @@ I'll make an exception to this rule, to show one example:
 	<img src="../../../images/ipad_paintings/soup.jpg" alt="Soup">
 </center>
 <br>
-I like the paintings, but I think that seeing it next to the photo makes it worse.
+I like the paintings, but I think that seeing it next to the photo makes it worse.  In the words of Julia Child, "Whatever happens in the kitchen, never apologize." Or, as Amanda remembers it: "Never tell your guests what your dish was supposed to be like."
 
 Eventually, I reached a point where I often think my paintings often think they look pretty good even next to the photograph. But I still don't show the photographs. I'll let my drawings be appreciated or not appreciated on their own, without this distraction.
 
