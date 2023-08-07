@@ -54,6 +54,8 @@ Over the years, I’ve urged people to go to SIGGRAPH. I want them to love it as
 
 I often wonder how it seems to newcomers today. We have a daily stream of amazing new research on arXiv. The experimental art and animation don’t seem so singular compared to all the amazing experimental, artistic stuff you can find on YouTube and Vimeo. Computer graphics has taken over feature film and television production, you regularly see all kinds of stuff in movie theaters that you once could only see at SIGGRAPH. And, apart from arXiv,  so much of the energy around new image synthesis research is [at the computer vision and machine learning conferences](/2020/08/31/cvpr-graphics.html). Unsurprisingly, the world now is different from 1996.
 
+But I [still love seeing what happens when tinkerers and enthusiats for both art and technology start exploring](/2022/10/11/amateurs.html), how lucky one is to be around as new art forms develop.
+
 I’ve attended every SIGGRAPH since my first, 27 years ago (virtually in 2020 and 2021). I’ve stopped attending the Electronic Theatre in person, and often just take a quick browse through some of the other exhibits. The papers program this year still seems really good, lots of great new research happening, and I’m really glad to have coauthored [two new papers](/2023/07/31/occluding-contours-part-2.html) that I couldn’t have published at vision conferences. Attending this week in LA, and reconnecting with so many old friends and colleagues, has been a blast.
 
 At times, there are other conferences that seem more current and exciting, but SIGGRAPH feels like my “home conference.”  
