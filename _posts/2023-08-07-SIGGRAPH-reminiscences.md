@@ -1,3 +1,10 @@
+---
+layout: page
+title: "Reminiscence: My first SIGGRAPHs"
+summary: My first few years at SIGGRAPH, and reflections on what it's like to attend the same conference for many years.
+author: AaronHertzmann
+---
+
 # Reminiscence: My first SIGGRAPHs
 
 _NOTE: This is a draft. I intend to keep editing, fixing broken links, and add photos after I get home from SIGGRAPH 2023. But I thought it might be nice to share while the conference is still underway._
