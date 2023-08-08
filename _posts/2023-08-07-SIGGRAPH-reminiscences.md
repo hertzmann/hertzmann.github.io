@@ -48,11 +48,11 @@ But, when I spoke to older attendees, I kept hearing jadedness: “all the paper
 
 Within a decade, I heard myself also saying  the same thing: “Nothing’s exciting this year, all the papers are incremental.” 
 
-With some experience and seniority, it became easy to judge everything as obvious and predictable. I would read papers and think “I already had that idea.” As a paper reviewer, I probably had very high standards, finding new ideas guilty until proven innocent.
+With some experience and seniority, it became easy to judge everything as obvious and predictable. I would read papers and think “I already had that idea.” As a paper reviewer, I probably treated submissions as guilty until proven innocent. 
 
 With enough years at SIGGRAPH and [learning about the history of science](https://en.m.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions), I grew to understand the importance of “incremental” research. Moshe Vardi told me the analogy that science is like building a cathedral: each brick is necessary.
 
-[Psychology research tells us](/2022/12/16/status-quo-bias.html) that we tend to most value the artistic experiences from our formative years. This is why some people say “they’re no good new music”—and all the good music came out by the time the speaker was a young adult. We often seem to be unaware how much our artistic judgements and taste are tied to our coming-of-age experiences.
+[Psychology research tells us](/2022/12/16/status-quo-bias.html) that we tend to most value the artistic experiences from our formative years. This is why some people say “they’re no good new music”—and all the good music came out by the time the speaker was a young adult. We often seem to be unaware how much our artistic judgements and taste are tied to our coming-of-age experiences. Sometimes it seems like SIGGRAPH reviewers expect new papers to make them feel like they feel about their  first favorite papers.
 
 Over the years, I’ve urged people to go to SIGGRAPH. I want them to love it as much as I do. But no one’s going to have the same experience that I did when I was 24 years old, attending SIGGRAPH 98. I don’t have that experience now. And, [when I read about reminiscences from the early pioneers](https://dx.doi.org/10.1109/MCG.2023.3266086), I don’t feel like I had any of their experiences either.
 
