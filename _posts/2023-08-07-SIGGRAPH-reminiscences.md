@@ -21,7 +21,7 @@ Throughout the program, artists used new technology to create something new. Fin
 
 I wanted to be part of this community. I saw people on stage presenting their new works, and I wanted to do that too, and grad school offered a path to doing so.
 
-A high school friend flew down and we explored the city and conference a bit together. Apart from that, I don’t remember having any conversations that whole week that lasted more than a few sentences.
+A high school friend flew down for SIGGRAPH and we explored the city a bit together. Apart from that, I don’t remember having any conversations that whole week that lasted more than a few sentences.
 
 
 # The next few years
