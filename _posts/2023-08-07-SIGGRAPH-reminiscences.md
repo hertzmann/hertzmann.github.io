@@ -32,6 +32,15 @@ But  at SIGGRAPH 97, I sat in Pete Litwinowicz’ talk on [his painting algorith
 
 Because of my paper, I really started to meet people at SIGGRAPH 98. I remember bonding with Paul Rademacher, another grad student publishing his first paper, also a single-author paper like mine.  I met many lifelong friends and colleagues in subsequent years. For example, the chair of one of my paper sessions in 2000, David Salesin, emailed us paper authors suggesting that we meet over breakfast at the (to-me) ungodly hour of 7:30am. David later hired me for three different jobs at three institutions, including the one I’ve been for the past decade. Before SIGGRAPH 2001, fellow grad student Alyosha Efros introduced himself because we had similar papers in the same session. I’m still friends with both of them. 
 
+<center>
+<figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i6dSZYoAIdg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<figcaption><i>Chris Landreth's <a href="https://en.wikipedia.org/wiki/Bingo_(1998_film)">Bingo,"</a> from SIGGRAPH 98. "Bingo" began as a very short play by The Neofuturists, who I often saw perform around this time; I lived a few blocks from their New York theatre, back before the Lower East Side got so fancy.
+	<a href="https://www.youtube.com/watch?v=nbkBjZKBLHQ">Chris' masterpiece "Ryan,"</a> shown at SIGGRAPH 2004, won the 2004 Oscar for best animated short film.</i>
+</figcaption>
+</figure>
+</center>
+
 Downtown LA sure has improved since then—and I’m glad the conference goes to Vancouver now—but there’s just one thing I miss. Because there few were places to hang out at night, it seemed like everyone sat around the pool at the classic Hotel Figueroa. After dinner, if you were on your own, you could always go to the Figueroa pool and find people to have a drink with. Now there are so many, better options—especially since the Figueroa's renovation—and I don’t think such a focal point exists anymore.
 
 The SIGGRAPH week was always full. For the day after SIGGRAPH 99, I made plans to go hiking with a college friend.  When I got to her apartment in Pasadena and we caught up, I fell asleep on her couch for like five hours.
