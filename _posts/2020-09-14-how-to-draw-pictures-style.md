@@ -86,3 +86,5 @@ Despite all these successes so far, there remain many open research problems. Ho
 For a longer discussion of how these models can help create a science of art, see [my NPAR 2004 paper](http://www.dgp.toronto.edu/~hertzman/ScienceOfArt/), and, as well, for how they can help us classify and define style, see [this 2005 paper by Willats and Durand](https://link.springer.com/content/pdf/10.1007/s10516-004-5449-7.pdf).
 
 These generative models are only half of the whole story. To really understand the science of art, we also need to study the visual perception of art. I’ll discuss this topic in a future series of blog posts.
+
+In [Part 4 of this series](/2021/05/19/how-to-draw-line-thickness.html), I go deeper into the topic of line thickness.
