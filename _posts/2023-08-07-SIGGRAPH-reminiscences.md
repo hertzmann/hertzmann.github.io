@@ -3,6 +3,8 @@ layout: page
 title: "Reminiscence: My first SIGGRAPHs"
 summary: My first few years at SIGGRAPH, and reflections on what it's like to attend the same conference for many years.
 author: AaronHertzmann
+image: "/images/wica/bradford_viewers.jpg"
+og:image: "/images/wica/bradford_viewers.jpg"
 ---
 
 # Reminiscence: My first SIGGRAPHs
