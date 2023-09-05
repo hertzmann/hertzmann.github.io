@@ -208,7 +208,7 @@ In the paper, we describe a novel G<sup>1</sup> piecewise quadratic construction
 
 Given a 3D mesh viewed under perspective projection, we first apply a projective transformation to the vertices, i.e., convert to camera coordinates, so that we're using orthographic projection.  
 
-This method avoids all the complexity of finding valid polyline approximations, and we get these nice, clean contour renderings:
+This method avoids all the complexity of finding valid polyline approximations, and we get these nice, clean contour extractions:
 <center>
 <figure>
    <p float="left">
@@ -217,6 +217,24 @@ This method avoids all the complexity of finding valid polyline approximations, 
 </figure>
 </center>
 Moreover, it's much faster than ConTesse. It takes at most one second per frame at run-time for most of the meshes we tested.
+
+Once you have these contours, you can stylized them cleanly:
+<center>
+<figure>
+   <p float="left">
+<img src="../../../images/howtodraw/spot-model.jpg" alt="Spot model" width="40%"/>
+<img src="../../../images/howtodraw/spot-stylized.jpg" alt="Spot model" width="40%"/>
+</p>
+</figure>
+</center>
+
+And, our method works robustly for every point of view, no more random, unpredictable gaps in the results:
+<center>
+<video width="640" height="480" controls>
+  <source src="../../../images/howtodraw/spot_contours.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video></center>
+
 
 
 **I believe this represents the state-of-the-art for efficiently producing smooth, sensible occluding contours from a triangle mesh.** And, even if you're starting with a subdivision surface, depending on your needs, your best bet may be to turn it into a triangle mesh and then run our algorithm.
