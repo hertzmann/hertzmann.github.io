@@ -10,7 +10,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 
 
-This post is about a question that often comes up in industrial research: **why should research labs publish papers?**  That is, why do the labs benefit from publication?
+This post is about a question that often comes up in industrial research: **why should research labs publish papers?**  That is, why do labs benefit from publication?
 
 I believe there are many good reasons for this, and they are not immediately obvious. 
 
