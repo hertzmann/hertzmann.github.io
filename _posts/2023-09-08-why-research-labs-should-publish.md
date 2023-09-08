@@ -109,7 +109,7 @@ Only rarely does a paper directly solve the real problem that product teams have
 
 # 4. To get feedback from the research community
 
-Suppose you wanted detailed feedback on a project from experts in an academic field.  How much would it cost? How hard would it be to recruit them?  
+Suppose you wanted detailed feedback on a project from academic experts.  How much would it cost? How hard would it be to recruit them?  
 
 It would be expensive, at least. But, most likely, they wouldn't respond at all to most requests.
 
