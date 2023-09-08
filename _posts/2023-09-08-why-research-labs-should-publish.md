@@ -90,7 +90,7 @@ Conversely, it's simply hard for researchers to know if their work is any good. 
 Publishing a paper is a potentially a lot more work than writing a whitepaper, and, again, just because something's published doesn't mean it's good. Everyone knows that peer-reviewed publication models have many flaws and biases, e.g., incrementalism, [overreliance on onerous evaluations.](/2020/10/21/quantitative-evaluation.html)  But, used well, publication really helps motivate and refine ideas.  Sometimes just the existence of an external deadline makes a huge difference.
 
 
-# 2. To support internal communication and discovery
+# 3. To support internal communication and discovery
 
 Another seeming paradox of research is that, sometimes, the best way to share information internally is to share information externally.
 
