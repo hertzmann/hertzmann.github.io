@@ -41,12 +41,15 @@ Some subsequent labs tried to be "Xerox PARC, but successful." One of these was 
 We can call this **The Paradox of Open-Ended Research:** research that is not focused on a specific, static goal often has the most impact and benefit. It can be more impactful than research that formulates a strict plan and sticks to that plan. Consequently, it's impossible to know in advance which projects are really going to show a benefit, and, conversely, there is lot of research performed that is _generally not useful_.   [Complaining that most papers aren't useful](https://twitter.com/pmarca/status/1634484210009522176?s=20) completely misunderstands research.  
 
 This means that
-| <center><b>It is impossible to accurately measure the quality of high-impact research in the short term.  All evaluations are noisy and subjective. <b></center> |
+
+| <center><b>It is impossible to accurately measure the quality of high-impact research in the short term.  All evaluations are noisy and subjective. </b></center> |
+
 Conversely, expecting rigid, predictable evaluations _prevents_ high-quality research from happening.
 
 In the words of Albert Einstein, "If we knew what it is we were doing, it would not be called research."
 
-And so there is an art to managing such research. Many labs struggle to find the balance between long-term, open-ended research and short-term impact, valuing publications on their own without veering too much into just being a paper mill.  Preserving the balance requires continued vigilance.  
+And so there is an _art_ to managing such research. It is a struggle to balance long-term, open-ended research and short-term impact, valuing publications on their own without becoming a paper mill, or, conversely, neglecting long-term benefits for short-term deliverables.  
+And, preserving the balance requires continued vigilance.  
 
 
 
