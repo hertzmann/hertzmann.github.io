@@ -74,7 +74,7 @@ One common justification for publication is: _it's a recruiting tool. In order t
 
 This is indeed a good reason to publish. Speaking for myself, publishing new research is very important to me, and, I think, to many other researchers.
 
-**_However, treating publication as merely an employee benefit—like breakroom snacks and vacation time—is a big mistake. Publication should not be something that researchers are "allowed" to do in addition to their "real work." It should be considered a major part of their real work._**
+However, treating publication as merely an employee benefit—like breakroom snacks and vacation time—is a big mistake. **_Publication should not be something that researchers are "allowed" to do in addition to their "real work." It should be considered a major part of their real work._**
 
 
 # 2. To provide motivation, milestones, and standards
