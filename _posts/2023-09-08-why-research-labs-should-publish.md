@@ -42,7 +42,7 @@ We can call this **The Paradox of Open-Ended Research:** research that is not fo
 
 This means that
 
-| <center><b>It is impossible to accurately measure the quality of high-impact research in the short term.  All evaluations are noisy and subjective. </b></center> |
+| <center><b>It is impossible to perfectly measure the quality of high-impact research in the short term.  All evaluations are noisy and subjective. </b></center> |
 
 Conversely, expecting rigid, predictable evaluations _prevents_ high-quality research from happening.
 
