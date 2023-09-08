@@ -10,7 +10,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 
 
-This post is about a question that often comes up in industrial research: **why should research labs publish papers?**  I believe there are many good reasons for this, and they are not immediately obvious.  
+This post is about a question that often comes up in industrial research: **why should research labs publish papers?**  I believe there are many good reasons for this, and they are not immediately obvious.   (Obviously, this post expresses my own personal opinions, not those of any organizations.)
 
 Labs and researchers should understand why they publish because it affects how publications—and researchers—are valued, and, sometimes, whether things get published at all.  I've been thinking about this recently after thinking about [the open-ended nature of research and creativity](/2023/03/06/open-ended-exploration.html).
 
