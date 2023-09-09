@@ -137,6 +137,11 @@ Research is a community, or, rather, a set of communities. Participation comes f
 Industry researchers who participate deeply in the community become part of the community, building valuable social relationships that  allow them to keep their finger on the pulse of research  and to recruit. Conversely, industry researchers and developers that do not participate may be seen as only taking from academia and not giving back. Industry labs are often seen positively or negatively by academia by how much they support or give back to the community.
 
 
+# 6. Inspire research in areas the company cares about.
+
+As Vova Kim points out, publishing research in an area can inspire outside researchers to work on things the company cares about. David Salesin adds: "And along these lines, the benefits are similar to open source. For instance, my team published [DreamBooth](https://dreambooth.github.io/) (on arXiv), but that first version wasn't practical. Very quickly outside researchers figured out how to make it much more tractable, which in turn helped us put that initial research into products."
+
+
 # Finding the Balance
 
 There is no single, simple recipe for successful research: open-ended exploration by nature is an exploration. When used well, publication is a tool that helps researchers do better research.  When used badly, publication becomes the only goal in itself, driving publishable but useless research.  Likewise, there is no single, simple recipe for managing research;
