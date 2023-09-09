@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Why Research Labs Should Publish
+title: Why Industry Research Labs Should Publish
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
 og:image: "/images/wica/bradford_viewers.jpg"
 ---
 
-# Why Research Labs Should Publish
+# Why Industry Research Labs Should Publish
 
 
 
@@ -26,8 +26,9 @@ This post expresses my own personal opinions, not those of any organizations.
 
 While industrial research is often presented idealistically, it's important to acknowledge that corporations run research labs in order to improve company's profit.  When done well, it has been enormously beneficial, both directly to the company, and, in the publication of new knowledge, to society. 
 
-Achieving high-quality long-term research while also showing corporate benefits is a tightrope balancing act. Most industry R&D is very applied, more "D" than "R".  
-But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research.  Many industry "research" labs operate this way.
+
+Achieving high-quality long-term research while also showing corporate benefits is a tightrope balancing act.  Most industry R&D is very applied, more "D" than "R".  
+But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research.  Many industry "research" labs operate this way. 
 
 On the other hand, some labs veer too far into pure research, which can be great for society, but it's not sustainable.  Once the company hits hard times and managers need to cut costs, the lab gets decimated or reorg-ed into a shell of its former self.  
 
@@ -66,7 +67,7 @@ Of course, a lab that churns out lots of papers might not produce anything usefu
 As an alternative, I will primarily consider a _whitepaper model_. That is, instead of publishing papers externally, researchers write whitepapers or technical reports, and share them on some company-only repository or Wiki.  That is, suppose researchers do the same kind of explorations, but do not publish them externally.  I argue that the whitepaper model (or any variant of it) will, on average, produce much worse research.
 
 
-Here are some specific ways in which it helps.
+Here are some specific ways in which publication helps.
 
 # 1. As a recruiting and incentive tool
 
@@ -96,7 +97,7 @@ Another seeming paradox of research is that, sometimes, the best way to share in
 
 The development of the [Microsoft Kinect](https://en.wikipedia.org/wiki/Kinect) software provides a key lesson. The story I heard began with a Microsoft VP, who, around 2006, envisioned an interactive gaming system that didn't require controllers. His team used the PrimeSense sensor, which allowed real-time depth measurements. But they couldn't figure out how to reliably estimate human body pose. So they started looking around online for papers on pose estimation. They noticed that some of the best papers on this topic listed the affiliation "Microsoft Research."
 
-And so, external publications was how some Microsoft engineers discovered that the world's top experts on their problem worked _at the same company as them_. Making this a connection was integral to the Kinect's success.
+And so, external publications was how some Microsoft engineers discovered that the world's top experts on their problem worked _at the same company as them_. Making this connection was integral to the Kinect's success.
 
 Relational databases have a similar story. The original [relational database paper](https://dl.acm.org/doi/10.1145/362384.362685) was published in 1970 by a researcher from IBM Research, but nobody at IBM paid attention to it. Larry Ellison read the paper and [founded Oracle around it](https://en.wikipedia.org/wiki/Oracle_Corporation#History). IBM then realized they could compete, and built their own relational database system called [Db2](https://en.wikipedia.org/wiki/IBM_Db2) that ended up being very profitable. This only happened because of the publication of that paper.
 
@@ -161,7 +162,9 @@ Doing great research is an art, and managing great research is an art as well.
 
 * [A recent interesting take from an ex-Google Brain employee](https://www.moderndescartes.com/essays/why_brain/).
 
+* Craig Reynolds recommends the book [_Fumbling the Future: How Xerox Invented, then Ignored, the First Personal Computer_](https://www.amazon.com/Fumbling-Future-Invented-Personal-Computer/dp/1583482660)
+
 <hr>
 
 
-<i>Thanks to Moshe Vardi for several comments and suggestions.</i>
+<i>Thanks to Vova Kim, Craig Reynolds, David Salesin, and Moshe Vardi for several comments and suggestions.</i>
