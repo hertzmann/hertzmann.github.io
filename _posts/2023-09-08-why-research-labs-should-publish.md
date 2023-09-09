@@ -160,7 +160,7 @@ Doing great research is an art, and managing great research is an art as well.
 
 * [Google's approach to research, as of 2012](https://dl.acm.org/doi/10.1145/2209249.2209262).
 
-* [A recent interesting take from an ex-Google Brain employee](https://www.moderndescartes.com/essays/why_brain/).
+* [A recent take from an ex-Google Brain employee](https://www.moderndescartes.com/essays/why_brain/) with some different points from those here.
 
 * Craig Reynolds recommends the book [_Fumbling the Future: How Xerox Invented, then Ignored, the First Personal Computer_](https://www.amazon.com/Fumbling-Future-Invented-Personal-Computer/dp/1583482660)
 
