@@ -140,7 +140,7 @@ Industry researchers who participate deeply in the community become part of the 
 
 # 7. To inspire research in areas the company cares about
 
-As Vova Kim points out, publishing research in an area can inspire outside researchers to work on things the company cares about. I've heard of a number of stories of this working well.
+Publishing research in an area can inspire outside researchers to work on things the company cares about. I've heard stories of this working well.
 
 # Finding the Balance
 
