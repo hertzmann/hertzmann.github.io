@@ -140,8 +140,7 @@ Industry researchers who participate deeply in the community become part of the 
 
 # 7. To inspire research in areas the company cares about
 
-As Vova Kim points out, publishing research in an area can inspire outside researchers to work on things the company cares about. David Salesin adds: "And along these lines, the benefits are similar to open source. For instance, my team published [DreamBooth](https://dreambooth.github.io/) (on arXiv), but that first version wasn't practical. Very quickly outside researchers figured out how to make it much more tractable, which in turn helped us put that initial research into products."
-
+As Vova Kim points out, publishing research in an area can inspire outside researchers to work on things the company cares about. I've heard of a number of stories of this working well.
 
 # Finding the Balance
 
