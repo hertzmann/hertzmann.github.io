@@ -142,6 +142,10 @@ Industry researchers who participate deeply in the community become part of the 
 
 Publishing research in an area can inspire outside researchers to work on things the company cares about. I've heard stories of this working well.
 
+# 8. Flag planting
+
+I've heard that publication can help defend against certain kinds of frivolous lawsuits, since they demonstrate publicly that you had a specific idea at by a specific time, so other people shouldn't be able to later patent that idea and sue you for infringement.
+
 # Finding the Balance
 
 There is no single, simple recipe for successful research: open-ended exploration by nature is an exploration. When used well, publication is a tool that helps researchers do better research.  When used badly, publication becomes the only goal in itself, driving publishable but useless research.  Likewise, there is no single, simple recipe for managing research;
