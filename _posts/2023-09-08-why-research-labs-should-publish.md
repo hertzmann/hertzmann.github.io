@@ -27,7 +27,7 @@ This post expresses my own personal opinions, not those of any organizations.
 While industrial research is often presented idealistically, it's important to acknowledge that corporations run research labs in order to improve company's profit.  When done well, it has been enormously beneficial, both directly to the company, and, in the publication of new knowledge, to society. 
 
 Achieving high-quality long-term research while also showing corporate benefits is a tightrope balancing act. Most industry R&D is very applied, more "D" than "R".  
-But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research.  Many industry "research" labs operate this way.
+But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research. 
 
 On the other hand, some labs veer too far into pure research, which can be great for society, but it's not sustainable.  Once the company hits hard times and managers need to cut costs, the lab gets decimated or reorg-ed into a shell of its former self.  
 
