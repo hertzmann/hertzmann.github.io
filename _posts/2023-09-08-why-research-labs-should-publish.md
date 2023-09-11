@@ -24,7 +24,7 @@ This post expresses my own personal opinions, not those of any organizations.
 
 # It's hard to have basic research in industry
 
-Industrial research is often presented idealistically, and many researchers are motivated by academic research and publication. But corporations run research labs in order to improve company's profit.  When done well, industrial research can be enormously beneficial, both directly to the company, and, in the publication of new knowledge, to society.   
+Industrial research is often presented idealistically, and many researchers are motivated by academic research, publication, and discovering new knowledge. But corporations run research labs in order to improve company's profit.  When done well, industrial research can be enormously beneficial, both directly to the company, and, in the publication of new knowledge, to society.   
 
 For example, Claude Shannon's 1948 paper ["A Mathematical Theory of Communication"](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) transformed the world, and arose from Shannon's oddball philosophical musings about information, while he was at Bell Labs.
 
