@@ -16,7 +16,7 @@ I believe there are many good reasons for this, and they are not immediately obv
 
 Labs and researchers should understand why they publish because it affects how publications—and researchers—are valued, how they explain the value of their work, and, sometimes, whether things get published at all.  I've been thinking about this recently after thinking about [the open-ended nature of research and creativity](/2023/03/06/open-ended-exploration.html).
 
-Publication sometimes baffles corporate management. I still remember the lawyer at one company many years ago who balked at the idea that we'd just invented something and immediately wanted to tell all of our competitors. 
+Publication sometimes baffles corporate management. I still remember the lawyer at one company many years ago who balked at the idea that, as he put it, we'd just invented something and immediately wanted to tell all of our competitors. 
 
 Advanced research and development focused on a singular goal, like literally putting a man on the moon, can also be very effective without publishing, but none of the research labs I've been at were operated like that, even when I was at Pixar.  Not everything must be published. But publication plays an important role in many broad classes of industry research.
 
