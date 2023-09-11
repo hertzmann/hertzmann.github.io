@@ -26,7 +26,7 @@ This post expresses my own personal opinions, not those of any organizations.
 
 Industrial research is often presented idealistically, and many researchers are motivated by academic research, publication, and discovering new knowledge. But corporations run research labs in order to improve company's profit.  When done well, industrial research can be enormously beneficial, both directly to the company, and, in the publication of new knowledge, to society.   
 
-For example, Claude Shannon's 1948 paper ["A Mathematical Theory of Communication"](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) transformed the world, and arose from Shannon's oddball philosophical musings about information, while he was at Bell Labs.
+For example, Claude Shannon's 1948 paper ["A Mathematical Theory of Communication"](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication) transformed the world, and arose from Shannon's oddball philosophical musings about information, while he was at Bell Labs, at those times when he wasn't attemping to juggle or ride his unicycle.
 
 Producing high-quality long-term research while also showing corporate benefits is a tightrope balancing act. Most industry R&D is very applied, more "D" than "R".  
 But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research. 
