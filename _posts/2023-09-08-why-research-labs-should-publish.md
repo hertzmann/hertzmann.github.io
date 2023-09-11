@@ -29,7 +29,7 @@ While industrial research is often presented idealistically, it's important to a
 Achieving high-quality long-term research while also showing corporate benefits is a tightrope balancing act. Most industry R&D is very applied, more "D" than "R".  
 But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research. 
 
-On the other hand, some labs veer too far into pure research, which can be great for society, but it's not sustainable.  Once the company hits hard times and managers need to cut costs, the lab gets decimated or reorg-ed into a shell of its former self.  
+On the other hand, some labs veer too far into pure research, which can be great for researchers publishing cool new stuff, but it's not long-term sustainable.  Once the company hits hard times and managers need to cut costs, the lab gets decimated or reorg-ed into a shell of its former self.  
 
 **The most famous example is [Xerox PARC](https://en.wikipedia.org/wiki/PARC_(company))**, which did so much revolutionary research that never got used by Xerox. In one famous story, PARC inventors demo'd prototypes of the first personal computer with a GUI and a mouse showed these inventions to Xerox's leadership. Xerox's leadership didn't see the point of any of this, saying, "My secretary doesn't need a better typewriter." Besides, they were in the business of selling photocopiers. Then, Steve Jobs saw these demos, and adopted them all in the Apple Macintosh.  
 
