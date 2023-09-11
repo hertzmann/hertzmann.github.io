@@ -63,7 +63,7 @@ Publication can help in all stages of research, from motivating better work to g
 
 Of course, a lab that churns out lots of papers might not produce anything useful other than long CVs. **Publication is a tool to improve research; it is not the end goal in itself.** 
 
-As an alternative, I will primarily consider a _whitepaper model_. That is, instead of publishing papers externally, researchers write whitepapers or technical reports, and share them on some company-only repository or Wiki.  That is, suppose researchers do the same kind of explorations, but do not publish them externally.  I argue that the whitepaper model (or any variant of it) will, on average, produce much worse research.
+As an alternative, consider a _whitepaper model_: instead of publishing papers externally, researchers write whitepapers or technical reports, and share them in some company-only repository or Wiki.  I argue that the whitepaper model (or any variant of it) will, on average, produce much worse research.
 
 
 Here are some specific ways in which publication helps.
