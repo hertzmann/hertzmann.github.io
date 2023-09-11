@@ -117,7 +117,7 @@ With publication, in exchange for sharing your work with the world, you get this
 
 Often the feedback doesn't feel great, but part of the art of reading reviews is in reading between the lines. Doing so to understand the fundamental issues can be really valuable.
 
-I can think of several times when reviewer feedback has really strengthened my work. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. So we fixed that aspect, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack, a really compelling demo and set of ideas, in my opinion (that unfortunately doesn't seem to have been followed-up on).
+I can think of several times when reviewer feedback has really strengthened my work. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. But we fixed that hack, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack. 
 
 I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to the research I've done in both indeterminacy and perspective in the years since.
 
