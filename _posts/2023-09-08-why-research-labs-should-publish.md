@@ -14,7 +14,7 @@ This post is about a question that often comes up in industrial research: **why 
 
 I believe there are many good reasons for this, and they are not immediately obvious. 
 
-Labs and researchers should understand why they publish because it affects how publications—and researchers—are valued, and, sometimes, whether things get published at all.  I've been thinking about this recently after thinking about [the open-ended nature of research and creativity](/2023/03/06/open-ended-exploration.html).
+Labs and researchers should understand why they publish because it affects how publications—and researchers—are valued, how they explain the value of their work, and, sometimes, whether things get published at all.  I've been thinking about this recently after thinking about [the open-ended nature of research and creativity](/2023/03/06/open-ended-exploration.html).
 
 Publication sometimes baffles corporate management. I still remember the lawyer at one company many years ago who expressed confusion at the idea that we'd just invented something and immediately wanted to tell all of our competitors. 
 
@@ -119,7 +119,7 @@ Often the feedback doesn't feel great, but part of the art of reading reviews is
 
 I can think of several times when reviewer feedback has really strengthened my work. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. But we fixed that hack, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack. 
 
-I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to the research I've done in both indeterminacy and perspective in the years since.
+I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to publications in both [indeterminacy](https://psycnet.apa.org/record/2023-77259-001) and [perspective](https://jov.arvojournals.org/Article.aspx?articleid=2783759) in the years since.
 
 Once you publish the paper, you can get more feedback: feedback from conference-goers, feedback from social media.  People may make suggestions—or use your work—in directions you'd never thought of.
 
