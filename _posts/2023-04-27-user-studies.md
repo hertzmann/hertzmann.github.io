@@ -13,23 +13,28 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 Anyone who has spent enough time publishing some kind of artistic tools in computer graphics—even [in computer vision conferences](/2020/08/31/cvpr-graphics.html)—has probably gotten reviews that praised a paper's ideas and results, but required a user study. Or the reviewers didn't like the paper's methods or results, but still said the authors should add a user study.   And so, maybe you added user studies to your next paper _solely_ because you believed reviewers would require it. 
 
-As an author, reviewer, and PC member who works in more "artistic" subjective subfields, I have experienced or witnessed cases like these many times in the past few years.  So often, the user study seems unnecessary or even useless, just a waste of everyone's precious time.  
+Studies with human subjects—today grouped under the term "user studies," even when they don't involve target users—provide invaluable insights about user preferences and behavior, sometimes pointing out new research directions.  Some subfields, including animation and tone-mapping, have long traditions of rigorous perceptual and psychophysical studies. 
+But, performing an effective study requires time, effort, and thought.
 
-I suspect many studies published in graphics and vision are **performative, not informative**: we do them not because we want to learn something, but solely because reviewers expect to see a study. So we put on a show, a performance.
+Instead, many of our user studies are conducted sloppily, as an afterthought to research, rather than part of the research itself.  Such perfunctory studies have proliferated since 2008, after the introduction of crowdworking using Amazon Mechanical Turk (MTurk) made it easy to gather numerical scores from human participants. 
 
-Some subfields, including animation and tone-mapping, do have long traditions of rigorous, worthwhile studies, as does the field of HCI.  For example, I think Forrester Cole's work on [making](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/index.php) and [perceiving](https://gfx.cs.princeton.edu/proj/ld3d/) line drawings are quite significant, high-quality perceptual studies.  This post isn't about those lines of work.  This post is about the performative user studies that have become common since the advent of crowdworking in 2008.  Crowdworking made gathering numerical scores easy, by allowing researchers to treat human individuals as algorithmic data sources.
+Reviewers expect user studies particularly for tasks that resist easy benchmarking, including artistic stylization and interactive authoring tools.  Since stylization and neural image synthesis became mainstream topics in computer vision conferences, reviewers at these conferences increasingly ask for user studies.  
+Yet, few standards—if any—seem to govern how the studies are conducted.
 
-[In a new paper](https://arxiv.org/abs/2206.11461), we make this case, and even a stronger one: the best user studies take time and effort, and often don't involve crowdworking or quantitative methods at all.  The best user studies are ones you do _before_ developing a system, in order to learn more about the problems and possible solutions.
+I argue that many studies now published in graphics and vision are _performative, not informative_: we do them not because we want to learn something, but solely because reviewers expect to see a table of numbers.  So we put on a performance, a bit of science theatre. 
 
-**We need a better understanding of if, when, and how user studies are valuable.** When done thoughtfully, user studies can provide invaluable insights and new information, even leading you to new research ideas.  But, in much of graphics and vision, the growth of crowdwork has diluted the concept of "user study" to the point of meaninglessness. User studies are often considered necessary for publication, but few standards—if any—seem to govern how these studies are conducted.  **In this piece, I'll provide some recommendations for what we can do about it.**
+The desire for user studies reflects a deep question: how do we know if a paper's method is any good? This difficult question defies any easy answers. But, many researchers I've talked to seem to believe that quantitative evaluation solves the problem. And so, it becomes required. How could you publish without a table of numbers? Yet, too often, the numbers produced by sloppy user studies seem unnecessary and unhelpful, just a waste of everyone's precious time. 
+
+The field of HCI has [grappled with these same issues](https://www.billbuxton.com/usabilityHarmful.pdf) since long before MTurk existed, and has concluded that user studies are only sometimes—not always—necessary for evaluation. For example, take a look at what this year's [UIST 2024 Author Guide](https://uist.acm.org/2023/author-guide/) says about them (under "User Studies Are Not Required" and "Systems Contributions Need To Be Evaluated Holistically"). We can learn from the experience of HCI.
+
+We need a better understanding of if, when, and how user studies are valuable, and we need to adjust reviewing practices accordingly.   In this piece, I'll discuss the problem and provide some recommendations for what we can do about it.
 
 
 
 
 # An example of bad reviews
 
-[Here's an instructive example from ICLR 2022](https://openreview.net/forum?id=oapKSVM2bcj) where two reviewers justified low scores, in part, because of a lack of user studies. In response, the Area Chair wrote:
-
+While not a graphics paper, [a recent paper called ``EinOps'' offers an instructive example with publicly-visible reviews](https://openreview.net/forum?id=oapKSVM2bcj).  Two of the reviewers argued for rejection, saying that, while they believed in the technique's value, nonetheless the paper must support its assertions with user studies. In the rebuttal, the author added a user study. But, in the decision, the Area Chair (AC) scolded those reviewers:
 <center>
    	<a href="https://openreview.net/forum?id=oapKSVM2bcj">
    <img src="../../../images/iclr2022-decision.jpg" alt="ICLR decision excerpt: &quot;I belive it is fair and measured to state that these reviews may be considered to exhibit aspects of gatekeeping: requiring more &quot;mathiness&quot; that does not help the paper, or more &quot;rigour&quot; through user studies that are in fact less valuable than the reviewers' own observations &quot;I could see myself...&quot;, &quot;I tend to buy...&quot;.&quot;"/></a>
@@ -39,67 +44,50 @@ To this anonymous Area Chair, I say "Bravo."
 
 If this sounds weird, I recommend reading [the Paper Decision and reviews](https://openreview.net/forum?id=oapKSVM2bcj) and then thinking through what user studies the authors could have actually performed, and whether they would have been genuinely meaningful or necessary.  Would the author—who does not appear to be academically-employed—have had the time, energy, and expertise?  Moreover, this Area Chair had outside knowledge of the system's impact—would they have rescued the paper otherwise?
 
-I've seen and heard of so many similar examples of reviewers tossing off the phrase "you should have a user study" without any apparent thought.
+In computer graphics and vision, I've seen so many similar examples of reviewers offhandedly writing "you should have a user study" without any apparent thought to the consequences, or to what genuine value such a study would add.  Reviewers ask for studies not because they need information, but because "papers should have evaluation."   I've also heard of a few cases where reviewers demanded evaluations with real deployments and real users that would have required multimillion dollar product developments. It did not seem that the reviewers had really thought critically about what they were asking for. 
+
+It's also sad to see authors diligently add user studies at the reviewers' request, only to have a paper keep getting rejected anyway.  Like the EinOps reviewers, some reviewers seem to write "lack of user studies" as a scientific veneer for their real judgments. That is, rather being honest and saying "I'm not very impressed with the submission" or even "I'm just not sure," it's easier to say "there's no user study."
+
+In the case of EinOps, instead of asking for user studies to support claims about user behavior and preferences, the reviewers could have instead asked the author to rephrase the claims, e.g., to reflect personal experience and observations.
+
 
 Some user evaluation requests are even more ridiculous. One colleague at Pixar complained that reviewers rejected his paper because he'd not had animators make a professional animation with the system—essentially, the reviewers were asking for a multimillion dollar production.  Even in the CHI community people complain about [evaluation requests that would require _years_ of extra effort](https://dubfuture.blogspot.com/2009/11/i-give-up-on-chiuist.html).  It's unclear that reviewers have really thought through the effect of what they're asking for.
 
 
-Two pitfalls
+Pitfalls
 =====
 
-I think there are two particular common pitfalls in papers:
+When performed well, a user study provides new information and answers questions about user preferences or behaviors.  But, poorly-performed user studies can also be harmful, in ways that I summarize in this section.  And, even studies that are merely useless cost researchers, reviewers, and readers valuable time, while perpetuating a culture of useless studies.
 
-**Pitfall 1 (_Foregone conclusions_):** The results in the paper figures are good enough that obviously the method is better, and a user study is redundant. This is probably the common case among _accepted_ papers. The study was just a bunch of unnecessary extra work.
+**The Redundancy Pitfall**
 
-Quantitative evaluation used to be rare, almost unheard of. Yet reviewers could still evaluate papers. None of my PhD work had it; it was only years later we started doing some user studies. I recently went through the entire SIGGRAPH 2008 proceedings (i.e., just before crowdworking took hold), and counted only three papers that had anything you might call a "user study."  Yet, somehow lots of good work got published.  There were lots of good papers without user studies.
+Often the ideas and the results in the paper figures are convincing enough to justify publication, and so a user study is redundant.  If the ideas and the figures provide reviewers enough reason to believe in the paper, then no study should be necessary.  In these cases, I doubt the reviewers pay much attention to the contents of the study anyway, only checking that it exists.
 
-I suggest that we can think of studies as a "sanity check" on the figures, but a sanity check isn't always necessary. I will expand on later in this essay.
+Quantitative user studies used to be rare in graphics, almost unheard of before 2009. Yet, there were lots of good papers anyway.  In the two volumes of _Seminal Graphics Papers_, which collect 138 of the most important papers in the history of computer graphics, only two of the papers have anything resembling a formal user study ("Where Do People Draw Lines?" and "Scene Completion Using Millions of Photographs."). 
 
-**Pitfall 2 (_Replicability_):** The method isn't very good, but the user study purports to show that it is.
+User studies can play a valuable role, providing a ""sanity check," when there's a serious question of whether the results are representative or "cherry-picked." How does the method generalize? But this sanity check isn't always necessary, and it must be performed carefully, if done at all.
 
-This pitfall requires more explanation.
+**The Replicability Pitfall**
 
+It may be that a paper's method isn't very good, but the user study seems to show that it is.  There are lots of ways to produce such a study.
+    
+In one recent project, [my collaborators and I](https://psyarxiv.com/nd653) ran studies with several different crowdworking methods common in graphics and vision, and we found that _different studies gave opposite conclusions_. Our paper reports on all the experiments, and what we learned from them.  However, we could have simply reported only the results that supported our research goals, making our story much simpler and more compelling—but also misleading.
 
-Replicability pitfall: a story
-=====
-
-Here's an in-depth example from a recent project, that ought to unsettle anyone that uncritically relies on crowdworker studies.  
-
-A few years ago, some artists began making art by [manipulating Generative Adversarial Networks (GANs) to produce weird-but-intriguing outputs](https://direct.mit.edu/leon/article-abstract/53/4/424/96926/Visual-Indeterminacy-in-GAN-Art?redirectedFrom=fulltext), rather than the realistic-but-plain-looking images that GANs normally made. They "looked like" Modern Art, especially much of the weird and surreal art from the early 20th Century.
-
-Inspired by these observations, [we developed a way to quantify](http://cybertron.cg.tu-berlin.de/xiwang/tap-project-page) the ["indeterminacy"](https://www.frontiersin.org/articles/10.3389/fnhum.2011.00084/full) of an image.  Here's our quantification on some GAN images from [Artbreeder](https://www.artbreeder.com/):
-
-![high and low entropy images](../../../images/image-entropy.jpeg)
-
-To us, the bottom row looks the most interesting and artistic, so the numbers roughly match our judgement how interesting the images is. 
-The reviewers of [our paper](http://cybertron.cg.tu-berlin.de/xiwang/tap-project-page) agreed.  Moreover, previous psychology studies have shown that more ambiguous and indeterminate images tend to be more aesthetically interesting. So we had every reason to expect that a more formal study would show the same thing.
-
-**But it wasn't so easy.** We began a new project, paying crowdworkers to rate how much they liked these images.  And the results weren't what we expected: crowdworkers preferred the boring pictures. They preferred kittens and mountains, not indeterminacy. 
-
-We imagined many explanations. Maybe it takes too much time to really appreciate indeterminate artworks, and crowdworkers were just speeding through the tasks to get paid. Or maybe they just don't like Modern Art. 
-
-So we devised different versions of the tasks, giving the workers different questions to answer ("which images are most interesting" or "artistic"), and  different ways to do the ratings that would make them slow down. Each time, the crowdworkers preferred mountains and kittens. 
-
-We finally obtained the results we expected both by changing the task structure, and by analyzing the data differently. Most importantly, we found that only a significant subset of crowdworkers did consistently prefer indeterminate artworks.  We've written [a paper](https://psyarxiv.com/nd653)  describing all these steps (and validating on hold-out data) that has been accepted to appear in [a psychology journal](https://www.apa.org/pubs/journals/aca). 
-
-**So, consider the following**: 
-
-1. We used crowdworking methods common in graphics and vision, and
-2. Different experiments gave opposite conclusions. 
-
-We could have just reported the results of our final study. This would have made our paper much more impressive and exciting.  But this would have been misleading, and, arguably, unethical.  Instead, we were open to learning something from these studies, and so we tried many experiments, and reported all of our findings, which will hopefully inspire future studies to disentangle all the factors we identified. The fact that we were dealing with a difficult and divisive style related to Modern Art probably made judgements particularly mixed.
-
-But I wonder how many published "user studies" in graphics and vision were performed this way: keep running crowdworker evaluations until you get the result you want, _only_ publish that final evaluation, and then declare victory.
+I wonder how many published "user studies" in graphics and vision were performed this way: keep running MTurk evaluations until you get the result you want, _only_ publish that final evaluation, and then declare victory.
 
 
-The Replication Crisis in Psychology
-========
-
-This story exemplifies a broader theme in science. For more than a decade, psychology, medicine, and other scientific fields have grappled with [The Replication Crisis](https://en.wikipedia.org/wiki/Replication_crisis): the observation that many published scientific studies are probably false, and/or could not be replicated in independent trials.   [One large scale psychology study probing the problem](https://www.science.org/doi/full/10.1126/science.aac4716) replicated _only 35%_ of the 100 papers they tested. Results like these led to widespread [changes to publishing policies in psychology](https://en.wikipedia.org/wiki/Replication_crisis#Remedies), including the use of [preregistered studies](https://en.wikipedia.org/wiki/Preregistration_(science)) and reforms to how experiments are described.
-
-What causes this problem? [One influential 2011 paper](https://journals.sagepub.com/doi/full/10.1177/0956797611417632) details ways that experimenters can bias results towards the results they want, even unconsciously.  For example, running many studies but only reporting the successful ones creates a problem called [publication bias](https://en.wikipedia.org/wiki/Publication_bias).
+In an influential 2011 psychology paper, [Simmons et al.](https://journals.sagepub.com/doi/10.1177/0956797611417632) detailed many ways that experimenters can bias results towards the results they want, even unconsciously—including publishing only the studies that support the hypothesis and discarding the rest.  Observations like this led to the [_Replication Crisis_](https://en.wikipedia.org/wiki/Replication_crisis), in which psychology researchers found that that many published studies could not be replicated in independent trials, thus invalidating large swaths of recent scientific research. The crisis led to widespread reforms in psychology and other fields, including the use of preregistered studies and new policies on reporting experiments.  We should learn from this experience, especially since many of our user study methodologies are variants of psychology methodologies.
 
 If rigorous scientific experiments have gone through such an upheaval, shouldn't we wonder about some of our own experiements? Indeed, there have been related concerns raised of a [replication crisis in computer science](https://cacm.acm.org/magazines/2020/8/246369-threats-of-a-replication-crisis-in-empirical-computer-science/abstract) and in [machine learning](https://reproducible.cs.princeton.edu/), as well as evidence that [dataset bias](https://people.csail.mit.edu/torralba/publications/datasets_cvpr11.pdf) leads to results that [do not generalize well](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf).  (Note that the easily-confused terms "reproducibility" and "replicability" [are sometimes swapped in their meanings](https://www.frontiersin.org/articles/10.3389/fninf.2017.00076/full). I'm skipping over the precise meanings here.)
+
+Closer to home, Natural Language Processing (NLP) research employs human evaluation of results similar to how we use them in graphics. But, [a recent series of studies](https://aclanthology.org/2023.findings-acl.226/) finds that most evaluations in NLP research are woefully non-replicable, with serious questions about whether the evaluations are at all meaningful. I'm not aware of any such study in the graphics literature.
+
+
+All of the above leads me to hypothesize that many quantitative user studies in computer graphics and vision would not hold up in new experiments, due to a lack of experimental rigor.
+
+**The Hard-To-Quantify Pitfall**
+
+Many kinds of research are fundamentally difficult to quantitatively evaluate, and honest authors may struggle to do so, being unwilling to put together a useless user study.  Their papers then get rejected when reviewers insist on bogus user studies. This causes considerable frustration, sometimes leading authors to avoid entire subfields of research as a result.
 
 
 Could MTurk Lose All Value?
@@ -107,103 +95,81 @@ Could MTurk Lose All Value?
 
 If that's not concerning enough, consider this. Crowdworking on MTurk grew popular for user studies after a series of studies in [HCI](https://dl.acm.org/doi/abs/10.1145/1357054.1357127), [visualization](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf), and [psychology](https://journals.sagepub.com/doi/10.1177/1745691610393980) showed that crowdworking gave similar outcomes to in-person studies. But, there's some evidence that [the reliability of MTurk data has _gone down_ over the years](https://journals.sagepub.com/doi/abs/10.1177/1948550619875149).
 
-What's more, Large Language Models (like GPT) [can generate plausible responses to user survey questions](https://research.aalto.fi/files/106452436/SCI_H_m_l_inen_etal_CHI_2023.pdf). This means that MTurk is likely to be even more flooded with bots and fake accounts that are indistinguishable from the real thing. I've already heard anecdotally of MTurk survey responses that begin with "As an AI Language Model", indicating that this is already happening.
+What's more, [there's some evidence that MTurkers are starting to use LLMs](https://arxiv.org/abs/2306.07899) to generate answers to their survey questions. I've already heard anecdotally of MTurk survey responses that begin with "As an AI Language Model", indicating that this is already happening.
 
 MTurk might not be useful for much longer.
 
+Common Responses
+=============
+
+Over the years, myself and others have raised some of these issues before in various forums. I believe the common responses are telling.
+
+Some people respond with: "But then how do we evaluate papers?"  How best to perform evaluation is an important question.  But the question presumes that [quantitative evaluation](/2020/10/21/quantitative-evaluation.html) is _necessary_ for publication—and that the current measurements are better than nothing, even when they're meaningless. 
+
+Certainly, when we have reliable ways to evaluate our work quantitatively, we should use them. But we should also recognize the shortcomings of our metrics, and adapt. Otherwise we fall into the [McNamara Fallacy,](https://en.wikipedia.org/wiki/McNamara_fallacy) named for former US Secretary of State Robert McNamara. This fallacy entails making decisions solely based on whatever we can measure numerically, and treating all other considerations as though they don't exist, even though they may, in reality, be more important than what's measurable.
 
 
-If There's A Crisis, Would Anyone Care?
-=====
-
-All of the above **leads me to believe that many "user studies" in computer graphics and vision are not replicable:** they would not hold up if someone tried to redo the study with new participants.  In fact, they're not even reproducible, given that few authors provide complete details about their methodology. In other fields, recognizing this would lead to a wake-up call, a need to reform publication practices. 
+The other response seems to be apathy: our field doesn't seem particularly concerned about whether or not our studies are "true."" This again raises the question of why we are doing them at all. If we're doing them, we should care about whether or not they're meaningful.
 
 
-[I've complained about performative user studies many times before](/2020/10/21/quantitative-evaluation.html). But most people (with a few exceptions) don't seem particularly concerned about whether or not our studies are "true."
 
-Suppose we ran a large-scale study _about studies_, and found that many of our published user studies don't hold up. Would we care at all?  After all, we're not building psychology theories around these studies, and [turning them into TED Talks and best-sellers](https://www.nytimes.com/2017/10/18/magazine/when-the-revolution-came-for-amy-cuddy.html). The outcomes of our studies are largely ignored once the paper is published.  
 
-(One important consideration I'm glossing over is whether we'd want to judge replicability among crowdworkers or among a different pool of participants. Our crowdworker studies may technically be replicable because they can have large sample sizes, but there may be important other problems with the study.)
-
-But, if no one cares, isn't that a sign that these studies don't matter?  And, if they don't matter, why are we doing them? 
 
 
 
 What Should We Do About It?
 =====
 
-There are a few things we can do about this problem.
+There are a few things we can do about these problems, both individually and as a field.
 
-**Stop requiring performative user studies**
+**Stop requiring useless user studies**
+"You should do a user study" should be treated like "This method is not novel":  You shouldn't say either without explanation.
 
-At the very least, don't just say "you should do a user study," without specifying precisely the purpose of the study and how it would be conducted. Is asking crowdworkers which pictures they like better really meaningful in this case? How might the outcome of the study change your evaluation of the paper?  If not, why are you asking for the study? Explain these things in your review.
+A reviewer requesting a user study should precisely specify the purpose of the study and how it would be conducted. Reviewers should think through what evaluation should be performed, and how the results of it might change their evaluation of the paper.  The goal can't just be ``to see which method is better,'' because no study can answer such a generic question. Even with a well-defined task, a technique may work well for one class of problems or users, and poorly for another. 
 
-Some people respond to this with: "OK, but then how should we evaluate papers without benchmarks?" This question presumes that [objective, quantitative evaluation is somehow necessary for publication](/2020/10/21/quantitative-evaluation.html).  Or, worse, that _any_ metric—even a bad one—is better than no metric at all.
+Likewise, authors, committee members, and paper chairs should push back on reviewers that ask for user studies.
 
-Focusing only on quantitative metrics falls into the [McNamara Fallacy](https://en.wikipedia.org/wiki/McNamara_fallacy): making decisions solely based on what we can measure numerically, and disregarding all other considerations.  
-
-**Resist performative user studies**
-
-* As an Area Chair/committee member, push back on reviewers that ask for performative user studies.
-* As a reviewer, don't accept papers just because they have a user study; question whether the user study is meaningful, just as you might with other quantitative evaluation.
-* As an author, resist calls for performative user studies. Feel free to link to this blog post, and/or the papers listed below.
-* Conversely, be accepting of qualititative user studies that can provide information that quantitative studies lack.
-
-_"You should do a user study"_ should be treated like _"This method is not novel"_:  You can't just say either without explanation.
+Conversely, be open to qualitative user studies that can provide information that quantitative studies lack.
 
 
-**Report results carefully**
+**Conduct user studies thoughtfully, but sparingly.**
+We should do fewer user studies, but better user studies.  User studies should be performed carefully, with the aim of gathering specific information or answering a focused question, and carefully reporting the results.  Think carefully about what questions you can address and what information a study provides.  Incorporating user feedback early in the research can be particularly valuable.
 
-Describe your study protocol carefully. Don't over-generalize from the results.  [The way you design your study can really influence your results](https://www.sciencedirect.com/science/article/pii/S2589004220307070) and so the formulation needs to be clear in the paper.
+Moreover, there are many different kinds of user studies and user research besides quantitative MTurk evaluations.  Informal, qualitative user feedback can provide a lightweight indication about the usefulness of a system. 
 
-
-**Accept that reviewing is a judgement call**
-
-At a high-level, we first need to **accept the fact that paper decisions are subjective** and involve judgement calls.  In the top computer science conferences, we review papers based on whether [_we think the paper will make a positive impact._](/2020/07/13/rebuttals.html) This is why we reject many papers for no particular flaw other than not being very "novel" or "interesting." 
-
-
-We also need to recognize that _almost no graphics or vision paper evaluates with real applications in real deployments_.  [All our datasets and benchmarks are approximations to what a real practitioner might care about](https://arxiv.org/abs/2107.07002), and sometimes [they might be poor approximations](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf).  
-
-The "users" in our so-called "user studies" are almost never actual users of the proposed system.
-
-Hence, reviewers must make judgement calls about whether the ideas and results are valid, interesting, and worth publishing. User studies can help with these judgments if done well, but, more often, they're just a box to check on a form.
-
-**Accept that studies are often ambiguous**
-
-I experienced first-hand the ambiguity in study data with our [2011 paper on color compatibility](http://www.dgp.toronto.edu/~donovan/color/).
-For years, psychologists had used limited in-person studies on simple pairings to measure color compatibility on just a few subjects. We began thinking that big datasets and crowdwork would allow us to figure out much better which colors go best together. 
-
-Each time we formulated another study or data analysis, we thought it might answer basic questions, like which color theories worked better.  And, with each study we ran, we realized there were multiple explanations for the results.  Maybe the results depended on the background color when viewing the ratings. Maybe the fact that some data sources came with titles affected the ratings.  We would then devise tests to separate factors (e.g., with and without titles), and each of these led more questions, and an endless rabbit-hole of confounding factors.  
-
-During this process, a colleague Ryan Schmidt, who published frequently in HCI, commented that reviewers could poke holes in any study. If they did a line drawing study on paper, reviewers would complain about which kind of paper was used and whether the study generalizes to other drawing media.
-
-Doing science means acknowledging and understanding the limitations of your studies. No user study on its own is conclusive, but some are better than others.
+We can look to various evaluation techniques developed in HCI, including [those summarized by Ledo et al.](https://stevenhouben.be/pubs/EvaluationCHI2018.pdf). Their "demonstrations" category roughly matches our common practices of showing results figures, but they offer specific guidelines about these demonstrations.  They also discuss different ways that usability can be evaluated, beyond just quantitative scoring of responses.  
+See [our recent survey paper](https://arxiv.org/abs/2206.11461) for more advice.
 
 
-**Consider crowdworker evaluations as "sanity checks"**
-
-One possible mental model for crowdworker evaluations is as _sanity checks_: they check whether the results in the paper figures generalize to a larger dataset. 
-
-Reviewers should judge the results in the paper figures, but these results might be cherry-picked, and a crowdworker study can expand that evaluation.
-
-Conversely, if the reviewers believe in the value of the paper just based on the ideas and the figures, then no study is necessary. If the reviewers do not believe in the value of the work, then no crowdworker study will change that. 
+**Accept that reviewing is a judgement call.**
+Many of these problems stem from a quixotic desire for scientific objectivity in research.  We must accept the fact that paper decisions are subjective and involve judgement calls.  In many top computer science conferences, we accept papers based on whether we think the paper will make a positive impact. This is why we reject many papers for no particular flaw other than not being very "novel" or "interesting."
 
 
-**We need new research: studies about studies**
+We also need to recognize that _almost no graphics paper evaluates with real applications in real deployments_.  All our datasets and benchmarks are approximations to what a real practitioner might care about, and sometimes they are poor approximations.  Indeed, the "users" in our so-called "user studies" are almost never actual users of the proposed system.
 
-Finally, I think we need new research to formulate better guidelines. This is an open research problem, that people in our community should pursue.  We could draw inspiration from how other fields have responded to the Replication Crisis, although the solutions might be different.  
+Hence, reviewers must make judgement calls about whether the ideas and results are valid, interesting, and worth publishing. User studies can help with these judgments _if_ done well.
 
-Here are some of the kinds of research questions that I hope someone will tackle:  
+**Discourage bad studies.**
+Poorly-done studies make a paper worse, and they perpetuate expectations that papers include studies, even bad ones.   But, at present, authors are incentivized to include them, just in case they get that reviewer or committee member who uncritically demands a study. Ideally, when reviewers or committee members identify bad studies, they should explain the issues to authors and require them to remove the bad studies, even for papers being accepted for publication.
 
-* Are existing studies meaningful (Pitfall 2)? Pick highly-cited recent papers with user studies and redo them in some rigorous way. 
+**Do new research on user studies.**
+I wish I had precise instructions for exactly how to do evaluation, apart from ``use good judgment (and read [our survey](https://arxiv.org/abs/2206.11461)).'' But I don't think there's an easy recipe.  
 
-* Most likely, many of those results will hold up. But there's a second question: was the outcome obvious just from the figures in the paper (Pitfall 1)? That is, a second study would be: compare readers' evaluations from the figure papers alone to a larger scale user study. In short, does the user study add anything beyond the figures?
+Many fields, when confronted with an evaluation problem, have developed new methodologies and approaches to evaluation. It seems most field need to occasionally revise their standards for evaluation. In computer vision, benchmark datasets addressed the widespread problem of not being able to tell whether new methods were any better than the old ones. This led to a long period of extraordinary progress, but now over-reliance on benchmarks and quantitative evaluation cause their own problems.   In Psychology, the Replication Crisis included research describing the problem, studying its extent, and developing new guideliness addressing it. 
 
-* Can we form more specific guidelines around how to perform studies, e.g., how does rendering style and display size/context affect results?  For example, you can't compare character animation results with just stick figures floating in space.
 
-* Do different problem domains require different standards or guidelines? Judging the quality of a denoising result might be much easier than evaluating indeterminate aesthetics, which is highly subjective, if not divisive.
 
-These ideas need refinement, but they give some idea of the kinds of questions someone could tackle to advance research in our fields.   (I don't plan to pursue these ideas, but I'm open to collaboration).
+Here are some research questions—specific to graphics evaluations—that we may wish to ask.
+Do readers' evaluations from the paper figures predict the results of user studies?  That is, when do studies provide more information not available from paper figures?  Do existing studies hold up to replication?  Such methodological tests could be performed in some artistic domains like image stylization or character animation, comparing across many published methods, and comparing with non-crowdworked assessments, made by _actual_ expert users of such software, in multiple target domains.  What factors affect the usefulness of studies? Some of these will necessarily be specific to subfields, e.g., how rendering style affects judgements of character animations.  Some judgments will be more robust than others, e.g., judgement of image restoration quality may be much more consistent than aesthetic preferences for indeterminate images.
+
+
+**Develop new guidelines.**
+With sufficient research on user studies, conference chairs could adopt guidelines 
+around how to perform and report studies. Other fields have done so, for example, as a result of the Replication Crisis, many psychology journals adopted  new standards for  performing and reporting psychology experiences.
+
+Particularly noteworthy for us is HCI's response to years of discussion about user studies. The UIST 2023 Author Guide explicitly states: "User Studies Are Not Required ... rather, papers must support the claims they make with evidence. The form of that evidence will vary based on the claims of the paper," and then provides a nuanced discussion of the different issues and approaches around evaluation, while asking reviewers to familiarize themselves with papers that discuss these issues.
+
+We could have the same thoughtful and evidence-based approach to user evaluation in our fields, if we so chose.
 
 
 
@@ -226,3 +192,8 @@ How working with real users can inform and drive good research in computer graph
 
 * Maneesh Agrawala, Wilmot Li, Floraine Berthouzoz.
 [**Design Principles for Visual Communication**](http://vis.berkeley.edu/papers/designprinciples/). _Communications of the ACM_, April 2011, 54 (4), pp. 60-69.
+
+
+<hr>
+
+These ideas benefitted from discussions and collaborations with many people, including Maneesh Agrawala, Zoya Bylinskii, Stephen DiVerdi, Andrew Fitzgibbon, Perttu Hämäläinen, Laura Herman, Cuong Nguyen, plus countless reviewers that asked me and other authors for user studies.
