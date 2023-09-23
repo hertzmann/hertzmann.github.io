@@ -218,6 +218,8 @@ retaining important ones.
 
 <BR><BR>
 
+_More than two decades later, [_I picked up painting again](https://aaronhertzmann.com/2020/10/05/art-is-a-process.html), this time, digitally_.
+
 ---
 
 <BR><br>
