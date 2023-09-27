@@ -72,6 +72,12 @@ In a separate interview, **Gerhard Richter** said "I want to end up with a pictu
 **Computer Art.**
 People often think of computer art as somehow mechanical or automatic. But the earliest generative art pioneers talk about how they use it as a tool for discovery and surprise.  Here are two pioneering computer artists, who began making generative art with random numbers in the 1960s. [**Charles Csuri**:](https://www.artnews.com/art-news/news/charles-csuri-dead-1234621107/) "When I allow myself to play and search in the space of uncertainty, the more creativity becomes a process of discovery. The more childlike and curious I become about this world and space full of objects, the better the outcome." [**Vera Molnar**:](https://news.artnet.com/art-world/vera-molnar-venice-biennale-2098046) talks about using randomness and "the thing that is not planned" to find surprising solutions, that she uses her generative art code to find surprises.  (I had a better quote from her but cannot find it at the moment.)
 
+# Filmmaking
+
+**Ed Catmull** [quoted a movie studio executive](https://www.youtube.com/watch?v=k2h2lvhzMDc) saying that "our problem is not finding good people, it's finding good ideas."  And Ed questioned this, asking around whether it is more important to have good ideas or good people? He found that audiences were split in their answer to this question.
+
+He concludes that the answer is very clear: ["If you have a good idea and give it to mediocre people, they'll screw it up. If you give a mediocre idea to a good group, they'll fix it. Or they'll throw it away and come up with something else."](https://youtu.be/k2h2lvhzMDc?t=1316&si=VtyWZfdeKJMh3_1g) 
+
 
 # Two examples from rock music
 
