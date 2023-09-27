@@ -12,7 +12,7 @@ Whether computers can be creative or not comes up a lot these days. Sometimes it
 
 In this post, I'll describe how I now think about creativity. I've written a lot about it over the past few years, [from some initial questions about computational creativity](/2021/04/19/questons-for-computational-creativity.html), to [reflecting on my own progress in painting and drawing](/2020/10/05/art-is-a-process.html), and [comparing that to using DALL-E](/2022/05/25/dall-e.html) when it first came out, to [collecting others' examples of open-ended exploration](/2023/03/06/open-ended-exploration.html), and a [computational creativity conference paper](https://arxiv.org/abs/2205.01605).  This post summarizes the results of those explorations.
 
-This post is summarizes the results of those explorations. 
+This post is summarizes the results of those explorations. My answer won't be surprising to anyone who's read my writing or speaking before, but here I'm putting together those ideas into a coherent statement on computational creativity.
 
 Now, this discussion would be easy if we had a clear, concrete definition of "creativity." But we don't. We have intutions, and we have the way the word is used (which, according to Wittgenstein, _is_ meaning), and lots of previous attempts to define it. Our definitions don't tell us anything about machine-made creativity because we haven't ever considered machines as creative before.
 
@@ -39,7 +39,7 @@ I think we'd agree that "creativity" can't just be about following instructions.
 
 Some people claim that "we're just computers;" aren't [we all just obeying the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
 
-Maybe some people accept that creativity can be determined only by its outputs. But it requires being willing to accept that you can be creative by rigidly following rules without any independent autonomy—and that we've had creative machines like this for decades.
+Maybe some people accept that creativity can be determined only by its outputs. By that definition: then yes, of course computers are already creative, and _have been for decades_. But this definition requires you to accept that you can be creative by rigidly following rules without any independent autonomy.
 
 That doesn't feel right to me.
 
