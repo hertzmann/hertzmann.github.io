@@ -8,7 +8,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 # What is Creativity? Can Computers Be Creative?
 
-Whether computers can be creative or not comes up a lot these days. Sometimes it's assumed they can be, like in some of the court cases. I get the question a lot when [I give talks on computers as artists](https://www.youtube.com/watch?v=APkitEWqdKw) (and why I don't think they can be considered artists). 
+Whether computers can be creative or not comes up a lot these days. Sometimes it's assumed they can be, like in some of the court cases. I get the question a lot when [I give talks on computers as artists](https://www.youtube.com/watch?v=ZOv3GizIUE0) (and why I don't think they can be considered artists). 
 
 In this post, I'll describe how I now think about creativity. I've written a lot about it over the past few years, [from some initial questions about computational creativity](/2021/04/19/questons-for-computational-creativity.html), to [reflecting on my own progress in painting and drawing](/2020/10/05/art-is-a-process.html), and [comparing that to using DALL-E](/2022/05/25/dall-e.html) when it first came out, to [collecting others' examples of open-ended exploration](/2023/03/06/open-ended-exploration.html), and a [computational creativity conference paper](https://arxiv.org/abs/2205.01605).  This post summarizes the results of those explorations.
 
