@@ -37,22 +37,22 @@ And, arguably, so many of our video games produce novel images and experiences p
 
 # Productivity or Humanity?
 
-At this point, I think it's important to explicit about motivations: do we seek to increase productivity or model human intelligence? These are two distinct goals, and they lead to different notions of creativity.  Treating them as the same, as many of these discussions do, causes confusion.
-
-In the 20th Century, there are at least two distinct reasons people studied creativity:
+People in the 20th Century studied creativity for at least two distinct reasons:
 
 1. First, [business leaders sought to **increase corporate productivity.**](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review) 
 Management researchers and psychologists tried to understand how companies come up with new product ideas, solve problems, and make effective new ad campaigns. How did creative individuals and teams function, and how could they be made more effective?  If all you care about is business productivity, then, indeed, the output is all that matters when defining creativity.  
 
-2. Second, psychologists sought to **describe human intelligence and behavior, and enhance it.** When people are creative, what happens? What are the attributes of creative behaviors and creative people? And, how can psychology research help people  explore their own creativity and, thus, their own self-actualization?
+2. Second, psychologists sought to **describe human intelligence and behavior**, and to improve it. When people are creative, what happens? What are the attributes of creative behaviors and creative people? And, how can psychology research help people  explore their own creativity and, thus, their own self-actualization?
 
 These distinct goals persist in how we talk about creativity in "AI" today.
 
-If your goal is solely to make new and better things, then it makes sense that creativity  depends only on the quality of the outputs. If an algorithm could truly suggest a better advertising campaign or product design than an average designer, then that can achieve business goals. That's not what I care about in this essay.
+If your goal is solely to make new and better things, then it makes sense that creativity  depends only on the quality of the outputs. If an algorithm could truly suggest a better advertising campaign or product design than an average designer, then that can achieve business goals. That's not what I care about in this essay, and I don't think that's the subtext of most computational creativity discussions.
 
-In this essay, I'm focused on understanding human intelligence, and, to what extent the systems we build relate to human creativity. For these reasons, I don't think that looking at the outputs is good enough.  
+**In this essay, I'm focused on understanding human intelligence, and how the systems we build relate to human creativity.** Saying that a computer system is creative amounts to saying that its behavior is, in some way, like human creativity. 
 
-Computer systems work by following instructions, and I think most of us would agree that "creativity" can't just be about following instructions. Imagine hiring an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. But this is exactly a description of how computers work: they follow instructions they were given precisely, without deviation. (This is a variant of the ["Chinese room argument"](https://en.wikipedia.org/wiki/Chinese_room)).
+For these reasons, I don't think that looking at the outputs is good enough.  
+
+Computer systems work by following instructions, and I think most of us would agree that human "creativity" can't just be about following instructions. Imagine hiring an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. But this is exactly a description of how computers work: they follow instructions they were given precisely, without deviation. (This is a variant of the ["Chinese room argument"](https://en.wikipedia.org/wiki/Chinese_room)).
 
 If creativity can be determined only by its outputs, then, by that definition:  of course computers are already creative, and _have been for decades_. But this definition requires you to accept that you can be creative by rigidly following rules without any independent autonomy.
 
@@ -67,7 +67,7 @@ That doesn't feel right to me.
 
 # Computational systems as _models_ of intelligence
 
-What then, are we to make of the fact that these systems create surprising, novel, and delightful things? That the latest text-to-image systems can make pictures that, had they been made solely by a person, we'd certainly call "creative?"
+What then, are we to make of the fact that current systems can create surprising, novel, and delightful things? That the latest text-to-image systems can make pictures that, had they been made solely by a person, we'd certainly call "creative?"
 
 When comparing to human intelligence, or the intelligence of other animals, we should think of "artificial intelligence" algorithms as _models of aspects of animal intelligence_.  In science, we often must choose between models that capture phenomenology well and models that capture aspects of the underlying mechanisms.  Hummingbirds and helicopters can both hover, but a helicopter is a poor model for the workings of a hummingbird, or its intelligence. 
 
@@ -76,7 +76,7 @@ In nearly ever layer—biology, system dynamics, evolutionary, social, and cultu
 
 Some people claim that "we're just computers"; aren't [we all just obeying the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
 
-It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" is primarily a set of skills, rather than a good holistic model of any human or animal intelligence.
+It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" here refers to primarily a set of skills, rather than representing a holistic model of human or animal intelligence.
 
 Likewise, "computational creativity" algorithms can _model_ aspects of how human creativity works.  We have all sorts of [computer graphics](/2020/09/12/how-to-draw-pictures-contours.html) and "AI" algorithms that make novel and original pictures, and can fool people and be judged artistic in some sense, but they all do so by following their instructions.
 
@@ -86,8 +86,7 @@ Likewise, "computational creativity" algorithms can _model_ aspects of how human
 
 # Creative processes
 
-Our current algorithms don't even model the phenomena of human creativity, particularly the _processes_ by which they occur. 
-
+Our current algorithms do not model the processes of human creativity at all. Here's an example of what's missing.
 
 Simplistic descriptions of creativity often emphasize "inspiration," an instaneous flash of insight, those "where did that idea come from?" moments, perhaps granted by the gods on the subconscious mind.  Hollywood stories like to dramatize invention with a dramatic moment when the scientist or artist saw some real world behavior and turned it into their new discovery.
 
