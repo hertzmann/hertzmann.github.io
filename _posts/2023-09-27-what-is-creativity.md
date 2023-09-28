@@ -31,9 +31,9 @@ If making original works automatically defines creativity, then we _already_ hav
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/b005iHf8Z3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
-that, surely, no one (including Mandelbrot himself) could have predicted from the math itself.  In fact, chaos theory tells us that it is unpredictable. Yet it can be described in a single equation, or about 10 lines of code. 
+that, surely, no one (including Mandelbrot himself) could have predicted from the math itself.  In fact, [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory) tells us that it is unpredictable. Yet it can be described in [a single equation](https://en.wikipedia.org/wiki/Mandelbrot_set#Formal_definition), or [a few lines of code](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings). 
 
-And, arguably, so many of our video games produce novel images and experiences procedurally. Sure, someone authored them to generate these experiences, but someone also authored all of our current "AI."
+And, arguably, so many of our video games produce novel images and experiences procedurally. Sure, people authored them to generate these experiences, just as people have authored all of our current "AI" systems.
 
 # Productivity or Humanity?
 
@@ -48,7 +48,7 @@ Management researchers and psychologists tried to understand how companies come 
 
 These distinct goals persist in how we talk about creativity in "AI" today. 
 
-When you aim solely to make new and better things, then it makes sense that "creativity" depends only on the quality of the outputs. If an algorithm could truly suggest a better advertising campaign or product design than an average human designer, then that can achieve business goals, and human creativity could be replaced by machine creativity. That's not the notion of creativity that I care about.
+When you aim solely to make new and better things, then it makes sense that "creativity" depends only on the quality of the outputs. If, hypothetically, an algorithm could truly suggest a better product idea or advertising campaign  than an average human designer, then a business could use that system to replace creative humans. That's not the notion of creativity that I care about.
 
 
 **In this essay, I'm focused on how the systems we build relate to human creativity and intelligence.**  And, again, if we say that an "AI" is creative, then we're saying that it does something like human creativity.
@@ -74,9 +74,9 @@ When comparing to human intelligence, or the intelligence of other animals, we s
 
 "AI" models are optimized and trained to model the phenomena of human dialogue and picture-making—and they often do so very well—but the underlying mechanisms are almost entirely different. In nearly ever layer—biology, system dynamics, evolutionary, social, and cultural history—human intelligence is entirely different from "AI."
 
-Some people claim that "we're just computers"; aren't [we all just obeying the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
+Some people claim that "we're just computers"; aren't [we all just consequences of the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
 
-It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" here refers to primarily a set of skills, rather than representing a holistic model of human or animal intelligence.
+It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" describes a set of skills, rather than representing a holistic model of human or animal intelligence.
 
 Likewise, "computational creativity" algorithms can _model_ aspects of how human creativity works.  We have all sorts of [computer graphics](/2020/09/12/how-to-draw-pictures-contours.html) and "AI" algorithms that make novel and original pictures, and can fool people and be judged artistic in some sense, but they all do so by following their instructions.
 
@@ -86,7 +86,7 @@ Likewise, "computational creativity" algorithms can _model_ aspects of how human
 
 # Creative processes
 
-Our current algorithms do not model the processes of human creativity at all. Here's an example of what's missing.
+Our current algorithms do not attempt to model the _processes_ of human creativity. Here's an example of what's missing.
 
 Simplistic descriptions of creativity often emphasize "inspiration," an instaneous flash of insight, those "where did that idea come from?" moments, perhaps granted by the gods on the subconscious mind.  Hollywood stories like to dramatize invention with a dramatic moment when the scientist or artist saw some real world behavior and turned it into their new discovery.
 
