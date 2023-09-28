@@ -59,6 +59,8 @@ When comparing to human intelligence, or the intelligence of other animals, we s
 "AI" models are optimized and trained to model the phenomena of human dialogue and picture-making—and they often do so very well—but the underlying mechanisms are almost entirely different.
 In nearly ever layer—biology, system dynamics, evolutionary, social, and cultural history—human intelligence is entirely different from "AI." The main commonality are some ability to mimic data, and similar behaviors in some situations.
 
+It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" is primarily a set of skills, rather than a good holistic model of any human or animal intelligence.
+
 Likewise, "computational creativity" algorithms can _model_ aspects of how human creativity works.  We have all sorts of [computer graphics](/2020/09/12/how-to-draw-pictures-contours.html) and "AI" algorithms that make novel and original pictures, and can fool people and be judged artistic in some sense, but they all do so by following their instructions.
 
 But our current algorithms don't even model all the phenomena of human creativity. Next I want to describe some missing pieces.
