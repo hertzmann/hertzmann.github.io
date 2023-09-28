@@ -59,6 +59,7 @@ If creativity can be determined only by its outputs, then, by that definition:  
 
 That doesn't feel right to me.  
 
+
 <center>
   <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zNB3cr-3Gi0?si=q7DeNYvMCG9Rpj6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -74,19 +75,19 @@ When comparing to human intelligence, or the intelligence of other animals, we s
 
 "AI" models are optimized and trained to model the phenomena of human dialogue and picture-making—and they often do so very well—but the underlying mechanisms are almost entirely different. In nearly ever layer—biology, system dynamics, evolutionary, social, and cultural history—human intelligence is entirely different from "AI."
 
-Some people claim that "we're just computers"; aren't [we all just consequences of the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
+I often hear "we're just computers"; aren't [we all just consequences of the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
 
 It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" describes a set of skills, rather than representing a holistic model of human or animal intelligence.
 
 Likewise, "computational creativity" algorithms can _model_ aspects of how human creativity works.  We have all sorts of [computer graphics](/2020/09/12/how-to-draw-pictures-contours.html) and "AI" algorithms that make novel and original pictures, and can fool people and be judged artistic in some sense, but they all do so by following their instructions.
 
-
+[Psychologists have pointed out many aspects crucial to human creativity](https://onlinelibrary.wiley.com/doi/full/10.1002/jocb.395), almost none of which our current algorithms attempt to model.
 
 
 
 # Creative processes
 
-Our current algorithms do not attempt to model the _processes_ of human creativity. Here's an example of what's missing.
+Our current algorithms do not attempt to model the _processes_ of human creativity. Here's one important aspect that I think is missing.
 
 Simplistic descriptions of creativity often emphasize "inspiration," an instaneous flash of insight, those "where did that idea come from?" moments, perhaps granted by the gods on the subconscious mind.  Hollywood stories like to dramatize invention with a dramatic moment when the scientist or artist saw some real world behavior and turned it into their new discovery.
 
