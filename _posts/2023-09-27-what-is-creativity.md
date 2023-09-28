@@ -21,7 +21,7 @@ In fact, the new technology helps us attempt to clarify what is or isn't "creati
 
 # "Creativity" as "Making Creative Things"
 
-Many attempts to define _creativity_ describe making something good that didn't exist before, especially if it's particularly surprising and unique.  An artist makes a painting that's particularly provocative or beautiful in a new way, or expresses a new visual idea. A writer composes an unusual story with a surprising take. A research paper suggests an unexpected new approach to an old problem, or an unexpected but exciting new problem.  
+Many attempts to define _creativity_ describe [making something good that didn't exist before that's particularly surprising and unique](https://onlinelibrary.wiley.com/doi/abs/10.1002/jocb.516).  An artist makes a painting that's particularly provocative or beautiful in a new way, or expresses a new visual idea. A writer composes an unusual story with a surprising take. A research paper suggests an unexpected new approach to an old problem, or an unexpected but exciting new problem.  
 
 So, a lot of effort goes into defining what makes a painting or an invention "creative."  Past authors distinguish between "little-C" personal creativity, such as a child's drawing, and "big-C" innovative creativity that affects society, such as a highly-original fine art painting or invention.
 
@@ -35,11 +35,26 @@ that, surely, no one (including Mandelbrot himself) could have predicted from th
 
 And, arguably, so many of our video games produce novel images and experiences procedurally. Sure, someone authored them to generate these experiences, but someone also authored all of our current "AI."
 
-I think we'd agree that "creativity" can't just be about following instructions. Imagine hirig an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. But this is exactly a description of how computers work: they follow instructions they were given precisely, without deviation. (This is a variant of the ["Chinese room argument"](https://en.wikipedia.org/wiki/Chinese_room)).
+# Productivity or Humanity?
 
-Some people claim that "we're just computers;" aren't [we all just obeying the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
+At this point, I think it's important to explicit about motivations: do we seek to increase productivity or model human intelligence? These are two distinct goals, and they lead to different notions of creativity.  Treating them as the same, as many of these discussions do, causes confusion.
 
-Maybe some people accept that creativity can be determined only by its outputs. By that definition: then yes, of course computers are already creative, and _have been for decades_. But this definition requires you to accept that you can be creative by rigidly following rules without any independent autonomy.
+In the 20th Century, there are at least two distinct reasons people studied creativity:
+
+1. First, [business leaders sought to **increase corporate productivity.**](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review) 
+Management researchers and psychologists tried to understand how companies come up with new product ideas, solve problems, and make effective new ad campaigns. How did creative individuals and teams function, and how could they be made more effective?  If all you care about is business productivity, then, indeed, the output is all that matters when defining creativity.  
+
+2. Second, psychologists sought to **describe human intelligence and behavior, and enhance it.** When people are creative, what happens? What are the attributes of creative behaviors and creative people? And, how can psychology research help people  explore their own creativity and, thus, their own self-actualization?
+
+These distinct goals persist in how we talk about creativity in "AI" today.
+
+If your goal is solely to make new and better things, then it makes sense that creativity  depends only on the quality of the outputs. If an algorithm could truly suggest a better advertising campaign or product design than an average designer, then that can achieve business goals. That's not what I care about in this essay.
+
+In this essay, I'm focused on understanding human intelligence, and, to what extent the systems we build relate to human creativity. For these reasons, I don't think that looking at the outputs is good enough.  
+
+Computer systems work by following instructions, and I think most of us would agree that "creativity" can't just be about following instructions. Imagine hiring an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. But this is exactly a description of how computers work: they follow instructions they were given precisely, without deviation. (This is a variant of the ["Chinese room argument"](https://en.wikipedia.org/wiki/Chinese_room)).
+
+If creativity can be determined only by its outputs, then, by that definition:  of course computers are already creative, and _have been for decades_. But this definition requires you to accept that you can be creative by rigidly following rules without any independent autonomy.
 
 That doesn't feel right to me.
 
@@ -59,21 +74,26 @@ When comparing to human intelligence, or the intelligence of other animals, we s
 "AI" models are optimized and trained to model the phenomena of human dialogue and picture-making—and they often do so very well—but the underlying mechanisms are almost entirely different.
 In nearly ever layer—biology, system dynamics, evolutionary, social, and cultural history—human intelligence is entirely different from "AI." The main commonality are some ability to mimic data, and similar behaviors in some situations.
 
+Some people claim that "we're just computers"; aren't [we all just obeying the laws of physics](https://en.wikipedia.org/wiki/Determinism)? [But we're not _just_ computers](/2022/09/04/computationalism.html) in the sense of our current understanding of computation; this false equivalence [confuses two different very notions of computing](https://www.frontiersin.org/articles/10.3389/fcomp.2022.810358/full).
+
 It's fine to say that our current algorithms are "intelligent" as long as we understand that this "intelligence" is primarily a set of skills, rather than a good holistic model of any human or animal intelligence.
 
 Likewise, "computational creativity" algorithms can _model_ aspects of how human creativity works.  We have all sorts of [computer graphics](/2020/09/12/how-to-draw-pictures-contours.html) and "AI" algorithms that make novel and original pictures, and can fool people and be judged artistic in some sense, but they all do so by following their instructions.
 
-But our current algorithms don't even model all the phenomena of human creativity. Next I want to describe some missing pieces.
+
 
 
 
 # Creative processes
 
+Our current algorithms don't even model the phenomena of human creativity, particularly the _processes_ by which they occur. 
+
+
 Simplistic descriptions of creativity often emphasize "inspiration," an instaneous flash of insight, those "where did that idea come from?" moments, perhaps granted by the gods on the subconscious mind.  Hollywood stories like to dramatize invention with a dramatic moment when the scientist or artist saw some real world behavior and turned it into their new discovery.
 
 But these flashes of insight are rare, and there's much more to it. Creativity arises much from a _process_, not just one moment. Often, it's hard work getting to that moment, and hard work after. And flashes of insight aren't necessary for discovery. Often, it's not one big moment, but a series of many small moments.
 
-Even if Kekulé solved the chemical structure of benzene in a lucky vision of a snake biting its own tail, it was because he'd spent years studying chemical bonds and working on the problem. 
+Even if Kekulé solved the chemical structure of benzene in [a lucky vision of a snake biting its own tail](https://en.wikipedia.org/wiki/Benzene#Ring_formula), it was because he'd spent years studying chemical bonds and working on the problem. 
 
 Think about a few times you made something that you consider creative. It doesn't have to be a great work of art, just something you were proud of, something artistic, or something clever you figured out, or designed. In can just be run-of-the-mill, everyday creativity. In these experiences, how much did you know about what the final outcome was going to be when you started? How predictable was it? And how does that relate to your sense of how creative you'd been?
 
@@ -96,6 +116,8 @@ As a result, really creative works aren't just surprising to the audience... rea
 
 # Goals: open-ended or well-defined
 
+Another attribute of human creativity that's missing from computational systems is its open-endedness.
+
 A big part of the creative journey for me, and for many people, is redefining goals. I start out meaning to paint in one style and end up with a different kind of painting. I intend to solve one research problem, and end up publishing a paper on another.
 
 It isn't just me. So many great artists and researchers [start from an initial vague idea, and then evolve or discard that idea while working](/2023/03/06/open-ended-exploration.html).  **Many great inventions come not from picking a problem and solving it, but from figuring out the problem and the solution _together_.**  Over and over, artists and researchers describe their processes this way.
@@ -114,3 +136,6 @@ In my opinion, there are important differences between [open-ended problems](/20
 Could we formulate computational models of the processes of open-ended creativity?  In [my ICCC 2022 paper](https://arxiv.org/abs/2205.01605), I proposed a model for open-endedness computational creativity that generalizes optimization. I'm not sure if the model can be realized. But, even if it can, it would still just be a different computational _model_ of creativity.
 
 Ultimately, all of our algorithms are still just going to be algorithms, sets of instructions for computers to make things, and sometimes they will mimic well the phenomena of human creativity, and in other ways they won't.
+
+<hr>
+<i>Thanks to Laura Herman for comments on this piece and sending links that made me rewrite parts of this.</i>
