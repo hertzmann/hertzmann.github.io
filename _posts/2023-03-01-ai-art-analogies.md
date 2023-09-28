@@ -156,3 +156,8 @@ Large Language Models (LLMs) are not sentient or intelligent, they are trained t
 **The Subtext**: It's regurgitating the data.
 
 **How It's Misleading**: Like many of these analogies, it suggests these things are _just_ memorizing or collaging the data, rather than forming new, plausible combinations of it. 
+
+
+# AI as Theatre
+
+[I very much like this piece called "Interface as Stage, AI as Theater"](https://cyberneticforests.substack.com/p/interface-as-stage-ai-as-theater); haven't had a chance to absorb how it fits in this list.

@@ -48,7 +48,7 @@ Management researchers and psychologists tried to understand how companies come 
 
 These distinct goals persist in how we talk about creativity in "AI" today. 
 
-If all you care about is business productivity, then, indeed, the output is all that matters when defining creativity.  If, hypothetically, an algorithm could truly suggest a better product idea or advertising campaign  than an average human designer, then a business could use that system to replace creative humans. That's not the notion of creativity that I care about.
+If all you care about is business productivity and problem-solving, then, indeed, the output is all that matters when defining creativity. If, hypothetically, an algorithm could truly suggest a better product idea or advertising campaign than an average human designer, then a business could use that system to replace creative humans. That's not the notion of creativity that I care about.
 
 
 **In this essay, I'm focused on how the systems we build relate to human creativity and intelligence.**  Again, if we say that an "AI" is creative, then we're saying that it does something like human creativity.
