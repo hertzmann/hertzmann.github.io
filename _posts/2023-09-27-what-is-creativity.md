@@ -48,17 +48,17 @@ Management researchers and psychologists tried to understand how companies come 
 
 These distinct goals persist in how we talk about creativity in "AI" today. 
 
-If all you care about is business productivity and problem-solving, then, indeed, the output is all that matters when defining creativity. If, hypothetically, an algorithm could truly suggest a better product idea or advertising campaign than an average human designer, then a business could use that system to replace creative humans. That's not the notion of creativity that I care about.
+If all you care about is productivity and problem-solving, then, indeed, the output is all that matters when defining creativity. Can the system create useful new things?
 
+If so, then, by that definition: of course computers are already creative, and _have been for decades_, as in the examples in the previous section. 
+
+But I don't think that's what most of us mean when we ask whether algorithms can be creative.
 
 **In this essay, I'm focused on how the systems we build relate to human creativity and intelligence.**  Again, if we say that an "AI" is creative, then we're saying that it does something like human creativity.
 
-For this goal, I do not think that just looking at the outputs is enough.  Computer systems work by following instructions, and I think most of us would agree that human "creativity" can't just be about following instructions. Imagine hiring an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. But this is exactly a description of how computers work: they follow instructions they were given precisely, without deviation. (This is a variant of the ["Chinese room argument"](https://en.wikipedia.org/wiki/Chinese_room)).
+For this goal, I do not think that just looking at the outputs is enough.  Computer systems work by following instructions, and I think most of us would agree that human "creativity" can't just be about following instructions. Imagine hiring an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. 
 
-If creativity can be determined only by its outputs, then, by that definition:  of course computers are already creative, and _have been for decades_, as in the examples in the previous section. But this definition requires you to accept that you can be creative by rigidly following rules without any independent autonomy.
-
-That doesn't feel right to me.  
-
+But this is exactly a description of how computers work: they follow instructions they were given precisely, without deviation. (This is a variant of the ["Chinese room argument"](https://en.wikipedia.org/wiki/Chinese_room)). Precisely-following instructions without deviation or autonomy does not seem "creative" to me.
 
 <center>
   <figure>
