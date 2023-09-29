@@ -37,8 +37,6 @@ And, arguably, so many of our video games produce novel images and experiences p
 
 # Productivity or Humanity?
 
-Saying that a computer system is "creative" amounts to saying that its behavior is, in some way, like human creativity. So it matters which notion of human creativity we care about.
-
 People in the 20th Century studied creativity for at least two distinct reasons:
 
 1. First, [business leaders sought to **increase corporate productivity.**](https://www.newyorker.com/magazine/2023/04/24/the-cult-of-creativity-samuel-weil-franklin-book-review) 
@@ -50,7 +48,7 @@ These distinct goals persist in how we talk about creativity in "AI" today.
 
 If all you care about is productivity and problem-solving, then, indeed, the output is all that matters when defining creativity. Can the system create useful new things?
 
-If so, then, by that definition: of course computers are already creative, and _have been for decades_, as in the examples in the previous section. 
+If so, then, by that definition: of course computers are already creative, and _have been for decades_, as in the examples in the previous section. And they're getting better and better at it.
 
 But I don't think that's what most of us mean when we ask whether algorithms can be creative.
 
