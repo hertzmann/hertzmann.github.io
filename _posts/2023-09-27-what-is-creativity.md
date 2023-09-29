@@ -33,7 +33,7 @@ But, in that view, we _already_ have creative systems—and we've had them for d
 </center>
 that, surely, no one (including Mandelbrot himself) could have predicted from the math itself.  In fact, [chaos theory](https://en.wikipedia.org/wiki/Chaos_theory) tells us that it is unpredictable. Yet it can be described in [a single equation](https://en.wikipedia.org/wiki/Mandelbrot_set#Formal_definition), or [a few lines of code](https://en.wikipedia.org/wiki/Mandelbrot_set#Computer_drawings). 
 
-And, arguably, so many of our video games produce novel images and experiences procedurally. Sure, people authored them to generate these experiences, just as people have authored all of our current "AI" systems.
+And, arguably, so many of our video games produce novel images and experiences procedurally. Sure, people authored them to generate these experiences, but people have also authored all of our current "AI" systems.
 
 # Productivity or Humanity?
 
