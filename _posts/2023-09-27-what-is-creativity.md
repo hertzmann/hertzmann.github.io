@@ -54,7 +54,7 @@ If so, then, by that definition: of course computers are already creative, and _
 
 But I don't think that's what most of us mean when we ask whether algorithms can be creative.
 
-**In this essay, I'm focused on how the systems we build relate to human creativity and intelligence.**  Again, if we say that an "AI" is creative, then we're saying that it does something like human creativity.
+**In this essay, I'm focused on how the systems we build relate to human creativity and intelligence.**  Because, if we say that an "AI" is creative, then we're saying that the "AI" is creative _like_ a human.
 
 For this goal, I do not think that just looking at the outputs is enough.  Computer systems work by following instructions, and I think most of us would agree that human "creativity" can't just be about following instructions. Imagine hiring an employee to create a Spanish-language poem, by following very specific rules. Your employee-who doesn’t understand Spanish-must follow the rules precisely, to the letter, without deviation. The rules might be very complicated and involve rolling dice. In the end, your employee produces a poem that is widely lauded as original and wonderful. Is the worker creative? I think most people would say no. 
 
