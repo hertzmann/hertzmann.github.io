@@ -91,7 +91,7 @@ All of the above leads me to hypothesize that many quantitative user studies in 
 Many kinds of research are fundamentally difficult to quantitatively evaluate, and honest authors may struggle to do so, being unwilling to put together a useless user study.  Their papers then get rejected when reviewers insist on bogus user studies. This causes considerable frustration, sometimes leading authors to avoid entire subfields of research as a result.
 
 
-Could MTurk Lose All Value?
+Could MTurk Lose Its Value?
 =======
 
 If that's not concerning enough, consider this. Crowdworking on MTurk grew popular for user studies after a series of studies in [HCI](https://dl.acm.org/doi/abs/10.1145/1357054.1357127), [visualization](http://vis.stanford.edu/files/2010-MTurk-CHI.pdf), and [psychology](https://journals.sagepub.com/doi/10.1177/1745691610393980) showed that crowdworking gave similar outcomes to in-person studies. But, there's some evidence that [the reliability of MTurk data has _gone down_ over the years](https://journals.sagepub.com/doi/abs/10.1177/1948550619875149).
