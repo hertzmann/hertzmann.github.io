@@ -12,7 +12,7 @@ Whether computers can be creative or not comes up a lot these days. Sometimes it
 
 In this post, I'll describe how I now think about creativity. I've written a lot about it over the past few years, [from some initial questions about computational creativity](/2021/04/19/questons-for-computational-creativity.html), to [reflecting on my own progress in painting and drawing](/2020/10/05/art-is-a-process.html), and [comparing that to using DALL-E 2](/2022/05/25/dall-e.html) when it first came out, to [collecting others' examples of open-ended exploration](/2023/03/06/open-ended-exploration.html), and a [computational creativity conference paper](https://arxiv.org/abs/2205.01605). And of course lots of related discussion on [whether computers can be artists.](https://www.mdpi.com/2076-0752/7/2/18)
 
-This post is summarizes the results of those explorations. My answer won't be surprising to anyone who's read my writing or speaking before, but here I'm putting together those ideas into a coherent statement on computational creativity.
+This post summarizes the results of those explorations. My answer won't be surprising to anyone who's read my writing or speaking before, but here I'm putting together those ideas into a coherent statement on computational creativity.
 
 Now, this discussion would be easy if we had a clear, concrete definition of "creativity." But we don't. We have intutions, and we have the way the word is used (which, according to Wittgenstein, _is_ meaning), and lots of previous attempts to define it. Our definitions don't tell us anything about machine-made creativity because we haven't ever considered machines as creative before.
 

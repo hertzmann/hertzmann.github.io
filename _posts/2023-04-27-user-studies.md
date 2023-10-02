@@ -10,6 +10,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 # The Curse of Performative User Studies
 
+_This essay will be published in an upcoming issue of [IEEE Computer Graphics & Applications](https://www.computer.org/csdl/magazine/cg)._
 
 Anyone who has spent enough time publishing some kind of artistic tools in computer graphics—even [in computer vision conferences](/2020/08/31/cvpr-graphics.html)—has probably gotten reviews that praised a paper's ideas and results, but required a user study. Or the reviewers didn't like the paper's methods or results, but still said the authors should add a user study.   And so, maybe you added user studies to your next paper _solely_ because you believed reviewers would require it. 
 
