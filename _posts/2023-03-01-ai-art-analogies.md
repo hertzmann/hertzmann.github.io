@@ -17,6 +17,11 @@ The choice of analogy may reflect the speaker's agenda. Those of us who [compare
 
 In this post, I catalogue a few of the analogies for "AI" art, how they are useful, and how they're misleading.  [My previous blog post](/2022/12/17/when-tech-changes-art.html) delved into a few of these precedents in far more depth; read that post for a deeper analysis.
 
+UPDATE (10/5/23): Since I started this page, more and more analogies have appeared. Two that seem particularly illuminating (but I haven't studied closely) are:
+
+* [AI as Theatre](https://cyberneticforests.substack.com/p/interface-as-stage-ai-as-theater)
+* [Borges and AI](https://arxiv.org/abs/2310.01425)
+
 
 # [Photography](/2022/08/29/photography-history.html)
 The most common analogy for computer-generated and procedural art, e.g., I used the analogy in [my  thesis back in 2001](https://mrl.cs.nyu.edu/publications/hertzmann-thesis/hertzmann-thesis-300dpi.pdf); I suspect many people come up with this analogy independently.
