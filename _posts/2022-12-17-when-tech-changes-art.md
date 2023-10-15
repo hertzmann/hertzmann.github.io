@@ -29,10 +29,14 @@ As always, opinions on this blog post are mine alone, and not those of any insti
 
 # Effects of technological change are complicated
 
-A major theme of my writing related to technology and art—and to the possible impacts of "AI" on art—is that these phenomena have complex effects.  I'm fond of [Myron Kranzberg's writings on the complexity of technological change](https://www.jstor.org/stable/3105385), which I came to through danah boyd's thesis on the new trend of  teenagers' use of social media, and their parents fear of it, later published as [_It's Complicated_](https://www.danah.org/books/ItsComplicated.pdf).  Kranzberg [first law](https://en.wikipedia.org/wiki/Melvin_Kranzberg#Kranzberg's_laws_of_technology): "Technology is neither good nor bad; nor is it neutral," and described examples around how industrialization and pesticides had been beneficial in some ways and negative in other situations.  This essay was most immediately inspired by reading [a paper by Amy Orben](https://www.amyorben.com/publication/2020_orben_pops/), and seeing the value in finding the themes and trends in past technological developments.
+A major theme of my writing related to technology and art—and to the possible impacts of "AI" on art—is that these phenomena have complex effects.  I'm fond of [Myron Kranzberg's writings on the complexity of technological change](https://www.jstor.org/stable/3105385); his [first law](https://en.wikipedia.org/wiki/Melvin_Kranzberg#Kranzberg's_laws_of_technology) says "Technology is neither good nor bad; nor is it neutral, and he described examples around how industrialization and pesticides had been beneficial in some ways and negative in other situations. I came across his writing through danah boyd's thesis on the new trend of  teenagers' use of social media, and their parents fear of it, later published as [_It's Complicated_](https://www.danah.org/books/ItsComplicated.pdf).   
 
 But, like [most discourses around technology](https://en.wikipedia.org/wiki/Status_quo_bias), the discourse around "AI" and art tends to vastly oversimplify it into one of two extremes: "AI will democratize art," or "AI will kill art and will decimate jobs for real artists."  These extremes are both absurd and counterproductive to real understanding; they will lead to bad policy and/or preparing people poorly for the future. 
 
+In [boyd's words](https://www.danah.org/books/ItsComplicated.pdf):
+"Both extremes depend on a form of magical thinking scholars call _technological determinism_. Utopian and dystopian views assume that technologies possess intrinsic powers that affect all people in all situations the same way. Utopian rhetoric assumes that when a particular technology is broadly adopted it will transform society in magnificent ways, while dystopian visions focus on all of the terrible things that will happen because of the widespread adoption of a particular technology that ruins everything. These extreme rhetorics are equally unhelpful in understanding what actually happens when new technologies are broadly adopted. Reality is nuanced and messy, full of pros and cons."
+
+(My essay was most immediately inspired by reading [a paper by Amy Orben](https://www.amyorben.com/publication/2020_orben_pops/), and seeing the value in finding the themes and trends in past technological developments.)
 
 # Background
 
@@ -108,16 +112,21 @@ The early days of computer animation likewise involved numerous experiments buil
 
 **These early explorations are largely forgotten** 
 
-Before I started studying these things, I could not name a single significant photgrapher from the first 100 years of photography. I doubt most people could name a single film from the first 30 years of movies or a single early [computer artwork](https://en.wikipedia.org/wiki/Computer_art) before video games and "Toy Story," or say much about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles or Grandmaster Flash.  To some extent, only buffs and enthusiasts like myself go and dig into that early work.  Until one does, one mostly just thinks of the current art forms as things that have always been around, fully formed.
+We mostly seem to think of our existing art forms as things that have always existed, fully formed, in their present form.
 
+Before I started studying these things, I could not name a single significant photgrapher from the first 100 years of photography. 
+
+I doubt most people could name a single film from the first 30 years of movies: for most people, movies began with the famous pieces, such as "Citizen Kane," "The Wizard of Oz," or something even later.  How many [computer-based artworks](https://en.wikipedia.org/wiki/Computer_art) could most people name before video games or "Toy Story," or, do most people know about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles and Grandmaster Flash?
+
+This makes it too easy to diminish new artistic experimentations, to say that a new experiment
 
 **For now, "AI" Art is largely about novelty** 
 
 During the First Neural "AI" Art Wave, "AI" art developed in a [rapid cycle of new artists experimenting with new technologies as they emerge](https://aaronhertzmann.com/2021/03/11/lifecycle.html). Most "AI" artists needed some technical skill to find, download, run, and modify the latest experimental machine learning code shared by research labs.  The best "AI" art came from artists building their own training datasets (e.g., Helena Sarin, Scott Eaton, Sofia Crespo) and/or directly modifying their models.  Even ["AI" artworks with a message](https://kcimc.medium.com/working-with-faces-e63a86391a93) were still very experimental.
 
-With the new easy-to-use text-to-image models, we're now in a new wave of people exploring these models and what they can do, and still a heavy wave of experimentation. These things are exciting because they are novel. I spent [a fascinating month last May playing with DALL-E](/2022/05/25/dall-e.html) (until I lost interest in playing with it).
+With the new easy-to-use text-to-image models, we're now in a new wave of people exploring these models and what they can do, and still a heavy wave of experimentation. These things are exciting because they are novel. I spent [a fascinating month in  May 2022 playing with DALL-E](/2022/05/25/dall-e.html) (until I lost interest in playing with it).
 
-When people (like art critic Ben Davis) accuse "AI" art of being focused on novelty, I say: of course it is. The dominant aesthetic of _any_ new art-making technology is novelty. The only way you figure out art in a new medium is [by experimentation](/2022/10/26/experimentation.html). And, for many of us, it's exciting to be there at the beginning, to know that something big is happening, even if you don't know what.
+When people (like art critic Ben Davis) accuse "AI" art of being focused on novelty, I say: of course it is. The dominant aesthetic of _any_ new art-making technology is novelty. The only way you figure out art in a new medium is [by experimentation](/2022/10/26/experimentation.html). And, for many of us, [it's exciting to be there at the beginning](/2022/10/11/amateurs.html), to know that something big is happening, even if you don't know what.
 
 
 
