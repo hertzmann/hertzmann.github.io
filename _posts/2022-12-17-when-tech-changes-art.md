@@ -78,6 +78,16 @@ These definitions will become increasingly blurry, as "AI" tools become more and
 
 
 
+**This is a work-in-progress**
+
+Academically, this post is a collision of everything from computer science and art history to media studies to disruptive innovation to labor economics, and no one of these disciplines seems sufficient to cover the topic. I have a lot to learn about this topic; there's already more stuff on my reading list.  
+
+Here's an earlier, shorter presentation I gave on this (starts at 20:33 in the video):
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/56P-f_Dcxx8?start=1236" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
 
 # 1. It begins with experimentation
 
