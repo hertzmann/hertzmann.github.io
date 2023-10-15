@@ -25,7 +25,18 @@ My main thesis is:
 This blog post is an attempt to identify these trends in past examples, and to judge if and how they're relevant for "AI" art. 
 By understanding and recognizing patterns in new art-making technologies, we can understand and respond to them better. Maybe the future won't repeat the past, but this history can help avoid the superficial takes that treat this as something completely unprecedented and new. Changes like this have happened before.
 
-Since deep neural networks are hard-to-interpret mathematical functions, the debate over "AI" art is expressed in analogies: is it more like photography, how humans learn to make art, sampling, collage, image compression, conceptual art, recorded music, or textile machinery? Each of the precedents discussed here represents different analogies that may or may not be useful in some way.
+As always, opinions on this blog post are mine alone, and not those of any institution I'm affiliated with.
+
+# Effects of technological change are complicated
+
+A major theme of my writing related to technology and art—and to the possible impacts of "AI" on art—is that these phenomena have complex effects.  I'm fond of [Myron Kranzberg's writings on the complexity of technological change](https://www.jstor.org/stable/3105385), which I came to through danah boyd's thesis on the new trend of  teenagers' use of social media, and their parents fear of it, later published as [_It's Complicated_](https://www.danah.org/books/ItsComplicated.pdf).  Kranzberg [first law](https://en.wikipedia.org/wiki/Melvin_Kranzberg#Kranzberg's_laws_of_technology): "Technology is neither good nor bad; nor is it neutral," and described examples around how industrialization and pesticides had been beneficial in some ways and negative in other situations.  This essay was most immediately inspired by reading [a paper by Amy Orben](https://www.amyorben.com/publication/2020_orben_pops/), and seeing the value in finding the themes and trends in past technological developments.
+
+But, like [most discourses around technology](https://en.wikipedia.org/wiki/Status_quo_bias), the discourse around "AI" and art tends to vastly oversimplify it into one of two extremes: "AI will democratize art," or "AI will kill art and will decimate jobs for real artists."  These extremes are both absurd and counterproductive to real understanding; they will lead to bad policy and/or preparing people poorly for the future. 
+
+
+# Background
+
+Before getting to the main topics, I want to reiterate some views on "AI:" it is a set of technological developments, nothing more, nothing less. So it is useful to understand in the context of other past technological developments.  Feel free to skip ahead to the next section if this is all familiar to you.
 
 **Computers are not artists**
 
@@ -33,6 +44,7 @@ This post is a follow-up to my 2018 article ["Can Computers Create Art"](https:/
 
 Nothing fundamental has changed with the latest developments: the latest algorithms do not "automate creativity" or make artists obsolete---they are computer software tools used by humans to make art.   If these ideas are unfamiliar you may wish to read [my previous paper](https://www.mdpi.com/2076-0752/7/2/18) or watch [the talk](https://www.youtube.com/watch?v=APkitEWqdKw), especially if the past year's diffusion models are your first exposure to generative computer art.
 
+I put "AI" in quotes because [these things are not intelligent](/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.  
 
 **Identifying the real risks**
 
@@ -40,9 +52,9 @@ In the past year, many working artists  have publicly shared intense fear and an
 
 These threats to livehoods are real, the fear is valid and legitimate, and the potential harms need to be addressed.  
 
-**Addressing threats requires identifying them correctly. One of the goals of this post is to look at similar historical examples to help understand the threats.**   Focusing on the wrong problem leads to bad solutions and fruitless arguments.
+**Addressing threats requires identifying them correctly. One of the goals of this post is to look at similar historical examples to help understand the threats.**   Focusing on the wrong problem leads to bad solutions and fruitless arguments.  
 
-New technologies for art are often described as threats to "art itself," and to the expression of human creativity.  Things like this have been claimed many times in the past 200 years and, in hindsight, the claims have never been right.  Arguments that the latest "AI" models will "kill art" or "make artists obsolete" or "rob artists of creative contol" will grow unconvincing as these creative tools mature and more people use them. Many people are already deploying the very-relevant [analogy to photography](/2022/08/29/photography-history.html).   The abstract notion of a threat to "art itself" doesn't lead to solutions, just [fruitless arguments about the definition of art](/2022/09/19/art-definitions-1.html).
+Arguments that the latest "AI" models will "kill art" or "make artists obsolete" or "rob artists of creative contol" they will grow more and more unconvincing as these creative tools mature and more people use them; these same claims have never been true when people said the exact same things about previous technologies.   The abstract notion of a threat to "art itself" doesn't lead to solutions, just [fruitless arguments about the definition of art](/2022/09/19/art-definitions-1.html).
   
 **The ethical discussion should focus on threats to current working artists, such as threats to employment,** and the others listed above. I believe that studying history can provide examples of how some of these harms play out and how to respond to them, though I don't attempt to say anything to say about solutions here.  
 
@@ -62,26 +74,10 @@ I would define _"AI art"_ as any art primarily made with the tools that we happe
 
 These definitions will become increasingly blurry, as "AI" tools become more and more integrated into everyones' workflows, the way [there's already some "AI" in everyones' smartphone cameras](https://jov.arvojournals.org/Article.aspx?articleid=2783759).  Many of the techniques used in digital imaging today might have been called "AI" a few decades ago.
 
-I put "AI" in quotes because [these things are not intelligent](/2022/09/04/computationalism.html), they're just a class of computer software and algorithms.  
 
 
 
 
-**This is a work-in-progress**
-
-Academically, this is a collision of everything from computer science and art history to media studies to disruptive innovation to labor economics, and no one of these disciplines seems sufficient to cover the topic. I have a lot to learn about this topic; there's already more stuff on my reading list.  
-
-I'd like to publish this as a paper someday, and would be interested in connecting with experts on this. There are a whole lot of different ideas here and, really, the topic is rich enough for a book.  
-
-As always, any opinion on this blog post are mine alone, and not those of any institution I'm affiliated with.
-
-Here's an earlier, shorter presentation I gave on this (starts at 20:33 in the video):
-
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/56P-f_Dcxx8?start=1236" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</center>
-
-This post was inspired in part by reading Amy Orben's [paper on technology panics](https://www.amyorben.com/publication/2020_orben_pops/).
 
 # 1. It begins with experimentation
 
