@@ -23,7 +23,7 @@ And then I'll discuss our even-newer approach:
 
 # When Are Curves _Valid_?
 
-Let's begin with a simple case: smooth objects for which the contour is a single, closed curve. For smooth surfaces, we can't compute the exact contour, so instead, we typically approximate it with a polyline in 3D. But how do we compute visbility of the polyline in a sensible way, [since the polyline isn't the contour of the surface](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2008.01258.x)? We need to define a new triangle mesh for which the polyline is its contour.
+Let's begin with a simple case: smooth objects for which the contour is a single, closed curve. For smooth surfaces, we can't compute the exact contour, so instead, we typically approximate it with a polyline in 3D. But how do we compute visibility of the polyline in a sensible way, [since the polyline isn't the contour of the surface](https://onlinelibrary.wiley.com/doi/10.1111/j.1467-8659.2008.01258.x)? We need to define a new triangle mesh for which the polyline is its contour.
 
 The core idea we propose is that:
 
@@ -108,7 +108,7 @@ If you discretize it, you might get the figure-8 configuration:
 </center>
 It's an invalid polygon, and now your visibility is busted.  
 
-In a nutshell, this the fundamental problem: **All contour algorithms for smooth surfaces discretize the contours into polylines. This odiscretization often produces invalid polygons.** And invalid polygons do not have meaningful visibility. Sometimes it doesn't matter, because the invalid polygons are entirely hidden by occluders. But, eventually, all existing algorithms are going to produce visible errors due to invalid curves.  
+In a nutshell, this the fundamental problem: **All contour algorithms for smooth surfaces discretize the contours into polylines. This discretization often produces invalid polygons.** And invalid polygons do not have meaningful visibility. Sometimes it doesn't matter, because the invalid polygons are entirely hidden by occluders. But, eventually, all existing algorithms are going to produce visible errors due to invalid curves.  
 
 This is an instance of the common-but-surprising fact that discretizing a continuous system does not preserve its properties, e.g., discretization breaks [some differential geometric properties on smooth surfaces](https://en.wikipedia.org/wiki/Discrete_differential_geometry), and breaks some conservation laws and collision handling in physical simulation.   
 
