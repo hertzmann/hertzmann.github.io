@@ -24,7 +24,7 @@ There are three categories in this list, plus a hybrid category.
 Direct Control technologies replace an existing technology with similar kinds of controls to what an artist is used to, but removing some low-level drudgery, and adding more convenience.
 Of the categories here, these are often the least-threatening to traditional artists.
 
-When I switched to digital painting to physical painting, it felt similar in many ways, with many of the same skills involved, but with digital capabilities like "undo," and no physical materials or mess to deal with. 
+When I switched from physical painting to digital painting, it felt similar in many ways, with many of the same skills involved, but with digital capabilities like "undo," and no physical materials or mess to deal with. 
 
 Yet, as soon as you switch to a different way to create, you create different things.  An artist's style still may come through clearly with these kinds of technologies, e.g., compare Hockney's physical to his digital paintings. Nonetheless, using a new medium changes one's style, especially if one learned on that medium. With my digital paintings, [I am exploring many new styles](https://www.instagram.com/aaronhertzmann/) that I didn't or couldn't [with physical media](/2020/09/15/painting-in-karies.html), even though I think there are elements of my style that remain.
 
