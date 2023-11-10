@@ -183,7 +183,7 @@ Further reading
 
 In-depth discussion of user studies in graphics and vision, how to improve them, and use other techniques for user research:
 
-* Zoya Bylinskii, Laura Herman, Aaron Hertzmann, Stefanie Hutka, Yile Zhang. [**Towards Better User Studies in Computer Graphics and Vision**](https://arxiv.org/abs/2206.11461), to appear in _Foundations and Trends in Computer Graphics and Vision_, 2023.  
+* Zoya Bylinskii, Laura Herman, Aaron Hertzmann, Stefanie Hutka, Yile Zhang. [**Towards Better User Studies in Computer Graphics and Vision**](https://arxiv.org/abs/2206.11461)._Foundations and Trends in Computer Graphics and Vision_, 2023.   Vol. 15: No. 3, pp 201-252. [Official Link](https://www.nowpublishers.com/article/Details/CGV-106)
 
 An influential, eye-opening survey on the ways that researchers can cheat when doing studies, even unintentionally:
 
