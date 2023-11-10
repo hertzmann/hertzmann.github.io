@@ -189,7 +189,7 @@ An influential, eye-opening survey on the ways that researchers can cheat when d
 
 * Joseph P. Simmons, Leif D. Nelson, Uri Simonsohn. [**False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant**](https://journals.sagepub.com/doi/full/10.1177/0956797611417632). _Psychological Science_, 2011.
 
-An insightful HCI paper that pointed out many of these issues 15 years ago:
+An insightful HCI paper pointed out many of these issues 15 years ago:
 
 * Saul Greenberg, Bill Buxton. [**Usability Evaluation Considered Harmful (Some of the Time).**](https://www.billbuxton.com/usabilityHarmful.pdf) CHI 2008. 
 
