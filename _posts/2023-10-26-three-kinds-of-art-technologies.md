@@ -24,7 +24,7 @@ There are three categories in this list, plus a hybrid category.
 Direct Control technologies replace an existing technology with similar kinds of controls to what an artist is used to, but removing some low-level drudgery, and adding more convenience.
 Of the categories here, these are often the least-threatening to traditional artists.
 
-When I switched to digital painting to physical painting, it felt similar in many ways, with many of the same skills involved, but with digital capabilities like "undo," and no physical materials or mess to deal with. 
+When I switched from physical painting to digital painting, it felt similar in many ways, with many of the same skills involved, but with digital capabilities like "undo," and no physical materials or mess to deal with. 
 
 Yet, as soon as you switch to a different way to create, you create different things.  An artist's style still may come through clearly with these kinds of technologies, e.g., compare Hockney's physical to his digital paintings. Nonetheless, using a new medium changes one's style, especially if one learned on that medium. With my digital paintings, [I am exploring many new styles](https://www.instagram.com/aaronhertzmann/) that I didn't or couldn't [with physical media](/2020/09/15/painting-in-karies.html), even though I think there are elements of my style that remain.
 
@@ -45,7 +45,7 @@ These technologies might not seem like they change anything but the way we get o
 
 Consider the way that music recording led to all sorts of experimental music that could only happen with recording (e.g., The Beatles, Musique concrète), to album-oriented rock, to hip-hop (based on turntables and faders), to sample-based electronic music, and so many other innovations.  
 
-But performance musicians campaigned against recorded music, since it took away from performance jobs.  Likewise, corporations campaigned against newer distribution technologies like video-cassette tapes and file sharing, saying they would kill the television and music industries.  
+But performance musicians [campaigned against recorded music](https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/), since it took away from performance jobs.  Likewise, corporations campaigned against newer distribution technologies like video-cassette tapes and file sharing, saying they would kill the television and music industries.  
 
 And these labor battles continue. As a friend of mine working in Hollywood put it, "each new technology seems to be a way for studios to find ways to not pay us a fair amount." Broadcast television led to ways to underpay artists, leading to strikes and the residuals system, and then the studios used the streaming service model to avoid paying residuals, leading to the more-recent strikes. Each of these new distribution platforms provided studios ways to avoid paying artists fair compensation.  
 
@@ -64,7 +64,7 @@ Hence, these technologies, such as photography, generative art, and text-to-imag
 
 Although I'm presenting a categorization, there's really a continuum, and most technologies will operate on more than one of these axes time. 
 
-3D computer animation, like Pixar's Toy Story, provided both digitization of old tools, but also automation of many low-level decisions.  Whereas [digital ink-and-paint](https://en.wikipedia.org/wiki/Traditional_animation#Digital_ink_and_paint) was simply a digitization of traditional hand-drawn animation, computer graphics (like Pixar's Toy Story) both  required similar animation mastery as in hand-drawn animation, but very different techinical skills (moving control curves rather than drawing pictures). In some ways, computer animation authors details---much of it is like cinematography---and, in other ways, it is directly controlled by animators the fine-tune every aspect of the motion and shape. So it straddles the mechanization and decision-making categories.
+3D computer animation, like Pixar's Toy Story, provided both digitization of old tools, but also automation of many low-level decisions.  Whereas [digital ink-and-paint](https://en.wikipedia.org/wiki/Traditional_animation#Digital_ink_and_paint) was simply a digitization of traditional hand-drawn animation, computer graphics (like Pixar's Toy Story) both  required similar animation mastery as in hand-drawn animation, but very different techinical skills (moving control curves rather than drawing pictures). In some ways, computer animation authors details—much of it is like cinematography—and, in other ways, it is directly controlled by animators the fine-tune every aspect of the motion and shape. So it straddles the mechanization and decision-making categories.
 
 # Where does "AI" fit in?
 
