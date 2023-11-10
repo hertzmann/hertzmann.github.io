@@ -14,6 +14,7 @@ _This essay has been published here:_
 
 * A. Hertzmann, "The Curse of Performative User Studies" in IEEE Computer Graphics and Applications, vol. 43, no. 06, pp. 112-116, 2023. [Official Link](https://doi.ieeecomputersociety.org/10.1109/MCG.2023.3315759)
 
+<hr>
 
 Anyone who has spent enough time publishing some kind of artistic tools in computer graphics—even [in computer vision conferences](/2020/08/31/cvpr-graphics.html)—has probably gotten reviews that praised a paper's ideas and results, but required a user study. Or the reviewers didn't like the paper's methods or results, but still said the authors should add a user study.   And so, maybe you added user studies to your next paper _solely_ because you believed reviewers would require it. 
 
