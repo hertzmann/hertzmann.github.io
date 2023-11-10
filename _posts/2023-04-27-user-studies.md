@@ -12,7 +12,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 _This essay has been published here:_ 
 
-* A. Hertzmann, "The Curse of Performative User Studies" in IEEE Computer Graphics and Applications, vol. 43, no. 06, pp. 112-116, 2023. [Official Link](https://doi.ieeecomputersociety.org/10.1109/MCG.2023.3315759)
+* A. Hertzmann, "The Curse of Performative User Studies" in _IEEE Computer Graphics and Applications_, vol. 43, no. 06, pp. 112-116, 2023. [Official Link](https://doi.ieeecomputersociety.org/10.1109/MCG.2023.3315759)
 
 <hr>
 
