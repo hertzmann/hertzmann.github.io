@@ -201,7 +201,7 @@ How working with real users can inform and drive good research in computer graph
 
 How the UIST program committee deals with this issue: 
 
-* [UIST 2023 Author Guide](https://uist.acm.org/2023/author-guide/), scroll down to  “User Studies Are Not Required” and “Systems Contributions Need To Be Evaluated Holistically”.
+* [**UIST 2023 Author Guide**](https://uist.acm.org/2023/author-guide/), scroll down to  “User Studies Are Not Required” and “Systems Contributions Need To Be Evaluated Holistically”.
 
 
 <hr>
