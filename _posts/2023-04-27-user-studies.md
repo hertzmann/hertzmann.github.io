@@ -189,14 +189,14 @@ An influential, eye-opening survey on the ways that researchers can cheat when d
 
 * Joseph P. Simmons, Leif D. Nelson, Uri Simonsohn. [**False-Positive Psychology: Undisclosed Flexibility in Data Collection and Analysis Allows Presenting Anything as Significant**](https://journals.sagepub.com/doi/full/10.1177/0956797611417632). _Psychological Science_, 2011.
 
-An insightful HCI paper pointed out many of these issues 15 years ago:
-
-* Saul Greenberg, Bill Buxton. [**Usability Evaluation Considered Harmful (Some of the Time).**](https://www.billbuxton.com/usabilityHarmful.pdf) CHI 2008. 
-
 How working with real users can inform and drive good research in computer graphics:
 
 * Maneesh Agrawala, Wilmot Li, Floraine Berthouzoz.
 [**Design Principles for Visual Communication**](http://vis.berkeley.edu/papers/designprinciples/). _Communications of the ACM_, April 2011, 54 (4), pp. 60-69.
+
+An insightful HCI paper pointed out many of these issues 15 years ago:
+
+* Saul Greenberg, Bill Buxton. [**Usability Evaluation Considered Harmful (Some of the Time).**](https://www.billbuxton.com/usabilityHarmful.pdf) CHI 2008. 
 
 
 How the UIST program committee deals with this issue: 
