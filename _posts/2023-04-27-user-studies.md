@@ -29,7 +29,7 @@ I argue that many studies now published in graphics and vision are _performative
 
 The desire for user studies reflects a deep question: how do we know if a paper's method is any good? This difficult question defies any easy answers. But, many researchers I've talked to seem to believe that quantitative evaluation solves the problem. And so, it becomes required. How could you publish without a table of numbers? Yet, too often, the numbers produced by sloppy user studies seem unnecessary and unhelpful, just a waste of everyone's precious time. 
 
-The field of HCI has [grappled with these same issues](https://www.billbuxton.com/usabilityHarmful.pdf) since long before MTurk existed, and has concluded that user studies are only sometimes—not always—necessary for evaluation. For example, take a look at what this year's [UIST 2024 Author Guide](https://uist.acm.org/2023/author-guide/) says about them (under "User Studies Are Not Required" and "Systems Contributions Need To Be Evaluated Holistically"). We can learn from the experience of HCI.
+The field of HCI has [grappled with these same issues](https://www.billbuxton.com/usabilityHarmful.pdf) since long before MTurk existed, and has concluded that user studies are only sometimes—not always—necessary for evaluation. For example, take a look at what this year's [UIST 2023 Author Guide](https://uist.acm.org/2023/author-guide/) says about them (under "User Studies Are Not Required" and "Systems Contributions Need To Be Evaluated Holistically"). We can learn from the experience of HCI.
 
 We need a better understanding of if, when, and how user studies are valuable, and we need to adjust reviewing practices accordingly.   In this piece, I'll discuss the problem and provide some recommendations for what we can do about it.
 
@@ -197,6 +197,11 @@ How working with real users can inform and drive good research in computer graph
 
 * Maneesh Agrawala, Wilmot Li, Floraine Berthouzoz.
 [**Design Principles for Visual Communication**](http://vis.berkeley.edu/papers/designprinciples/). _Communications of the ACM_, April 2011, 54 (4), pp. 60-69.
+
+
+How the UIST program committee deals with this issue: 
+
+* [UIST 2023 Author Guide](https://uist.acm.org/2023/author-guide/), scroll down to  “User Studies Are Not Required” and “Systems Contributions Need To Be Evaluated Holistically”.
 
 
 <hr>
