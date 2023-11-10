@@ -129,7 +129,7 @@ There are a few things we can do about these problems, both individually and as 
 **Stop requiring useless user studies**
 "You should do a user study" should be treated like "This method is not novel":  You shouldn't say either without explanation.
 
-A reviewer requesting a user study should precisely specify the purpose of the study and how it would be conducted. Reviewers should think through what evaluation should be performed, and how the results of it might change their evaluation of the paper.  The goal can't just be ``to see which method is better,'' because no study can answer such a generic question. Even with a well-defined task, a technique may work well for one class of problems or users, and poorly for another. 
+A reviewer requesting a user study should precisely specify the purpose of the study and how it would be conducted. Reviewers should think through what evaluation should be performed, and how the results of it might change their evaluation of the paper.  The goal can't just be "to see which method is better," because no study can answer such a generic question. Even with a well-defined task, a technique may work well for one class of problems or users, and poorly for another. 
 
 Likewise, authors, committee members, and paper chairs should push back on reviewers that ask for user studies.
 
@@ -142,6 +142,7 @@ We should do fewer user studies, but better user studies.  User studies should b
 Moreover, there are many different kinds of user studies and user research besides quantitative MTurk evaluations.  Informal, qualitative user feedback can provide a lightweight indication about the usefulness of a system. 
 
 We can look to various evaluation techniques developed in HCI, including [those summarized by Ledo et al.](https://stevenhouben.be/pubs/EvaluationCHI2018.pdf). Their "demonstrations" category roughly matches our common practices of showing results figures, but they offer specific guidelines about these demonstrations.  They also discuss different ways that usability can be evaluated, beyond just quantitative scoring of responses.  
+
 See [our recent survey paper](https://arxiv.org/abs/2206.11461) for more advice.
 
 
