@@ -8,6 +8,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 # What is Creativity? Can Computers Be Creative?
 
+
 Whether computers can be creative or not comes up a lot these days. Sometimes it's assumed they can be, like in some of the court cases. I get the question a lot when [I give talks on computers as artists](https://www.youtube.com/watch?v=ZOv3GizIUE0) (and why I don't think they can be considered artists). 
 
 In this post, I'll describe how I now think about creativity. I've written a lot about it over the past few years, [from some initial questions about computational creativity](/2021/04/19/questons-for-computational-creativity.html), to [reflecting on my own progress in painting and drawing](/2020/10/05/art-is-a-process.html), and [comparing that to using DALL-E 2](/2022/05/25/dall-e.html) when it first came out, to [collecting others' examples of open-ended exploration](/2023/03/06/open-ended-exploration.html), and a [computational creativity conference paper](https://arxiv.org/abs/2205.01605). And of course lots of related discussion on [whether computers can be artists.](https://www.mdpi.com/2076-0752/7/2/18)
@@ -17,6 +18,8 @@ This post summarizes the results of those explorations. My answer won't be surpr
 Now, this discussion would be easy if we had a clear, concrete definition of "creativity." But we don't. We have intutions, and we have the way the word is used (which, according to Wittgenstein, _is_ meaning), and lots of previous attempts to define it. Our definitions don't tell us anything about machine-made creativity because we haven't ever considered machines as creative before.
 
 In fact, the new technology helps us attempt to clarify what is or isn't "creativity," by providing provocative real-world examples.  Just as new technologies do with "art," another word for which there are [no simple definitions](/2022/09/19/art-definitions-1.html), but many usages.
+
+_Note: since writing this post, I've come across a lovely paper by Lindsay Brainard that expresses many similar ideas to those here: [Paper](https://www.tandfonline.com/doi/full/10.1080/0020174X.2023.2261503), [preprint](https://philpapers.org/rec/BRATCC-9)._
 
 
 # "Creativity" as "Making Creative Things"
