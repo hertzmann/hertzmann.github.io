@@ -169,11 +169,11 @@ Doing great research is an art, and managing great research is an art as well.
 * Craig Reynolds recommends the book [_Fumbling the Future: How Xerox Invented, then Ignored, the First Personal Computer_](https://www.amazon.com/Fumbling-Future-Invented-Personal-Computer/dp/1583482660)
 
 * [_Why Greatness Cannot Be Planned_](https://link.springer.com/book/10.1007/978-3-319-15524-1) with many great examples of open-ended discoveries (although [I disagree](https://arxiv.org/abs/2205.01605) with their framing that "there is no objective")
-<hr>
 
 * Frédo Durand's slides on [whether academia can compete with industry](https://drive.google.com/file/d/1bsUrkwkaE2ZmGH8yBKRjDiqqpbvrnSLr/view), which includes this slide about important academic contributions from industry in early computer graphics:
 
 ![Slide on academic contributions from industry](../../../images/durand-slide640.jpg)
 
+<hr>
 
 <i>Thanks to Vova Kim, Craig Reynolds, David Salesin, and Moshe Vardi for several comments and suggestions.</i>
