@@ -51,7 +51,7 @@ So, art critics critize _according to the values of the contemporary art world_.
 
 Hence, by Contemporary Art standards, most generative art is _not art_, most "AI" art is _not art_. And, obviously, professional illustration, painting, and design are _not art_.  
 
-Membership in a community can also play a role in who learns the rules of the game and gets acceptance. 
+**Membership in a community** plays a key role in who learns the rules of the game and gets acceptance. 
 
 Refik Anadol is an outsider to the Contemporary Art World, e.g., he came from a media arts arts school, not a prestigious contemporary art school. When I visited his studio in 2019, he described the movie "Blade Runner" as his primary artistic inspiration, with its notion of robots "dreaming." His slide presentation and animations used flickery, science-fictiony text dashboards, as now appear in "Unsupervised."  He described his work in  sci-fi talk of robots dreaming. So he has neither the background, the subject matter, nor the _language_ of the Contemporary Art World. He doesn't talk like them, he doesn't come from their background, he doesn't talk about the things they care about. And, [when he responded to Saltz' criticism](https://news.artnet.com/news/refik-anadol-vs-jerry-saltz-2400275), he argued that Saltz needs to better understand the "AI" art medium. 
 
@@ -68,7 +68,7 @@ So I have found it fascinating over the past few years to see some "AI" artists 
 
 (Another instructive cross-art-culture example is the conflict with TikTok artist Devon Rodriguez's attack on Ben Davis, after a critical art-world review.  [Davis' incisive analysis](https://news.artnet.com/news/devon-rodriguez-parasocial-aesthetics-2380960) is worth reading.)
 
-So far, I've oversimplified: the Contemporary Art World isn't just one community, but comprises many subgroups. For example, there's a sharp divide between Biennial Art and Art Market Art.  [In Ben Davis' words](https://news.artnet.com/art-world/what-mean-biennial-artist-2124996?fbclid=IwAR0K511RijIe3D5yJYQuwaodbRIBoMFrEjRbjM-AAtCo8DCInft1cK8JFjM), "The biennial circuit is fueled by its own system of demand, hype, and trends. It is a parallel universe with its own rules, hierarchies, challenges, and, crucially, its own economy."  [These worlds rarely intersect](https://news.artnet.com/market/biennial-star-funding-market-2127289?fbclid=IwAR1Tl6MerwQwkcO_r-oDaZ1EjedsJy5IgMnl5LDD_-qz4PuFof3ThdLpCR4).  Lev Manovich additionally points out that many of the artists most successful at showing these biennales [come from just a handful of art schools](https://www.facebook.com/668367315/posts/pfbid09h5LZPsvKmfmMUd3T5mGzcNPVSCdDm1KEzYdLrtBQ8v4uApD2PZYCUu4aJHSPFK1l/): pedigree and social connections matter.
+So far, I've oversimplified: **the Contemporary Art World isn't just one community**, but comprises many subgroups. For example, there's a sharp divide between Biennial Art and Art Market Art.  [In Ben Davis' words](https://news.artnet.com/art-world/what-mean-biennial-artist-2124996?fbclid=IwAR0K511RijIe3D5yJYQuwaodbRIBoMFrEjRbjM-AAtCo8DCInft1cK8JFjM), "The biennial circuit is fueled by its own system of demand, hype, and trends. It is a parallel universe with its own rules, hierarchies, challenges, and, crucially, its own economy."  [These worlds rarely intersect](https://news.artnet.com/market/biennial-star-funding-market-2127289?fbclid=IwAR1Tl6MerwQwkcO_r-oDaZ1EjedsJy5IgMnl5LDD_-qz4PuFof3ThdLpCR4).  Lev Manovich additionally points out that many of the artists most successful at showing these biennales [come from just a handful of art schools](https://www.facebook.com/668367315/posts/pfbid09h5LZPsvKmfmMUd3T5mGzcNPVSCdDm1KEzYdLrtBQ8v4uApD2PZYCUu4aJHSPFK1l/): pedigree and social connections matter.
 However, even though the Biennial Art World and Art Market World have very distinct values in art, they would each _recognize_ each other as making Art, whether or not they respect it.
 
 
@@ -175,12 +175,12 @@ In summary:
 
 Art Worlds are not constant, they can appear, change, split, merge and/or disappear. In a previous blog post, I wrote about how [different eras in human history](/2022/09/27/art-eras.html) had radically different conceptions of art—most of our modern concepts of art would be totally unrecognizable to, say, Leonardo da Vinci.  In each era, the values and definitions of art went together.  In that post, I treated each era as its own "community." Now I'm just looking at some of the different communities of our own era.
 
-As I've discussed, the Contemporary Art World has many of its own factions and divisions, such Biennale Art and Art Market Art, and each of these will have their own divisions. They tend to have distinct values (e.g., Art Market is commercial, Biennale is _anti_-commercial), but their communities mingle and recognize each others' art as art.
+As I've discussed, the Contemporary Art World has many of its own factions and divisions, such as Biennale Art and Art Market Art, and each of these will have their own divisions. They tend to have distinct values (e.g., Art Market is commercial, Biennale is _anti_-commercial), but their communities mingle and recognize each others' art as art.
 
 Other communities form around other kinds of art, whether visual effects, fan art, atelier art (a very traditional community which doesn't even recognize photography as art), hip-hop, and so many others.
 
 Anywhere you find a community of artists, you may find an Art World. 
 
 <hr>
-<i>Thanks to Laura Herman.</i>
+<i>Thanks to Laura Herman and Craig Reynolds.</i>
 
