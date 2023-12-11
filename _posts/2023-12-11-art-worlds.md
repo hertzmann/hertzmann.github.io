@@ -121,7 +121,7 @@ At the risk of sounding like an insufferable hipster, I enjoyed "AI" art far mor
 
 If you work in a focused art community, whether as an artist, critic, gallerist, or other role, or just follow it as an ardent fan, then you may absorb that community's beliefs, values, and definitions of art.
 
-Most people, though, aren't immersed in one of these communities. Everyone has their own preferences and opinions of art, and what they like and what they hate, but rarely sharp definitional barriers ("that's not art"), except sometimes for esoteric conceptual art.  When I talk to non-artists, they say that art requires, in some combination, "intent," "expression," and/or "beauty". [These definitions have all sorts of problems](https://aaronhertzmann.com/2022/09/19/art-definitions-1.html), but they're good enough heuristics for most people who don't, say, seek to understand the workings of Contemporary Art.
+Most people, though, aren't immersed in one of these communities. Everyone has their own preferences and opinions of art, and what they like and what they hate, and some opinions about what defines art, but rarely sharp definitional barriers ("that's not art"), except sometimes for esoteric conceptual art. 
 
 
 # These definitional gulfs are invisible and vast
