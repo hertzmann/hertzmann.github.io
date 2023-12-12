@@ -74,7 +74,7 @@ However, even though the Biennial Art World and Art Market World have very disti
 
 
 
-For more about the contemporary art world as its own community, [see my previous blog post](/2020/06/08/wica.html).
+For more about the contemporary art world as its own community, such as the importance of ambiguity, [see my previous blog post](/2020/06/08/wica.html).
 
 
 
