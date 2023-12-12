@@ -123,6 +123,7 @@ If you work in a focused art community, whether as an artist, critic, gallerist,
 
 Most people, though, aren't immersed in one of these communities. Everyone has their own preferences and opinions of art, and what they like and what they hate, and some opinions about what defines art, but rarely sharp definitional barriers ("that's not art"), except sometimes for esoteric conceptual art. 
 
+See [this previous blog post](/2022/09/19/art-definitions-1.html) a survey of some  commonly-used  definitions of art, although I'd now write it differently given the ideas in this post.
 
 # These definitional gulfs are invisible and vast
 
