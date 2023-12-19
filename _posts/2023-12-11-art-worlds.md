@@ -159,7 +159,7 @@ We see online conversations where professional artists say that "AI" art can't b
 
 Based on the observations, I here propose a theory that different art worlds that each _define_ art separately.
 
-In his 1964 essay, Arthur Danto introduced the term "Art World" to define the community that together creates and _defines_ art. This has become one of the [standard _definitions_ of art, that it is defined by The Art World](https://en.wikipedia.org/wiki/Theory_of_art#Institutional). Since then, sociologists like Harold Becker have extended the idea to "Art Worlds" that create art in different ways. 
+In his 1964 essay, philosopher and art critic Arthur Danto introduced the term "Art World" to define the community that together creates and _defines_ art. This has become one of the [standard _definitions_ of art, that it is defined by The Art World](https://en.wikipedia.org/wiki/Theory_of_art#Institutional). Since then, philosophers like George Dickie and Jerrold Levinson have refined the idea, whereas sociologist Harold Becker used the phrase "Art Worlds" to discuss how different communities create art in different ways. 
 
 But, to my knowledge, none of them describe distinct, incompatible definitions of art in different worlds, like I've described above.
 
