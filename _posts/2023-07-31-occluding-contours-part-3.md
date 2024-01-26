@@ -12,7 +12,7 @@ og:image: "/images/howtodraw/howtodraw/spiderverse.jpg"
 
 _This blog post has now been revised and adapted into a paper. Please cite the paper where appropriate:_
 
-* A. Hertzmann, "New Insights in Smooth Occluding Contours for Nonphotorealistic Rendering" in IEEE Computer Graphics and Applications, vol. 44, no. 01, pp. 76-85, 2024. \[[Open-access paper link](https://www.computer.org/csdl/magazine/cg/2024/01/10414224/1TZIQ9i1pvy)\]
+* A. Hertzmann, "New Insights in Smooth Occluding Contours for Nonphotorealistic Rendering" in IEEE Computer Graphics and Applications, vol. 44, no. 01, pp. 76-85, 2024. \[[Paper (open access)](https://www.computer.org/csdl/magazine/cg/2024/01/10414224/1TZIQ9i1pvy)\]
 
 _In addition, **the paper includes a new section** summarizing different classes of approaches that work for this problem._
 
