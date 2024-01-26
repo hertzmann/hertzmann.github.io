@@ -218,6 +218,7 @@ In the earliest demonstrations of photography (the Daguerotype) in 1838, [painte
 
 In the early days of sound movies, people like Charlie Chaplin fought against it; Adolph Zukor, the president of Paramount, said ["The so-called sound film shall never displace silent film. I believe as before that our future lies with silent film!"](https://www.filmportal.de/material/rudolf-arnheim-on-the-sound-film-confusion)   (For a superbly entertaining—but not very educational—take on the transition to talkies, watch the great ["Singin' in the Rain"](https://en.wikipedia.org/wiki/Singin%27_in_the_Rain).)
 
+In 1982, the [UK Musicians Union banned electronic drum machines and synthesizers](https://www.musicradar.com/news/the-union-passed-a-motion-to-ban-the-use-of-synths-drum-machines-and-any-electronic-devices-the-day-the-loony-musicians-union-tried-to-kill-the-synthesizer-which-also-happened-to-be-bob-moogs-birthday) as a threat to more-traditional musicians.
 
 **Impossible or inappropriate standards**
 

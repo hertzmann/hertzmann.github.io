@@ -10,6 +10,13 @@ og:image: "/images/howtodraw/quadratic-patch.png"
 
 # Occluding Contour Breakthroughs, Part 2: Getting It Right
 
+_This blog post has now been adapted into a paper. Please cite the paper where appropriate:_
+
+* A. Hertzmann, "New Insights in Smooth Occluding Contours for Nonphotorealistic Rendering" in IEEE Computer Graphics and Applications, vol. 44, no. 01, pp. 76-85, 2024. \[[Open-access paper link](https://www.computer.org/csdl/magazine/cg/2024/01/10414224/1TZIQ9i1pvy)\]
+
+<hr>
+
+
 
 In the [first post in this series](/2023/07/31/occluding-contours-part-1.html), I outlined the problem of occluding contours for smooth surfaces, that we've never really fully understood. In this post, I'll explain our new insights that finally explain these long-standing problems, from this paper:
 

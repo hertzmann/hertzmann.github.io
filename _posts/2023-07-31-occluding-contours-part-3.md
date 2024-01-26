@@ -10,6 +10,13 @@ og:image: "/images/howtodraw/howtodraw/spiderverse.jpg"
 
 # Occluding Contour Breakthroughs Part 3: Which Algorithm Should I Use (or Research)?
 
+_This blog post has now been revised and adapted into a paper. Please cite the paper where appropriate:_
+
+* A. Hertzmann, "New Insights in Smooth Occluding Contours for Nonphotorealistic Rendering" in IEEE Computer Graphics and Applications, vol. 44, no. 01, pp. 76-85, 2024. \[[Open-access paper link](https://www.computer.org/csdl/magazine/cg/2024/01/10414224/1TZIQ9i1pvy)\]
+
+_In addition, **the paper includes a new section** summarizing different classes of approaches that work for this problem._
+
+<hr>
 
 Suppose you want to compute occluding contours of a smooth surface. Given the literature out there, and [the new developments summarized in my previous blog post](/2023/07/31/occluding-contours-part-2.html), which method should you use? And, where is more research needed?  On this page, I'll summarize my opinions on these questions.
 

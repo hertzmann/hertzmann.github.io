@@ -10,6 +10,13 @@ og:image: "/images/howtodraw/cupid_hatch.png"
 
 # Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem
 
+_This blog post has now been revised and adapted into a paper. Please cite the paper where appropriate:_
+
+* A. Hertzmann, "New Insights in Smooth Occluding Contours for Nonphotorealistic Rendering" in IEEE Computer Graphics and Applications, vol. 44, no. 01, pp. 76-85, 2024. \[[Open-access paper link](https://www.computer.org/csdl/magazine/cg/2024/01/10414224/1TZIQ9i1pvy)\]
+
+<hr>
+
+
 
 The [occluding contours of a smooth surface](/2020/09/12/how-to-draw-pictures-contours.html) let you render 3D objects [in many different artistic styles](/2020/09/14/how-to-draw-pictures-style.html), such as this pen-and-ink hatching style:
 
