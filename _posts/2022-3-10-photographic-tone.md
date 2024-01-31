@@ -68,7 +68,7 @@ The location of illumination is different in these examples, reflecting the reli
 As painting edged toward Impressionism, painters began to depict the physiological experience of vision. In conditions of darkness, <a href="https://en.wikipedia.org/wiki/Purkinje_effect">our vision is mostly blue-green</a>. Whistler conveyed this experience in many of his <a href="https://en.wikipedia.org/wiki/Nocturne_(painting)">nocturnes</a>:
 <center>
 <figure>
-   <img src="../../../images/nocturne.jpg" alt="Whistler's Nocturne in Blue and Gold"/>
+   <img src="../../../images/arthistory/nocturne.jpg" alt="Whistler's Nocturne in Blue and Gold"/>
   <figcaption align="center"><i><a href="https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge"><I>Nocturne: Blue and Gold – Old Battersea Bridge
 </I></a> by James McNeill Whistler, 1875</i></figcaption>
 </figure>
