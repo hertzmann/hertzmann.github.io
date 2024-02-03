@@ -253,10 +253,21 @@ I recommend reading the [technical paper](https://github.com/google/night-sight/
 
 The iPhone uses something similar; the nighttime photos on my iPhone got a whole lot better sometime after Night Sight came out on the Pixel. A week after I first posted this blog post, [the New Yorker also weighed in with some details, along with complaints about aggressive photo corrections on the iPhone](https://www.newyorker.com/culture/infinite-scroll/have-iphone-cameras-become-too-smart).
 
-
 I love the way my phone takes amazing pictures of sunsets and nighttime skylines, and these pictures look so much better than those taken by my phone five years ago.  My photos are a collaboration between me and the algorithm designers and camera manufacturers, and they reflect a combination of aesthetic decisions made by each of us.
 
-Read on about what this says about more general themes in art and photography in [my next blog post](/2022/03/17/photography-is-not-objective.html)
+(Update:) The year after I first wrote this blog post, I got to see Whistler's _Nocturne_ in person at the Tate Britain. Here's a photo of it with my iPhone, on the left:
+<center>
+<figure>
+   <p float="left">
+      <img src="../../../images/arthistory/nocturne_iphone.jpg" alt="Whistler's Nocturne in Blue and Gold, photographed with iPhone"  width="40%" />&nbsp;<img src="../../../images/arthistory/nocturne.jpg" alt="Whistler's Nocturne in Blue and Gold, photographed" width="40%"/></p>
+  <figcaption align="center"><i><I>iPhone photo of <a href="https://en.wikipedia.org/wiki/Nocturne:_Blue_and_Gold_%E2%80%93_Old_Battersea_Bridge">Nocturne: Blue and Gold – Old Battersea Bridge</a>
+</I> by James McNeill Whistler, 1875</i></figcaption>
+</figure>
+</center>
+This photo is sharper, brighter, and warmer than the painting as I saw it with my own eyes: the iPhone has enhanced it by the same algorithm that it would have used to enhance a nighttime photo taken out on the Thames. The picture on the right (professionally photographed) is a much better representation of how the picture looked in real-life. 
+
+
+Read on about what all this says about more general themes in art and photography in [my next blog post](/2022/03/17/photography-is-not-objective.html)
 
 <br>
 
