@@ -98,11 +98,11 @@ There seems like something of a paradox here. On one hand, we don't perceive the
    <img src="../../../images/perspective/high-street-by-turner.jpg" alt="Turner's High Street painting"/>
    <img src="../../../images/perspective/high-street-by-fisher.jpg" alt="Cezanne painting"/>
 </p>
-  <figcaption align="center"><i>Turner's <a href="https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting)">High Street, Oxford</a>, 1810, and a photograph of High Street by David Fisher, 2015</i></figcaption>
+  <figcaption align="center"><i>Turner's <a href="https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting)">High Street, Oxford</a>, 1810, and [a photograph of High Street by David Fisher](https://fisherstudios.co.uk/photography-blog/j-m-w-turners-oxford-high-street/), 2015</i></figcaption>
 </figure>
 </center>
 Note how much bigger the towers appear in the painting.
-(The photo [has been digitally manipulated to make Carfax Tower visible in the distance](https://www.ashmolean.org/sites/default/files/ashmolean/documents/media/learn_pdf_resources_landscapes_take_one_the_high_street_teacher_notes.pdf)).
+(The photo [has been digitally manipulated to make Carfax Tower visible in the distance](https://fisherstudios.co.uk/photography-blog/j-m-w-turners-oxford-high-street/)).
 
 
 Rob and his colleague Alistair Burleigh developed a technique that simulates this expansion, which they call ["Natural Perspective."](https://www.mdpi.com/2411-5150/2/2/21) Natural Perspective seems to me like it could better capture what it's like to experience a scene, as long as you're looking at the center.  They have further developed it as [a 3D renderer](https://www.gamedeveloper.com/disciplines/fovo-a-new-3d-rendering-technique-based-on-human-vision).
