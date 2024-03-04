@@ -101,14 +101,14 @@ New artistic tools are created by a small group of experimenters. These experime
 
 [Photography](/2022/08/29/photography-history.html) was developed by isolated tinkerers like Talbot and Daguerre. Nowadays we might think of photography as a thing that was just invented by someone long ago, but it really arose from a fertile and complex set of many experiments and attempts to figure out how to build the technology, and many of those attempts are forgotten.
 
-Animation began with experiments like [Winsor McCay's Gertie The Dinosaur](https://www.youtube.com/watch?v=32pzHWUTcPc), and the inventive explorations of the Fleischer brothers and Walt Disney. Disney developed the art and science of animation in a focused decade-long drive, culminating in the movie Snow White in 1933. 
+Animation began with experiments like [Winsor McCay's Gertie The Dinosaur](https://www.youtube.com/watch?v=32pzHWUTcPc), and the inventive explorations of the Fleischer brothers and Walt Disney. Disney developed the art and science of animation in a focused decade-long drive, culminating in the movie Snow White in 1937. 
 The first fine-artists who used computers in the 1960s, people like [Frieder Nake](https://en.wikipedia.org/wiki/Frieder_Nake), were playing around with very primitive computing tools, before computer monitors or "computer code" even existed.
 
 **Advances in existing media can "reset" things to an experimental stage**
 
 In 1929, the critic Rudolf Arnheim wrote about [the trouble people were having in figuring out how to use sound in movies](https://www.filmportal.de/material/rudolf-arnheim-on-the-sound-film-confusion), and the trouble audiences had in adapting to it.   Arnheim later wrote that _the invention of sound film temporarily made movies worse_ because of all this experimentation. 
 
-The early days of computer animation likewise involved numerous experiments building on traditional animation. Notably, "Toy Story" in 1995 culminated more than a decade of experimentation at Pixar and ILM, similar to how "Snow White" in 1933 culminated a decade of experimentation and development at Disney.
+The early days of computer animation likewise involved numerous experiments building on traditional animation. Notably, "Toy Story" in 1995 culminated more than a decade of experimentation at Pixar and ILM, similar to how "Snow White" in 1937 culminated a decade of experimentation and development at Disney.
 
 **These early explorations are largely forgotten** 
 
@@ -118,7 +118,7 @@ Before I started studying these things, I could not name a single significant ph
 
 I doubt most people could name a single film from the first 30 years of movies: for most people, movies began with the famous pieces, such as "Citizen Kane," "The Wizard of Oz," or something even later.  How many [computer-based artworks](https://en.wikipedia.org/wiki/Computer_art) could most people name before video games or "Toy Story," or, do most people know about the long history of [musique concrète](https://en.wikipedia.org/wiki/Musique_concr%C3%A8te) prior to The Beatles and Grandmaster Flash?
 
-This makes it too easy to diminish new artistic experimentations, to say that a new experiment
+This makes it too easy to diminish new artistic experimentations, to say that a new experiment isn't as good as the best masterpieces of established media.
 
 **For now, "AI" Art is largely about novelty** 
 

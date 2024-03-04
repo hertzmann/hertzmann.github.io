@@ -23,8 +23,7 @@ But, performing an effective study requires time, effort, and thought.
 
 Instead, many of our user studies are conducted sloppily, as an afterthought to research, rather than part of the research itself.  Such perfunctory studies have proliferated since 2008, after the introduction of crowdworking using Amazon Mechanical Turk (MTurk) made it easy to gather numerical scores from human participants. 
 
-Reviewers expect user studies particularly for tasks that resist easy benchmarking, including artistic stylization and interactive authoring tools.  Since stylization and neural image synthesis became mainstream topics in computer vision conferences, reviewers at these conferences increasingly ask for user studies.  
-Yet, few standards—if any—seem to govern how the studies are conducted.
+Reviewers expect user studies particularly for tasks that resist easy benchmarking, including artistic stylization and interactive authoring tools.  Since stylization and neural image synthesis became mainstream topics in computer vision conferences, reviewers at these conferences increasingly ask for user studies.  Yet, few standards—if any—seem to govern how the studies are conducted.
 
 I argue that many studies now published in graphics and vision are _performative, not informative_: we do them not because we want to learn something, but solely because reviewers expect to see a table of numbers.  So we put on a performance, a bit of science theatre. 
 
@@ -39,7 +38,7 @@ We need a better understanding of if, when, and how user studies are valuable, a
 
 # An example of bad reviews
 
-While not a graphics paper, [a recent paper called ``EinOps'' offers an instructive example with publicly-visible reviews](https://openreview.net/forum?id=oapKSVM2bcj).  Two of the reviewers argued for rejection, saying that, while they believed in the technique's value, nonetheless the paper must support its assertions with user studies. In the rebuttal, the author added a user study. But, in the decision, the Area Chair (AC) scolded those reviewers:
+While not a graphics paper, [a recent paper called "EinOps" offers an instructive example with publicly-visible reviews](https://openreview.net/forum?id=oapKSVM2bcj).  Two of the reviewers argued for rejection, saying that, while they believed in the technique's value, nonetheless the paper must support its assertions with user studies. In the rebuttal, the author added a user study. But, in the decision, the Area Chair (AC) scolded those reviewers:
 <center>
    	<a href="https://openreview.net/forum?id=oapKSVM2bcj">
    <img src="../../../images/iclr2022-decision.jpg" alt="ICLR decision excerpt: &quot;I belive it is fair and measured to state that these reviews may be considered to exhibit aspects of gatekeeping: requiring more &quot;mathiness&quot; that does not help the paper, or more &quot;rigour&quot; through user studies that are in fact less valuable than the reviewers' own observations &quot;I could see myself...&quot;, &quot;I tend to buy...&quot;.&quot;"/></a>
@@ -70,7 +69,7 @@ Often the ideas and the results in the paper figures are convincing enough to ju
 
 Quantitative user studies used to be rare in graphics, almost unheard of before 2009. Yet, there were lots of good papers anyway.  In the two volumes of _Seminal Graphics Papers_, which collect 138 of the most important papers in the history of computer graphics, only two of the papers have anything resembling a formal user study ("Where Do People Draw Lines?" and "Scene Completion Using Millions of Photographs."). 
 
-User studies can play a valuable role, providing a ""sanity check," when there's a serious question of whether the results are representative or "cherry-picked." How does the method generalize? But this sanity check isn't always necessary, and it must be performed carefully, if done at all.
+User studies can play a valuable role, providing a "sanity check," when there's a serious question of whether the results are representative or "cherry-picked." How does the method generalize? But this sanity check isn't always necessary, and it must be performed carefully, if done at all.
 
 **The Replicability Pitfall**
 
