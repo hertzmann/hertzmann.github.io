@@ -29,7 +29,7 @@ But much of the early progress was driven by researchers motivated by art and en
 
 As computer graphics research matured, it grew to cover all sorts of applications and visual phenomena, whether scientific visualization, painting, graphic design, cinematography, and so on. This raised the question as to how to define the field, since, for so long, "computer graphics research" had been synonymous with photorealistic rendering. Eventually, [a new understanding of the field emerged](https://dl.acm.org/doi/abs/10.1109/38.814562): 
 
-| <center><b> computer graphics research aims to develop new [tools for visual art, communication, and scientific visualization. </b></center> |
+| <center><b> computer graphics research aims to develop new tools for visual art, communication, and scientific visualization. </b></center> |
 
 A paper submission promising completely-automatic image generation would commonly be criticized by paper reviewers for not providing adequate user controls for artists. In this view, we care about photorealism only insofar as it is useful for, say, making movies, or visualizing scientific phenomena. And, photorealistic rendering indistinguishable from reality has progressed to an extent that narrative movies and television use them widely; they are largely inseparable from these art forms.
 
