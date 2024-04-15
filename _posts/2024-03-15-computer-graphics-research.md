@@ -75,13 +75,13 @@ Wittgenstein is often paraphrased as saying "meaning is usage:" you can't tell w
 
 But I think that formulating these definitions is useful—and not just use nearest-neighbors—and to keep updating them as the field evolves.  It's useful because having a definition helps people understand the field. When you formulate the field in this way, it may suggest new directions or gaps in the research. It can help resolve debates about whether a specific paper belongs at the conference.  
 
-Furthermore, having a scientific justification can help with government funding and scientific credibility; these have often been problematic when SIGGRAPH was viewed as just being the R&D arm of the entertainment industry.
+Furthermore, having a scientific justification can help with government funding and scientific credibility; both have often been problematic when SIGGRAPH was viewed as just being the R&D arm of the entertainment industry.
 
 These kinds of definitions can overlap with other fields. [The vision conferences now regularly publish computer graphics papers](/2020/08/31/cvpr-graphics.html), another example of evolving goals.  And, I was a little surprised, honestly, when SIGGRAPH 2004 accepted [our image deblurring paper](https://cs.nyu.edu/~fergus/research/deblur.html).
 
 Of course, the most basic, Wittgensteinian definition of SIGGRAPH is "what is interesting to the SIGGRAPH community." It originally baffled me as a criteria for what papers to accept, but now I think this is one useful important meta-definition, since it allows the other definitions to change and evolve over time, by including things that don't seem to fit any of our more-rigid definitions.  (The "positive impact" of the paper is probably the meta-definition that I care the most about when reviewing.)
 
-Such definitions are naturally unstable. When [the "Escherization" paper](https://dl.acm.org/doi/10.1145/344779.345022) was published at SIGGRAPH 2000, one of my mentors shook his head, saying "What, are we publishing any sort of mathematics without any applications?" and another one, completely independently, said on a different occasion "It's so great that SIGGRAPH is showing that there's room for these kinds of delightful papers."
+Such definitions are naturally unstable. When [the "Escherization" paper](https://dl.acm.org/doi/10.1145/344779.345022) was published at SIGGRAPH 2000, one of my mentors shook his head, saying "What, are we publishing any sort of mathematics without any applications?" and another one said on a different occasion, completely independently,  "It's so great that SIGGRAPH is showing that there's room for these kinds of delightful papers."
 
 
 <hr>
