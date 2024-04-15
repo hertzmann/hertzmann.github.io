@@ -44,7 +44,7 @@ How can we describe computer graphics research to allow for these uses?  I propo
 
 In other words, this goal is not to help people make pictures, but to describe them generatively.
 
-This subsumes the photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). (In "video," I mean all kinds of moving pictures, including animation and film.)
+This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). (In "video," I mean all kinds of moving pictures, including animation and film.)
 
 This new goal might sound indistinguishable from other kinds of scientific modeling, but there are subtle, important differences. For example, simulation of fluids in physics and numerical computing aim for accurate prediction of physical quantities, e.g., to test theories and forecast real systems, such as the weather. Such simulations care about predictive correctness, and often employ massive supercomputer computations to run, without producing realistic animations in the end.  In contrast, [fluid simulations in computer graphics](https://dl.acm.org/doi/abs/10.1145/3596711.3596793) can produce realistic-looking animations very efficiently, often in real-time, even if they give up predictive accuracy by violate physical principles like energy conservation to do so. 
 
