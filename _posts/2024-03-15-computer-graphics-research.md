@@ -1,12 +1,12 @@
 ---
 layout: page
-title: What is Computer Graphics Research?
+title: Computer Graphics Research As Scientific Modeling of Pictures
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
 og:image: "/images/wica/bradford_viewers.jpg"
 ---
 
-# What is Computer Graphics Research?
+# Computer Graphics Research As Scientific Modeling of Pictures
 
 In this post I propose a view of how to understand computer graphics research. Then I'll mention some limitations of these definitions and philosophy of definitions in general.
 
