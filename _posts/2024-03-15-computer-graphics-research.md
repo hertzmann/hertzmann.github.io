@@ -58,7 +58,7 @@ These goals overlap substantially, and, in many cases, one can drive the other. 
 
 **Limitations and missing pieces**
 
-The biggest flaw of my definitions is that they seem to omit some significant topics. Perhaps fabrication fits into my first definition? There used to be a thread of haptics publications at SIGGRAPH.  Some of the work on computational imaging might not fit in easily.  It's normal, of course, to have isolated edge cases (e.g., those papers on tangible user interfaces), if we allow the definition of the field to be fluid. 
+The biggest flaw of my definitions is that they seem to omit some significant topics. Perhaps fabrication fits into my first definition? There used to be a thread of haptics publications at SIGGRAPH.  Does computational imaging fit in?  It's normal, of course, to have hard-to-categorize edge cases (e.g., those papers on tangible user interfaces), if we allow the definition of the field to be fluid. 
 
 Another possible flaw is that human and computer vision are the only other fields that I've identified as using computer graphics models, but surely there are others?
 
