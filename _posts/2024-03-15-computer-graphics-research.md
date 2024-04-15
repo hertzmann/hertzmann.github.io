@@ -10,7 +10,7 @@ og:image: "/images/wica/bradford_viewers.jpg"
 
 In this post I propose a view of how to understand computer graphics research. Then I'll mention some limitations of these definitions and philosophy of definitions in general.
 
-Since I started attending SIGGRAPH, I recall people puzzling over what the subject of the conference is. People thought of computer graphics as the study of photorealistic rendering, yet so many other topics had become big, like computational photography and non-photorealistic rendering. Since that "post-photorealism" era, [people have occasionally](https://www.youtube.com/watch?v=OqCH66Sgqco) [proposed their own interpretations](https://www.youtube.com/watch?v=Fjrgn67SlWw) and [definitions](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf), as have various SIGGRAPH comittees and mission statements over the years. In this post I propose one idea for that discussion.
+Since I started attending SIGGRAPH, I recall people puzzling over what the subject of the conference is. People thought of computer graphics as the study of photorealistic rendering, yet so many other topics had become big, like image-based rendering and non-photorealistic rendering. Since that "post-photorealism" era, [people have occasionally](https://www.youtube.com/watch?v=OqCH66Sgqco) [proposed their own interpretations](https://www.youtube.com/watch?v=Fjrgn67SlWw) and [definitions](https://www.cs.unc.edu/~brooks/Toolsmith-CACM.pdf), as have various SIGGRAPH comittees and mission statements over the years. In this post I propose one idea for that discussion.
 
 
 
