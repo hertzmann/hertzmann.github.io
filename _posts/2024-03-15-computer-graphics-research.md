@@ -40,9 +40,9 @@ However, computer graphics techniques have become adopted in other research fiel
 
 How can we describe computer graphics research to allow for these uses?  I propose a complementary, third description that makes the relationship to other fields clearer: 
 
-| <center><b> much of computer graphics research aims to develop generative models of pictures and video that look like the kinds of pictures and videos we see in the world. </b></center> |
+| <center><b> much of computer graphics research aims to develop generative models of visual art, communication, and visualization that look like the things we see in the world. </b></center> |
 
-In other words, this goal is not to help people make pictures, but to describe how to make them.
+In other words, this goal is not helping make pictures, but scientific descriptions of how to make pictures.
 
 This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). (In "video," I mean all kinds of moving pictures, including animation and film.)
 
@@ -55,7 +55,7 @@ One potential use for these tools is that "AI" tools can [help us understand hum
 In short, the goals in computer graphics research are:
 
 * _Engineering/design_: Build useful tools for people to create visual art, communication, and visualization, and
-* _Science_: Create generative scientific models of pictorial phenomena, and moving pictures with sound.
+* _Science_: Create generative scientific models of visual art, communication, and visualization.
 
 
 These goals overlap substantially, and, in many cases, one can drive the other. I don't think you can describe the scope of the field or its impacts without both.  
