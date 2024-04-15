@@ -35,12 +35,14 @@ A paper submission promising completely-automatic image generation would commonl
 
 **A definition for scientific applications**
 
-However, computer graphics techniques have become adopted in other research fields apart from visual art and communication.  I'm most familiar with uses in both computer vision and in human vision, both of which have occasionally been described in terms of ["inverse computer graphics"](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0443). Computer vision regularly uses 3D scene representations developed in computer graphics research.   Some human vision theories build on photorealistic rendering tools, for example, [the idea that human visual cognition uses mental models akin to computer graphics simulations](https://www.pnas.org/doi/abs/10.1073/pnas.1306572110), and theories of [material perception based on computer graphics models].  In my own work, computer graphics ideas have driven my theories of [human line drawing perception](/2021/05/13/why-does-line-drawing-work.html), and of [perception of picture perspective](https://www.dgp.toronto.edu/~hertzman/perspective/).
+However, computer graphics techniques have become adopted in other research fields apart from visual art and communication.  I'm most familiar with uses in computer vision and in human vision, both of which have occasionally been described in terms of ["inverse computer graphics"](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0443). Computer vision regularly uses 3D scene representations developed in computer graphics research.   Some human vision theories build on photorealistic rendering tools, for example, [the idea that human visual cognition uses mental models akin to computer graphics simulations](https://www.pnas.org/doi/abs/10.1073/pnas.1306572110), and theories of [material perception based on computer graphics models].  In my own work, computer graphics ideas have driven my theories of [human line drawing perception](/2021/05/13/why-does-line-drawing-work.html), and of [perception of picture perspective](https://www.dgp.toronto.edu/~hertzman/perspective/).
 
 
-How can we describe computer graphics research to allow for these scientific uses?  I propose a complementary, third description that makes the relationship to other fields clearer: 
+How can we describe computer graphics research to allow for these uses?  I propose a complementary, third description that makes the relationship to other fields clearer: 
 
 | <center><b> much of computer graphics research aims to develop generative models of pictures and video that look like the kinds of pictures and videos we see in the world. </b></center> |
+
+In other words, the goal is not to help people make pictures, but to describe and explain pictures.
 
 This subsumes the photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). (In "video," I mean all kinds of moving pictures, including animation and film.)
 
