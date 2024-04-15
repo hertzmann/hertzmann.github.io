@@ -56,7 +56,7 @@ In short, the goals in computer graphics research are:
 
 These goals overlap substantially, and, in many cases, one can drive the other. I don't think you can describe the scope of the field or its impacts without both.  
 
-**Limitations and missing pieces**
+**Limitations and gaps**
 
 The biggest flaw of my definitions is that they seem to omit some significant topics. Perhaps fabrication fits into my first definition? There used to be a thread of haptics publications at SIGGRAPH.  Does computational imaging fit in?  If we allow the definition of the field to be fluid, then hard-to-categorize edge cases are inevitable (e.g., those papers on tangible user interfaces), if we allow the definition of the field to be fluid. Such edge cases could be an isolated blip at the conference or the start of a whole new direction for the field.
 
