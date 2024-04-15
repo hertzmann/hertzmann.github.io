@@ -42,7 +42,7 @@ How can we describe computer graphics research to allow for these uses?  I propo
 
 | <center><b> much of computer graphics research aims to develop generative models of pictures and video that look like the kinds of pictures and videos we see in the world. </b></center> |
 
-In other words, this goal is not to help people make pictures, but to describe them generatively.
+In other words, this goal is not to help people make pictures, but to describe how to make them.
 
 This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). (In "video," I mean all kinds of moving pictures, including animation and film.)
 
