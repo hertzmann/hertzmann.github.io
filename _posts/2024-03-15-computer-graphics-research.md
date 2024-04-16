@@ -40,22 +40,22 @@ However, computer graphics techniques have become adopted in other research fiel
 
 How can we describe computer graphics research to allow for these uses?  I propose a complementary, third description that makes the relationship to other fields clearer: 
 
-| <center><b> much of computer graphics research aims to develop generative models of visual art, communication, and visualization that look like the things we see in the world. </b></center> |
+| <center><b> much of computer graphics research aims to develop generative models of pictures, video, and other visual media that look like the things we see in the world. </b></center> |
 
-In other words, this goal is not helping make pictures, but scientific descriptions of how to make pictures.  ([Pictures can be forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)
+In other words, this goal is not about helping make pictures, but scientific descriptions of how to make pictures, which, in turn, may be useful to other disciplines.  ([All pictures are forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)  In "video," I mean all kinds of moving pictures, including animation and film.
 
-This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). (In "video," I mean all kinds of moving pictures, including animation and film.)
+This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). 
 
 This new goal might sound indistinguishable from other kinds of scientific modeling, but there are subtle, important differences. For example, simulation of fluids in physics and numerical computing aim for accurate prediction of physical quantities, e.g., to test theories and forecast real systems, such as the weather. Such simulations care about predictive correctness, and often employ massive supercomputer computations to run, without producing realistic animations in the end.  In contrast, [fluid simulations in computer graphics](https://dl.acm.org/doi/abs/10.1145/3596711.3596793) can produce realistic-looking animations very efficiently, often in real-time, even if they give up predictive accuracy by violate physical principles like energy conservation to do so. 
 
 [Cole's 2008 paper](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/) provides an excellent case study of computer graphics research as science, that is, as a description of real-world pictorial phenomena: they measured how well computer graphics algorithms predicted human-drawn lines, based on data they gathered with a controlled line-drawing task.
 
-One potential use for these tools is that "AI" tools can [help us understand human visual intelligence and creativity](/2023/09/27/what-is-creativity.html), analogous to the way that [Large Language Models inform understanding of human intelligence](https://journals.sagepub.com/doi/10.1177/17456916231201401) and [convolutional networks inform neuroscience](https://www.nature.com/articles/s41593-019-0520-2).
+One potential use for these tools is to [help us understand human visual intelligence and creativity](/2023/09/27/what-is-creativity.html), analogous to the way that [language models inform understanding of human intelligence](https://journals.sagepub.com/doi/10.1177/17456916231201401) and [convolutional networks inform neuroscience](https://www.nature.com/articles/s41593-019-0520-2).
 
 In short, the goals in computer graphics research are:
 
-* _Engineering/design_: Build useful tools for people to create visual art, communication, and visualization, and
-* _Science_: Create generative scientific models of visual art, communication, and visualization.
+* _Engineering/design_: Build useful tools for people to create pictures, video, and other visual media, and
+* _Science_: Create generative models of pictures, video, and other visual media for scientific uses.
 
 
 These goals overlap substantially, and, in many cases, one can drive the other. I don't think you can describe the scope of the field or its impacts without both.  
