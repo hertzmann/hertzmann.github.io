@@ -14,12 +14,14 @@ Since I started attending SIGGRAPH, I recall people puzzling over what the subje
 
 
 
-# History and definitions
+# History and self-definitions
 
 _Note: This section is adapted from a paper that I've submitted for non-anonymous review in a journal._
 
 
-The nature of computer graphics research has changed over the years. The very earliest computer graphics [focused on line drawing](https://en.wikipedia.org/wiki/Sketchpad).  However, with the availability of framebuffers, research shifted to modeling the physics of light for photorealistic rendering. [Some researchers advocated for](https://dl.acm.org/doi/abs/10.1145/258734.258914)
+The nature of computer graphics research has changed over the years, and so has the way that the field defines itself. 
+
+The very earliest computer graphics [focused on line drawing](https://en.wikipedia.org/wiki/Sketchpad).  However, with the availability of framebuffers, research shifted to modeling the physics of light for photorealistic rendering. [Some researchers advocated for](https://dl.acm.org/doi/abs/10.1145/258734.258914)
 
 | <center><b> Computer graphics as the scientific study of creating photorealistic imagery perceptually indistinguishable from the real world </b></center> |
 
