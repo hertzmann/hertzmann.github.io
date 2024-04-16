@@ -33,7 +33,9 @@ As computer graphics research matured, it grew to cover all sorts of application
 
 This is the goal that has motivated much of my work: tools for artists and for novices to communicate and make art.
 
-A paper submission promising completely-automatic image generation would commonly be criticized by paper reviewers for not providing adequate user controls for artists. In this view, we care about photorealism only insofar as it is useful for, say, making movies, or visualizing scientific phenomena. And, photorealistic rendering indistinguishable from reality has progressed to an extent that narrative movies and television use them widely; they are largely inseparable from these art forms.
+A paper submission promising completely-automatic image generation would commonly be criticized by paper reviewers for not providing adequate user controls for artists. In this view, we care about photorealism only insofar as it is useful for, say, making movies, or visualizing scientific phenomena.
+
+Convincingly-photorealistic rendering has been particularly successful as an artistic tool: it's [so widespread in narrative movies and television](https://www.youtube.com/watch?v=7ttG90raCNo) that, it is only slight hyperbole to say that they are inseparable from these art forms. 
 
 **A definition for scientific applications**
 
