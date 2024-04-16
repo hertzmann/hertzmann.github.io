@@ -67,7 +67,7 @@ This new goal might sound indistinguishable from other kinds of scientific model
 
 [Cole's 2008 paper](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/) provides an excellent case study of computer graphics research as science, that is, as a description of real-world pictorial phenomena: they measured how well computer graphics algorithms predicted human-drawn lines, based on data they gathered with a controlled line-drawing task.
 
-In short, the goals in computer graphics research are:
+In short, the proposed goals in computer graphics research are:
 
 * _Engineering/design_: Build useful tools for people to create pictures, video, and other visual media, and
 * _Science_: Create generative models of pictures, video, and other visual media for scientific understanding.
