@@ -31,6 +31,8 @@ As computer graphics research matured, it grew to cover all sorts of application
 
 | <center><b> computer graphics research aims to develop new tools for visual art, communication, and scientific visualization. </b></center> |
 
+This is the goal that has motivated much of my work: tools for artists and for novices to communicate and make art.
+
 A paper submission promising completely-automatic image generation would commonly be criticized by paper reviewers for not providing adequate user controls for artists. In this view, we care about photorealism only insofar as it is useful for, say, making movies, or visualizing scientific phenomena. And, photorealistic rendering indistinguishable from reality has progressed to an extent that narrative movies and television use them widely; they are largely inseparable from these art forms.
 
 **A definition for scientific applications**
