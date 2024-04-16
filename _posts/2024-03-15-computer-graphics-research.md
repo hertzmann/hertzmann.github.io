@@ -54,7 +54,7 @@ This new goal might sound indistinguishable from other kinds of scientific model
 
 [Cole's 2008 paper](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/) provides an excellent case study of computer graphics research as science, that is, as a description of real-world pictorial phenomena: they measured how well computer graphics algorithms predicted human-drawn lines, based on data they gathered with a controlled line-drawing task.
 
-One potential use for these tools is to [help us understand human visual intelligence and creativity](/2023/09/27/what-is-creativity.html), analogous to the way that [language models inform understanding of human intelligence](https://journals.sagepub.com/doi/10.1177/17456916231201401) and [convolutional networks inform neuroscience](https://www.nature.com/articles/s41593-019-0520-2).
+One potential use for these tools is to [help us understand human visual intelligence and creativity](/2023/09/27/what-is-creativity.html), analogous to the way that [language models inform understanding of human intelligence](https://journals.sagepub.com/doi/10.1177/17456916231201401) and [convolutional networks inform neuroscience](https://www.nature.com/articles/s41593-019-0520-2). However, I generally find non-"AI" models to be more useful than "AI" models for promoting understanding.
 
 In short, the goals in computer graphics research are:
 
