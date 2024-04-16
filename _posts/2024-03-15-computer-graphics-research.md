@@ -40,7 +40,7 @@ However, computer graphics techniques have become adopted in other research fiel
 
 How can we describe computer graphics research to allow for these uses?  I propose a complementary, third description that makes the relationship to other fields clearer: 
 
-| <center><b> much of computer graphics research aims to develop generative models of pictures, video, and other visual media that look like the things we see in the world. </b></center> |
+| <center><b> much of computer graphics research aims to develop generative models of pictures, video, and other visual media that look like the media we see in the world. </b></center> |
 
 In other words, this goal is not about helping make pictures, but scientific descriptions of how to make pictures, which, in turn, may be useful to other disciplines.  ([All pictures are forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)  In "video," I mean all kinds of moving pictures, including animation and film.
 
