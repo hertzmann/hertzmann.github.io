@@ -21,15 +21,22 @@ _Note: This section is adapted from a paper that I've submitted for non-anonymou
 
 The nature of computer graphics research has changed over the years. The very earliest computer graphics [focused on line drawing](https://en.wikipedia.org/wiki/Sketchpad).  However, with the availability of framebuffers, research shifted to modeling the physics of light for photorealistic rendering. [Some researchers advocated for](https://dl.acm.org/doi/abs/10.1145/258734.258914)
 
-| <center><b> computer graphics as the scientific study of creating photorealistic imagery perceptually indistinguishable from the real world </b></center> |
+| <center><b> Computer graphics as the scientific study of creating photorealistic imagery perceptually indistinguishable from the real world </b></center> |
 
 The [Cornell Box](https://en.wikipedia.org/wiki/Cornell_box) wasn't just a testbed, it was, arguably, a philosophical statement about the nature and goals of computer graphics research. A considerable body of work today continues to develop both physics-based rendering technologies, and perceptual models of realism.
 
 But much of the early progress was driven by researchers motivated by art and entertainment, and their tools achieved enormous success in the movie and video game industries. These industries cared about artistic usefulness far more than physical or perceptual accuracy. For example, Pixar's core rendering engines are [built on the principles of photorealistic light transport](https://en.wikipedia.org/wiki/Pixar_RenderMan), yet artists employed them to create unrealistic lighting, color, [and movement](https://dl.acm.org/doi/10.1145/37401.37407)---and none of their films could genuinely be mistaken for live-action photography.  The artistic and scientific development of these systems went hand-in-hand---in the words of an early Pixar mantra: "Art challenges technology, technology inspires art."
 
+<center>
+<figure>
+	<img src="../../../images/1984.jpg" alt="Billiards rendering from distribution ray tracing paper">
+<figcaption><i>Distribution ray tracing rendering from <a href="https://graphics.pixar.com/library/DistributedRayTracing/">Cook et al. (Pixar), SIGGRAPH 1984</a> was a landmark in realistic-looking imagery.</i></figcaption>
+</figure>
+</center>
+
 As computer graphics research matured, it grew to cover all sorts of applications and visual phenomena, whether scientific visualization, painting, graphic design, cinematography, and so on. This raised the question as to how to define the field, since, for so long, "computer graphics research" had been synonymous with photorealistic rendering. Eventually, [a new understanding of the field emerged](https://dl.acm.org/doi/abs/10.1109/38.814562): 
 
-| <center><b> computer graphics research aims to develop new tools for visual art, communication, and scientific visualization. </b></center> |
+| <center><b> Computer graphics research aims to develop new tools for visual art, communication, and scientific visualization. </b></center> |
 
 This is the goal that has motivated much of my work: tools for artists and for novices to communicate and make art.
 
@@ -37,25 +44,28 @@ A paper submission promising completely-automatic image generation would commonl
 
 Convincingly-photorealistic rendering has been particularly successful as an artistic tool: it's [so widespread in narrative movies and television](https://www.youtube.com/watch?v=7ttG90raCNo) that, it is only slight hyperbole to say that they are inseparable from these art forms. One colleague many years ago wrote on his webpage that his favorite uses were the invisible ones, like adding snowfall to the end of a Bridget Jones movie.
 
-**A definition for scientific applications**
+# A definition for scientific applications
 
-However, computer graphics techniques have become adopted in other research fields apart from visual art and communication.  I'm most familiar with uses in computer vision and in human vision, both of which have occasionally been described in terms of ["inverse computer graphics"](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0443). Computer vision regularly uses 3D scene representations developed in computer graphics research.   Some human vision theories build on photorealistic rendering tools, for example, [the idea that human visual cognition uses mental models akin to computer graphics simulations](https://www.pnas.org/doi/abs/10.1073/pnas.1306572110), and theories of material perception based on computer graphics models.  In my own work, computer graphics ideas have driven my theories of [human line drawing perception](/2021/05/13/why-does-line-drawing-work.html), and [perception of picture perspective](https://www.dgp.toronto.edu/~hertzman/perspective/).
+However, computer graphics techniques have become adopted in other research fields apart from visual art and communication.  I'm most familiar with uses in computer vision and in human vision, both of which have occasionally been described in terms of ["inverse computer graphics"](https://royalsocietypublishing.org/doi/10.1098/rstb.2021.0443). Computer vision regularly uses 3D scene representations developed in computer graphics research.   Some human vision theories build on photorealistic rendering tools, for example, [the idea that human visual cognition uses mental models akin to computer graphics simulations](https://www.pnas.org/doi/abs/10.1073/pnas.1306572110), and theories of [material perception based on computer graphics models](https://jov.arvojournals.org/article.aspx?articleid=2121559).  In my own work, computer graphics ideas have driven my theories of [human line drawing perception](/2021/05/13/why-does-line-drawing-work.html), and [perception of picture perspective](https://www.dgp.toronto.edu/~hertzman/perspective/).
 
+<center>
+<figure>
+	<img src="../../../images/gloss.jpg" alt="Glossy sphere renders">
+<figcaption><i>Illustration from studies of human gloss perception by <a href="https://jov.arvojournals.org/article.aspx?articleid=2121559">Fleming et al.,</a> based on computer graphics rendering.</i></figcaption>
+</figure>
+</center>
 
 How can we describe computer graphics research to allow for these uses?  I propose a complementary, third description that makes the relationship to other fields clearer: 
 
-| <center><b> much of computer graphics research aims to develop generative models of pictures, video, and other visual media that look like the media we see in the world. </b></center> |
+| <center><b> Much of computer graphics research aims to develop generative models of pictures, video, and other visual media that look like the media we see in the world. </b></center> |
 
-In other words, this goal is not about making art or communication, but about scientific descriptions of how to make pictures, which, in turn, may be useful to other disciplines.  ([All pictures are forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)   By "generative," I mean all sorts of computer graphics algorithms from the past 60 years, not just the recent "AI"-based methods, and not simply "descriptive" models.
-By "video," I mean all kinds of moving pictures, including animation and film, and their accompanying audio. 
+This goal is not about making art or communication, but about scientific descriptions of how to make pictures, which, in turn, may be useful to other disciplines.  ([All pictures are forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)   By "generative," I mean all sorts of computer graphics algorithms from the past 60 years, not just the recent "AI"-based methods, and not simply "descriptive" models. By "video," I mean all kinds of moving pictures, including animation and film, and their accompanying audio. 
 
 This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). 
 
 This new goal might sound indistinguishable from other kinds of scientific modeling, but there are subtle, important differences. For example, simulation of fluids in physics and numerical computing aim for accurate prediction of physical quantities, e.g., to test theories and forecast real systems, such as the weather. Such simulations care about predictive correctness, and often employ massive supercomputer computations to run, without producing realistic animations in the end.  In contrast, [fluid simulations in computer graphics](https://dl.acm.org/doi/abs/10.1145/3596711.3596793) can produce realistic-looking animations very efficiently, often in real-time, even if they give up predictive accuracy by violate physical principles like energy conservation to do so. 
 
 [Cole's 2008 paper](https://gfx.cs.princeton.edu/pubs/Cole_2008_WDP/) provides an excellent case study of computer graphics research as science, that is, as a description of real-world pictorial phenomena: they measured how well computer graphics algorithms predicted human-drawn lines, based on data they gathered with a controlled line-drawing task.
-
-One potential use for these tools is to [help us understand human visual intelligence and creativity](/2023/09/27/what-is-creativity.html), analogous to the way that [language models inform understanding of human intelligence](https://journals.sagepub.com/doi/10.1177/17456916231201401) and [convolutional networks inform neuroscience](https://www.nature.com/articles/s41593-019-0520-2). However, I generally find non-"AI" models to be more useful than "AI" models for developing understanding and theories.
 
 In short, the goals in computer graphics research are:
 
@@ -80,7 +90,7 @@ Computer graphics has also contributed to other fields through non-visual algori
 
 We first learn of definitions as fixed, static concepts. The dictionary tells you what a thing is, then everything in that category follows that definition. This is the [_prescriptivist_](https://en.wikipedia.org/wiki/Linguistic_prescription) notion of a definition. But, as Wittgenstein pointed out, this isn't how we use words in the real world. If people had been strict about sticking to how they understood computer graphics in the 80s, then it would still be about photorealism, and photorealism only.
 
-Wittgenstein is often paraphrased as saying "meaning is usage:" you can't tell what a word means without looking at how it is used. For example, how would you define the word "game" or ["art"](/2022/09/19/art-definitions-1.html)? He  argued that categories follow ["family resemblances,"](https://en.wikipedia.org/wiki/Family_resemblance); sharing many—but not all—attributes.
+Wittgenstein is often paraphrased as saying "meaning is usage:" you can't tell what a word means without looking at how it is used. For example, how would you define the word "game" or ["art"](/2022/09/19/art-definitions-1.html)? He  argued that categories follow ["family resemblances,"](https://en.wikipedia.org/wiki/Family_resemblance) sharing many—but not all—attributes.
 
 But I think that formulating these definitions is useful—and not just use nearest-neighbors—and to keep updating them as the field evolves.  It's useful because having a definition helps people understand the field. When you formulate the field in this way, it may suggest new directions or gaps in the research. It can help resolve debates about whether a specific paper belongs at the conference.  
 
