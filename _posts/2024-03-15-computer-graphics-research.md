@@ -46,7 +46,7 @@ How can we describe computer graphics research to allow for these uses?  I propo
 
 | <center><b> much of computer graphics research aims to develop generative models of pictures, video, and other visual media that look like the media we see in the world. </b></center> |
 
-In other words, this goal is not about helping make pictures, but scientific descriptions of how to make pictures, which, in turn, may be useful to other disciplines.  ([All pictures are forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)  By "video," I mean all kinds of moving pictures, including animation and film, and their accompanying audio.
+In other words, this goal is not about making art or communication, but about scientific descriptions of how to make pictures, which, in turn, may be useful to other disciplines.  ([All pictures are forms of communication, art, or both](https://www.dgp.toronto.edu/~hertzman/perspective/).)  By "video," I mean all kinds of moving pictures, including animation and film, and their accompanying audio.
 
 This subsumes the classic photorealistic rendering goals (making pictures that look like photographs), but also includes art and design (e.g., making pictures that look like paintings). 
 
@@ -94,4 +94,4 @@ Such definitions are naturally unstable. When [the "Escherization" paper](https:
 
 <hr>
 
-Thanks for feedback from Kavita Bala, Kartik Chandra, Tzu-Mao Li, and Yael Vinker.
+Thanks for feedback from Kavita Bala, Kartik Chandra, Theo Honohan, Tzu-Mao Li, and Yael Vinker.
