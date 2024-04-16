@@ -29,7 +29,7 @@ But much of the early progress was driven by researchers motivated by art and en
 
 <center>
 <figure>
-	<img src="../../../images/1984.jpg" alt="Billiards rendering from distribution ray tracing paper">
+	<img src="../../../images/1984.jpg" alt="Billiards rendering from distribution ray tracing paper" width="75%" height="75%">
 <figcaption><i>Distribution ray tracing rendering from <a href="https://graphics.pixar.com/library/DistributedRayTracing/">Cook et al. (Pixar), SIGGRAPH 1984</a> was a landmark in realistic-looking imagery.</i></figcaption>
 </figure>
 </center>
@@ -50,7 +50,7 @@ However, computer graphics techniques have become adopted in other research fiel
 
 <center>
 <figure>
-	<img src="../../../images/gloss.jpg" alt="Glossy sphere renders">
+	<img src="../../../images/gloss.jpg" alt="Glossy sphere renders" width="75%" height="75%">
 <figcaption><i>Illustration from studies of human gloss perception by <a href="https://jov.arvojournals.org/article.aspx?articleid=2121559">Fleming et al.,</a> based on computer graphics rendering.</i></figcaption>
 </figure>
 </center>
