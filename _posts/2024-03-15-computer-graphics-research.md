@@ -55,7 +55,7 @@ One potential use for these tools is to [help us understand human visual intelli
 In short, the goals in computer graphics research are:
 
 * _Engineering/design_: Build useful tools for people to create pictures, video, and other visual media, and
-* _Science_: Create generative models of pictures, video, and other visual media for scientific uses.
+* _Science_: Create generative models of pictures, video, and other visual media for scientific understanding.
 
 
 These goals overlap substantially, and, in many cases, one can drive the other. I don't think you can describe the scope of the field or its impacts without both.  
