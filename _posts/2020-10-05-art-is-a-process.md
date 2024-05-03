@@ -15,7 +15,7 @@ In July 2019, I got a new iPad and Apple Pencil, and experimented with some draw
 </center>
 and I was hooked.  In the following nine months, I spent much of my time drawing and painting on the iPad, and I learned so much. 
 
-This is the first of a series of blog posts about these experiences. Some of these observations are things I'd wish I'd known when I first studied painting and drawing in college. But I also intend to describe (in a future post) how some of these observations could potentially inform the design of artistic algorithms and AI, as well as psychology models of creativity.
+This is the first of a series of blog posts about these experiences. Some of these observations are things I'd wish I'd known when I first studied painting and drawing in college, and some inform my further thinking about these topics. 
 
 While my own art education gave me valuable experience, it gave me almost no conceptual framework for creating art, appreciating art, or making a career of art. I graduated entirely confused about what art is about. So I've recently been more actively educating myself, including [reading extensively](https://aaronhertzmann.com/2020/05/04/art-book-reviews.html) and [talking to artists](https://aaronhertzmann.com/2020/06/08/wica.html). 
 But there's no replacement for trying to create art.  
