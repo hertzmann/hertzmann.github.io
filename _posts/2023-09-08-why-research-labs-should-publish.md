@@ -94,7 +94,7 @@ I've had so many experiences where I really just wanted to act like some nagging
 
 In the whitepaper model, there are no real standards, and so it is very easy to engage in lazy writing and lazy thinking. In fact, it's incentivized, if the mere act of writing whitepapers is rewarded.
 
-Some of my more theoretical papers began with a general intuition and a belief; only in the process of writing did I really work out the arguments and figure out what it was I was trying to say. And even then I wasn't done; criticisms and complaints from reviewers forced to me to make my arguments even clearer and stronger, and to grapple with important issues that I'd wanted to avoid. Revising in response to reviewer feedback has made many of my papers much, much better.
+Some of my more theoretical papers began with a general intuition and a belief; only in the process of writing did I really work out my arguments and figure out what I was trying to say.
 
 
 
@@ -135,7 +135,7 @@ Only rarely does a paper directly solve the real problem that product teams have
 
 Suppose you wanted detailed feedback on a project from academic experts.  How much would it cost? How hard would it be to recruit them?  
 
-It would be expensive, at least. But, most likely, they wouldn't respond at all to most requests.
+It would be expensive, at least. But, most likely, they wouldn't respond at all to most requests.  Professors get way too many emails as it is.
 
 With publication, in exchange for sharing your work with the world, you get this feedback for free. Sometimes the feedback isn't great, but often it's really valuable. 
 
