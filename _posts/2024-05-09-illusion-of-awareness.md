@@ -127,7 +127,7 @@ The rest of the visual field is called _peripheral vision_. That name is mislead
 
 What information do we get from peripheral vision, and how do we use it?
 
-The nature of peripheral vision is subtle and easily misunderstood.  In the research community, we often talk about it like it's just blurry vision. But it's not just that.  Here's an illustration that peripheral vision is more complex than it seems.
+The nature of peripheral vision is subtle and easily misunderstood.  In the research community, we often talk about it like it's just blurry vision. But it's not just that.  Here's an illustration of why.
 
 <center>
 <figure>
