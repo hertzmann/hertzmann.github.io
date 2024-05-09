@@ -294,7 +294,7 @@ rich visual experience and curious perceptual failures**](https://link.springer.
 
 * Jeremy M. Wolfe, Anna Kosovicheva, and Benjamin Wolfe. [**Normal blindness: when we look but fail to see**](https://doi.org/10.1016/j.tics.2022.06.006). _Trends in Cognitive Science_, 2022.
 
-**In this new manuscript, I argue that the phenomena in this blog post are essential to understanding how realistic pictures work:**
+**In this paper, I argue that these phenomena post are essential to understanding how realistic pictures work:**
 
 * A. Hertzmann. Toward a Theory of Perspective Perception in Pictures. _Journal of Vision_. April 2024, 24(4). \[[Paper](https://jov.arvojournals.org/article.aspx?articleid=2793609)\] \[[Webpage](https://www.dgp.toronto.edu/~hertzman/perspective/)\] 
 
