@@ -22,7 +22,7 @@ It turns out that, in a sense, we don't see _most_ of the things in front of our
 <center>
   <figure>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EARtANyz98Q?si=NUIHzuvmLyag7ZQR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<figcaption><i>Demo by <a href="http://www.michaelacohen.net">Michael A. Cohen</a>, based on a previous demo by Alvarez and Oliva.</i></figcaption>
+<figcaption><i>Demo by <a href="http://www.michaelacohen.net">Michael A. Cohen</a>, based on <a href="https://visionlab.harvard.edu/george/demos/GradualChangeTrimmed.mp4">a previous demo by Alvarez and Oliva</a>.</i></figcaption>
 </figure>
 </center>
 
