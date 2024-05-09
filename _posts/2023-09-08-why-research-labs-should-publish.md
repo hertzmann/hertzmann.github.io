@@ -28,8 +28,7 @@ Industrial research is often presented idealistically, and many researchers are 
 
 For example, Claude Shannon was an oddball who spent much of his time at Bell Labs exploring random thoughts, building strange contraptions, and juggling on his unicycle. The outcome of some of his philosophical musings, the 1948 paper ["A Mathematical Theory of Communication"](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication), transformed the world (and his employer's telecommunications business).  [William Whyte's influential analysis](https://en.wikipedia.org/wiki/The_Organization_Man) attributed the success of research at Bell Labs and General Electric to the fact that "Of all corporation research groups these are the two precisely that believe in 'idle curiosity.'"
 
-Producing high-quality long-term research while also showing corporate benefits is a tightrope balancing act. Most industry R&D is very applied, more "D" than "R".  
-But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research. 
+Producing high-quality long-term research while also showing corporate benefits is a tightrope balancing act. Most industry R&D is very applied, more "D" than "R".  But labs that focus too much on short-term deliverables can't really do much long-term innovation. If every project has to ship in a product, there's no room for big-picture thinking, risk-taking, or exploratory research. 
 
 On the other hand, some labs veer too far into pure research, which can be great for researchers publishing new stuff, but it's not long-term sustainable.  Once the company hits hard times and managers need to cut costs, the lab gets decimated or reorg-ed into a shell of its former self.  
 
@@ -61,7 +60,9 @@ In my opinion, the most important reason to publish is:
 
 | <center><b>When used effectively, publication helps you do better research.<b> |
 
-Publication can help in all stages of research, from motivating better work to getting feedback on it.
+Publication can help in all stages of research, from motivating better work to getting feedback on it.  Arguably, there's a stronger statement to make:
+
+| <center><b>Publication is an integral part of high-quality research. Without it, in the long term, research quality suffers tremendously.<b> |
 
 Of course, a lab that churns out lots of papers might not produce anything useful other than long CVs. **Publication is a tool to improve research; it is not the end goal in itself.** 
 
