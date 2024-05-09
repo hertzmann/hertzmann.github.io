@@ -55,4 +55,11 @@ I found my favorite example years ago when I bought a CD reissue of "Getz/Gilber
 
 For this critic, it was self-evident that pop music had become garbage by 1956, and was garbage ever since then.
 
+More recently, here's a video with a strong "they don't make good music anymore" vibe, especially in the comments.
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RUe0o9VRgMM?si=N0kd1ikBKedX2NES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+While I've enjoyed a lot of Rick Beato's videos—and he clearly knows way more about music than I do—here he's making a lot of snap decisions, out-of-context, comparing new songs according to some of his treasured, sentimental favorites of the 80s and earlier.  The first comment on YouTube is "The problem is that everything sounds like an inferior copy of something better you've already heard."  Of course: if you've already formed your ideas of what good music is, then everything new can only be compared to what you've heard before, and it can never be as good. But maybe this is a criticism of commercial, pushed-by-Spotify music, which might be a more legitimate concern.
 
