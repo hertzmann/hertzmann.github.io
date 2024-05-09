@@ -114,7 +114,7 @@ And so, to perceive the world, we move our eyes around. We look at one thing, th
 </figure>
 </center>
 
-So, here's a clue to the illusions that I discussed before. In the first video, you can see changes _when you look at them_. In the second video, you can see the gorilla _when you look at it_.
+So, here's a clue to the illusion videos at the beginning of this post. In the first video, you can see changes _only when you look right at them_. In the second video, you can see the gorilla _only when you look right at it_.
 
 
 
