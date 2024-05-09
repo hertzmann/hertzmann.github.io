@@ -127,7 +127,7 @@ The rest of the visual field is called _peripheral vision_. That name is mislead
 
 What information do we get from peripheral vision, and how do we use it?
 
-The nature of peripheral vision is subtle and easily misunderstood.  In the research community, we often talk about it like it's just blurry vision. But it's not just that.  Here's an illustration of why.
+The nature of peripheral vision is subtle and easily misunderstood.  In the research community, we often talk about it like it's just blurry vision. But it's not.  Here's an illustration of why.
 
 <center>
 <figure>
@@ -135,9 +135,9 @@ The nature of peripheral vision is subtle and easily misunderstood.  In the rese
 </figure>
 </center>
 
-Stare at the top cross (**+**). You should be able to recognize the **V** to its left. Now, what happens if you stare at the lower cross? Now the **V** to its left itsn't recognizable, because it's in-between the **X** and the **K**. People viewing just the bottom cross might see a jumble of letters to the left. So this isn't just about blurry vision—it's the crowding of the letters that make it hard to recognize them.
+Stare at the top cross (**+**). You should be able to recognize the **V** to its left. Now, what happens if you stare at the lower cross? Now the **V** to its left itsn't recognizable, because it's in-between the **X** and the **K**. People viewing just the bottom cross might see a jumble of letters to the left. 
 
-This illustrates the idea that, contrary to what many researchers think, [peripheral vision isn't just blurry vision](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-082114-035733).  The brain encodes peripheral vision with statistics, and these statistics get muddled with _crowding_. One letter alone on a white background is easy to recognize, while the other letter surrounded by others is hard to recognize.
+So this [isn't just about blurry vision—it's the crowding of the letters](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-082114-035733) that make it hard to recognize them.  The brain encodes peripheral vision with statistics, and these statistics get muddled with _crowding_. One letter alone on a white background is easy to recognize, while the other letter surrounded by others is hard to recognize.
 
 
 
