@@ -81,11 +81,18 @@ However, treating publication as merely an employee benefit—like vacation time
 
 # 2. To better think through and record research
 
-**Writing is an integral part of the research process.** When you write something down, you realize things you hadn't thought of before, you discover holes in the reasoning, you discover related works that you hadn't found before. Writing forces you to work out the thought process of the work. In a sense, **writing is organized thinking.** Writing for publication forces you to hold your writing to a higher standard.  It forces you to record things enough to be, ideally, clear to a disinterested reader, and to be reproducible. 
+People sometimes treat writing as an afterthought to research. I think this is a mistake. I believe that
+
+|<b>Writing is an integral part of the research process.</b>|
+
+When you write something down, you realize things you hadn't thought of before, you discover holes in the reasoning, you discover related works that you hadn't found before. Writing forces you to work out the thought process of the work. In a sense, **writing is organized thinking.** Writing for publication forces you to hold your writing to a higher standard.  It forces you to record things enough to be, ideally, clear to a disinterested reader, and to be reproducible. 
 
 I've had so many experiences where I really just wanted to act like some nagging question about the work didn't exist, or wanted to ignore closely-related paper that we discovered late in the process. Peer-reviewed publication forced us to confront these issues and figure them out, and the work was better for it.
 
 In the whitepaper model, there are no real standards, and so it is very easy to engage in lazy writing and lazy thinking; in fact, it's incentivized, if the mere act of writing whitepapers is rewarded.
+
+Some of my more theoretical papers began with a general intuition and a belief; only in the process of writing did I really work out the arguments and figure out what it was I was trying to say. And even then I wasn't done; criticisms and complaints from reviewers forced to me to make my arguments even clearer and stronger, and to grapple with important issues that I'd wanted to avoid. Revising in response to reviewer feedback has made many of my papers much, much better.
+
 
 
 # 3. To provide motivation, milestones, and standards
