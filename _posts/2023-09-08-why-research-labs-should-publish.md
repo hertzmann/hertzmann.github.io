@@ -79,8 +79,16 @@ This is indeed a good reason to publish. Speaking for myself, publishing new res
 
 However, treating publication as merely an employee benefit—like vacation time and breakroom snacks—is a big mistake. **_Publication should not be something that researchers are "allowed" to do in, separate from their "real work." It should be considered a major part of their real work._**
 
+# 2. To better think through and record research
 
-# 2. To provide motivation, milestones, and standards
+**Writing is an integral part of the research process.** When you write something down, you realize things you hadn't thought of before, you discover holes in the reasoning, you discover related works that you hadn't found before. Writing forces you to work out the thought process of the work. In a sense, **writing is organized thinking.** Writing for publication forces you to hold your writing to a higher standard.  It forces you to record things enough to be, ideally, clear to a disinterested reader, and to be reproducible. 
+
+I've had so many experiences where I really just wanted to act like some nagging question about the work didn't exist, or wanted to ignore closely-related paper that we discovered late in the process. Peer-reviewed publication forced us to confront these issues and figure them out, and the work was better for it.
+
+In the whitepaper model, there are no real standards, and so it is very easy to engage in lazy writing and lazy thinking; in fact, it's incentivized, if the mere act of writing whitepapers is rewarded.
+
+
+# 3. To provide motivation, milestones, and standards
 
 During the process of a research project, you have many questions to answer. What are the long-term goals of the project, and how can we break down those goals into shorter-term milestones?  How hard should we work on it? What demos should we build?  How do we evaluate it, and how do we know how well it works? How should we document the project? 
 
@@ -93,7 +101,10 @@ Conversely, it's simply hard for researchers to know if their work is any good. 
 Publishing a paper is a potentially a lot more work than writing a whitepaper, and, again, just because something's published doesn't mean it's good. Everyone knows that peer-reviewed publication models have many flaws and biases, e.g., incrementalism, [overreliance on onerous evaluations.](/2020/10/21/quantitative-evaluation.html)  But, used well, publication really helps motivate and refine ideas.  Sometimes just the existence of an external deadline makes a huge difference.
 
 
-# 3. To support internal communication and discovery
+
+
+
+# 4. To support internal communication and discovery
 
 Another seeming paradox of research is that, sometimes, the best way to share information internally is to share information externally.
 
@@ -110,7 +121,7 @@ It doesn't seem like it _should_ be hard. Researchers should make databases on w
 Only rarely does a paper directly solve the real problem that product teams have; research projects allow researchers to build expertise that they can use to help product teams.  You can't really tell from a database of whitepapers who really knows what. 
 
 
-# 4. To get feedback from the research community
+# 5. To get feedback from the research community
 
 Suppose you wanted detailed feedback on a project from academic experts.  How much would it cost? How hard would it be to recruit them?  
 
@@ -127,24 +138,24 @@ I am forever indebted to that anonymous reviewer several years ago who, in the p
 Once you publish the paper, you can get more feedback: feedback from conference-goers, feedback from social media.  People may make suggestions—or use your work—in directions you'd never thought of.
 
 
-# 5. For researcher evaluation
+# 6. For researcher evaluation
 
 Having researchers publish gives a sense of how their research is doing, especially if their work gets extra recognition or leads to invitations and awards.
 
 This has the obvious pitfalls: researchers shouldn't be evaluated by paper counting, and a company that purely incentivizes submissions puts an undue burden on the research community.  
 
-# 6. To stay engaged with the community
+# 7. To stay engaged with the community
 
 Research is a community, or, rather, a set of communities. Participation comes from publishing, reviewing, serving on communities, giving talks, chairing conferences and journals, writing reference letters, mentoring junior researchers, and attending conferences and other meetings. Much of this is service to the academic community.  
 
 Industry researchers who participate deeply in the community become part of the community, building valuable social relationships that  allow them to keep their finger on the pulse of research  and to recruit. Conversely, industry researchers and developers that do not participate may be seen as only taking from academia and not giving back. Industry labs are often seen positively or negatively by academia by how much they support or give back to the community.
 
 
-# 7. To inspire research in areas the company cares about
+# 8. To inspire research in areas the company cares about
 
 Publishing research in an area can inspire outside researchers to work on things the company cares about. I've heard stories of this working well.
 
-# 8. Flag planting
+# 9. Flag planting
 
 I've heard that publication can help defend against certain kinds of frivolous lawsuits, since they demonstrate publicly that you had a specific idea at by a specific time, so other people shouldn't be able to later patent that idea and sue you for infringement.
 
