@@ -85,7 +85,7 @@ Here are microscopic images of two parts of the retina. On the left is the cente
 </center>
 The fovea is densely packed with cones, which measure light under normal conditions. On the right, another portion of the retina (at a 30-degree angle from the gaze direction) has sparser cones, and is mixed in with the larger rods, that primarily operate in low-light conditions. 
 
-It's a bit like a camera sensor that captures high-resolution at the center, and has fewer and fewer pixels the further you get from the center.   Moreover, as I'll explain later, our brains don't encode all the "pixels" outside the fovea. Instead, brains summarizes them with statistics.  
+It's a bit like a camera sensor that captures high-resolution at the center, and has fewer and fewer pixels the further you get from the center.   Moreover, as I'll explain later, our brains don't keep all the "pixels" outside the fovea. Instead, brains summarizes them with statistics.  
 
 These two facts together mean that we can't recognize information nearly as well outside the fovea as inside.
 
