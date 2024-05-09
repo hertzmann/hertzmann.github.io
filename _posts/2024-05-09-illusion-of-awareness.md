@@ -87,7 +87,7 @@ The fovea is densely packed with cones, which measure light under normal conditi
 
 It's a bit like a camera sensor that captures high-resolution at the center, and has fewer and fewer pixels the further you get from the center.   Moreover, as I'll explain later, our brains don't keep all the "pixels" outside the fovea. Instead, brains summarizes them with statistics.  
 
-These two facts together mean that we can't recognize information nearly as well outside the fovea as inside.
+These two facts together mean that we can't recognize things nearly as well outside the fovea as inside.
 
 
 # Eye movements 
