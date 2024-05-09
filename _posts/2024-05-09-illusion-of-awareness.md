@@ -149,11 +149,7 @@ If you're hunting around for a red keychain, you'll be attuned to finding red th
 
 In the 2020 paper that inspired my interest in this topic, Ruth Rosenholtz of MIT argues that [many of kinds of surprising phenomena, like the ones I'm describing here, come from the limitations of peripheral vision](https://link.springer.com/article/10.3758/s13414-019-01968-1).  
 
-Here's are some of the examples.
-
-# Visual search
-
-Let's see how the sensitivity to clutter (the **XVK** example above) affects <a href="https://en.wikipedia.org/wiki/Visual_search">searching for things</a>, like your keys.
+**Visual Search** is a key example of the role of peripheral vision. Let's see how the sensitivity to clutter (the **XVK** example above) affects <a href="https://en.wikipedia.org/wiki/Visual_search">searching for things</a>, like your keys.
 
 First, there's a red **X** in the following picture. How quickly can you find it?
 
