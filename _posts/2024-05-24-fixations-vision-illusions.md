@@ -233,8 +233,8 @@ Trying moving your eyes within one of the circles. Note that the circle you fixa
 In the **[Pinna illusion](http://www.scholarpedia.org/article/Pinna_illusion)**, you fixate on the center of the picture, and then move your head closer to the picture (or move the picture closer to your head). The circles will appear to rotate.
 <center>
 	<figure>
-		<a href="../../../images/illusions/pinna.jpeg">
-		<img src="../../../images/illusions/pinna.jpeg" width="480"></a>
+		<a href="../../../images/illusions/pinna.jpg">
+		<img src="../../../images/illusions/pinna.jpg" width="480"></a>
 	</figure>
 	<figcaption><i><a href="https://x.com/AkiyoshiKitaoka/status/1787988556767690956">"Pinna illusion" by Akiyoshi Kitaoka, based on illusion by Baingio Pinna</a></i></figcaption>
 </center>
