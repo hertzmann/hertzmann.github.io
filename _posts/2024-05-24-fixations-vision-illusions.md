@@ -76,7 +76,7 @@ For example, if you stare at the top **+**, then it should be easy to recognize 
 </figure>
 </center>
 
-This is because of the **peripheral visual encoding**: the brain doesn't just store a blurry picture of the light in peripheral vision, it summarizes it with statistical measurements. At this statistical encoding can mix things together, losing information about which letter is which when there are multiple letter.
+This is because of the [**peripheral visual encoding**](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-082114-035733): the brain doesn't just store a blurry picture of the light in peripheral vision, it summarizes it with statistical measurements. At this statistical encoding can mix things together, losing information about which letter is which when there are multiple letter.
 
 I hypothesize that **for the illusions on this page, the fact that things look different when viewed directly, versus in peripheral vision, suggests that peripheral visual encodings cause the illusions.**
 
