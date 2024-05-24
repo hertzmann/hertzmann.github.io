@@ -187,7 +187,9 @@ In this spirit, here's how knowing the limitations of peripheral vision can help
 
 A few times in the past, I've fallen into the trap of looking at my phone while biking or driving. I told myself that I'd still be aware of the road because I was keeping it in sight above my phone.  Then I'd look up and realize that I'd had no idea what had happened on the road during that time—a chilling thought.
 
-**Memory-related phenomena.** Additionally, our visual memories exhibit similar phenomena, including change blindness (like the changing interviewers), and the [Visual Mandela Effect](https://journals.sagepub.com/doi/full/10.1177/09567976221108944) which involves shared, specific false visual memories of logos.  Or, consider the myriad shapes people drew when [asked to draw a bicycle from memory](https://www.behance.net/gallery/35437979/Velocipedia). In each of these cases, we are wrongly confident of a visual memory.  
+* **Infographics.** The way that we understand charts and infographics also depend on awareness; [researchers have shown change blindness effects for infographics](https://talboger.github.io/files/BogerMostFranconeri_VIS_2021.pdf). 
+
+* **Memory-related phenomena.** Additionally, our visual memories exhibit similar phenomena, including change blindness (like the changing interviewers), and the [Visual Mandela Effect](https://journals.sagepub.com/doi/full/10.1177/09567976221108944) which involves shared, specific false visual memories of logos.  Or, consider the myriad shapes people drew when [asked to draw a bicycle from memory](https://www.behance.net/gallery/35437979/Velocipedia). In each of these cases, we are wrongly confident of a visual memory.  
 
 These examples might be due to peripheral vision (not having registered all the details of a shape or scene, but thinking we have), memory (misremembering details), or some combination of the two. 
 

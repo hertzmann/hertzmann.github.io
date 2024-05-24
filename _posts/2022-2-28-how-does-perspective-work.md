@@ -12,6 +12,8 @@ og:image: /images/perspective/goat.jpg
 
 _**Note: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759).**_
 
+_**Note: I have a new blog post coming soon that proposes new ways to understand the "natural perspective" issue discussed in this post.**_
+
 _"So the lens has been a dominant thing for six hundred years now, and I think depictions need to get away from that, really. If you do, marvellous things can happen."_—[David Hockney, 2022](https://www.newyorker.com/culture/the-new-yorker-interview/a-tour-of-david-hockneys-newest-painting-series)
 
 Have you ever had the experience of photographing something faraway, and, in the photo it looked far too small compared to its surroundings?
@@ -95,10 +97,9 @@ There seems like something of a paradox here. On one hand, we don't perceive the
 <center>
 <figure>
    <p float="left">
-   <img src="../../../images/perspective/high-street-by-turner.jpg" alt="Turner's High Street painting"/>
-   <img src="../../../images/perspective/high-street-by-fisher.jpg" alt="Cezanne painting"/>
+   <img src="../../../images/perspective/high-street-by-turner.jpg" alt="Turner's High Street painting" width="45%"/>&nbsp;<img src="../../../images/perspective/high-street-by-fisher.jpg" alt="Turner painting"  width="45%"/>
 </p>
-  <figcaption align="center"><i>Turner's <a href="https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting)">High Street, Oxford</a>, 1810, and <a <a href="https://fisherstudios.co.uk/photography-blog/j-m-w-turners-oxford-high-street/">a photograph of High Street by David Fisher</a>, 2015</i></figcaption>
+  <figcaption align="center"><i>Turner's <a href="https://en.wikipedia.org/wiki/High_Street,_Oxford_(painting)">High Street, Oxford</a>, 1810, and <a href="https://fisherstudios.co.uk/photography-blog/j-m-w-turners-oxford-high-street/">a photograph of High Street by David Fisher</a>, 2015</i></figcaption>
 </figure>
 </center>
 Note how much bigger the towers appear in the painting.
