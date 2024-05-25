@@ -367,5 +367,5 @@ For more discussion of how peripheral vision relates to realistic pictures and t
 
 ------
 
-Thanks to Akiyoshi Kitaoka
+_Thanks to Akiyoshi Kitaoka_
 
