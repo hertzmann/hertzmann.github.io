@@ -356,7 +356,7 @@ For discussion of peripheral vision, see:
 
 * Ruth Rosenholtz. [**Capabilities and limitations of peripheral vision**](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-082114-035733). _Annual Review of Vision Science_, 2016.
 
-To generate spatial metamers, I used code from this paper, which includes a good background discussion of metamer generatino:
+To generate spatial metamers, I used code from this paper, which includes a good background discussion of metamer generation:
 
 * Rachel Brown, Vasha DuTell, Bruce Walter, Ruth Rosenholtz, Peter Shirley, Morgan McGuire, David Luebke. [**Efficient Dataflow Modeling of Peripheral Encoding in the Human Visual System.**](https://dl.acm.org/doi/full/10.1145/3564605) _ACM Trans. Applied Perception._ 2023.
 
