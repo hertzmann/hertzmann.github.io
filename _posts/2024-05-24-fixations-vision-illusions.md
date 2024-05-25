@@ -31,7 +31,7 @@ Here's a pattern in which the lines look curved and tilted:
 
 Yet, if you search over the image, you won't find any individual lines that are curved or tilted.
 
-This is callled the [Cafe Wall illusion](https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion), and was first described by 19th-Century psychologist. It gets its name from the pattern of tiles on the wall of a cafe.
+This is called the [Café Wall illusion](https://en.wikipedia.org/wiki/Caf%C3%A9_wall_illusion), and the first version of it was described by 19th-Century psychologist. It now gets its name from the pattern of tiles on the wall of a cafe.
 
 Here's the same picture, but with lower-contrast tiles, to demonstrate that the lines are actually straight:
 
@@ -364,4 +364,8 @@ For more discussion of how peripheral vision relates to realistic pictures and t
 
 * A. Hertzmann. Toward a Theory of Perspective Perception in Pictures. _Journal of Vision_. April 2024, 24(4). \[[Paper](https://jov.arvojournals.org/article.aspx?articleid=2793609)\] \[[Webpage](https://www.dgp.toronto.edu/~hertzman/perspective/)\] 
 
+
+------
+
+Thanks to Akiyoshi Kitaoka
 
