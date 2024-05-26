@@ -76,7 +76,7 @@ For example, if you stare at the top **+**, then it should be easy to recognize 
 </figure>
 </center>
 
-This is because of the [**peripheral visual encoding**](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-082114-035733): the brain doesn't just store a blurry picture of the light in peripheral vision, it summarizes it with statistical measurements. At this statistical encoding can mix things together, losing information about which letter is which when there are multiple letter.
+This is because of the [**peripheral visual encoding**](https://www.annualreviews.org/doi/abs/10.1146/annurev-vision-082114-035733): the brain doesn't just store a blurry picture of the light in peripheral vision, it summarizes it with statistical measurements. At this statistical encoding can mix things together, losing information about which letter is which when there are multiple letters.
 
 I hypothesize that **for the illusions on this page, the fact that things look different when viewed directly, versus in peripheral vision, suggests that peripheral visual encodings cause the illusions.**
 
@@ -287,7 +287,7 @@ The rapid appearance and disappearance indicates that it cannot be due to static
 
 Here are some visual illusions that, I think, are not due to peripheral visual encoding, but, just to the fact that we must move our eyes to interpret pictures, and we never seem to store the whole picture in our brains.  
 
-So you're continually interpreting the current fixation in terms of an abstract notion of the surroundings. This works fine with the 3D scene or picture represents a consistent scene, but what about when the picture is impossible? For example, in impossible pictures, each fixation looks reasonable, but the overall shape doesn't add up:
+So you're continually interpreting the current fixation in terms of an abstract notion of the surroundings. This works fine when the 3D scene or picture represents a consistent scene, but what about when the picture is impossible? For example, in impossible pictures, each fixation looks reasonable, but the overall shape doesn't add up:
 
 <center>
 	<figure>
@@ -346,7 +346,7 @@ The train appears to move, when it's standing still. But, if you fixate on the o
 
 # Further reading
 
-For discussion of how the illusion of awareness and peripheral vision, see [**my previous blog post**](/2024/05/09/illusion-of-awareness.html).
+For discussion of the illusion of awareness and peripheral vision, see [**my previous blog post**](/2024/05/09/illusion-of-awareness.html).
 
 For more amazing illusions, see [Akiyoshi Kitaoka's illusion pages](https://www.ritsumei.ac.jp/~akitaoka/index-e.html), and, relevant to this post, his review of tilt illusions:
 
