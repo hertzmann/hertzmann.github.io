@@ -272,6 +272,7 @@ In the **Hermann grid** of 1870, dots appear at the corners depending on where y
 		<img src="../../../images/illusions/HermannGrid.png"></a>
 	</figure>
 </center>
+When I generated a metamer for this illusion, it didn't look different from the original, evidence against peripheral encoding as a cause (but I only tried one parameter setting, and perhaps tried, say, the wrong scale).
 
 In the **Scintillating dots illusion** dots appear and disappear as you move your eyes:
 <center>
@@ -281,6 +282,24 @@ In the **Scintillating dots illusion** dots appear and disappear as you move you
 	</figure>
 </center>
 The rapid appearance and disappearance indicates that it cannot be due to static peripheral encodings, but it could be due to peripheral motion encodings.
+
+In [this **color grid illusion** by Akiyoshi Kitaoka](https://x.com/AkiyoshiKitaoka/status/1794883549243617664), crosses appear yellow only in peripheral vision:
+<center>
+	<figure>
+		<a href="../../../images/illusions/color_grid.jpg">
+		<img src="../../../images/illusions/color_grid.jpg"  width="40%"></a>
+	</figure>
+</center>
+This seems to depend a lot on viewing it at the right size.
+
+In [the **Paperclip Illusion**](https://www.reddit.com/r/illusionporn/comments/13u8gm7/the_paperclip_illusion/), the straight lines seem to bend into paperclips in peripheral vision:
+<center>
+	<figure>
+		<a href="../../../images/illusions/paperclip.jpg">
+		<img src="../../../images/illusions/paperclip.jpg"></a>
+	</figure>
+</center>
+
 
 
 # Illusions due to fragmentary awareness
@@ -367,5 +386,5 @@ For more discussion of how peripheral vision relates to realistic pictures and t
 
 ------
 
-_Thanks to Akiyoshi Kitaoka_
+_Thanks to Akiyoshi Kitaoka and Gavin Buckingham._
 
