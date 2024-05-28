@@ -249,6 +249,14 @@ Your browser does not support the video tag.
 <figcaption><i><a href="https://jov.arvojournals.org/article.aspx?articleid=2191978">Furrow illusion by Stuart Anstis</a></i></figcaption></figure>
 </center>
 
+Here's one that combines tilt (horizontal lines appear tilted) with illusory motion:
+
+<center>   <figure>
+		<a href="../../../images/illusions/motion-lines.jpg"><img src="../../../images/illusions/motion-lines.jpg" width="480"></a>
+<figcaption><i><a href="https://x.com/AkiyoshiKitaoka/status/1795067488381645055">Illusion by Akiyoshi Kitaoka</a></i></figcaption></figure>
+</center>
+
+
 In the **Leviant Traffic illusion**, motion appears in the outer rings when you fixate on the center of this pattern (you might need to expand the picture to a large size by clicking on it):
 
 <center>   <figure>
@@ -257,6 +265,8 @@ In the **Leviant Traffic illusion**, motion appears in the outer rings when you 
 </center>
 
 This is a version of the [**MacKay Chrysanthemum**](https://www.frontiersin.org/files/Articles/875829/fnhum-16-875829-HTML-r2/image_m/fnhum-16-875829-g010.jpg). 
+
+
 
 A further extension is Tyler's [**Perceptual Tachyons**](https://www.frontiersin.org/articles/10.3389/fnhum.2022.875829/full). [This is a very striking and cool illusion that you can view here](https://www.dgp.toronto.edu/~hertzman/tachyons/).
 
@@ -299,7 +309,7 @@ In [the **Paperclip Illusion**](https://www.reddit.com/r/illusionporn/comments/1
 		<img src="../../../images/illusions/paperclip.jpg"></a>
 	</figure>
 </center>
-
+(Some additional analysis <a href="https://x.com/DrGBuckingham/status/1533895670175870977">in this thread.</a>)
 
 
 # Illusions due to fragmentary awareness
