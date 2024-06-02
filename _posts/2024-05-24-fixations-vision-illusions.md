@@ -9,11 +9,15 @@ og:image: "/images/illusions/ranso-entangle01.jpg"
 
 # Visual Illusions Explainable by the Limitations of Peripheral Vision
 
-What happens when you look at a picture? Your eyes move over the picture, to take in different parts of it.  In each eye _fixation_ on a picture, we get a sense of part of a picture, and piece those different parts together in some way. Most of the time, we don't really think about these eye movements and the role they play.
+What happens when you look at a picture? Your eyes move over the picture, to take in different parts of it.  In each eye fixation on a picture, you get a sense of part of a picture, and piece those different parts together in some way. 
 
-But something complicated is happening in the way we connect these fixations. This blog post describes a set of [visual illusions (a.k.a. optical illusions)](https://en.wikipedia.org/wiki/Optical_illusion) that reveal these complications.  
+Most of the time, we don't really think about these eye movements and the role they play. But something complicated is happening in the way we connect these fixations. 
 
-All of these examples create illusory impressions of change when you move your eyes from one part to another. They do this by giving you a very different impression of a part of the picture when you like right at it, versus when you look to the side. It's very weird for part of a still image to look different depending on where you fixate.
+This blog post describes a set of [visual illusions (a.k.a. optical illusions)](https://en.wikipedia.org/wiki/Optical_illusion) that reveal these complications.  
+
+All of these examples give a very different impression of a part of the picture when you like right at it, versus when you look to the side. This creates an illusory sense that the picture changes whenever you move your eyes from one part to another. 
+
+It's very weird for part of a still image to look different depending on where you fixate.
 
 **I hypothesize that these phenomena can be explained by peripheral visual encodings,** which I'll explain below. These illusions demonstrate the importance of peripheral vision in perceiving pictures, and what happens when peripheral vision get "confused," and how it does. 
 
