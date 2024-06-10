@@ -41,7 +41,7 @@ Sociologists and psychologists have several theories why some people tend to cat
 
 # We prefer the music of our formative years
 
-Something similar happens with artistic taste. So many times have I heard someone say "All of today's music sucks, it was better in the 90s" or "the 80s" or in the days of The Beatles and Elvis. Somehow it has all gone downhill since the speaker came of age.  Indeed, [numerous studies show that people prefer the music from their youth](https://journals.sagepub.com/doi/10.1177/2059204320965058). 
+Something similar happens with artistic taste. So many times have I heard someone say "All of today's music sucks, it was better in the 90s" or "the 80s" or in the days of The Beatles and Elvis. Somehow it has all gone downhill since the speaker came of age.  Indeed, [numerous studies show that people prefer the music from their youth](https://journals.sagepub.com/doi/10.1177/2059204320965058).   [Here's another study with similar conclusions](https://www.washingtonpost.com/business/2024/05/24/when-america-was-great-according-data/).
 
 I found my favorite example years ago when I bought a CD reissue of "Getz/Gilberto," which included <a href="https://coverartarchive.org/release/07965278-f955-44a5-b41f-ea03a2f3e303/28682913595.pdf">these liner notes by a jazz critic</a>:
 
