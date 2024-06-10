@@ -199,7 +199,7 @@ This is why people take selfies at arms-length. Here are four photos of the same
 <center>
 <figure>
    <img src="../../../images/perspective/cooper2012_face.jpg" alt="Photo of a person at different focal lengths"/>
-  <figcaption align="center"><i>Photos of the same person at different focal lengths, from <a href="https://jov.arvojournals.org/article.aspx?articleid=2192052">Cooper et al.</a></i></figcaption>
+  <figcaption align="center"><i>Photos of the same person at different focal lengths, from <a href="https://jov.arvojournals.org/article.aspx?articleid=2192052">Cooper et al. (2012)</a></i></figcaption>
 </figure>
 </center>
 These were photographed from different distances, and zoomed-in accordingly. (This is sometimes called the "dolly-zoom effect," first appearing in the movie Vertigo.). In fact, [one psychology study found](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045301) that photographing people from different distances could affect how attractive and trustworthy people appeared in the photos.
