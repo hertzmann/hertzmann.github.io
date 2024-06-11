@@ -78,7 +78,7 @@ But linear perspective pictures can make things look distorted. Here's a picture
 
 <center>
    <figure>
-      <img src="../../../images/perspective/faces_basketballs.jpg" width="640" height="480" alt="Photo of two people and basketballs illustrating marginal distoriton in picture corners">
+      <img src="../../../images/perspective/faces_basketballs.jpg" width="480" height="360" alt="Photo of two people and basketballs illustrating marginal distoriton in picture corners">
    </figure>
 </center>
 
@@ -106,7 +106,7 @@ Here's that picture again, with a magenta cross to show where the picture's cent
 
 <center>
    <figure>
-      <img src="../../../images/perspective/faces_basketballs_cross.jpg" width="640" height="480" alt="Photo of two people and basketballs illustrating marginal distortion in picture corners">
+      <img src="../../../images/perspective/faces_basketballs_cross.jpg" width="480" height="360" alt="Photo of two people and basketballs illustrating marginal distortion in picture corners">
    </figure>
 </center>
 
