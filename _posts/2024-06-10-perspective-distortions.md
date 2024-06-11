@@ -43,7 +43,7 @@ In the 15th century, Fillipo Brunelleschi and others came up with [**linear pers
 
 <center>
    <figure>
-<video controls>
+<video width="50%" height="50%" controls>
   <source src="../../../images/perspective/Rafael Araujo-3VP-perspective.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -114,7 +114,7 @@ If you display the picture on a large monitor, and move a smartphone camera to t
 
 <center>
    <figure>
-<video  controls>
+<video width="75%" height="75%" controls>
   <source src="../../../images/perspective/COP-viewing.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
