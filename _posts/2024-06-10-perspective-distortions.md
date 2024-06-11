@@ -43,7 +43,7 @@ In the 15th century, Fillipo Brunelleschi and others came up with [**linear pers
 
 <center>
    <figure>
-<video width="288" height="512" controls>
+<video controls>
   <source src="../../../images/perspective/Rafael Araujo-3VP-perspective.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
@@ -78,7 +78,7 @@ But linear perspective pictures can make things look distorted. Here's a picture
 
 <center>
    <figure>
-      <img src="../../../images/perspective/faces_basketballs.jpg" width="480" height="360" alt="Photo of two people and basketballs illustrating marginal distoriton in picture corners">
+      <img src="../../../images/perspective/faces_basketballs.jpg" alt="Photo of two people and basketballs illustrating marginal distoriton in picture corners">
    </figure>
 </center>
 
@@ -106,7 +106,7 @@ Here's that picture again, with a magenta cross to show where the picture's cent
 
 <center>
    <figure>
-      <img src="../../../images/perspective/faces_basketballs_cross.jpg" width="480" height="360" alt="Photo of two people and basketballs illustrating marginal distortion in picture corners">
+      <img src="../../../images/perspective/faces_basketballs_cross.jpg"  alt="Photo of two people and basketballs illustrating marginal distortion in picture corners">
    </figure>
 </center>
 
@@ -114,7 +114,7 @@ If you display the picture on a large monitor, and move a smartphone camera to t
 
 <center>
    <figure>
-<video width="640" height="360" controls>
+<video  controls>
   <source src="../../../images/perspective/COP-viewing.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
