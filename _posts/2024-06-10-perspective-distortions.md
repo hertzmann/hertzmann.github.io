@@ -168,7 +168,7 @@ Here's a picture taken by one of my colleagues, using a Google Pixel phone in ul
 <center>
    <figure>
          <p float="left">
-   <img src="../../../images/perspective/andrew-string.jpg" alt="Wide-angle portrait in Google Pixel"  width="40%"/>&nbsp;<img src="../../../images/perspective/andrew-string-zoom.jpg" alt="Crop on the face" width="40%"/>
+   <img src="../../../images/perspective/andrew-string.jpg" alt="Wide-angle portrait in Google Pixel"  width="40%" height="40%"/>&nbsp;<img src="../../../images/perspective/andrew-string-zoom.jpg" alt="Crop on the face" width="40%" height="40%"/>
 </p>
       <figcaption><i>Photo by Elena Adams</i>
       </figcaption>
