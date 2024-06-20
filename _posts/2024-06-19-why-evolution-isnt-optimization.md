@@ -8,7 +8,7 @@ This post is attempt to explain some reasons that evolution is not optimization,
 
 # Why it's a useful model
 
-I do believe the optimization is a **useful** model for many biological processes that are produced by evolution, as has been argued by many biologists, e.g., ([1](https://www.nature.com/articles/348027a0), [2](https://press.princeton.edu/books/paperback/9780691027982/optima-for-animals), [3](https://www.nature.com/articles/35088155), [4](https://www.nature.com/articles/435569a), [5](https://www.annualreviews.org/content/journals/10.1146/annurev.bb.16.060187.002323)).  
+I do believe that optimization is a **useful** model for many biological processes that are produced by evolution, as has been argued by many biologists, e.g., ([1](https://www.nature.com/articles/348027a0), [2](https://press.princeton.edu/books/paperback/9780691027982/optima-for-animals), [3](https://www.nature.com/articles/35088155), [4](https://www.nature.com/articles/435569a), [5](https://www.annualreviews.org/content/journals/10.1146/annurev.bb.16.060187.002323)).  
 
 
 Although evolution solely optimizes the reproductive fitness of an organism, in practice we often model more easily-measurable quantities as being optimized. So many different aspects of biological systems, from bone density to jumping distances to the photoreceptive sensitivies of cones in the retina, to cognitive inferences, all seem to perfectly optimize the relevant constraints in a system, whether minimizing energy consumption or [Bayesian surprise](https://www.nature.com/articles/nrn2787). 
