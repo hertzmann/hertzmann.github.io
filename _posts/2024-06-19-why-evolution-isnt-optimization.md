@@ -17,10 +17,10 @@ It's natural to think of individual behaviors as optimizing. Consider learning a
 
 For example, in one paper in 2005, [we modeled human motion synthesis as a biomechanical optimization problem](https://grail.cs.washington.edu/projects/charanim/phys-style.html). Like previous works in animation and biomechanics, we generated motions by minimizing some approximation of energy consumption.  Moreover, we could learn the optimization parameters from data, and then predict how an individual might walk under new constraints. This showed one way to make optimization predictive, not just fitting the data, but showing how someone might move under new circumstances.  In subsequent papers, we showed how to [optimize controllers for locomotion](https://www.dgp.toronto.edu/~jmwang/optuie/), and [how to generalize the loss functions to account for uncertainties](https://www.dgp.toronto.edu/~jmwang/optwalk/). There's been tons of work before and since then that optimizes motions as well.
 
-(In the [Free Energy Principle](https://www.nature.com/articles/nrn2787), Karl Friston does seem to directly tie optimal behavior to evolutionary fitness, so maybe he would make stronger claims about evolution as producing optimality. There's also [the head-spinning idea that evolution is a consequence of the 2nd Law of Thermodynamics](https://press.uchicago.edu/ucp/books/book/chicago/I/bo3533936.html), which are fascinating but hard to relate to this discussion.)
+(In the [Free Energy Principle](https://www.nature.com/articles/nrn2787), Karl Friston does seem to directly tie optimal behavior to evolutionary fitness, so maybe he would make stronger claims about evolution as producing optimality. There's also [the head-spinning idea that evolution is a consequence of the 2nd Law of Thermodynamics](http://www.ler.esalq.usp.br/aulas/lce1302/life_as_a_manifestation.pdf), which are fascinating but hard to relate to this discussion.)
 
 
-# Why it's not a good model
+# Why it's not a complete model
 
 
 What it would mean to say that "evolution _is_ optimization"? The argument might be something like this: natural selection continually selects for fitter members of a population, just like an optimization algorithm. Evolutionary pressure over millenia naturally guides every population to select the fittest members, which, in turn, perfects every aspect of an organism, e.g., with optimal gaits, optimal bone densities, and so on. 

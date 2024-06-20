@@ -242,6 +242,7 @@ In the **[Pinna illusion](http://www.scholarpedia.org/article/Pinna_illusion)**,
 	</figure>
 	<figcaption><i><a href="https://x.com/AkiyoshiKitaoka/status/1787988556767690956">"Pinna illusion" by Akiyoshi Kitaoka, based on illusion by Baingio Pinna</a></i></figcaption>
 </center>
+(This illusion is also described in terms of peripheral vision [by Rosenholtz](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/7865/1/What-your-visual-system-sees-where-you-are-not-looking/10.1117/12.876659.short).)
 
 In the **Furrow Illusion,** the circles seem to be moving in different directions depending on whether you're looking right at them, or looking to the side:
 
