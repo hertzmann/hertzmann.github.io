@@ -1,4 +1,4 @@
-# Why Evolution Isn't Optimization
+# Why Evolution Isn't Just Optimization
 
 
 As a computer scientist, it's natural to think of evolution as a [numerical optimization](https://en.wikipedia.org/wiki/Mathematical_optimization) process. After all, the process of Darwinian natural selection looks a lot like optimization: if two related genotypes give different outcomes—one is slightly more successful than the other in survival, than Darwin favors the former one.  There are so many aspects of our lives that seem to be perfectly fine-tuned.  So, for many of us, it is tempting to say that "evolution _is_ optimization." The biologists say this is wrong, but it's taken me awhile to come to understand why, while still acknowledging the power of optimization in modelind biological systems and real life. 
