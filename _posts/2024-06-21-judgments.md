@@ -51,9 +51,9 @@ So, it's not that I _shouldn't_ work from photographs, but it's _useful_ to me n
 
 (It would be cheating if you deceived people, say, painted from a photograph and then _told people_ you painted from plein air).
 
-Drawing from real life is an immensely valuable practice. It's really hard. It forces you to think make many more decisions and choices, rather than just [leaving them to the camera to make](https://jov.arvojournals.org/Article.aspx?articleid=2783759).  It's really valuable experience.  When I first got back into drawing in 2019, and tried drawing from a photograph, I found the drawings to be [dull and lifeless. But 5 years later and I think my drawings from photos really improved, largely _because_ of my experience drawing from life.](/2023/03/30/can-you-tell-photography.html)
+Drawing from real life is an immensely valuable practice. It's really hard. It forces you to think make many more decisions and choices, rather than just [leaving them to the camera to make](https://jov.arvojournals.org/Article.aspx?articleid=2783759).  It's really valuable experience.  When I first got back into drawing in 2019, and tried drawing from a photograph, I found the drawings to be [dull and lifeless But, now, 5 years later, and I think my drawings from photos really improved,](/2023/03/30/can-you-tell-photography.html) largely _because_ of my experience drawing from life.
 
-I make really different pictures [when I draw from photos versus when I draw from real-life. They have a really different look. It's a different style.](/2023/03/30/can-you-tell-photography.html)
+I make really different pictures [when I draw from photos versus when I draw from real-life. ](/2023/03/30/can-you-tell-photography.html) They have a really different look. It's a different style. Both techniques have their place.
 
 The same goes for almost any other constraints. For a long time, I didn't use layers in my drawing app because it felt like cheating. It was good experience to work without them. But then I started using them, and it was worthwhile. Now I don't use them nearly as much as I could; I see them as a tool but they also take extra time to manage, so I use them sparingly. And, the style of a picture made with layers can be noticably different from one made without. The experience of forcing myself to work without layers was really valuable. 
 
