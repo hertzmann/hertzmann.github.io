@@ -31,7 +31,9 @@ You have to make individual decisions all the time when you make art. Which brus
 
 When I started drawing again in 2019, I confronted this a lot. [I thought that drawing from a photograph, instead of drawing from life, was "cheating."](/2020/10/12/the-goal-of-painting.html)  I thought that drawing digitally on an iPad, instead of using real, physical media was "cheating."
 
-Sometimes those decisions, too, get corrupted by judgements: "I shouldn't work from a photograph". Like we have a sense of how we _should_ or _shouldn't_ make art, based on some vague value-system about good or bad art that we can't quite articulate. In [psychology-speak](https://www.psychologytools.com/resource/should-statements/): "'Should' statements ... are a common cognitive distortion or ‘unhelpful thinking style’. 'Should' statements are characterized by imposing fixed ‘rules’ on how the self, others, and the world should operate, coupled with overestimations of how awful it would be if these expectations are not met."
+Sometimes those decisions, too, get corrupted by judgements: "I shouldn't work from a photograph". Like we have a sense of how we _should_ or _shouldn't_ make art, based on some vague value-system about good or bad art that we can't quite articulate. 
+
+In [psychology-speak](https://www.psychologytools.com/resource/should-statements/): "'Should' statements ... are a common cognitive distortion or ‘unhelpful thinking style’. 'Should' statements are characterized by imposing fixed ‘rules’ on how the self, others, and the world should operate, coupled with overestimations of how awful it would be if these expectations are not met."
 
 If you feel these "should" or "good" or "bad" judgments strongly, it's worth asking yourself where they come from. What would really be so bad about not doing what you "should"?
 
