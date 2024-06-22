@@ -86,11 +86,15 @@ In several conversations I've had recently, people said they had stopped drawing
 
 # The mythology around creativity
 
-[The Romantic art movement created a powerful mythology around art](/2022/09/27/art-eras.html) that persists and distorts our perceptions today: _art should be pure_, _the artist should work from pure inspiration and talent_, _art should be uncommercial, original, and unique_, _artists should not care about their audience_.
+[The Romantic art movement created a powerful mythology around art](/2022/09/27/art-eras.html) that persists and distorts our perceptions today: 
+* _art should be pure_.
+* _the artist should work from their inner inspiration and talent_.
+* _art should be uncommercial, original, and unique_.
+* _artists should not care about their audience_.
 
-Banish these "shoulds." Instead, figure out what the real concerns they represent, and pay attention to those. For example, I think there's useful signal in listening to how other people respond to  your work. But I think it's dangerous to only do what other people want; you might miss opportunities or trying the things that are most helpful for you. 
+Banish these "shoulds." Instead, figure out what the real concerns they represent, and pay attention to those. There are often good reasons to follow some of these rules, but sometimes they get in the way. For example, I think there's useful signal in listening to how other people respond to your work. But I think it's dangerous to only do what other people want, or to internalize every bit of criticism. You might miss opportunities or trying the things that are most helpful for you. 
 
-[Neil Cohn has argued that these "shoulds" have harmed generations of art students.](https://www.visuallanguagelab.com/2021/03/from-learning-to-draw-to-acquiring-a-visual-vocabulary.html)  For many years, art students were told they should be creative and not learn by copying. But copying is a really valuable practice for training, and he describes a real fall-off in drawing progress in Western countries with this creativity focus versus Japan where copying is not discouraged.
+[Neil Cohn has argued that some of these "shoulds" have harmed generations of art students.](https://www.visuallanguagelab.com/2021/03/from-learning-to-draw-to-acquiring-a-visual-vocabulary.html)  For many years, art students were told they should be creative and not learn by copying. But copying is a really valuable practice for training, and he describes a real fall-off in drawing progress in Western countries with this creativity focus versus Japan where copying is not discouraged.
 
 
 # Practicing skills of creativity
