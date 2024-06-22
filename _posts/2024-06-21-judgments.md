@@ -6,6 +6,8 @@ This post is solely about your own personal practice, not the kinds of professio
 
 This post was spurred by many conversations I've had recently and over the years, especially with colleagues who draw or paint as a hobby and often feel insecure about it (as I have done as well). 
 
+I'm trying to write more blog posts that have less editing, so this post is not currently edited much, but still it took awhile.
+
 # Making judgments
 
 For people who have the time and enthusiasm to make art, I believe that 
@@ -104,5 +106,7 @@ Drawing and painting help us practice some of [the actual skills of creativity](
 You constantly have to make decisions, and these decisions almost never have clear answers. You need to experiment, explore, and develop intuitions.  You need to be comfortable with uncertainty, and without the kind of judgments that kill exploration. 
 
 You need to be open to new experiences and ideas, to try things without judgments.
+
+Improv is another real exercise in immediate openness to new ideas, and accepting and welcoming the unexpected without judgment, and seeing where it leads.
 
 These experiences can help in other parts of your life as well. For example, so much of my research ideas and blog have been informed by my art experience.
