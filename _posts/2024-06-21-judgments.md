@@ -101,4 +101,8 @@ Banish these "shoulds." Instead, figure out what the real concerns they represen
 
 Drawing and painting help us practice some of [the actual skills of creativity](/2023/03/06/open-ended-exploration.html). Which brush should you try? Which scene should you try? Is it worth spending more time on this drawing, or give up on it? Maybe it's finished? Maybe it's time to take a break, or maybe time to work harder?  Do the thing that's easy and appealing to explore it more, or force yourself to do something difficult? 
 
-You constantly have to make decisions, and these decisions almost never have clear answers. You need to experiment, explore, and develop intuitions.  You need to be comfortable with uncertainty, and without the kind of judgments that kill exploration.
+You constantly have to make decisions, and these decisions almost never have clear answers. You need to experiment, explore, and develop intuitions.  You need to be comfortable with uncertainty, and without the kind of judgments that kill exploration. 
+
+You need to be open to new experiences and ideas, to try things without judgments.
+
+These experiences can help in other parts of your life as well. For example, so much of my research ideas and blog have been informed by my art experience.
