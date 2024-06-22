@@ -53,6 +53,8 @@ So, it's not that I _shouldn't_ work from photographs, but it's _useful_ to me n
 
 (It would be cheating if you deceived people, say, painted from a photograph and then _told people_ you painted from plein air).
 
+In fact, it's often said that imposing artificial constraints is an important—or necessary—step in making art. 
+
 Drawing from real life is an immensely valuable practice. It's really hard. It forces you to think make many more decisions and choices, rather than just [leaving them to the camera to make](https://jov.arvojournals.org/Article.aspx?articleid=2783759).  It's really valuable experience.  When I first got back into drawing in 2019, and tried drawing from a photograph, I found the drawings to be [dull and lifeless But, now, 5 years later, and I think my drawings from photos really improved,](/2023/03/30/can-you-tell-photography.html) largely _because_ of my experience drawing from life.
 
 I make really different pictures [when I draw from photos versus when I draw from real-life. ](/2023/03/30/can-you-tell-photography.html) They have a really different look. It's a different style. Both techniques have their place.
