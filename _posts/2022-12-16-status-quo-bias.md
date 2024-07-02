@@ -41,7 +41,16 @@ Sociologists and psychologists have several theories why some people tend to cat
 
 # We prefer the music of our formative years
 
-Something similar happens with artistic taste. So many times have I heard someone say "All of today's music sucks, it was better in the 90s" or "the 80s" or in the days of The Beatles and Elvis. Somehow it has all gone downhill since the speaker came of age.  Indeed, [numerous studies show that people prefer the music from their youth](https://journals.sagepub.com/doi/10.1177/2059204320965058).   [Here's another study with similar conclusions](https://www.washingtonpost.com/business/2024/05/24/when-america-was-great-according-data/).
+Something similar happens with artistic taste. So many times have I heard someone say "All of today's music sucks, it was better in the 90s" or "the 80s" or in the days of The Beatles and Elvis. Somehow it has all gone downhill since the speaker came of age.  Indeed, [numerous studies](https://link.springer.com/article/10.1007/s11002-022-09626-7) [show that people prefer the music from their youth](https://journals.sagepub.com/doi/10.1177/2059204320965058).  A more recent study reported by the Washington Post [reached similar conclusions](https://www.washingtonpost.com/business/2024/05/24/when-america-was-great-according-data/).
+
+<center>
+<figure>
+   <p float="left">
+   <a href="../../../images/statusquo/goodmusic.jpg"><img src="../../../images/statusquo/goodmusic.jpg" alt="Study results showing 'All good music came after I was born, and before I hit 35'" width="60%"/></a>
+</p>
+</figure>
+</center>
+
 
 I found my favorite example years ago when I bought a CD reissue of "Getz/Gilberto," which included <a href="https://coverartarchive.org/release/07965278-f955-44a5-b41f-ea03a2f3e303/28682913595.pdf">these liner notes by a jazz critic</a>:
 
@@ -55,11 +64,17 @@ I found my favorite example years ago when I bought a CD reissue of "Getz/Gilber
 
 For this critic, it was self-evident that pop music had become garbage by 1956, and was garbage ever since then.
 
-More recently, here's a video with a strong "they don't make good music anymore" vibe, especially in the comments.
+More recently, here's a video with a strong "they don't make good music anymore" vibe:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RUe0o9VRgMM?si=N0kd1ikBKedX2NES" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </center>
 
-While I've enjoyed a lot of Rick Beato's videos—and he clearly knows way more about music than I do—here he's making a lot of snap decisions, out-of-context, comparing new songs according to some of his treasured, sentimental favorites of the 80s and earlier.  The first comment on YouTube is "The problem is that everything sounds like an inferior copy of something better you've already heard."  Of course: if you've already formed your ideas of what good music is, then everything new can only be compared to what you've heard before, and it can never be as good. But maybe this is a criticism of commercial, pushed-by-Spotify music, which might be a more legitimate concern.
+While I've enjoyed a lot of his videos—and he clearly knows way more about music than I do—here he's making a lot of snap decisions, out-of-context, comparing new songs according to some of his treasured, sentimental favorites of the 80s and earlier. 
+
+Notably, many of the comments agreeing with the video talk about childhood memories.  The first comment that appears is "The problem is that everything sounds like an inferior copy of something better you've already heard."  Of course: if you've already formed your ideas of what good music is, then everything new can only be compared to what you've heard before, and it can never be as good.  
+
+But maybe this is a criticism of commercial, pushed-by-Spotify music, which might be a more legitimate concern.
+
+In a subsequent video, [he claims music is getting worse because music is too easy to make](https://www.youtube.com/watch?v=1bZ0OSEViyo).  Just like Michaelangelo, who painted in fresco, thought that oil paint was too easy.  
 
