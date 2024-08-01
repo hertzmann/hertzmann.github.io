@@ -1,17 +1,19 @@
 # Judgments that get in the way of making art
 
-In this post I want to share a rule that I find useful in making art as a hobby: avoid the kinds of good/bad/should judgments that get in the way of making art.
-
-This post is solely about your own personal practice, not the kinds of professional decisions that a working artist must make for their business, audience, and reputation.  Although I also don't believe in simple "good"/"bad" judgments in art in general, but that's a whole separate discussion.  
+In this post I want to share a rule that I find useful in making art as a hobby: _avoid the kinds of good/bad/should judgments that get in the way of making art._
 
 This post was spurred by many conversations I've had recently and over the years, especially with colleagues who draw or paint as a hobby and often feel insecure about it (as I have done as well). 
 
-I'm trying to write more blog posts that have less editing, so this post is not currently edited much, but still it took awhile.
+This post is solely about your own personal practice, not the kinds of professional decisions that a working artist must make for their business, audience, and reputation.  Although I also don't believe in simple "good"/"bad" judgments in art in general, but that's a whole separate discussion.  
+
+(I'm trying to write more blog posts that have less editing, so this post is not currently edited much, but still it took awhile.)
 
 # Making judgments
 
 For people who have the time and enthusiasm to make art, I believe that 
+
 | the biggest barrier to making art are _judgments:_ judgments like "I'm not a good artist" or "I shouldn't do X" or "Good art is X." |
+
 As soon as you start calling things "good" and "bad" and "should" and "should not", you put up walls that could prevent you from making stuff that you enjoy, and learning and growing in the process.
 
 |**The first judgment to banish is "I am not a good artist."**|

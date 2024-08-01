@@ -11,8 +11,7 @@ image: /images/howtodraw/fox.jpg
 
 # Why Does Line Drawing Work? A Realism Hypothesis
 
-This page summarizes my new hypothesis about why line drawings work, published in these papers: 
-These ideas were first described in the following paper:
+This page summarizes my new hypothesis about why line drawings work. These ideas were first described in the following paper:
 
 * **A. Hertzmann. Why Do Line Drawings Work? A Realism Hypothesis. _Perception_. 2020. 49(4):439-451.** [Official paper link](https://journals.sagepub.com/doi/abs/10.1177/0301006620908207?journalCode=peca), [arXiv preprint](https://arxiv.org/abs/2002.06260)
 
@@ -126,7 +125,7 @@ ACM Transactions on Graphics. Vol. 22, No. 3. July 2003.**
 
 Also, a significant precursor is:
 
-* **D. E. Pearson, J.A. Robinson. Visual communication at very low data rates. Proc. IEEE.** [Paper](https://ieeexplore.ieee.org/abstract/document/1457470).
+* **D. E. Pearson, J.A. Robinson. Visual communication at very low data rates. Proc. IEEE. 1985.** [Paper](https://ieeexplore.ieee.org/abstract/document/1457470).
 
 For a more complete tutorial/survey on line drawing algorithms, see:
 
