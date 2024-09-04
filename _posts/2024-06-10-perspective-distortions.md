@@ -246,6 +246,8 @@ The faces and spheres do not have any of the marginal distortions that we see in
 
 In all of art history, _I have never seen a linear perspective picture that depicts faces with marginal distortion_, even though there are many, many wide-angle pictures with faces in the margins. This illustrates how rare strict linear perpsective is in art history.
 
+(What's more, none of the art historians or perceptual psychologists I've read seem to have noticed this discrepancy; they sometimes say that Raphael has perfectly followed linear perspective everywhere but the spheres.) 
+
 Art historian Martin Kemp surveyed the classical paintings in Oxford's Ashmolean Museum, and found that only 3% of them _strictly_ followed linear perspective construction rules.  He told me that classical painters often used linear perspective to construct architecture like a stage set, and then moved the people around on it freely.
 
 And, throughout art history, we have far more different kinds of pictures, from cave paintings, to ancient Chinese parallel projections, to Russian reverse perspective, and all the different experiments and styles in Modern art and contemporary art and beyond.
