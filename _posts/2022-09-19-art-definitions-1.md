@@ -31,8 +31,7 @@ We've decided that because defining art is hard, and we've abandoned hope of mea
 
 Art—and the technology that supports it—changes continually, and we need language and understanding to help us navigate these changes, rather than being stuck in 18th-century myths about artistic expression. 
 
-Just a few days ago, an "AI" artist (not from a traditional art background) wrote to say that [my essay on understanding contemporary art](/2020/06/08/wica.html) helped to her to understand some art-world conflicts she'd experienced first-hand.   Gaining fluency in that conversation is very hard, in part because of confusing terminology around art. 
-Ideally, understanding provides better conceptual tools for appreciating art, opening one up to new experiences and ideas. 
+Just a few days ago, an "AI" artist (not from a traditional art background) wrote to say that [my essay on understanding contemporary art](/2020/06/08/wica.html) helped to her to understand some art-world conflicts she'd experienced first-hand.   Gaining fluency in that conversation is very hard, in part because of confusing terminology around art.  Ideally, understanding provides better conceptual tools for appreciating art, opening one up to new experiences and ideas. 
 
 
 
@@ -174,6 +173,11 @@ Craft produces more paradoxical opinions about art.  On one hand, everyday craft
 
 The word "craft" carries many meanings and connotations. I prefer "technical skill" instead of "craft", to avoid that baggage and to avoid making a distinction between art and craft.
 
+<center>
+  <figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KVxAM7PnCdg?si=NY5Za9rHuvIt_WtM&amp;start=157" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</figure>
+</center>
 
 **How should we talk about "art" instead? Go to [Part 2](/2022/09/19/art-definitions-2.html) for my recommendations.**
 ========

@@ -83,7 +83,7 @@ For more about the contemporary art world as its own community, such as the impo
 
 When text-to-image appeared in the past year, [like any new artistic technology, they  encouraged lots of new artistic exploration](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html); such experimentation is sometimes interesting, often tedious, and/or disposable. And, like any new technology these days, there's also a lot of hype.
 
-In the past year, many professional artists and illustrators have lobbied hard against "AI" art, in social media, public writing, and lawsuits.  They don't just make the practical arguments that this work harms their careers, and ethical arguments about training data.  But some of them, make the argument on definitional grounds: they say _this is not art_. 
+In the past year, many professional artists and illustrators have lobbied hard against "AI" art, in social media, public writing, and lawsuits.  They don't just make the practical arguments that this work harms their careers, and ethical arguments about training data.  But [some of them, make the argument on definitional grounds: they say _this is not art_. 
 
 Real art comes from an artist's hand, they say; it's expressive and personal. It has heart and soul, all things missing from "AI" art.  It cheapens and degrades _real art_, replacing it with mechanized trash: _fake art_.  People making pictures with these tools _are not artists_, technology hype has deluded them into thinking that pressing a button makes them artists, by a simulation of creativity that is not _real_ creativity (that the professionals are experts in). 
 
@@ -91,7 +91,7 @@ In short, these professional artists _define_ art in terms of handmade work and 
 
 But, some respond, doesn't this exclude the entire history of conceptual art—and some of the most important works we learn about in art history and see in, say, the MOMA?  
 
-Indeed, when asked, at least one vocal illustrator has explicitly said, in a private discussion, that they don't consider Dada or Duchamp's fountain to be art _at all_.
+I've seen more than one case, both [publicly](https://x.com/kortizart/status/1567930636945727493) and privately where illustrators deny that conceptual art is art all. In one private discussion, I've seen one vocal illustrator  explicitly say that they don't consider Dada or Duchamp's fountain to be art _at all_.
 
 <center>
 <figure>

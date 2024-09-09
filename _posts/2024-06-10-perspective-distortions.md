@@ -199,7 +199,7 @@ This is why people take selfies at arms-length. Here are four photos of the same
 <center>
 <figure>
    <img src="../../../images/perspective/cooper2012_face.jpg" alt="Photo of a person at different focal lengths"/>
-  <figcaption align="center"><i>Photos of the same person at different focal lengths, from <a href="https://jov.arvojournals.org/article.aspx?articleid=2192052">Cooper et al. (2012)</a></i></figcaption>
+  <figcaption align="center"><i>Photos of the same person at different combinations of focal length and distance, from <a href="https://jov.arvojournals.org/article.aspx?articleid=2192052">Cooper et al. (2012)</a></i></figcaption>
 </figure>
 </center>
 These were photographed from different distances, and zoomed-in accordingly. (This is sometimes called the "dolly-zoom effect," first appearing in the movie Vertigo.). In fact, [one psychology study found](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0045301) that photographing people from different distances could affect how attractive and trustworthy people appeared in the photos.
@@ -222,40 +222,6 @@ Shifting from close-up to telephoto, while moving away from the subject, can cre
 
 
 
-# Artists don't strictly follow it
-
-When linear perspective was invented in the Italian Renassiance, artists quickly adopted it as a technique for painting. It even became emblematic of the new Western Enlightenment rationalism, providing seemingly-objective ways to make pictures.
-
-Yet, artists quickly discovered some of the above problems. Leonardo da Vinci, as he explored it more, began to distinguish between "artificial" linear perspective and "natural" perspective that more accurately depicts how things look. Since then, many famous artists throughout history have mastered linear perspective, discovered its shortcomings, and then taken different approaches to perspective.
-
-In fact, we can see that even famous examples of linear perspective do not actually obey it.
-
-Here's Raphael's famous _The School of Athens_:
-<center>
-   <figure>
-      <img src="../../../images/arthistory/school_of_athens.jpg">
-   </figure>
-</center>
-The architecture strictly follows one-point linear perspective.  But, take a look at the lower-right corner:
-<center>
-   <figure>
-      <img src="../../../images/arthistory/school_of_athens_crop.jpg">
-   </figure>
-</center>
-The faces and spheres do not have any of the marginal distortions that we see in linear perspective.
-
-In all of art history, _I have never seen a linear perspective picture that depicts faces with marginal distortion_, even though there are many, many wide-angle pictures with faces in the margins. This illustrates how rare strict linear perpsective is in art history.
-
-(What's more, none of the art historians or perceptual psychologists I've read seem to have noticed this discrepancy; they sometimes say that Raphael has perfectly followed linear perspective everywhere but the spheres.) 
-
-Art historian Martin Kemp surveyed the classical paintings in Oxford's Ashmolean Museum, and found that only 3% of them _strictly_ followed linear perspective construction rules.  He told me that classical painters often used linear perspective to construct architecture like a stage set, and then moved the people around on it freely.
-
-And, throughout art history, we have far more different kinds of pictures, from cave paintings, to ancient Chinese parallel projections, to Russian reverse perspective, and all the different experiments and styles in Modern art and contemporary art and beyond.
-
-Linear perspective is a very powerful and useful technique, but it is just one of many ways to make pictures. In a future blog post I'll talk about others.
-
-
-
 
 
 # What's going on here? 
@@ -273,8 +239,7 @@ In fact, in a series of experiments, [Cooper et al. showed](https://jov.arvojour
 Throughout art history and perception research, there is a long history of assuming that linear perspective is the "right" way to make pictures, and any distortions or misperceptions must be "user error," i.e., mistakes made by the artist or the brain.  To me, this seems backwards.  If human vision doesn't perceive pictures according to the "rules" of  linear perspective, then the "rules" aren't quite right. 
 
 
-In a future blog post, I'll describe ways to make pictures that do much better than linear perspective at avoiding distortion. (Until then, see [my paper](https://www.dgp.toronto.edu/~hertzman/perspective).)
-
+**[In my next blog post on this topic](/2024/09/04/dvc-multiperspective.html), I describe ways to make pictures that do much better than linear perspective at avoiding distortion.**
 
 
 
