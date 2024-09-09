@@ -194,7 +194,7 @@ He created this by photographing his family in this cardboard box many times:
 </figure>
 </center>
 
-and then laboriously compositing the photos. ([You can read more about his process here.](https://www.thecomputationalphotographer.net/2023/01/family-in-a-box/))
+and then laboriously compositing the photos. [You can read more about his process here.(https://www.thecomputationalphotographer.net/2023/01/family-in-a-box/))
 
 Notice that no part of the picture looks distorted: any square you cut out looks undistorted. Even if you cut out two boxes together it looks normal, although the walls between boxes look wedge-shaped. That's because it's a grid of linear perspectives, each with their own vanishing point.
 
