@@ -328,7 +328,7 @@ David Hockney's _Pearblossom Highway #2_, which is composed of a collection of p
 
 There are a lot of gaps in my explanation, like "how big should DVC regions be?" This probably depends on the picture contents, the size of the picture and viewing distances—more research is needed.  
 
-Even so, I hope this blog post convinces you that the Direct View Condition and multiperspective projection provide a useful way to understand picture projections—maybe even better than the old ones we learn in school.  The Direct View Condition explains when pictures do or or do not look distorted, and multiperspective projection can explain how artists often work.  These are general phenomena that be explained by any theory of shape perception in pictures.
+Even so, I hope this blog post convinces you that the Direct View Condition and multiperspective projection provide a useful way to understand picture projections—maybe even better than the old ones we learn in school.  The Direct View Condition explains when pictures do or or do not look distorted, and multiperspective projection can explain how artists often work.  These are general phenomena that should be explained by any theory of shape perception in pictures. And no existing theory explains them.
 
 But maybe you're still skeptical: _why_ would pictures work this way?  Why have linear perspective for parts of pictures, rather than the whole thing? 
 
