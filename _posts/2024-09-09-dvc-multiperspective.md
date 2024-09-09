@@ -336,7 +336,6 @@ The answer has to do with [properties of human vision](/2024/05/09/illusion-of-a
 
 I'll explain what I mean in a future blog post. (Or you can read [the paper](https://jov.arvojournals.org/article.aspx?articleid=2793609) now.)
 
+---
 
-<hr>
-
-<i>Thanks to Rif A. Saurus for comments.</i>
+_Thanks to Rif A. Saurus for comments._
