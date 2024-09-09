@@ -147,7 +147,7 @@ Similarly, none of the faces are particularly distorted, even though the scene p
 <center>
 <figure>
 <img src="../../../images/arthistory/ringgold.jpg">
-<figcaption><i>Faith Ringgold, Woman on a Bridge #1 of 5: Tar Beach</i></figcaption>
+<figcaption><i>Faith Ringgold, <a href="https://www.guggenheim.org/artwork/3719">Woman on a Bridge #1 of 5: Tar Beach</a></i></figcaption>
 </figure>
 </center>
 
