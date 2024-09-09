@@ -93,6 +93,8 @@ In short, the DVC says that, if you want to determine if some part of a picture 
 
 **The DVC can apply to any part of the picture, not just objects,** but I've explained it that way to make the explanation simpler.  
 
+Indeed, in David Hockney's book _Secret Knowledge_, he talks about classical paintings can be broken up into pieces, each of which is itself like a little picture.
+
 **The DVC does not say anything about how the picture was actually made,** only how the picture looks. It says nothing about how the picture relates to any actual object that was photographed or drawn. A painting can look realistic or distorted even if the contents were entirely made-up and do not refer to any real scene.
 
 
@@ -150,6 +152,7 @@ Similarly, none of the faces are particularly distorted, even though the scene p
 <figcaption><i>Faith Ringgold, <a href="https://www.guggenheim.org/artwork/3719">Woman on a Bridge #1 of 5: Tar Beach</a></i></figcaption>
 </figure>
 </center>
+This scene can be broken up in to several different parts, which seem to each be depicted according to their own perspectives, e.g., the buffet table on the right seems to recede according to one-point perspective, whereas the girls on the mattress are viewed as if from above.
 
 
 Here's a 12th-Century Chinese painting, which uses parallel projection
