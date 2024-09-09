@@ -142,7 +142,7 @@ In this Matisse painting, none of the individual objects on the table look disto
 </figure>
 </center>
 
-Similarly, none of the faces are particularly distorted even though the scene perspective is not particularly linear:
+Similarly, none of the faces are particularly distorted, even though the scene perspective is not particularly linear:
 
 <center>
 <figure>
