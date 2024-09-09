@@ -176,7 +176,7 @@ But the corner of the building, which represents a right angle, can't quite appe
 
 One use of this idea is to create very wide-angle pictures that avoid distortion. These examples support the correctness of the DVC, while contradicting conventional theories of perspective perception.
 
-Here's Frédo Durand's holiday card from a few years ago:
+Here's [Frédo Durand's family holiday card](https://www.thecomputationalphotographer.net/2023/01/family-in-a-box/) from a few years ago:
 
 <center>
 <figure>
