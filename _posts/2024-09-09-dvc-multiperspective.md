@@ -43,7 +43,7 @@ This blog post is adapted from two sections of this paper:
 
 In this blog post, I focus solely on _when parts of a picture look distorted:_ when do things "look right" or "look wrong." This post is not about whether they're accurate to life, and not about optical distortion.
 
-If you look back at the photograph above, you might notice that things look reasonable around the center of the photo (marked with a magenta cross), and distorted in the corners. Based on this intuition, I claim that:
+If you look back at the photograph above, you might notice that things look reasonable around the center of the photo, and distorted in the corners. Based on this intuition, I claim that:
 
 _if objects look like they_ could _appear at the center of a linear perspective picture (which a normal-angle focal length), then they don't look distorted. Otherwise, they look distorted._
 
@@ -147,6 +147,7 @@ Similarly, none of the faces are particularly distorted even though the scene pe
 <center>
 <figure>
 <img src="../../../images/arthistory/ringgold.jpg">
+<figcaption><i>Faith Ringgold, Woman on a Bridge #1 of 5: Tar Beach</i></figcaption>
 </figure>
 </center>
 
@@ -180,7 +181,8 @@ Here's [Frédo Durand's family holiday card](https://www.thecomputationalphotogr
 
 <center>
 <figure>
-<img src="../../../images/multiperspective_photocollage/family-in-a-box.jpg" width="640">
+   <a href="../../../images/multiperspective_photocollage/family-in-a-box.jpg">
+<img src="../../../images/multiperspective_photocollage/family-in-a-box.jpg" width="640"></a>
 </figure>
 </center>
 
@@ -203,11 +205,6 @@ This kind of technique can also be used to create views of street scenes, such a
 </figure>
 </center>
 There are some elements here that seem physically misleading—some buildings look trapezoidal, and there are multiple vanishing points. But otherwise it doesn't look distorted, whereas a simliar wide-angle photograph of this street would be _extremely_ distorted; it would require an extraordinarily wide angle.
-<center>
-<figure>
-<img src="../../../images/multiperspective_photocollage/Cortland1lg-crop.jpg">
-</figure>
-</center>
 
 Inspired by Koller's work, several computational photography methods can create multiperspective street-view pictures, including [Román et al. (2004)](https://graphics.stanford.edu/papers/multi-cross-slits/) and [Agarwala et al. (2006)](https://grail.cs.washington.edu/projects/multipano/).
 
@@ -234,7 +231,7 @@ Pietro Perona demonstrated an intriguing way to photograph different parts of a 
 
 How does the man look different to you in the two pictures?
 
-The right photo is a single wide-angle picture. The left picture is a composite of several close-up photos. It is not a single linear perspective photo, it is a composite of several. Pietro Perona argues that [full-body Renaissance portraits](https://brill.com/view/journals/artp/1/1-2/article-p105_7.xml) are more like the picture on the right than the one on the left, and idea I'll come back to shortly. 
+The right photo is a single wide-angle picture. The left picture is a composite of several close-up photos. It is not a single linear perspective photo, it is a composite of several. Pietro Perona argues that [full-body Renaissance portraits](https://brill.com/view/journals/artp/1/1-2/article-p105_7.xml) are more like the picture on the left than the one on the right, and idea I'll come back to shortly. 
 
 This diagram shows how the two pictures were taken:
 <center>
@@ -340,3 +337,6 @@ The answer has to do with [properties of human vision](/2024/05/09/illusion-of-a
 I'll explain what I mean in a future blog post. (Or you can read [the paper](https://jov.arvojournals.org/article.aspx?articleid=2793609) now.)
 
 
+<hr>
+
+<i>Thanks to Rif A. Saurus for comments.</i>
