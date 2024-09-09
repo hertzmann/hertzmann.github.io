@@ -225,17 +225,9 @@ Pietro Perona demonstrated an intriguing way to photograph different parts of a 
 
 How does the man look different to you in the two pictures?
 
-The right photo is a single wide-angle picture. The left picture is a composite of several close-up photos. It is not a single linear perspective photo, it is a composite of several.
+The right photo is a single wide-angle picture. The left picture is a composite of several close-up photos. It is not a single linear perspective photo, it is a composite of several. Pietro Perona argues that [full-body Renaissance portraits](https://brill.com/view/journals/artp/1/1-2/article-p105_7.xml) are more like the picture on the right than the one on the left, and idea I'll come back to shortly. 
 
 This diagram shows how the two pictures were taken:
-<center>
-<figure>
-   <img src="../../../images/multiperspective_photocollage/perona-diagram.jpg" alt="Diagram of Wide-angle and mulitiperspective photos of a man" width="320"/>
-</figure>
-</center>
-
-
-Pietro Perona argues that [full-body Renaissance portraits](https://brill.com/view/journals/artp/1/1-2/article-p105_7.xml) are more like the picture on the right than the one on the left, and idea I'll come back to shortly. 
 <center>
 <figure>
    <img src="../../../images/multiperspective_photocollage/perona-diagram.jpg" alt="Diagram of Wide-angle and mulitiperspective photos of a man" width="320"/>
