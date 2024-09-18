@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Book Reviews on Consciousness and Intelligence"
+summary: Thoughts on some books I read recently
+author:  AaronHertzmann
+image: "/images/godfrey-smith.jpg"
+og:image: "/images/godfrey-smith.jpg"
+---
+
+
 # Book Reviews on Consciousness and Intelligence
 
 Here are some responses to a few books I've read recently on intelligence and consciousness in animals, including humans.
