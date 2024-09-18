@@ -39,7 +39,7 @@ But I gave up halfway through the book, though because it wasn't interesting eno
 
 <center>
 	<figure>
-		<img src="tbd">
+		<img src="../../../images/godfrey-smith.jpg">
 		<figcaption>A sketch I drew during Peter Godfrey-Smith's talk</figcaption>
 	</figure>
 </center>
