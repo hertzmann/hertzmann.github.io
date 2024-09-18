@@ -10,9 +10,7 @@ og:image: /images/perspective/goat.jpg
 
 # How Does Perspective Work in Pictures?
 
-_**Note: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759).**_
-
-_**Note: I have a new blog post coming soon that proposes new ways to understand the "natural perspective" issue discussed in this post.**_
+_**Notes: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759). I also have a new theory about perspective [described here](https://www.dgp.toronto.edu/~hertzman/perspective/), although it doesn't say much about the natural perspective topics on this page (yet).**_
 
 _"So the lens has been a dominant thing for six hundred years now, and I think depictions need to get away from that, really. If you do, marvellous things can happen."_—[David Hockney, 2022](https://www.newyorker.com/culture/the-new-yorker-interview/a-tour-of-david-hockneys-newest-painting-series)
 

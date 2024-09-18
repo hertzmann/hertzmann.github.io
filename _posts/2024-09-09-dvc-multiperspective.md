@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Distortion and multiperspective in art and photography"
+title: "Distortion and Multiperspective in Art and Photography"
 summary: A theory describing when picures look distorted.
 author:  AaronHertzmann
 image: "/images/multiperspective_photocollage/family-in-a-box.jpg"
 og:image: "/images/multiperspective_photocollage/family-in-a-box.jpg"
 ---
 
-# Distortion and multiperspective in art and photography
+# Distortion and Multiperspective in Art and Photography
 
 When do pictures look distorted, and what can we do about it? I'm not talking about "optical distortion"—flaws in lens optics—I'm talking about the _perception_ of distortion. We seem to have a sense of when an object "looks right" or "wrong." For example, here's a photo I took with my smartphone:
 
