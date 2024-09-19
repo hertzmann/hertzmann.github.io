@@ -45,7 +45,7 @@ Is a dog conscious? Is a prawn conscious? I come away from this book believing t
 
 In a way, the book is an excellent companion to the Frans de Waal one, because both replace a binary concept with one that varies across animals.
 
-But I gave up halfway through the book, though because it wasn't interesting enough to keep me slogging through the tedious narration of his scuba dives to visit the different animals that he discusses.
+But I gave up halfway through the book, because I wasn't enjoying reading it enough.
 
 <center>
 	<figure>
