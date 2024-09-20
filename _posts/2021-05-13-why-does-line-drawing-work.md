@@ -85,6 +85,10 @@ In other words, for a line drawing, _there exists_ a realistic interpretation of
 
 ![Valleys of a 3D model with glossier materials](/images/howtodraw/david_valleys.jpg)
 
+There's no clear division between realism and line drawing:
+
+![Davids of increasing drawingness](/images/howtodraw/davids.jpg)
+
 This setup works with various different settings of materials and lighting; here are two other possible examples. In each case, the lines are being determined by [a valley-detector algorithm](https://ieeexplore.ieee.org/abstract/document/1457470) (in OpenCV):
 
 
