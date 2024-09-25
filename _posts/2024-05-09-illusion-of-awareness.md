@@ -26,7 +26,7 @@ It turns out that, in a sense, we don't see _most_ of the things in front of our
 </figure>
 </center>
 
-When I show this video in my talks, the audience makes audible gasps and "wow"s.  Not only do we not what was happening, we did not know we were missing anything.
+When I show this video in my talks, the audience makes audible gasps and "wow"s.   Not only do we not notice what's happening, but we're confident that nothing is happening.
 
 Here's a much more famous example that you may have seen already. If not, you really have to avoid spoilers for this one, and follow the instructions carefully—it's worth it.
 

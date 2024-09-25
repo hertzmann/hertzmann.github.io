@@ -73,6 +73,8 @@ I immediately found Dennett's presentation useful for thinking about art, becaus
 
 Of course, the implications for art also depend on what it means for AI, since, if we could make AI that are "equivalent" to people, then we could make artists.  (Dennett even claims that an algorothm that created new things would be considered an artist, which I think has already been proven false.)
 
+I find Dennett's framing of "strange inversions"—design comes from evolution, language comes from words which come from behaviors—resonates for a lot of things I think about. We think of goals as coming at the beginning of creative processes, but [often the goals come at the end](/2023/03/06/open-ended-exploration.html).  The common theme seems to be the way we often think of designs or goals as coming top-down, but things actually happen bottom-up, and then we retroactively interpret and structure them in a top-down way.
+
 
 # What does it mean for AI?
 
