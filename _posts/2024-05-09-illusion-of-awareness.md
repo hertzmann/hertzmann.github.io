@@ -295,7 +295,8 @@ rich visual experience and curious perceptual failures**](https://link.springer.
 
 * A. Hertzmann. Toward a Theory of Perspective Perception in Pictures. _Journal of Vision_. April 2024, 24(4). \[[Paper](https://jov.arvojournals.org/article.aspx?articleid=2793609)\] \[[Webpage](https://www.dgp.toronto.edu/~hertzman/perspective/)\] 
 
-I plan to describe it in a future blog post.
+I discuss this theory further beginning in [this blogpost](/2024/09/09/dvc-multiperspective.html).
+
 
 <hr>
 
