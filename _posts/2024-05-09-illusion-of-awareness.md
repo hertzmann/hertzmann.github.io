@@ -225,13 +225,13 @@ Moreover, our ancestors lived in a world in which rooms did not slowly change, a
 
 These phenomena, like other visual illusions, demonstrate how much of our awareness is a perceptual construction of reality, an interpretation that the brain builds.  
 
-I like this animation as a loose metaphor:
+I like this animation as a loose metaphor for this construction:
 
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n27NLuc44Lk?si=I0bVNtfqpIYluhBn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </center>
 
-But it's not sinister. The unconscious mind creates an illusion for our consciousness, misleading us to think that a narrow perceptual funnel represents total awareness, out of  necessity. 
+But it's not sinister. The unconscious mind creates an illusion for our consciousness, misleading us to think that a narrow perceptual funnel represents total awareness, out of  necessity.   (Also, the idea of a mental "theatre of consciousness" can't really explain consciousness, since it kicks the can down the road: [how does consciousness work for the guy inside watching the show](/2024/09/18/books-on-consciousness.html).)
 
 
 # Looking carefully
