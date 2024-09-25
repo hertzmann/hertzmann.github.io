@@ -157,17 +157,16 @@ First, there's a red **X** in the following picture. How quickly can you find it
 	<img src="../../../images/awareness/VisualSearchFeatureSingleton.png" width="150%">
 </center>
 
-And, second, there's a green **X** in this figure.  How quickly can you find it?
+Finding the red **<font color="#ff0000">X</font>** is nearly instantaneous, because the red color is highly salient in peripheral vision: it "pops out." The shapes of the letters don't matter.
 
+Now, there's a green **X** in this figure.  How quickly can you find it?
 
 <center>
 	<img src="../../../images/awareness/Conjunctive_based_search_task.png">
 </center>
+Now it's much harder: to find the green **<font color="#00aa00">X</font>**, you need to search carefully over the image.  The color doesn't help, because lots of O's are green too, so there's no color difference to pop out. So this might as well be a monochrome image with lots of clutter.
 
-Finding the red **X** is nearly instantaneous: it "pops out." But, to find the green **<font color="#00aa00">X</font>**, you need to search carefully over the image to find it. The difference is that the red **<font color="#ff0000">X</font>** among black **X**s is easy to detect in peripheral vision, so you'll see it no matter where you're looking in the picture. On the other hand, the green **<font color="#00aa00">X</font>** is hidden in the clutter, and you can only detect it when looking right at it.
-
-
-This means that, if you're looking for your keys, you're going to have a much easier time finding them when they have a bright red keychain and they're sitting alone on a white table, than if they're hidden among the clutter of many similar objects.
+This means that, if you're looking for your keys, you're going to have a much easier time finding them if they have something bright red attached to the keychain, and they're sitting among a bunch of gray objects.  Metallic keys on a bunch of gray clutter are much harder to find.
 
 If you've found any typos in this blogpost, then that's another example of something I missed despite having proofread it several times.
 
