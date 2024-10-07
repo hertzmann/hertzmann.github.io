@@ -239,7 +239,7 @@ In fact, in a series of experiments, [Cooper et al. showed](https://jov.arvojour
 Throughout art history and perception research, there is a long history of assuming that linear perspective is the "right" way to make pictures, and any distortions or misperceptions must be "user error," i.e., mistakes made by the artist or the brain.  To me, this seems backwards.  If human vision doesn't perceive pictures according to the "rules" of  linear perspective, then the "rules" aren't quite right. 
 
 
-**[In my next blog post on this topic](/2024/09/04/dvc-multiperspective.html), I describe ways to make pictures that do much better than linear perspective at avoiding distortion.**
+**[In my next blog post on this topic](/2024/09/09/dvc-multiperspective.html), I describe ways to make pictures that do much better than linear perspective at avoiding distortion.**
 
 
 
