@@ -231,7 +231,14 @@ Starting with the Modern Art movement, artists have explored all sorts of differ
 <center>
    <figure>
 <img src="../../../images/arthistory/ringgold.jpg" width="480">
+<figcaption><i><a href="https://www.guggenheim.org/artwork/3719">Quilt by Faith Ringgold</a></i></figcaption>
+   </figure>
+</center>
+
+<center>
+   <figure>
       <img src="../../../images/multiperspective_photocollage/pearblossom.jpg" alt="David Hockney's Pearblossom Highway"  width="480">
+<figcaption><i><a href="https://www.getty.edu/art/collection/object/103QT4">photocollage by David Hockney</a></i></figcaption>
    </figure>
 </center>
 
