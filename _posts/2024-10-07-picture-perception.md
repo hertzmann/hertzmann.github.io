@@ -230,8 +230,8 @@ Starting with the Modern Art movement, artists have explored all sorts of differ
 
 <center>
    <figure>
-<img src="../../../images/arthistory/ringgold.jpg" width="320">
-      <img src="../../../images/multiperspective_photocollage/pearblossom.jpg" alt="David Hockney's Pearblossom Highway"  width="320">
+<img src="../../../images/arthistory/ringgold.jpg" width="480">
+      <img src="../../../images/multiperspective_photocollage/pearblossom.jpg" alt="David Hockney's Pearblossom Highway"  width="480">
    </figure>
 </center>
 
