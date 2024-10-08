@@ -67,7 +67,7 @@ But this doesn't happen—the illusion persists no matter how long you look at i
 
 Instead, after looking at a picture, we seem to remember some sort of _abstracted_ version of it. Remember that photo of an alley at the top of this post? You can probably remember that it contains an alleyway with people walking on it, and maybe you have a sense of the architecture, and so on. (Feel free to scroll back up to refresh your memory, and then come back here.)
 
-But, once you've looked away from it, you can't recall every detail.  For example, how many people in the picture are wearing red shirts? What are the colors of the stools? What are the hairstyles of the two people in the foreground? What letters are visible on the wall to the right? All of these questions are easy to answer while looking at the picture, and impossible to answer afterward, unless you'd made a conscious point of memorizing these details.
+But, once you've looked away from it, you can't recall every detail.  For example, how many people in the picture are wearing red shirts? What are the colors of the stools? What are the hairstyles of the two people in the foreground? What letters are visible on the wall to the right? All of these questions are easy to answer while looking at the picture, and impossible to answer afterward, unless you'd made conscious effort to memorizing these particular details.
 
 **These two principles—foveal and fragmentary vision—demonstrate severe constraints on how we look at and understand pictures. We understand pictures fixation-by-fixation, one piece at a time.**  At each glance, we interpret the contents of a picture around our fixation, and then move onto the next fixation, remembering only a fraction of what we saw.
 
