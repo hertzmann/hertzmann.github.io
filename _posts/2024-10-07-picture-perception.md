@@ -103,7 +103,7 @@ Together, these observations lead to a theory that I call **Fixation-Centered Pe
 
 |In each fixation, a picture is interpreted in terms of a linear perspective projection centered at the fixation.|
 
-In this theory, the distorted basketball looks a stretched 3D object. That is, this shape in the picture only makes sense as the projection of an ellipsoidal basketball.  But then, you can recognize that it's distorted basketball, and understand that it's probably a distortion, not an oblong ball. So there are a few things going on in your brain simultaneously: simultaneous perception of an oblong 3D shape, and awareness that it's probably distortion and not actually oblong.
+In this theory, the distorted basketball looks like a stretched 3D object. That is, this shape in the picture only makes sense as the projection of an ellipsoidal basketball.  But then, you can recognize that it's distorted basketball, and understand that it's probably a distortion, not an oblong ball. So there are a few things going on in your brain simultaneously: simultaneous perception of an oblong 3D shape, and awareness that it's probably distortion and not actually oblong.
 
 It's similar to the way refraction in the real-world distorts how objects look, but we can understand the distortion: the spoon in this glass looks broken, but we know it's not.
 
@@ -169,9 +169,7 @@ So, then, what happens when you look at a picture?
 
 3. This repeats every time you move your eyes. After enough fixations, you have a general sense of the contents of the picture: what objects are in it, what are their colors, and how are they arranged.
 
-These same basic things happen when we look around in the real world.  [We don't store detailed 3D models in our heads of the real world, we store abstracted representations that aren't even consistent](/2024/05/09/illusion-of-awareness.html).  
-
-This answers a riddles of why pictures work:
+These same basic things happen when we look around in the real world.  [We don't store detailed 3D models in our heads of the real world, we store abstracted representations that aren't even consistent](/2024/05/09/illusion-of-awareness.html).   The fragmentary nature of real-world vision answers a riddles of why pictures work:
 
 |**Q:** Why can flat pictures convey such effective illusions of 3D?
 **A:** Real-world 3D vision is less than it seems.|
