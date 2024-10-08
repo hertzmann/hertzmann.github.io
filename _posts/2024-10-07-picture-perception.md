@@ -23,13 +23,13 @@ This post is based on this paper:
 We can perceive shape in all different kinds of pictures, from cave paintings to photography to modern art. You can look at this photo:
 
 <center>
-   <img src="../../../images/perspective/tubo.jpg" width="320">
+   <img src="../../../images/perspective/tubo.jpg" width="480">
 </center>
 and have a sense of the scene it depicts, including the shapes of the buildings, tables, and people, and where they are relative to each other.  
 
 The same goes for all sorts of representational paintings. Here's a painting by Matisse:
 <center>
-      <img src="../../../images/arthistory/matisse.jpg" width="45%">
+      <img src="../../../images/arthistory/matisse.jpg" width="65%">
 </center>
 Even though it looks very different from a photograph, you can easily see that it depicts a table with some vases and fruit on it, and you can tell what the shapes of the vases are.
 
