@@ -200,7 +200,7 @@ Back to that Matisse painting:
 <center>
 <img src="../../../images/arthistory/matisse.jpg">
 </center>
-Each object is depicted almost as if a separate object in a separate painting—locally, they each make sense, and they're arranged in space on a table. Compared to the cave painting, there's just a bit more information about the spatial arrangement.
+The perspective depiction isn't very precise or photographic. Each object appears to make sense locally, like they were painted separately and arranged together on the table. Compared to the cave painting, there's just a bit more information about the spatial arrangement. ([A lot of my own causal drawings end up looking something like this](https://www.instagram.com/p/CuTISoqtZNl/).)
 
 If, on the other hand, we go back to Raphael's _School of Athens_:
 <center>
