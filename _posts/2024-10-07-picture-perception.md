@@ -71,7 +71,7 @@ But, once you've looked away from it, you can't recall every detail.  For exampl
 
 **These two principles—foveal and fragmentary vision—demonstrate severe constraints on how we look at and understand pictures. We understand pictures fixation-by-fixation, one piece at a time.**  At each glance, we interpret the contents of a picture around our fixation, and then move onto the next fixation, remembering only a fraction of what we saw.
 
-Real-world vision works the same way: we continuously interpret the world at each glance, and update an abstracted mental model of the world as we go. We don't 3D scan every detail of the world into memory, we store only abstracted representations. I discussed this point in more depth in a previous blog posts: [how real-world vision is foveal and fragmentary](/2024/05/09/illusion-of-awareness.html), and other [pictorial illusions that demonstrate foveal, fragmentary vision](/2024/05/24/fixations-vision-illusions.html).)
+Real-world vision works the same way: we continuously interpret the world at each glance, and update an abstracted mental model of the world as we go. We don't 3D scan every detail of the world into memory, we store only abstracted representations. In a previous blog post, I discussed more about [how real-world vision is foveal and fragmentary](/2024/05/09/illusion-of-awareness.html), and why. And, the way we view pictures derives from the way we view the real world.
 
 
 
