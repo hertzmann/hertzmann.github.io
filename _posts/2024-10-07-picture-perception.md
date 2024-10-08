@@ -97,7 +97,7 @@ These shapes—which don't come from the center—do look distorted:
 
 (People often use "distortion" to describe camera optics that do not match linear perspective. I do not use "distortion" to refer to optical distortion; I am talking about when things "look wrong.")
 
-[In a previous blog post](/2024/09/09/dvc-multiperspective.html), I argued for the general principle that **_objects look distorted if they don't look like they came from the center of a linear perspective projection._** And, if an object looks distorted, that's a sign that it hasn't been projected according to the assumptions of human vision.
+If an object looks distorted, that's a sign that it hasn't been projected according to the assumptions of human vision.  So when do things look distorted?  [In a previous blog post](/2024/09/09/dvc-multiperspective.html), I argued for the general principle that **_objects look distorted if they don't look like they came from the center of a linear perspective projection._** 
 
 Together, these observations lead to a theory that I call **Fixation-Centered Perspective:**
 
