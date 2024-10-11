@@ -84,7 +84,7 @@ However, treating publication as merely an employee benefit—like vacation time
 
 People sometimes treat writing as an afterthought to research. I think this is a mistake. I believe that
 
-|<b>Writing is an integral part of the research process.</b>|
+|<center><b>Writing is an integral part of the research process.</b></center>|
 
 When you write something down, you realize things you hadn't thought of before, you discover holes in the reasoning, you discover related works that you hadn't found before. Writing forces you to work out the thought process of the work. In a sense, **writing is organized thinking.** 
 
@@ -94,7 +94,7 @@ I've had so many experiences where I really just wanted to act like some nagging
 
 In the whitepaper model, there are no real standards, and so it is very easy to engage in lazy writing and lazy thinking. In fact, it's incentivized, if the mere act of writing whitepapers is rewarded.
 
-Some of my more theoretical papers began with a general intuition and a belief; only in the process of writing did I really work out my arguments and figure out what I was trying to say.
+Some of my more theoretical papers began with a general intuition and a belief; only in the process of writing did I really work out solid arguments. And my beliefs changed quite a bit in the process.
 
 
 
