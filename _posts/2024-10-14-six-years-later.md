@@ -130,6 +130,14 @@ Over the years, these experiences with drawing have been a bit of a positive spi
 My painting experiences in 2019 were amazing, full of new discoveries, and this current one has been more incremental.  [This fits my experience in learning other skills: you start out learning a lot quickly and being very excited, and then the pace slows as learning deepens](/2021/08/17/learning-skills.html). 
 
 
+<center>
+<figure>
+<img src="https://aaronhertzmann.com/images/skill_curve_plateau.jpg" alt="Curve of 
+increasing skill, novice to excited to plateau to expert">
+<figcaption><a href="../../../2021/08/17/learning-skills.html">How it feels to learn a new skill</a></figcaption>
+</figure>
+</center>
+
 
 **My best new experience this time** came from drawing longer, larger pictures. In Fall 2019, I tried making one very-involved, large scale painting. I sketched it on-site and then painted in details over many hours, using a photographic reference. I was ultimately disappointed in [how it came out](https://www.instagram.com/p/B6bLjqdJlz1/?img_index=1). 
 
