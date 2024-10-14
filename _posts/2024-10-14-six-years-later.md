@@ -95,6 +95,7 @@ By 2023, however, I felt the inspiration ebb, until I started volunteering at an
 		<img src="../../../images/ipad_paintings/penny.jpg" width="45%">
 		<img src="../../../images/ipad_paintings/bernardo.jpg" width="45%">
 	</p>
+	<figcaption><i>❤️ Penny and Bernardo</i></figcaption>
 	</figure>
 </center>
 
@@ -123,7 +124,9 @@ Sketching beverages has somehow kept my interest, especially my morning espresso
 
 On my recent sabbatical, I thought it would be interesting to go back and draw pictures at places in Oxford where [I'd had some memorable drawing experiences](/2020/10/05/art-is-a-process.html) in my first sabbatical. But when I got to them I never found much desire to try drawing them again.
 
-**Finding the excitment, inspiration, and space to draw is a continual challenge.** It's partly the sense that there's something _interesting_ about trying to draw this thing: it's not too "easy" for me, or too difficult, but enough of a stretch.  Even when I have the time, it's sometimes a tough decision whether to start—if I start on this, will it work out? Will it be better than something else I might find to draw instead, or doing something else, like, say, going for a walk or reading a book?
+# Reflections
+
+Finding the excitment, inspiration, and space to draw is a continual challenge. It's partly the sense that there's something _interesting_ about trying to draw this thing: it's not too "easy" for me, or too difficult, but enough of a stretch.  Even when I have the time, it's sometimes a tough decision whether to start—if I start on this, will it work out? Will it be better than something else I might find to draw instead, or doing something else, like, say, going for a walk or reading a book?
 
 Over the years, these experiences with drawing have been a bit of a positive spiral: going around in circles revisiting familiar subjects, only after I'd learned something from the previous iteration. But it only seems that way in retrospect; in the moment, it often feels like a difficult search for motivation, inspiration, and something worthwhile. I've left out of a lot of false starts and disappointing drawings from these pages.
 
@@ -138,11 +141,10 @@ increasing skill, novice to excited to plateau to expert">
 </figure>
 </center>
 
-**A big factor** are the responses from friends and other people. Friends were very supportive of my initial scribblings; without which I might have stopped, or might have stopped at several times along the way. [I still maintain that art is a fundamentally a social phenomenon](/2021/03/22/art-is-social.html). When drawing dogs, positive feedback from that community and the sense of connection keeps me going, as well as wanting to spend more time with the pictures of the dogs themselves.
- Positive feedback from acquaintaces and colleagues helps too, and I do notice it, and it doesn't all have to come from one place. For example, I've noticed that I'm not getting many "likes" on social media, and, then, at conferences, colleagues tell me that they love my drawings on social media even if I've never seen them once "like" my posts. If all of these sources of feedback dwindled, then maybe I'd stop.
+**A big factor are the responses from friends and acquaintances.** Friends were very supportive of my initial scribblings; without which I might have stopped, or might have stopped at several times along the way. [I still maintain that art is a fundamentally a social phenomenon](/2021/03/22/art-is-social.html). When drawing dogs, positive feedback from that community and the sense of connection keeps me going, as well as wanting to spend more time with the pictures of the dogs themselves.  Positive feedback from acquaintaces and colleagues helps too, and I do notice it, and it doesn't all have to come from one place. For example, I've noticed that I'm not getting many "likes" on social media, and, then, at conferences, colleagues tell me that they love my drawings on social media even if I've never seen them once "like" my posts. If all of these sources of feedback dwindled, then maybe I'd stop.
 
 
-**My best new experience this time** came from drawing longer, larger pictures. In Fall 2019, I tried making one very-involved, large scale painting. I sketched it on-site and then painted in details over many hours, using a photographic reference. I was ultimately disappointed in [how it came out](https://www.instagram.com/p/B6bLjqdJlz1/?img_index=1). 
+**My best new experience on this sabbatical** came from drawing longer, larger pictures. In Fall 2019, I tried making one very-involved, large scale painting. I sketched it on-site and then painted in details over many hours, using a photographic reference. I was ultimately disappointed in [how it came out](https://www.instagram.com/p/B6bLjqdJlz1/?img_index=1). 
 
 One day of my sabbatical this year, I'd spent the day wandering around, working in cafes and sketching in plazas. Later in the day, I wandered into a cathedral, and, after exploring the place, sat down to begin a big drawing. The place was peaceful, with choral music lightly playing in the background; not too many people around, and no feeling of pressure to get things done quickly. Most of my drawings are relatively quick sketches, but I ended up spending 70 minutes working on this one:
 
