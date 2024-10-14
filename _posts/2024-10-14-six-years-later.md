@@ -137,7 +137,7 @@ My painting experiences in 2019 were amazing, full of new discoveries, and this 
 <figure>
 <img src="https://aaronhertzmann.com/images/skill_curve_plateau.jpg" alt="Curve of 
 increasing skill, novice to excited to plateau to expert">
-<figcaption><a href="../../../2021/08/17/learning-skills.html">How it feels to learn a new skill</a></figcaption>
+<figcaption><i><a href="../../../2021/08/17/learning-skills.html">How it feels to learn a new skill</a></i></figcaption>
 </figure>
 </center>
 
