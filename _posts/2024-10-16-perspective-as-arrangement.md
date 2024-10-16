@@ -139,11 +139,14 @@ A few days later, I painted this picture, on a bridge over a railway by the Oxfo
 	</figure>
 </center>
 
-And here's a photo that I took at the same time:
+And here's a photo that I took at the same time (original, and cropped to match visual angle of the photo):
 
 <center>
 	<figure>
+<p align="center">
 		<img src="../../../images/ipad_paintings/railway_photo.jpg" width="320">
+		<img src="../../../images/ipad_paintings/railway_photo_crop.jpg" width="320">
+</p>
 	</figure>
 </center>
 
@@ -329,3 +332,7 @@ In a sense, making it bigger seemed more "perceptually correct," even though I s
 
 
 **Thinking of composition as multiperspective arrangement.** As I've mentioned throughout this blog post, I now think of painting as multiperspective arrangement. I often consciously thinking about moving things in pictures left or right or bigger or smaller as a choice for making the picture better. Maybe I was always doing it, but now it's much more of a conscious set of choices, made more permissible by theoretical foundations.
+
+<hr>
+
+<I>Thanks to Alyosha Efros for comments.</I>
