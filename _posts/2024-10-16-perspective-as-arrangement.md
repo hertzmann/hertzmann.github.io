@@ -239,14 +239,6 @@ Let me try to explain what I think is going on here:
 
 If these points aren't necessarily clear in my drawing, they may be clearer in some of the other examples below.
 
-
-and here's a corresponding photograph:
-
-<center>
-	<figure>
-	</figure>
-</center>
-
 Something similar happened in this drawing from 2021, where the road slopes away from the table:
 
 <center>
