@@ -1,3 +1,14 @@
+---
+layout: page
+title: "How I Paint Space: Multiperspective Arrangement"
+summary: How perspective appears in my paintings.
+author:  AaronHertzmann
+image: "/images/ipad_paintings/ocean_beach.jpg"
+og:image: "/images/ipad_paintings/ocean_beach.jpg"
+---
+
+
+
 # How I Paint Space: Multiperspective Arrangement
 
 
