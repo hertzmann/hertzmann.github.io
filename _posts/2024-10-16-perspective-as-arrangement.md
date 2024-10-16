@@ -145,12 +145,22 @@ And here's a photo that I took at the same time (original, and cropped to match 
 	<figure>
 <p align="center">
 		<img src="../../../images/ipad_paintings/railway_photo.jpg" width="320">
-		<img src="../../../images/ipad_paintings/railway_photo_crop.jpg" width="320">
 </p>
 	</figure>
 </center>
 
 Again, comparing the two, you can see different tilts of the ground plane. Again, I did not consciously reason about this, I simply attempted to draw what I saw. You can also again see a considerable simplification of the contents, segmenting the scene into just a few distinct regions.
+
+Interestingly, if you crop out the relevant part of the photo, and scale it to match the size of the canvas, it looks pretty similar to the painting. This would suggest that the canvas size itself is an important factor:
+
+<center>
+	<figure>
+<p align="center">
+		<img src="../../../images/ipad_paintings/railway_photo_crop_rescale.jpg" width="320">
+</p>
+	</figure>
+</center>
+
 
 Here's a more complex example, of Calle de Alfonso I in Zaragoza, where distant objects appear larger in my drawing than in the photograph, [a common theme in perception versus photography](/2022/02/28/how-does-perspective-work.html). Many objects are removed as well, and the drawing is much lighter—it was a very bright, sunny day.
 
