@@ -1,4 +1,4 @@
-# Judgments that get in the way of making art
+# Judgments That Get in the Way of Making Art
 
 In this post I want to share a rule that I find useful in making art as a hobby: _avoid the kinds of good/bad/should judgments that get in the way of making art._
 
