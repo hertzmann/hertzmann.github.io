@@ -184,3 +184,5 @@ Here's my most recent experiment. It started when I was doodling while watching 
 <br>
 
 In summary, 🤷 .
+
+[_**The next post in this series is here.**_](/2024/10/14/six-years-later.html)
