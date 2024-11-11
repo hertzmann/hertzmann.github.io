@@ -435,7 +435,7 @@ The debate over "AI" art ethics reminds me of the [complex debate over cultural 
 
 Nettrice Gaskins [writes about the distinction between _appropriation_ and _reappropriation_ and how the distinction gets very blurry with "AI."](https://nettricegaskins.medium.com/ai-techno-vernacular-creativity-314281e1be68).
 
-
+Here's a description, by Barbara Nessim, [of how artistic professionals feel threatened by computer technology—from 1983](https://x.com/advadnoun/status/1849560252552970550/photo/1). ([source](https://archive.org/details/ulc-magazine/Volume%2010-4/page/36/mode/2up?view=theater))
 
 
 
