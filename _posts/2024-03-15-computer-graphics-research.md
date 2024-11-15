@@ -16,7 +16,7 @@ Since I started attending SIGGRAPH, I recall people puzzling over what the subje
 
 # History and self-definitions
 
-_Note: This section is adapted from a paper that has been accepted to_ Empirical Studies of the Arts _. [Here's the preprint](https://osf.io/preprints/psyarxiv/nspwg)._
+_Note: This section is adapted from [a paper that has been published in_ Empirical Studies of the Arts](https://journals.sagepub.com/doi/abs/10.1177/02762374241288696) ([preprint](https://osf.io/preprints/psyarxiv/nspwg))._
 
 
 The nature of computer graphics research has changed over the years, and so has the way that the field defines itself. 
