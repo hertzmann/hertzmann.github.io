@@ -97,7 +97,7 @@ I've seen more than one case, both [publicly](https://x.com/kortizart/status/156
 <center>
 <figure>
   <img src="../../../images/arthistory/duchamp_fountain.jpg">
-  <figcaption><i><a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)">One of the most important artworks of the 20th Century</a>; or, according to some creative professionals, not art at all.</i></figcaption>
+  <figcaption><i><a href="https://en.wikipedia.org/wiki/Fountain_(Duchamp)">One of the most important artworks of the 20th century</a>; or, according to some creative professionals, not art at all.</i></figcaption>
 </figure>
 </center>
 
