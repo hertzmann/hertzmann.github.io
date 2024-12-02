@@ -8,7 +8,7 @@ og:image: /images/thats-not-art-wide.jpg
 
 # "That's Not Art:" Art Worlds Define Art Differently
 
-Recent conflicts over "AI" art have exposed divisions among different kinds of art and artists.  In this post, I will argue that there is not one Art World, but many Art Worlds, and these different Art Worlds don't just make art differently—they _define_ art differently.  We cannot come up with just one specific "definition of art," because it varies not just in different eras, but also in different communities in the same era.
+Recent conflicts over "AI" art have exposed divisions among different kinds of art and artists.  In this post, I will argue that there is not one Art World, but many Art Worlds, and these different Art Worlds don't just make art differently—they _define_ art differently.  We cannot come up with just one specific "definition of art," because it varies so much—not just in different eras, but across different communities in the same era.
 
 These kinds of divisions have always been around, but they're usually hidden. Conflict, as now occurs with "AI" art, exposes these divisions.
 
@@ -23,7 +23,7 @@ I'll explain next the examples that make up this diagram. Then, based on these o
 
 Sociologists like Pierre Bourdieu and Harold Becker have written extensively about social creation of art, but not (to my limited knowledge) about definitions of art themselves being community constructions, and [Larry Shiner's analysis](/2022/09/27/art-eras.html) cuts across historical periods rather than today's communities.
 
-Several times in the past few years, non-artist friends or colleagues asked me "What do artists think about AI?"  It should become clear here, why this is such a hard question to answer.
+Several times in the past few years, non-artist friends or colleagues asked me "What do artists think about AI?"  It should become clear from this discussion why there's no simple answer to the question.
 
 (As usual, I put "AI" in quotes because [it's not human-like intelligence](/2022/09/04/computationalism.html), it's just software.)
 
@@ -32,9 +32,11 @@ Several times in the past few years, non-artist friends or colleagues asked me "
 
 # The view from the Contemporary Art World
 
-Until recently, the Contemporary Art World has paid little attention to generative art, and its latest incarnation, "AI" art. [_When The Machine Made Art_](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/) details this decades-long history of disinterest and antipathy toward any sort of computer art, including a generative art panel in which LA art curators made it clear that computer-based art has zero interest to them. When computers appear in Contemporary Art, it's art by artists who are _from that world_, like Harold Cohen, Trevor Paglen and Jason Salavon, using the computers to do Contemporary Art things.
+Until recently, the Contemporary Art World has paid little attention to generative art, and its latest incarnation, "AI" art. [_When The Machine Made Art_](https://www.bloomsbury.com/us/when-the-machine-made-art-9781623562724/) details this decades-long history of disinterest and antipathy toward any sort of computer-based art. 
 
-So **Refik Anadol's "Unsupervised" display wall** at the MOMA provides an instructive example. This work combines generative networks trained on MOMA's artworks, fluid simulation, and futuristic visualizations and has drawn crowds, while also being attacked by the antibodies of the contemporary art world.  [Ben Davis called it a "lava lamp,"](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329) Jerry Saltz dismissed it as a [mind-numbing](https://twitter.com/jerrysaltz/status/1725277103946379384) [mediocrity](https://www.vulture.com/article/jerry-saltz-moma-refik-anadol-unsupervised.html). 
+When computers do appear in Contemporary Art, it's art by artists who are _from that world_, like Harold Cohen, Trevor Paglen and Jason Salavon, using the computers to do Contemporary Art things.
+
+So **Refik Anadol's "Unsupervised" display wall** at the MOMA provides an instructive example. This work combines generative networks trained on MOMA's artworks, fluid simulation, and futuristic visualizations and has drawn crowds. At the same time, the antibodies of the contemporary art world attacked it. [Ben Davis called it a "lava lamp,"](https://news.artnet.com/art-world/refik-anadol-unsupervised-moma-2242329) Jerry Saltz dismissed it as a [mind-numbing](https://twitter.com/jerrysaltz/status/1725277103946379384) [mediocrity](https://www.vulture.com/article/jerry-saltz-moma-refik-anadol-unsupervised.html). 
 
 <center>
 <figure>
@@ -49,20 +51,19 @@ In order to understand the criticism, it's important to understand that the Cont
 
 So, art critics critize _according to the values of the contemporary art world_.  They're focused on the ideas behind the work, and the dangers of high-art institutions being driven by profit.  In contrast, for a lot of people, if the work is dazzling, beautiful, and/or impressive, then those concerns about concepts and profits would be secondary, or even irrelevant.
 
-Hence, by Contemporary Art standards, most generative art is _not art_, most "AI" art is _not art_. And, obviously, professional illustration, painting, and design are _not art_.  
+Hence, by Contemporary Art standards, most generative art is _not art_, most "AI" art is _not art_. And, obviously, professional illustration and design are _not art_.  
 
 **Membership in a community** plays a key role in who learns the rules of the game and gets acceptance. 
 
-Refik Anadol is an outsider to the Contemporary Art World, e.g., he came from a media arts arts school, not a prestigious contemporary art school. When I visited his studio in 2019, he described the movie "Blade Runner" as his primary artistic inspiration, with its notion of robots "dreaming." His slide presentation and animations used flickery, science-fictiony text dashboards, as now appear in "Unsupervised."  He described his work in  sci-fi talk of robots dreaming. So he has neither the background, the subject matter, nor the _language_ of the Contemporary Art World. He doesn't talk like them, he doesn't come from their background, he doesn't talk about the things they care about. And, [when he responded to Saltz' criticism](https://news.artnet.com/news/refik-anadol-vs-jerry-saltz-2400275), he argued that Saltz needs to better understand the "AI" art medium. 
+Refik Anadol is an outsider to the Contemporary Art World, e.g., he came from a media arts arts school, not a prestigious contemporary art school. When I visited his studio in 2019, he described the movie "Blade Runner" as his primary artistic inspiration, with its notion of robots "dreaming." His slide presentation and animations used flickery, science-fictiony text dashboards, as now appear in "Unsupervised."  He described his work in  sci-fi talk of robots dreaming. So he has neither the background, the subject matter, nor the _language_ of the Contemporary Art World. He doesn't talk like them, he doesn't come from their background, he doesn't talk about the things they care about. And, [when he responded to Saltz' criticism](https://news.artnet.com/news/refik-anadol-vs-jerry-saltz-2400275), he argued that Saltz needs to better understand the "AI" art medium, rather than trying to situate his work in the Contemporary Art world. 
 
 Two notions of art, talking past each other.
 
 Now that Anadol's work has been shown and collected by the MOMA, and art critics engage it seriously, I suppose it's been upgraded from "not art" to "bad art."
 
-In contrast, consider [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)). He wrote code to make pictures beginning in the 1960s, with a decades-spanning career and work collected in major museums in galleries. 
-he wrote and spoke extensively about whether the computer could itself be the artist. But he wasn't considered a computer artist or "AI" artist: he was, first and foremost, a contemporary artist who happened to use computers. He was accepted and collected in the mainstream artworld because he had the pedigree (a prestigious fine-art education), the right galleries, and he spoke the right language.
+In contrast, consider [Harold Cohen](https://en.wikipedia.org/wiki/Harold_Cohen_(artist)). He wrote code to make pictures beginning in the 1960s, with a decades-spanning career and work collected in major museums in galleries. He wrote and spoke extensively about whether the computer could itself be the artist. But he wasn't considered a computer artist or "AI" artist: he was, first and foremost, a contemporary artist who happened to use computers. He was accepted and collected in the mainstream artworld because he had the pedigree (a prestigious fine-art education), the right galleries, and he spoke the right language.
 
-The Contemporary Art World does admit outsiders, e.g., ["outsider art,"](https://en.wikipedia.org/wiki/Outsider_art) or shows from the MOMA on video games and fashion. But they're just admitting a lucky few to the club, sponsored and shepherded by current members like gallerists and curators, rather than dropping the barriers.  The MOMA, in a sense, made a tentative move by bringing "Unsupervised" into its walls—and they could have walked it back had it backfired.  (Instead, they added it to their collection.)
+The Contemporary Art World does admit outsiders, e.g., ["outsider art,"](https://en.wikipedia.org/wiki/Outsider_art) or shows from the MOMA on video games and fashion. But they're not dropping the barriers; they're just admitting a lucky few to the club, sponsored and shepherded by current members like gallerists and curators.  The MOMA, in a sense, made a tentative move by bringing "Unsupervised" into its walls—and they could have walked it back. 
 
 So I have found it fascinating over the past few years to see some "AI" artists making making slow inroads into the Contemporary Art World, e.g., [the recent show at Unit London curated by Luba Elliott](https://unitlondon.com/voices/the-perfect-error/).
 
@@ -81,9 +82,9 @@ For more about the contemporary art world as its own community, such as the impo
 
 # The view from professional illustration and art
 
-When text-to-image appeared in the past year, [like any new artistic technology, they  encouraged lots of new artistic exploration](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html); such experimentation is sometimes interesting, often tedious, and/or disposable. And, like any new technology these days, there's also a lot of hype.
+Text-to-image's appearance last year, [like any new artistic technology, encouraged lots of new artistic exploration](https://aaronhertzmann.com/2022/12/17/when-tech-changes-art.html); such experimentation is sometimes interesting, often tedious, and/or disposable. And, like any new technology these days, there's also a boatload of hype.
 
-In the past year, many professional artists and illustrators have lobbied hard against "AI" art, in social media, public writing, and lawsuits.  They don't just make the practical arguments that this work harms their careers, and ethical arguments about training data.  But [some of them, make the argument on definitional grounds: they say _this is not art_. 
+In the past year, many professional artists and illustrators have lobbied hard against "AI" art, in social media, public writing, and lawsuits.  They argue that this technology harms their careers, and make ethical arguments about training data.  But some of them extend the argument to  definitional grounds: they say _this is not art_. 
 
 Real art comes from an artist's hand, they say; it's expressive and personal. It has heart and soul, all things missing from "AI" art.  It cheapens and degrades _real art_, replacing it with mechanized trash: _fake art_.  People making pictures with these tools _are not artists_, technology hype has deluded them into thinking that pressing a button makes them artists, by a simulation of creativity that is not _real_ creativity (that the professionals are experts in). 
 
@@ -91,7 +92,7 @@ In short, these professional artists _define_ art in terms of handmade work and 
 
 But, some respond, doesn't this exclude the entire history of conceptual art—and some of the most important works we learn about in art history and see in, say, the MOMA?  
 
-I've seen more than one case, both [publicly](https://x.com/kortizart/status/1567930636945727493) and privately where illustrators deny that conceptual art is art all. In one private discussion, I've seen one vocal illustrator  explicitly say that they don't consider Dada or Duchamp's fountain to be art _at all_.
+I've seen more than one case, both [publicly](https://x.com/kortizart/status/1567930636945727493) and privately where illustrators _deny that conceptual art is art all_. In one private discussion, I've seen one vocal illustrator  explicitly say that they don't consider Duchamp's fountain to be art _at all_.
 
 <center>
 <figure>
@@ -102,10 +103,12 @@ I've seen more than one case, both [publicly](https://x.com/kortizart/status/156
 
 Sure, professional artists might love and appreciate many recent works in the MOMA. But the _intellectual_ gulf is vast.  Since Marcel Duchamp and John Baldessari, the Contemporary Art world views the artwork as the expression of a concept or idea; technical skill and artistic expression _are not necessary_ for art. For professional artists, skill and expressivity are central to art, and the concept is optional.
 
-I can relate to this view. Back when I started to really enjoy my college art classes—and hadn't even heard of computer art, per se—I once told my father that photography was not really art. This was, perhaps, a poor choice, as I had forgotten that he once ran a photo studio and that [my uncle's whole career is dealing vintage photography](http://www.hertzmann.net/pages/). (He was very patient with me.) But I hadn't been immersed in [photography _as art_](/2022/08/29/photography-history.html), and, at the same time, I was getting immersed into the feeling of creativity and expressivity of direct drawing and painting.  
+I can relate to this view. Back when I started to really enjoy my college art classes—and hadn't even heard of computer art, per se—I once told my father that photography was not really art. This was, perhaps, a poor choice, as I had forgotten that he once ran a photo studio and that [my uncle's whole career is dealing vintage photography](http://www.hertzmann.net/pages/). (My father was very patient with me.) At the time, I was immersed in the feeling of creativity and expressivity of painting and drawing, and hadn't paid much attention to [photography _as art_](/2022/08/29/photography-history.html), so of course I had no idea of the creative aspects of photography. (And this was before I'd even heard of computer art, per se.)
 
 When you're immersed in a way of working, participating in a community formed around that way of working, and getting rewards and benefits for that way of working, it can become not _just_ a way of working, but a belief system.  The same is true for any art community, whether contemporary art, illustration, and many, many others.
 
+
+**There's another, even smaller, artist world,** roughly the "atelier" world, of painters who reject any sort of technology in their art. For them, even using a digital painting program isn't really art. For them, you have to be using physical media.
 
 
 # The view from generative art and "AI" art
