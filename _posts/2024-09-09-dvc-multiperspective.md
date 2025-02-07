@@ -77,7 +77,7 @@ But, when they're stretched, or otherwise not symmetrical like in this picture, 
 </center>
 
 
-and if a line curves—or the edge of a building, or anoother straight object curves—then it looks distorted
+and if a line curves—or the edge of a building, or another straight object curves—then it looks distorted
 
 
 
@@ -234,7 +234,7 @@ Pietro Perona demonstrated an intriguing way to photograph different parts of a 
 
 How does the man look different to you in the two pictures?
 
-The right photo is a single wide-angle picture. The left picture is a composite of several close-up photos. It is not a single linear perspective photo, it is a composite of several. Pietro Perona argues that [full-body Renaissance portraits](https://brill.com/view/journals/artp/1/1-2/article-p105_7.xml) are more like the picture on the left than the one on the right, and idea I'll come back to shortly. 
+The right photo is a single wide-angle picture. The left picture is a composite of several close-up photos. It is not a single linear perspective photo, it is a composite of several. Pietro Perona argues that [full-body Renaissance portraits](https://brill.com/view/journals/artp/1/1-2/article-p105_7.xml) are more like the picture on the left than the one on the right, an idea I'll come back to shortly. 
 
 This diagram shows how the two pictures were taken:
 <center>
@@ -243,8 +243,7 @@ This diagram shows how the two pictures were taken:
 </figure>
 </center>
 
-
-So far, I've shown examples where projections are attached horizontally or vertically. But it can also be used in other ways. For example, [Badki et al. (2017)](https://research.nvidia.com/publication/2017-07_computational-zoom-framework-post-capture-image-composition) describe an computational approach that combines different perspective projections for different depths, thereby bringing distant objects closer:
+So far, I've shown examples where projections are attached horizontally or vertically. But it can also be used in other ways. For example, [Badki et al. (2017)](https://research.nvidia.com/publication/2017-07_computational-zoom-framework-post-capture-image-composition) describe a computational approach that combines different perspective projections for different depths, thereby bringing distant objects closer:
 
 <center>
 <figure>
@@ -331,7 +330,7 @@ David Hockney's _Pearblossom Highway #2_, which is composed of a collection of p
 
 There are a lot of gaps in my explanation, like "how big should DVC regions be?" This probably depends on the picture contents, the size of the picture and viewing distances—more research is needed.  
 
-Even so, I hope this blog post convinces you that the Direct View Condition and multiperspective projection provide a useful way to understand picture projections—maybe even better than the old ones we learn in school.  The Direct View Condition explains when pictures do or or do not look distorted, and multiperspective projection can explain how artists often work.  These are general phenomena that should be explained by any theory of shape perception in pictures. And no existing theory explains them.
+Even so, I hope this blog post convinces you that the Direct View Condition and multiperspective projection provide a useful way to understand picture projections—maybe even better than the old ones we learn in school.  The Direct View Condition explains when pictures do or do not look distorted, and multiperspective projection can explain how artists often work.  These are general phenomena that should be explained by any theory of shape perception in pictures. And no existing theory explains them.
 
 But maybe you're still skeptical: _why_ would pictures work this way?  Why have linear perspective for parts of pictures, rather than the whole thing? 
 
