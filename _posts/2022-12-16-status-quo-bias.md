@@ -46,7 +46,7 @@ Something similar happens with artistic taste. So many times have I heard someon
 <center>
 <figure>
    <p float="left">
-   <a href="../../../images/statusquo/goodmusic.jpg"><img src="../../../images/statusquo/goodmusic.jpg" alt="Study results showing 'All good music came after I was born, and before I hit 35'" width="60%"/></a>
+   <a href="../../../images/statusquo/good-music.jpg"><img src="../../../images/statusquo/good-music.jpg" alt="Study results showing 'All good music came after I was born, and before I hit 35'" width="60%"/></a>
 </p>
 </figure>
 </center>
