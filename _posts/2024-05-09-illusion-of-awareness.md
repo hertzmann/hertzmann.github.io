@@ -74,7 +74,7 @@ I can't do it, and I haven't met anyone else that can. Why is this so difficult?
 
 To see why, we first need to understand the human retina.
 
-It's tempting to think of the human eye as being like a camera. In some ways, it is. Like a camera, an eye has a lens that focuses light onto an array of sensors. In the eye, this sensor array is called the _retina_. But there's an important difference. In a camera, the light sensors are arranged in a uniform grid. In the human retina, the sensors (called rods and cones) have a much more interesting pattern. 
+It's tempting to think of the human eye as being like a camera. In some ways, it is. Like a camera, an eye has a lens that focuses light onto an array of sensors. In the eye, this sensor array is called the _retina_. But there's an important difference. In a camera, the light sensors are arranged in a uniform grid. In the human retina, the sensors (called "rods" and "cones") have a much more interesting pattern. 
 
 Here are microscopic images of two parts of the retina. On the left is the center of the retina, which is called the _fovea_:
 <center>
@@ -102,7 +102,7 @@ Here's a panoramic picture of a street, that, like human vision, covers a little
 </center>
 The red box shows where those street signs from before.  When I took this picture, I could easily read each of those street signs by looking right at them. But they're so tiny in the panoramic photo that you can't even see them, much less read them.
 
-This illustrates how foveal vision allows us to have very high-resolution vision, but only for a very, very narrow range of directions. The range of directions that our eyes see is called the _visual field_, and **foveal vision covers only 0.01% of the visual field** (roughly 1 degrees horizontally, although some people define the fovea as being 5 degrees).
+This illustrates how foveal vision allows us to have very high-resolution vision, but only for a very, very narrow range of directions. The range of directions that our eyes see is called the _visual field_, and **foveal vision covers only 0.01% of the visual field** (roughly 1 degrees horizontally, although some people define the fovea as being 5 degrees).  If we did have full resolution everywhere, instead of foveation, then [our brains would have to weigh thousands of pounds](https://www.sciencedirect.com/science/article/pii/0893608095000925) to process all that information.
 
 And so, to perceive the world, we move our eyes around. We look at one thing, then another, then another. As you read this text, your gaze jumps from word to word. When looking at a photograph, your eyes jump around from point to point.  For the most part, this happens unconsciously—we may not even be aware of our own eye movements until it's pointed out.
 

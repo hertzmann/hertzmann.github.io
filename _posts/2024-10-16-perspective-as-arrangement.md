@@ -12,6 +12,11 @@ og:image: "/images/ipad_paintings/ocean_beach.jpg"
 # How I Paint Space: Multiperspective Arrangement
 
 
+_Note: This blog post has been completely rewritten and published as a paper. Please read and/or cite the paper, as appropriate:_
+
+| A. Hertzmann. Comparing Perspective in Drawings, Photographs, and Perception. _Art & Perception_. 2025. \[[Paper](https://brill.com/view/journals/artp/aop/article-10.1163-22134913-bja10069/article-10.1163-22134913-bja10069.xml?ebody=abstract%2Fexcerpt)\] \[[Preprint](https://psyarxiv.com/pq8nb/)\]  |
+
+
 This post describes how I think about perspective _when I'm drawing and painting_.  By _perspective_, I mean creating a sense of 3D space in a 2D picture. [Classical theories](https://en.wikipedia.org/wiki/Perspective_(graphical)) treat perspective as a specific rigid principle that doesn't accurately describe how artists or human vision actually work.  Since the Modern Art era, a lot of art instruction (including my own) treats perspective as freeform, without any particular rules or principles. I think there's more to say about it.
 
 When I draw and paint, perspective is about _arrangement_: about arranging shapes on the page. It's not about reasoning about projections from 3D to 2D. Moreover, drawings are _multiperspective_: different parts of the page correspond to different viewpoints or eye directions.  
