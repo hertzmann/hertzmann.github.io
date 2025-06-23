@@ -2,7 +2,7 @@
 
 In peer review for scientific and technical papers, peer reviews occasionally discuss the paper authors directly. In this post I argue that this behavior can be toxic: it harms the review process, the authors, and, potentially, the community as a whole. This particular problem can be prevented by one easy guideline, one already used in some communities: paper reviews should be about the paper, not the authors.
 
-This follows [my previous blog post](), where I reviewed "non-violent communication" (NVC). NVC offers a way to communicate and find common ground by separating observable facts and feelings, while avoiding judgments of other people. For this discussion, a "violent communication" is any statement that imposes an unwanted opinion on someone else, like telling someone that they're always late or rude. As I discuss in that blog post, even compliments and unsolicited advice can be non-violent in some contexts.  Additionally, I discuss the importance of talking about feelings, something many of us are trained to avoid, whether from childhood or scientific and technical training.
+This follows [my previous blog post](/2025/06/23/nvc-1-scicomm.html), where I reviewed "non-violent communication" (NVC). NVC offers a way to communicate and find common ground by separating observable facts and feelings, while avoiding judgments of other people. For this discussion, a "violent communication" is any statement that imposes an unwanted opinion on someone else, like telling someone that they're always late or rude. As I discuss in that blog post, even compliments and unsolicited advice can be non-violent in some contexts.  Additionally, I discuss the importance of talking about feelings, something many of us are trained to avoid, whether from childhood or scientific and technical training.
 
 Even if you're not specifically interested in scientific paper reviews, this post may provide an interesting discussion of how thinking about feelings and communication can be useful in a technical context.
 
@@ -127,7 +127,7 @@ One other factor is that I sometimes write theoretical papers with some first pe
 
 # Reviewing and Non-Violent Communication (NVC)
 
-The core argument of this blog post could be expressed in terms of the four steps of [NVC]():
+The core argument of this blog post could be expressed in terms of the four steps of [NVC](/2025/06/23/nvc-1-scicomm.html):
 
 1. **What I observed** in the paper reviews I received
 2. **How I felt** after receiving the reviews
