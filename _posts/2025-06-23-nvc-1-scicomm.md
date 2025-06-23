@@ -112,7 +112,7 @@ I'm currently co-authoring a technical paper on a controversial topic in "AI" ar
 
 Now, when I do discuss controversies directly, I do try to acknowledge the conflicting fears and angers of the different stakeholders, and the sources of those feelings.  For example, in [a discussion of "AI art,"](/2022/12/17/when-tech-changes-art) I discussed the anger that traditional artists feel as a product of their fears for their own livelihoods and identities, many of which are quite understandable. (Although I've also discussed it in terms of the [value systems of different kinds of artists](/2023/12/11/art-worlds), which are themselves tied to feelings.) Some artists might find this discussion violent if they do not relate to it—different people have different opinions and feelings—but it seems better than not attempting to acknowledge the feelings.
 
-<h1><a href="../../../2025/06/23/nvc-1-scicomm.html">In my next blog post</a>, I discuss violent communications in paper reviewing (including some really bad reviews I've gotten), and describe a simple guideline for better, non-violent reviews</h1>
+<h1><a href="../../../2025/06/23/nvc-2-reviewing.html">In my next blog post</a>, I discuss violent communications in paper reviewing (including some really bad reviews I've gotten), and describe a simple guideline for better, non-violent reviews</h1>
 
 <hr>
 
