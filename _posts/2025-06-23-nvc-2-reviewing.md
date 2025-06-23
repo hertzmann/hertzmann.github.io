@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Violent Communication in Scientific Paper Reviews"
+summary: Paper reviews should not discuss the authors.
+author:  AaronHertzmann
+image: "/images/wica/bradford_viewers.jpg"
+og:image: "/images/wica/bradford_viewers.jpg"
+---
+
 # Violent Communication in Scientific Paper Reviews
 
 In peer review for scientific and technical papers, peer reviews occasionally discuss the paper authors directly. In this post I argue that this behavior can be toxic: it harms the review process, the authors, and, potentially, the community as a whole. This particular problem can be prevented by one easy guideline, one already used in some communities: paper reviews should be about the paper, not the authors.

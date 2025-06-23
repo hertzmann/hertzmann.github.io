@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Non-Violent Communication, and Technical Communication"
+summary: Techniques for better communication that could be useful in technical communication.
+author:  AaronHertzmann
+image: "/images/wica/bradford_viewers.jpg"
+og:image: "/images/wica/bradford_viewers.jpg"
+---
+
+
 # Non-Violent Communication, and Technical Communication
 
 
