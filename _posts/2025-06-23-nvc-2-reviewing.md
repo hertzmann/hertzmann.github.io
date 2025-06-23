@@ -86,7 +86,7 @@ Most places that I have published do have explicit rules about this.  For exampl
 
 |Belittling or sarcastic comments, or comments on authors’ personalities, have no place in the reviewing process. Please evaluate the work, not the authors. The most valuable comments in a review are those that help the authors understand the shortcomings of their work and how they might improve it. ...|
 
-(I might have contributed to this, I don't remember). This policy is enforced by the papers committee: if a review violates the policy, the reviewer will be required to fix it before it is sent to the authors.
+(I might have contributed to this, I don't remember). [The CVPR policy uses almost the same wording](https://cvpr.thecvf.com/Conferences/2025/ReviewerGuidelines). These policies are enforced by the papers committee: if a review violates the policy, the reviewer will be required to fix it before it is sent to the authors.
 
 This seems like it's obviously the right thing to do.  The primary purpose of paper reviewing is to decide whether to publish the paper, and the secondary purpose is to give useful feedback on the paper manuscript to the authors. Discussing the authors does not further either goal. Moreover, the reviewer does not have enough information to say anything useful and meaningful about the authors. Such statements would just end up being violent communication. 
 
