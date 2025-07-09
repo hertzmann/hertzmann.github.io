@@ -22,7 +22,7 @@ Here, I begin by describing two "violent" paper reviews that I've gotten in the 
 
 # My first toxic review
 
-Since 2019, I've been submitting papers to journals in vision science (i.e., the psychology and neuroscience of human vision), ƒar outside of my background in computer science. Overall, my experience has been extremely positive, both in the review process, and with the vision scientists who have given me feedback and guidance on manuscripts. Reviewers have often misunderstood my submissions and written skeptical reviews, sometimes even leading to rejection. This is normal and useful: these misunderstandings give clues about problems in the paper, which I can then fix. But there have also been some toxic reviews.
+Since 2019, I've been submitting papers to journals in vision science (i.e., the psychology and neuroscience of human vision), far outside of my background in computer science. Overall, my experience has been extremely positive, both in the review process, and with the vision scientists who have given me feedback and guidance on manuscripts. Reviewers have often misunderstood my submissions and written skeptical reviews, sometimes even leading to rejection. This is normal and useful: these misunderstandings give clues about problems in the paper, which I can then fix. But there have also been some toxic reviews.
 
 My very first vision science submission got one violent review, based on misunderstanding the manuscript. Here's a typical paragraph from it (typos included):
 
