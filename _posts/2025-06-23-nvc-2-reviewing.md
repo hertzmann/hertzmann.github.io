@@ -75,7 +75,7 @@ We have a ton of work ahead of us, to revise and overhaul the work, making use o
 
 <center><b>The role of feelings</b></center>
 
-The reviewer made many useful criticisms; our submission had many problems.  But that doesn't explain the intense emotions that the reviewer reports.  The review gives the impression of someone barely suppressing rage.
+The reviewer made many useful criticisms; our submission had many problems.  But that doesn't explain the intense emotions that the reviewer reports.  The review gives the impression of someone  suppressing rage.
 
 Here's my theory: the reviewer misunderstood one of our claims about the literature—they thought we were saying that no one had worked on these problems. They took it as an insult to their work. Instead of recognizing their hurt (or questioning their interpretation, or even noticing that we actually did cite papers and books from this literature), they lashed out at at us.  The genuine flaws in our manuscript just added fuel to the fire. But that's just one possibility.
 
