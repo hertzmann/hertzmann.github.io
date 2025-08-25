@@ -83,7 +83,7 @@ The harsh reviewer might think that they're justified in being harsh—as if hav
 
 I have speculated about the reviewer's emotions, state, and background in order to make a point. In an actual conversation, this would all be violent conversation, and thus not constructive to finding common ground.
 
-A reviewer feels threatened or insulted by a paper, so they write an angry review attacking the authors. The reviewer has bad emotions and tells the authors that they should feel bad. The authors in turn feel angry and upset by the review and then struggle to incorporate the feedback and figure out the next steps.  The reviewers discussed the manuscript in terms of the authors' thought processes, thereby making the reviews unnecessarily personal, and sometimes insulting (especially when they were wrong). This does not seem healthy for anyone.
+A reviewer feels threatened or insulted by a paper, so they write an angry review attacking the authors. The reviewer has bad emotions and tells the authors that they should feel bad. The reviewer discussed the manuscript in terms of the authors' thought processes, thereby making the reviews unnecessarily personal, and sometimes insulting (especially when they were wrong). The authors in turn feel angry and upset by the review and then struggle to incorporate the feedback and figure out the next steps. This does not seem healthy for anyone.
 
 
 
