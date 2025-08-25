@@ -44,7 +44,9 @@ But the review should not have been about me.
 
 It's normal for a reviewer to not understand a manuscript's argument; seeing how readers misunderstand a paper is invaluable information for authors. I work very hard to understand reviewer comments and I heavily revise papers accordingly.
 
-But it is not okay that the reviewer judges me, personally. This is violent communication. Not only were their comments inaccurate, they are _toxic_: they hurt, emotionally. They are insulting, they are painful to read.  They make me want to respond with my own violent communcation—to say that the reviewer is an asshole—and to discount everything they say.  The violent communication is counter-productive: it's hard to learn much from someone when they are hurting you. (This is also one reason that [dog trainers have moved to training based on positive reinforcement](https://avsab.org/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf) instead of negative reinforcement.)
+But it is not okay that the reviewer judges me, personally. This is violent communication. Not only were their comments inaccurate, they are _toxic_: they hurt, emotionally. They are insulting, they are painful to read.  They make me want to respond with my own violent communcation—to say that the reviewer is an asshole—and to discount everything they say.  
+
+Violent communication is counter-productive: it's hard to learn much from someone when they are hurting you. (This is also one reason that [dog trainers have moved to training based on positive reinforcement](https://avsab.org/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf) instead of negative reinforcement.)
 
 Toxic communication harms the community. When editors allow these kinds of comments, they send the message that this kind of reviewing is acceptable, even encouraged. Toxic communication poisons open communication and can even drive people away, especially students.  I feel insecure about my ability to participate in vision science research, and feel like an outsider. 
 
