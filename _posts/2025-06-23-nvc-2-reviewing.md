@@ -73,7 +73,8 @@ I shared the review with some vision scientists colleagues. They sympathized, an
 
 We have a ton of work ahead of us, to revise and overhaul the work, making use of the information in the reviews. We will certainly try to prevent these misunderstandings in our revisions. But it's so much more difficult to study this review when it makes us angry and upset.  As I said before, it's hard to learn much from someone when they're hurting you.
 
-**The role of feelings.** 
+<center><bold>The role of feelings.</bold></center>
+
 The reviewer made many useful criticisms; our submission had many problems.  But that doesn't explain the intense emotions that the reviewer reports.  The review gives the impression of someone barely suppressing rage.
 
 Here's my theory: the reviewer misunderstood one of our claims about the literature—they thought we were saying that no one had worked on these problems. They took it as an insult to their work. Instead of recognizing their hurt (or questioning their interpretation, or even noticing that we actually did cite papers and books from this literature), they lashed out at at us.  The genuine flaws in our manuscript just added fuel to the fire. But that's just one possibility.
