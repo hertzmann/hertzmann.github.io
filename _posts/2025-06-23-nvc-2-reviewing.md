@@ -73,7 +73,7 @@ I shared the review with some vision scientists colleagues. They sympathized, an
 
 We have a ton of work ahead of us, to revise and overhaul the work, making use of the information in the reviews. We will certainly try to prevent these misunderstandings in our revisions. But it's so much more difficult to study this review when it makes us angry and upset.  As I said before, it's hard to learn much from someone when they're hurting you.
 
-<center><bold>The role of feelings.</bold></center>
+<center><b>The role of feelings.</b></center>
 
 The reviewer made many useful criticisms; our submission had many problems.  But that doesn't explain the intense emotions that the reviewer reports.  The review gives the impression of someone barely suppressing rage.
 
