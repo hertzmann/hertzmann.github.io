@@ -73,10 +73,14 @@ So far, I've oversimplified: **the Contemporary Art World isn't just one communi
 However, even though the Biennial Art World and Art Market World have very distinct values in art, they would each _recognize_ each other as making Art, whether or not they respect it.
 
 
+**Update** (Aug 2025): Here's an amazing diagram of different subcultures of the "Art World", from [an essay by Andrea Fraser](https://www.e-flux.com/notes/634540/the-field-of-contemporary-art-a-diagram). See the essay for more about the figure and the different art worlds it depicts.
 
+<center>
+  <img src="../../../images/art-worlds-andrea-fraser.jpeg" width="640">
+</center>
+<br>
 
 For more about the contemporary art world as its own community, such as the importance of ambiguity, [see my previous blog post](/2020/06/08/wica.html).
-
 
 
 
@@ -188,5 +192,5 @@ Other communities form around other kinds of art, whether visual effects, fan ar
 Anywhere you find a community of artists, you may find an Art World. 
 
 <hr>
-<i>Thanks to Laura Herman and Craig Reynolds.</i>
+<i>Thanks to Itay Goetz, Laura Herman and Craig Reynolds.</i>
 
