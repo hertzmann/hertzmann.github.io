@@ -83,7 +83,7 @@ How the concept of "art" was invented in the Romantic era; our modern concepts o
 # Food and Health
 
 **[_In Defense of Food_](https://en.wikipedia.org/wiki/In_Defense_of_Food), Michael Pollan (2008)**<BR>
-I loved Michael Pollan's [_The Omnivore's Dilemma_] first book, which compared different approaches to food production, although some aspects of the writing bothered me (like the way he anthropomorphized evolution). In _In Defense of Food_, he distilled his ideas and a lot of research to a basic dietary credo that affects how I eat today.
+I loved Michael Pollan's _The Omnivore's Dilemma_, which compared different approaches to food production, although some aspects of the writing bothered me (like the way he anthropomorphized evolution). In _In Defense of Food_, he distilled his ideas and a lot of research to a basic dietary credo that affects how I eat today.
 
 **[_Ultra-Processed People_](https://en.wikipedia.org/wiki/A Ultra-Processed_People), Chris Van Tulleken (2023)**<br>
 A surveyof the theories, evidence, and the broader context for why Ultra-Processed Food is the source of so many of our dietary problems.  (And, some of the original research on ultra-processed foods was inspired by Michael Pollan's book.)
