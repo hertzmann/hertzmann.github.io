@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Books That Changed The Way I See The World"
+summary: Some non-fiction books that profoundly impacted my thinking.
+author:  AaronHertzmann
+image: "/images/wica/bradford_viewers.jpg"
+og:image: "/images/wica/bradford_viewers.jpg"
+---
+
 # Books That Changed The Way I See The World
 
 Ever since I read _Guns, Germs, and Steel_, and then more books like it, I started a mental category of "books that changed the way I see the world."  These books have a few things in common: they are non-fiction; they often span eras; they present grand theories based on solid evidence; they're engagingly written for a relatively broad  audience; in most cases, I couldn't put them down, finishing them in a short amount of time, and then buttonholed all my friends telling them to read the book; years later, I still find myself referring to ideas or tidbits that stuck out from these books, and sometimes thinking "how can you discuss topic X if you haven't read this book?"  I aspire to write books like this about art, technology, and perception someday.
