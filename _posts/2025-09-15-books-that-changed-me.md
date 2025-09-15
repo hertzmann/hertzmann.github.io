@@ -133,7 +133,7 @@ How monopolies have created precarious conditions for artists (and also why copy
 An invaluable approach to having more-productive and empathetic conversations, especially in the presence of conflict. ([Longer blog post](/2025/06/23/nvc-1-scicomm.html))
 
 **_Hyperbole and a Half_, Allie Brosh**<br>
-Hilarious cartoon memoir that, along the way, depicts how absolutely debilitating clinical depression can be.
+Hilarious cartoon memoir that, along the way, helped me understand how absolutely debilitating clinical depression can be.
 
 ---
 
