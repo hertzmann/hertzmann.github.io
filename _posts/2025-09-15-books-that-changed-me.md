@@ -50,7 +50,7 @@ I learned a lot about postive reinforcement dog training while volunteering in a
 # Societies and Cities
 
 **[_The Death and Life of Great American Cities_](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities), Jane Jacobs (1961)**<br>
-The book absolutely transformed the way that I understood city life, so much that it's hard to even remember what I thought beforehand. I felt like a cipher had been unlocked to help me understand the city in ways I never had before. I wished very much that someone had given it to me to read before I moved to New York City. I only found out about her after I moved to Toronto and went on a city walk celebrating Jane Jacobs' activist legacy in Toronto. I became a huge Jane Jacobs fan. For more about her history as an activist in New York, along with a bit of Robert Moses' history, I really enjoyed the short history _Wrestling with Moses_ by Anthony Flint (2009).
+The book absolutely transformed the way that I understood city life, so much that it's hard to even remember what I thought beforehand. I felt like a cipher had been unlocked to help me understand the city in ways I never had before. I wished very much that someone had given it to me to read before I moved to New York City. I only found out about her after I moved to Toronto and went on a city walk celebrating Jane Jacobs' activist legacy in Toronto. I became a huge Jane Jacobs fan. For more about her history as an activist in New York, along with a bit of Robert Moses' history, I really enjoyed the short history _Wrestling with Moses_ by Anthony Flint (2009). (Lots of people have loved and recommended _The Power Broker_, one that I have not started on.)
 
 
 
@@ -129,10 +129,10 @@ How monopolies have created precarious conditions for artists (and also why copy
 
 # Other
 
-**_Non-Violent Communication_, Marshall Rosenberg**<br>
+**[_Non-Violent Communication_](https://en.wikipedia.org/wiki/Nonviolent_Communication), Marshall Rosenberg (2015 edition)**<br>
 An invaluable approach to having more-productive and empathetic conversations, especially in the presence of conflict. ([Longer blog post](/2025/06/23/nvc-1-scicomm.html))
 
-**_Hyperbole and a Half_, Allie Brosh**<br>
+**[_Hyperbole and a Half_](https://hyperboleandahalfbook.blogspot.com/2013/09/i-wrote-book_30.html), Allie Brosh (2013)**<br>
 Hilarious cartoon memoir that, along the way, helped me understand how absolutely debilitating clinical depression can be.
 
 ---
