@@ -86,6 +86,7 @@ It's hard to take Sousa's claims of the purity of performance too seriously, sin
 
 New music recording and distribution technologies have since led to many, many new copyright battles, including battles over [cassette tapes](https://en.wikipedia.org/wiki/Home_Taping_Is_Killing_Music), [sampling in hip-hop](https://en.wikipedia.org/wiki/Sampling_(music)#Lawsuits), [file-sharing](https://en.wikipedia.org/wiki/File_sharing), [pop art](https://www.smithsonianmag.com/smart-news/andy-warhol-copyright-prince-fair-use-180982230/), [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)#Examples_of_lawsuits), and on and on.  New technologies lead to compensation battles as well: [video streaming technology led to the 2023 Hollywood writers' strikes](https://www.youtube.com/watch?v=ILaU78Oo7XM), and [compensation for musicians from online streaming remains bad](https://en.wikipedia.org/wiki/Criticism_of_Spotify#Business_practices).  
 
+<p>
 <center>
 <figure>
    <p float="left">
@@ -94,6 +95,7 @@ New music recording and distribution technologies have since led to many, many n
 </figure>
 <figcenter><i>Advertisement from <a href="https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/">a 1927 campaign</a> against using recorded music in movies</i></figcenter>
 </center>
+</p>
 
 Each of these battles are accompanied with absolute claims about art like Sousa's: not only does the new technology ruin compensation for artists, also it's soulless, it's bad for art.  A lot of campaigners against new technology don't just say it's bad for compensation, they say it's bad, period.  But I think we should separate these issues. 
 
