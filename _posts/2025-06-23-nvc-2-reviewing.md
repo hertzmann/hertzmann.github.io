@@ -44,7 +44,9 @@ But the review should not have been about me.
 
 It's normal for a reviewer to not understand a manuscript's argument; seeing how readers misunderstand a paper is invaluable information for authors. I work very hard to understand reviewer comments and I heavily revise papers accordingly.
 
-But it is not okay that the reviewer judges me, personally. This is violent communication. Not only were their comments inaccurate, they are _toxic_: they hurt, emotionally. They are insulting, they are painful to read.  They make me want to respond with my own violent communcation—to say that the reviewer is an asshole—and to discount everything they say.  The violent communication is counter-productive: it's hard to learn much from someone when they are hurting you. (This is also one reason that dog trainers have moved to training based on positive reinforcement instead of negative reinforcement.)
+But it is not okay that the reviewer judges me, personally. This is violent communication. Not only were their comments inaccurate, they are _toxic_: they hurt, emotionally. They are insulting, they are painful to read.  They make me want to respond with my own violent communcation—to say that the reviewer is an asshole—and to discount everything they say.  
+
+Violent communication is counter-productive: it's hard to learn much from someone when they are hurting you. (This is also one reason that [dog trainers have moved to training based on positive reinforcement](https://avsab.org/wp-content/uploads/2021/08/AVSAB-Humane-Dog-Training-Position-Statement-2021.pdf) instead of negative reinforcement.)
 
 Toxic communication harms the community. When editors allow these kinds of comments, they send the message that this kind of reviewing is acceptable, even encouraged. Toxic communication poisons open communication and can even drive people away, especially students.  I feel insecure about my ability to participate in vision science research, and feel like an outsider. 
 
@@ -57,29 +59,33 @@ My coauthors and I recently received a far worse  review from _Journal of Vision
 
 |_These are three fine questions, but the authors, 1) seem to be largely ignorant of the vast literature on visual appearance (and in particular image appearance) that has for decades addressed and made progress on these issues, and 2) seem to be so tied to the beliefs articulated in their conclusion that they have designed experiments (if they can actually be called that) that are a confused mess._|
 
-That is, they called us ignorant and described our beliefs. Later in the review they continue to describe our mental states and beliefs. They later commented directly on our training: "A quick review of the authors' CVs show that they variously have training in Computer Science and Art History. ... The authors badly need help in \[vision science\]".
+That is, they called us ignorant and described our beliefs. Later in the review they continue to describe our mental states and beliefs. They later commented directly on our training:
+
+|A quick review of the authors' CVs show that they variously have training in Computer Science and Art History. ... The authors badly need help in \[vision science\].|
 
 The reviewer concluded with:
 
-|_I have reached the end of my patience with this paper. It is a poorly conceived, designed, executed, and documented monstrosity and I regret that I will never get back the time I have spent reading and reviewing it. \[The first author\] can be forgiven for their ignorance, but \[the senior authors and another person\] know better and should be embarrassed that they authorized the submission of this manuscript._|
+|_I have reached the end of my patience with this paper. It is a poorly conceived, designed, executed, and documented monstrosity and I regret that I will never get back the time I have spent reading and reviewing it. \[The first author\] can be forgiven for their ignorance, but \[the senior authors and another uninvolved person\] know better and should be embarrassed that they authorized the submission of this manuscript._|
 
-Here the reviewer again describes us as ignorant, makes baseless assumptions about how the paper was written, says we _should_ feel bad, and, if we read the review correctly, seems to attack another person that isn't even an author (i.e., the first author's PhD advisor).
+Here the reviewer again describes us as ignorant and makes baseless about how the paper was written. Moreover, the reviewer says we _should_ feel bad. 
 
-The reviewer made many useful criticisms; our submission had many problems.  But that doesn't explain the intense emotions that the reviewer reports.  The review gives the impression of someone barely suppressing rage.
-
-Here's my theory: the reviewer misunderstood one of our claims about the literature—they thought we were saying that no one had worked on these problems. They took it as an insult to their work. Instead of recognizing their hurt (or questioning their interpretation, or even noticing that we actually did cite papers and books from this literature), they lashed out at at us.  The genuine flaws in our manuscript just added fuel to the fire. But that's just one possibility.
-
-In turn, this review made us very angry and upset, and we are still mad and hurt. Even writing this blog post has made me upset.
+This review made us very angry and upset, and we are still mad and hurt. Even writing this blog post has made me upset.
 
 I shared the review with some vision scientists colleagues. They sympathized, and said they've received reviews like this too. They speculated that these kinds of reviews come from scientists who did a lot of psychophysics in the 70s and 80s and now feel left behind by the field.
+
+We have a ton of work ahead of us, to revise and overhaul the work, making use of the information in the reviews. We will certainly try to prevent these misunderstandings in our revisions. But it's so much more difficult to study this review when it makes us angry and upset.  As I said before, it's hard to learn much from someone when they're hurting you.
+
+<center><b>The role of feelings</b></center>
+
+The reviewer made many useful criticisms; our submission had many problems.  But that doesn't explain the intense emotions that the reviewer reports.  The review gives the impression of someone  suppressing rage.
+
+Here's my theory: the reviewer misunderstood one of our claims about the literature—they thought we were saying that no one had worked on these problems. They took it as an insult to their work. Instead of recognizing their hurt (or questioning their interpretation, or even noticing that we actually did cite papers and books from this literature), they lashed out at at us.  The genuine flaws in our manuscript just added fuel to the fire. But that's just one possibility.
 
 The harsh reviewer might think that they're justified in being harsh—as if having a paper rejected, and seeing that it needs a major overhaul, isn't negative feedback enough. I could imagine legitimate arguments that some papers should not be submitted. But, if that's what they believed, then the reviewer should have made those arguments, instead of just giving emotional abuse. 
 
 I have speculated about the reviewer's emotions, state, and background in order to make a point. In an actual conversation, this would all be violent conversation, and thus not constructive to finding common ground.
 
-We have a ton of work ahead of us, to revise and overhaul the work, making use of the information in the reviews. We will certainly try to prevent these misunderstandings in our revisions. But it's so much more difficult to study this review when it makes us angry and upset.  As I said before, it's hard to learn much from someone when they're hurting you.
-
-One final note: my discussion here has focused on the role of feelings. A reviewer feels threatened or insulted by a paper, so they write an angry review attacking the authors. The reviewer has bad emotions and tells the authors that they should feel bad. The authors in turn feel angry and upset by the review and then struggle to incorporate the feedback and figure out the next steps.  The reviewers discussed the manuscript in terms of the authors' thought processes, thereby making the reviews unnecessarily personal, and sometimes insulting (especially when they were wrong).
+A reviewer feels threatened or insulted by a paper, so they write an angry review attacking the authors. The reviewer has bad emotions and tells the authors that they should feel bad. The reviewer discussed the manuscript in terms of the authors' thought processes, thereby making the reviews unnecessarily personal, and sometimes insulting (especially when they were wrong). The authors in turn feel angry and upset by the review and then struggle to incorporate the feedback and figure out the next steps. This does not seem healthy for anyone.
 
 
 
