@@ -40,15 +40,10 @@ So many of our current musicians talk about being inspired by recordings. <a hre
 
 Whenever someone says that machine-made art is soulless and cannot compare to human art, they should consider whether they are basically making the same argument as Sousa's, or [the complaints that artists once made against photography](/2022/08/29/photography-history.html), or against computer graphics, and so on.
 
-
 <center>
-<figure>
-   <p float="left">
-   <img src="../../../images/cinemahistory/robot_sings_of_love.jpg" alt="1930 advertisement against recorded music in cinemas: the robot sings of love" width="60%"/>
-</p>
-</figure>
-<figcenter><i>Advertisement from <a href="https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/">a 1927 campaign</a> against using recorded music in movies</i></figcenter>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">In 1906 a famous composer warned recorded music would end lullabies and turn kids in human phonographs &quot;without soul or expression&quot; <br><br>Hear that warning read by a voice actor below. (Via our podcast on recorded music: <a href="https://t.co/GpU9TYobzG">https://t.co/GpU9TYobzG</a>) <a href="https://t.co/6ys2goVTv2">pic.twitter.com/6ys2goVTv2</a></p>&mdash; Pessimists Archive (@PessimistsArc) <a href="https://twitter.com/PessimistsArc/status/1298678938705698817?ref_src=twsrc%5Etfw">August 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </center>
+
 
 # People making music together
 
@@ -90,6 +85,15 @@ Is recorded music good or bad?  I, for one, could not imagine giving it up, or g
 It's hard to take Sousa's claims of the purity of performance too seriously, since his own band sold recordings for profits. And, earlier in his careeer, he had used Gilbert and Sullivan's music without compensating them, to which Arthur Sullivan had said, "It seems to be their opinion that a free and independent American citizen ought not to be robbed of his right of robbing somebody else."
 
 New music recording and distribution technologies have since led to many, many new copyright battles, including battles over [cassette tapes](https://en.wikipedia.org/wiki/Home_Taping_Is_Killing_Music), [sampling in hip-hop](https://en.wikipedia.org/wiki/Sampling_(music)#Lawsuits), [file-sharing](https://en.wikipedia.org/wiki/File_sharing), [pop art](https://www.smithsonianmag.com/smart-news/andy-warhol-copyright-prince-fair-use-180982230/), [appropriation art](https://en.wikipedia.org/wiki/Appropriation_(art)#Examples_of_lawsuits), and on and on.  New technologies lead to compensation battles as well: [video streaming technology led to the 2023 Hollywood writers' strikes](https://www.youtube.com/watch?v=ILaU78Oo7XM), and [compensation for musicians from online streaming remains bad](https://en.wikipedia.org/wiki/Criticism_of_Spotify#Business_practices).  
+
+<center>
+<figure>
+   <p float="left">
+   <img src="../../../images/cinemahistory/robot_sings_of_love.jpg" alt="1930 advertisement against recorded music in cinemas: the robot sings of love" width="60%"/>
+</p>
+</figure>
+<figcenter><i>Advertisement from <a href="https://www.smithsonianmag.com/history/musicians-wage-war-against-evil-robots-92702721/">a 1927 campaign</a> against using recorded music in movies</i></figcenter>
+</center>
 
 Each of these battles are accompanied with absolute claims about art like Sousa's: not only does the new technology ruin compensation for artists, also it's soulless, it's bad for art.  A lot of campaigners against new technology don't just say it's bad for compensation, they say it's bad, period.  But I think we should separate these issues. 
 
