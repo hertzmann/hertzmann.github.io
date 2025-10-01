@@ -13,7 +13,7 @@ In 1877, Edison introduced the [phonograph cylinders](https://en.wikipedia.org/w
 
 In a 1906 essay entitled _The Menace of Mechanical Music_, the popular composer [John Philip Sousa](https://en.wikipedia.org/wiki/John_Philip_Sousa) warned "I foresee a marked deterioration in American music and musical taste, an interruption in the musical development of the country, and a host of other injuries to music in its artistic manifestations, by virtue—or rather by vice—of the multiplication of the various music-reproducing machines."  **In short, he predicted, recorded music will be disastrous for music and our musical taste.**
 
-Today, it's easy to laugh at such outlandish predictions of doom, especially given some of his more bonkers predictions, like that mothers will turn their children into soulless machines by playing them soulless recorded music instead of singing their children to sleep. We take music recording for granted, and surely we still have pretty good taste, so it's easy to dismiss him. It's hard to imagine wishing that records, CDs, and mp3s had never been invented. 
+Today, it's easy to laugh his bonkers predictions, like that mothers will turn their children into soulless machines by playing them soulless recorded music instead of singing their children to sleep. We take music recording for granted, and surely we still have pretty good taste. It's hard to imagine wishing that records, CDs, and mp3s had never been invented.  So it's very easy to dismiss his doom-saying.
 
 But, the more I've thought about it, the more I think that he had some good points.
 
