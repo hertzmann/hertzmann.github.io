@@ -59,7 +59,7 @@ In contrast, when I grew up, at the center of most living rooms was a television
 
 In fact, [there's good evidence that communal bonding is the evolutionary explanation for _why we have music at all_](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/music-as-a-coevolved-system-for-social-bonding/F1ACB3586FD3DD5965E56021F506BC4F).  [Like all arts, recorded music has its own social functions](/2021/03/22/art-is-social.html), for example, fans playing music together, and trading and selling, but I'm not sure these make up for not making music ourselves.
 
-For most of us, experiencing music is a passive activity, especially as compared to before recordings. Even for many amateurs who play instruments, social music-making remains rare.  Although he overstated it when he said "it will be simply a question of time when the amateur disappears entirely," I think **Sousa had a good point here.**
+For most of us, experiencing music is a passive activity, especially as compared to before recordings. Even for many amateurs who play instruments, social music-making remains rare.  He wildly overstated it  when he said "it will be simply a question of time when the amateur disappears entirely," but I think **Sousa had a good point here.**
 
 
 
