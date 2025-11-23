@@ -13,7 +13,9 @@ In 1877, Edison introduced the [phonograph cylinders](https://en.wikipedia.org/w
 
 In a 1906 essay entitled _The Menace of Mechanical Music_, the popular composer [John Philip Sousa](https://en.wikipedia.org/wiki/John_Philip_Sousa) warned "I foresee a marked deterioration in American music and musical taste, an interruption in the musical development of the country, and a host of other injuries to music in its artistic manifestations, by virtue—or rather by vice—of the multiplication of the various music-reproducing machines."  **In short, he predicted, recorded music will be disastrous for music and our musical taste.**
 
-Today, it's easy to laugh at such outlandish predictions of doom, especially how old-fashioned it all seems. I did when I first read his essay.  We take music recording for granted, and surely we still have pretty good taste. It's hard to imagine wishing that records, CDs, and mp3s had never been invented. But, the more I've thought about it, the more I think that he had some good points.
+Today, it's easy to laugh his bonkers predictions, like that mothers will turn their children into soulless machines by playing them soulless recorded music instead of singing their children to sleep. We take music recording for granted, and surely we still have pretty good taste. It's hard to imagine wishing that records, CDs, and mp3s had never been invented.  So it's very easy to dismiss his doom-saying.
+
+But, the more I've thought about it, the more I think that he had some good points.
 
 These days, many people predict artistic doom from our new technologies, and it can be easy to dismiss these predictions, sometimes by pointing back to older predictions of doom. But it's helpful to look back at the ways that old technological changes did change everything, both in good and bad ways. Doing so can give hints as to how best to navigate new changes.
 
