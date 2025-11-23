@@ -50,7 +50,7 @@ I learned a lot about postive reinforcement dog training while volunteering in a
 # Societies and Cities
 
 **[_The Death and Life of Great American Cities_](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities), Jane Jacobs (1961)**<br>
-The book absolutely transformed the way that I understood city life, so much that it's hard to even remember what I thought beforehand. I felt like a cipher had been unlocked to help me understand the city in ways I never had before. I wished very much that someone had given it to me to read before I moved to New York City. I only found out about her after I moved to Toronto and went on a city walk celebrating Jane Jacobs' activist legacy in Toronto. I became a huge Jane Jacobs fan. For more about her history as an activist in New York, along with a bit of Robert Moses' history, I really enjoyed the short history _Wrestling with Moses_ by Anthony Flint (2009). (Lots of people have loved and recommended _The Power Broker_, one that I have not started on.)
+The book absolutely transformed the way that I understood city life, so much that it's hard to even remember what I thought beforehand. I felt like a cipher had been unlocked to help me understand the city in ways I never had before. I wished very much that someone had given it to me to read before I moved to New York City. I only found out about her after I moved to Toronto and went on a city walk celebrating Jane Jacobs' activist legacy in Toronto. I became a huge Jane Jacobs fan. For more about her history as an activist in New York, along with a bit of Robert Moses' history, I really enjoyed the short history _Wrestling with Moses_ by Anthony Flint (2009). (Update: I've since read [_The Power Broker_](https://en.wikipedia.org/wiki/The_Power_Broker), and loved it. The length is intimidating, but once I started it was very easy to keep reading the whole thing.)
 
 
 
@@ -58,7 +58,7 @@ The book absolutely transformed the way that I understood city life, so much tha
 A book about talking to strangers doesn’t sound like it would hold my attention for long, but this was a surprisingly deep exploration of the topic, through anthropology, sociology, and psychology, and many real-world experiences and practical tips. The author argues that talking to strangers is easier than we think, and an important glue in the social fabric that is in a poor state, and our country and world would be so much better if we did more of it.
 
 **[_Status and Culture_](https://www.penguinrandomhouse.com/books/659558/status-and-culture-by-w-david-marx/), W. David Marx (2022)**<br>
-The main thesis it that all culture, fashion, and taste arise from natural human status-seeking, and the book provides a dense analysis of the complex mechanics of both culture and status. Almost every page I was nodding as the book provided broad-strokes theoretical descriptions that perfectly matched my experience or understanding, together with a rich array of cultural examples to make it concrete.
+The main thesis it that all culture, fashion, and taste arise from natural human status-seeking, and the book provides a dense analysis of the complex mechanics of both culture and status. Almost every page I was nodding as the book provided broad-strokes theoretical descriptions that perfectly matched my experience or understanding, together with a rich array of cultural examples to make it concrete. (Update: I'm also enjoying his follow-up book: [_Blank Space_](https://www.penguinrandomhouse.com/books/769187/blank-space-by-w-david-marx/).)
 
 
 
