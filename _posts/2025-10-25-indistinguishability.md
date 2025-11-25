@@ -25,7 +25,7 @@ First, the historical analogies help us [overcome cognitive biases](/2022/12/16/
 
 Second, if you want to convince people, then you need defensible arguments.  For example, [Ted Chiang's argument against "AI" as art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) seems not to have been informed by any knowledge of the history of photography or conceptual art or computer graphics or the [way algorithms make choices](https://jov.arvojournals.org/Article.aspx?articleid=2783759) or current developments in interactive tools. His piece will not persuade people who know about these things.  His piece would have been a good argument that text-to-image is not a good artistic tool, something I agree with, but that's not the argument he claimed to be making.
 
-One possible difference is that **the tools became effective much faster** than with previous technologies. Portrait photography took decades to become widespread, and consumer photography took even longer. But it's hard to judge speed in the moment, amongst all the breathless hype and anxiety; [some claims of the immediacy of "AI"'s impact may be overstated](https://www.forbes.com/sites/annkowalsmith/2025/10/31/ai-didnt-layoff-14000-people-amazon-did/).
+One possible difference is that **the tools became effective much faster** than with previous technologies. Portrait photography took decades to become widespread, and consumer photography took even longer. But it's hard to judge speed in the moment, amongst all the breathless hype and anxiety; [some claims of the immediacy of "AI"'s actual impact may be overstated](https://www.forbes.com/sites/annkowalsmith/2025/10/31/ai-didnt-layoff-14000-people-amazon-did/).
 
 
 # The biggest difference
