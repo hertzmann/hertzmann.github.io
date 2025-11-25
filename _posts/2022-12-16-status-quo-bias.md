@@ -37,6 +37,8 @@ They described a new technology to participants, and, for each participant, told
 
 |[New technology can indeed have significantly negative impacts, but the initial backlash often gets it completely wrong](https://www.amyorben.com/publication/2020_orben_pops/). The consequences of new technologies are subtle and complex. The trick is to accurately judge the harms (and benefits) from the very initial stages of a thing.|
 
+The author Raymond Williams traced complaints of a lost rural country life of the author's childhood back [from the 1970s to the 12th Century](https://en.wikipedia.org/wiki/The_Country_and_the_City). 
+
 Sociologists and psychologists have several theories why some people tend to catastrophize about new technologies. One possible explanation is that, it's hard to imagine the unexplored benefits of new inventions—which are diffuse and ambiguous—as compared to the very real prospect of losing something valuable that we have now.  
 
 # We prefer the music of our formative years
