@@ -47,7 +47,7 @@ The move from analog to digital techniques might be the closest analogy here, an
 
 So, unlike a lot of the gut-response objections, I believe that this _Indistinguishability_ one is valid, and worth considering the implications of. 
 
-I am not claiming that the idea is new, but that this is a defensible way to _describe_ how these technologies differ. People have been discussing the implications of this fact, even if they might have phrased it differently. 
+I am not claiming that the idea is new, but that this is a defensible way to _describe_ how these technologies differ. People have been discussing the implications of this fact, even if they might have phrased it differently.  And, I think this is something that was missing from my previous discussions of the topic.
 
 Here are some possible takes.
 
