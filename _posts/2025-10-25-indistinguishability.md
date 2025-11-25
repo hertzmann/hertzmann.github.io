@@ -6,7 +6,7 @@ image: "/images/wica/bradford_viewers.jpg"
 og:image: "/images/wica/bradford_viewers.jpg"
 ---
 
-# How "AI" Art is Different From Previous Art Technologies
+# How "AI"-Generated Imagery is Different From Previous Art Technologies
 
 When text-to-image generation became big in 2022, many people reacted in shock. I heard a lot of people saying that nothing like this had ever happened before. 
 
