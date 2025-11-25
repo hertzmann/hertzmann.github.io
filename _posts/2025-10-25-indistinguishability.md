@@ -60,7 +60,7 @@ I do believe that history shows that [the best art requires human authorship, ex
 
 I also think the analogy to photography remains useful: photographs didn't look identical to paintings, but they were close enough to radically challenge the existing notions of the value of creating realistic pictures. Once photography grew widespread, making realistic pictures was no longer valued in the way it had been when it required a painter's skill. The subsequent Modern Art movements reversed the understanding of artistic skill and talent [in the contemporary art world](/2022/09/27/art-eras.html); in Van Gogh's words, recreating reality was "just photography".
 
-While skill may still be valued in contemporary art, [it is nothing without a good origin story and ideas behind it](/2020/06/08/wica.html).  In response to the idea of connoisseurship, contemporary artist Jason Salavon likes to quote [the story of wine connoisseurs misled by food coloring](https://www.theguardian.com/lifeandstyle/2013/jun/23/wine-tasting-junk-science-analysis).
+While skill may still be valued in contemporary art, [it is nothing without a good origin story and ideas behind it](/2020/06/08/wica.html).  In response to the idea of connoisseurship, contemporary artist Jason Salavon likes to quote [the story of wine connoisseurs misled by food coloring](https://www.pnas.org/doi/abs/10.1073/pnas.0706929105).
 
 Mass culture still values skill in a way that the contemporary art world does not.  Perhaps mass culture will go through a similar transition.
 
