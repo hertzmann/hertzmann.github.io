@@ -23,7 +23,7 @@ In my work, I have argued that [new artistic technologies tend to appear in cons
 
 First, the historical analogies help us [overcome cognitive biases](/2022/12/16/status-quo-bias.html). Our gut reactions to change are often wrong, and historical examples help us see this, and help us better understand the real dangers.  For example, a natural response is to try to protect existing artists is to expand copyright, but this requires caution since overbroad copyright [has a long history of hurting artists](https://www.rightclicksave.com/article/ai-art-and-uncanniness-cory-doctorow-artificial-intelligence-copyright).
 
-Second, if you want to convince people, then you need defensible arguments.  For example, [Ted Chiang's argument against "AI" as art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) seems not to have been informed by any knowledge of the history of photography or conceptual art or computer graphics or the [way algorithms make choices](https://jov.arvojournals.org/Article.aspx?articleid=2783759) or current developments in interactive tools. His piece will not persuade people who know about these things.  His piece would have been a good argument that text-to-image is not a good artistic tool, something I agree with, but that's not the argument he claimed to be making.
+Second, if you want to convince people, then you need defensible arguments.  For example, [Ted Chiang's argument against "AI" as art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art) seems not to have been informed by any knowledge of the history of photography or conceptual art or computer graphics or the [way algorithms make choices](https://jov.arvojournals.org/Article.aspx?articleid=2783759) or current developments in interactive tools. His piece will not persuade people who know about these things.  His piece could have been a good argument that text-to-image is not a good artistic tool, something I agree with, but that's not the argument he claimed to be making.
 
 One possible difference is that **the tools became effective much faster** than with previous technologies. Portrait photography took decades to become widespread, and consumer photography took even longer. But it's hard to judge speed in the moment, amongst all the breathless hype and controversy; [some claims of the immediacy of "AI"'s actual impact may be overstated](https://www.forbes.com/sites/annkowalsmith/2025/10/31/ai-didnt-layoff-14000-people-amazon-did/).
 
@@ -45,7 +45,9 @@ The move from analog to digital techniques might be the closest analogy here, an
 
 # Implications
 
-So, unlike a lot of the gut-response objections, I believe that this _Indistinguishability_ one is valid, and worth considering the implications of. I am not claiming that the idea is new, but that this is a defensible way to _describe_ how these technologies differ. People have been discussing the implications of this fact, even if they might have phrased it differently. 
+So, unlike a lot of the gut-response objections, I believe that this _Indistinguishability_ one is valid, and worth considering the implications of. 
+
+I am not claiming that the idea is new, but that this is a defensible way to _describe_ how these technologies differ. People have been discussing the implications of this fact, even if they might have phrased it differently. 
 
 Here are some possible takes.
 
@@ -55,7 +57,7 @@ I do think the analogy to photography remains useful: photographs didn't look id
 
 While skill may still be valued in contemporary art, [it is nothing without a good origin story and ideas behind it](/2020/06/08/wica.html).  In response to the idea of connoisseurship, contemporary artist Jason Salavon likes to quote [the story of wine connoisseurs misled by food coloring](https://www.theguardian.com/lifeandstyle/2013/jun/23/wine-tasting-junk-science-analysis).
 
-Mass culture still values skill in a way that the contemporary art world does not.  Perhaps now mass culture will go through a similar transition.
+Mass culture still values skill in a way that the contemporary art world does not.  Perhaps mass culture will go through a similar transition.
 
 ----
 
