@@ -36,7 +36,7 @@ Musicians long ago began making records meant to be heard as records, whether we
 
 Listening to a recording is more like reading a novel, rather than listening to a storyteller read live. And, like a short story or novel, you can study a recording, and go back to it over and over, in a way that you cannot with a perfromance.
 
-Sousa writes "I could not imagine that a performance by it would ever inspire embryotic Mendelssohns, Beethovens, Mozarts, and Wagners to the acquirement of technical skill, or to the grasp of human possibilities in the art." **In this he is utterly wrong.**. 
+Sousa writes "I could not imagine that a performance by it would ever inspire embryotic Mendelssohns, Beethovens, Mozarts, and Wagners to the acquirement of technical skill, or to the grasp of human possibilities in the art." **In this he is utterly wrong.** 
 
 So many of our current musicians talk about being inspired by recordings. <a href="https://www.bbc.com/news/entertainment-arts-58876732">In the words of one artist</a>: "The first Velvet Underground album only sold 10,000 copies, but everyone who bought it formed a band."
 
