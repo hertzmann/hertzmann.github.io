@@ -92,7 +92,7 @@ But when it comes to social isolation, I think most people still don't realize j
 
 After all, cars seem empowering: if you want to go see friends, go to a restaurant or bar, go to see live theatre or sports... why, you just get in your car and drive there. The car makes it possible!  But American urban planning made the car _necessary_ for most of these activities.
 
-Car-first culture reduces meaningful encounters with strangers. As Joe Keohane describes in the surprisingly-deep [_The Power of Strangers_](https://www.penguinrandomhouse.com/books/608695/the-power-of-strangers-by-joe-keohane/), interacting with strangers and acquaintances creates a sort of societal glue: not only can it improve your own mental well-being, and help you make connections, it ties us together in a community. Even walking down the street, you have passing interactions with strangers; depending on segregated the society is, you could be passing a cross-section of humanity.  It's much easier to feel some level of empathy for people that you interact with casually, in person. Interactions with strangers has played an important role in human evolution and in many ancient cultures. 
+Car-first culture reduces meaningful encounters with strangers. As Joe Keohane describes in the surprisingly-deep [_The Power of Strangers_](https://www.penguinrandomhouse.com/books/608695/the-power-of-strangers-by-joe-keohane/), interacting with strangers and acquaintances creates a sort of societal glue: not only can it improve your own mental well-being, and help you make connections, it ties us together in a community. Even walking down the street, you have passing interactions with strangers; depending on how segregated the society is, you could be passing a cross-section of humanity.  It's much easier to feel some level of empathy for people that you interact with casually, in person. Interactions with strangers has played an important role in human evolution and in many ancient cultures. 
 
 When we travel by car, we self-segregate ourselves from all other humans, with virtually no direct interaction beyond fleeting eye contact. Our interactions with others often create stress, and more anger than empathy.
 
@@ -122,7 +122,7 @@ At the start of the 20th century, Edison invented the first music recording devi
 </center>
 </p>
 
-Recordings allow you to develop a relationship with a performers, as we infer their personalities from their music and their public lives. Sometimes we feel like they're directly communicating with us. It's a one-sided, parasocial relationship, but a relationship nonetheless. 
+Recordings allow you to develop a sort of relationship with a performer. Sometimes we feel like they're directly communicating with us. It's a one-sided, parasocial relationship, but a relationship nonetheless. 
 
 With the development of music recording, radio, cinema, and, then, television, communal music-making diminished. Why go through the trouble of learning instruments, getting your amateur friends together, picking a song, and playing it, when you can listen to a recording of some of the best music in the world? Or watch amazing artists perform on television or online? 
 
