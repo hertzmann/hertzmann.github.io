@@ -277,4 +277,4 @@ _A gripping account of (among many other things) how car transportation took ove
 
 ---
 
-_This post was inspired, in part, by conversations with Moshe Vardi._
+_This post was inspired, in part, by conversations with Moshe Vardi. Thanks to Steve DiVerdi for comments._
