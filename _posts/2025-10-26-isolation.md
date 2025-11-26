@@ -1,7 +1,15 @@
+---
+layout: page
+title: "Technology and Social Isolation: From Cars to \"AI\""
+summary: A story about how technology has tended to increase isolation.
+author:  AaronHertzmann
+image: "/images/tech_isolation/record_listener.jpg"
+og:image: "/images/tech_isolation/record_listener.jpg"
+---
+
 # Technology and Social Isolation: From Cars to "AI"
 
 In this blog post, I tell a story of how some technologies from the past century or so have, overall, led to increased social isolation in the United States, as we replaced in-person social interactions with technology. 
-
 
 We can divide social relationships into three categories: close ties, like close friends and family; weak ties, like coworkers and casual friends; strangers, like people you might pass on the street. All three kinds of social relationships are important, and this post is about ways that technology has transformed each of them in the past century.
 
