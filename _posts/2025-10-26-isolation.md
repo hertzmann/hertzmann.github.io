@@ -48,7 +48,7 @@ Henry Ford's [invention of the mass-produced automobile](https://en.wikipedia.or
 	</figure>
 </center>
 
-Automobiles offered freedom and independence: convenient ability to travel far, whether for work or reaction. They signalled social status, indicating wealth, status, independence, and manhood.  They became popular, and then mandatory.
+Automobiles offered freedom and independence: convenient ability to travel far, whether for work or reaction. They signalled social status, wealth, independence, and manhood.  They became popular, and then mandatory.
 
 By the 1940s, a generation of urban planners favored cars as the primary mode of transportation. Most famously, New York's transportation overlord Robert Moses grew up wealthy and never learned to drive, yet rode in cars his whole life. He built a staggering number of roads, highways, and bridges around New York City and Long Island, while blocking decades of public transportation projects.  
 
