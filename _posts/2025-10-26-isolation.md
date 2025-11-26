@@ -63,7 +63,7 @@ Throughout the US, a new kind of population center arose: the "suburb." Suburbs 
 </center>
 
 
-In the 1950s, federal funding such as the [Federal-Aid Highway Act](https://en.wikipedia.org/wiki/Federal-Aid_Highway_Act_of_1956) led to the construction of highways throughout US cities. Many cities drew highways right through urban centers, [often destroying vibrant communities (often, poor and/or Black communities)](https://www.segregationbydesign.com/about) and creating urban blight. Now, an enormous fraction of some cities are now devoted to parking lots, that is, just space for storing cars. [Some cities have more parking lots than housing](https://www.atlasobscura.com/articles/parking-lots-in-cities-usa). And so more people—the ones who could afford it—fled cities.
+In the 1950s, federal funding such as the [Federal-Aid Highway Act](https://en.wikipedia.org/wiki/Federal-Aid_Highway_Act_of_1956) led to the construction of highways throughout US cities. Many cities drew highways right through urban centers, [often destroying vibrant communities (often, poor and/or Black)](https://www.segregationbydesign.com/about) and creating urban blight. Now, an enormous fraction of some cities are now devoted to parking lots, that is, just space for storing cars. [Some cities have more parking lots than housing](https://www.atlasobscura.com/articles/parking-lots-in-cities-usa). And so more people—the ones who could afford it—fled cities.
 
 <center>
 	<figure>
