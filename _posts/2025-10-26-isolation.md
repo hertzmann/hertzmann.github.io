@@ -28,7 +28,7 @@ Many different trends inspired me to write this post. The past decade has seen a
 
 Automobiles are the Original Sin of 20th-Century American social isolation. 
 
-Isolation always existed throughout history. But, by the end of the 19th-Century, many people many lived in communities where they saw their families, friends and neighbors as part of their daily lives, whether farming villages or larger cities. Even poor immigrants overcrowded into New York City tenements often lacked basic needs but frequently had each other. 
+Isolation always existed throughout history. But, by the end of the 19th century, many people many lived in communities where they saw their families, friends and neighbors as part of their daily lives, whether farming villages or larger cities. Even poor immigrants overcrowded into New York City tenements often lacked basic needs but frequently had each other. 
 
 <center>
 	<figure>
