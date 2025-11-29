@@ -248,25 +248,33 @@ It takes conscious time and effort--and sometimes, resources---to avoid the nois
 
 # Some readings I recommend
 
-Derek Thompson. [**The Anti-Social Century**](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/). 2025. Thorough and well-researched article that makes many of these points, and more (sent to me after I posted this; thanks, Moshe Vardi)._
+Derek Thompson. [**The Anti-Social Century**](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/). 2025. 
+<BR>
+_Thorough and well-researched article that makes many of these points, and more (sent to me after I posted this; thanks, Moshe Vardi)._
 
 Joe Keohane. [**The Power of Strangers: The Benefits of Connecting in a Suspicious World**](https://www.penguinrandomhouse.com/books/608695/the-power-of-strangers-by-joe-keohane/). Penguin Random House. 2022.
+<BR>
 _A surprisingly deep exploration of the  value of talking to strangers, through anthropology, sociology, and psychology, and how talking to strangers is important both personally and societally._
 
 Amy Orben. [**The Sisyphean Cycle of Technology Panics**](https://journals.sagepub.com/doi/10.1177/1745691620919372
 ). _Perspectives on Psychological Science._ 2020.
+<BR>
 _How moral panics recur over each new technology, and waste time and resources by misunderstanding the new technologies._
 
 Peter Gray, David F. Lancy, David F. Bjorklund. [**Decline in Independent Activity as a Cause of Decline in Children’s Mental Well-being: Summary of the Evidence**](https://www.jpeds.com/article/S0022-3476(23)00111-7/abstract). _The Journal of Pediatrics_. 2023. ([Alternative link.](https://www.jpeds.com/article/S0022-3476(23)00111-7/abstract))
+<BR>
 _A compelling explanation for the rise in mental health issues._
 
 Melvin Kranzberg. [**Technology and History: "Kranzberg's Laws"**](https://www.jstor.org/stable/3105385?seq=1). _Technology and Culture_. 1986.
+<BR>
 _Is technology good or bad? No._
 
 Jane Jacobs. [**The Death and Life of Great American Cities**](https://en.wikipedia.org/wiki/The_Death_and_Life_of_Great_American_Cities). Random House. 1961.
+<BR>
 _The influential and insightful account of how mid-century American urban planning fails, and how cities can function successfully._
 
 Robert Caro. [**The Power Broker: Robert Moses and the Fall of New York**](https://en.wikipedia.org/wiki/The_Power_Broker). Knopf. 1974.
+<BR>
 _A gripping account of (among many other things) how car transportation took over New York City, and some of the harms that resulted._
 
 [_**My blog post on status quo bias**_](/2022/12/16/status-quo-bias.html): peoples' tendency to assume that new technologies and new kinds of art are bad.
