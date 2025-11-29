@@ -248,7 +248,7 @@ It takes conscious time and effort--and sometimes, resources---to avoid the nois
 
 # Some readings I recommend
 
-Derek Thompson. [**The Anti-Social Century**](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/). 2025. 
+Derek Thompson. [**The Anti-Social Century**](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/). The Atlantic. 2025. 
 <BR>
 _Thorough and well-researched article that makes many of these points, and more (sent to me after I posted this; thanks, Moshe Vardi)._
 
