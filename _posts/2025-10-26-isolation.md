@@ -248,6 +248,8 @@ It takes conscious time and effort--and sometimes, resources---to avoid the nois
 
 # Some readings I recommend
 
+Derek Thompson. [**The Anti-Social Century**](https://www.theatlantic.com/magazine/archive/2025/02/american-loneliness-personality-politics/681091/). 2025. Thorough and well-researched article that makes many of these points, and more (sent to me after I posted this; thanks, Moshe Vardi)._
+
 Joe Keohane. [**The Power of Strangers: The Benefits of Connecting in a Suspicious World**](https://www.penguinrandomhouse.com/books/608695/the-power-of-strangers-by-joe-keohane/). Penguin Random House. 2022.
 _A surprisingly deep exploration of the  value of talking to strangers, through anthropology, sociology, and psychology, and how talking to strangers is important both personally and societally._
 
@@ -273,4 +275,4 @@ _A gripping account of (among many other things) how car transportation took ove
 
 ---
 
-_This post was inspired, in part, by conversations with Moshe Vardi. Thanks to Steve DiVerdi and Obie Pressman for comments._
+_This post was inspired, in part, by conversations with Moshe Vardi.  Thanks to Steve DiVerdi and Obie Pressman for comments._
