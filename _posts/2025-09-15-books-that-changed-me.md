@@ -123,7 +123,7 @@ How motivated economists invented the myth of market rationality ("markets know 
 **[_Weapons of Math Destruction_](https://en.wikipedia.org/wiki/Weapons_of_Math_Destruction), Cathy O'Neal (2016)**<br>
 This book was my first introduction to the harms of algorithmic decisionmaking as reinforcing inequality and racism, back in a time of optimism about machine learning. I don't think she gets enough credit for sounding the alarm on AI, but she was writing when it wasn't called "AI", it was called "big data."  (Safiyah Noble's 2018 [**_Algorithms of Oppression_**](https://en.wikipedia.org/wiki/Algorithms_of_Oppression) discussed this in the context of Google search, again predating today's AI hype.)
 
-**_Chokepoint Capitalism_, Rebecca Giblin and Cory Doctorow (2022)**<br>
+**[_Chokepoint Capitalism_](https://en.wikipedia.org/wiki/Chokepoint_Capitalism), Rebecca Giblin and Cory Doctorow (2022)**<br>
 How monopolies have created precarious conditions for artists (and also why copyright alone cannot save artists). This book was written before the current AI-art controversies and provides valuable context.
 
 
