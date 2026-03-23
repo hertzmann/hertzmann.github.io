@@ -151,7 +151,7 @@ People have created all sorts of more-elaborate such rules for other kinds of dr
 
 In Western culture, we're taught that artists are some sort of special geniuses with innate talent—you're either an artist or you're not—a belief that only dates back to [18th-century Romanticism](/2022/09/27/art-eras.html) and [misguided educational philosophies](https://www.visuallanguagelab.com/2021/03/from-learning-to-draw-to-acquiring-a-visual-vocabulary.html). 
 
-This mystical nonsense prevents people from learning to draw. But all you have to do is take a chance and try it out. I personally have known so many people who took a drawing class and went from “I can't draw" to "Wow, I drew that?" 
+This mystical nonsense prevents people from learning to draw. But all you have to do is take a chance and try it out. I personally have known so many people who took a drawing class or worked from a book of exercises and went from “I can't draw" to "Wow, I drew that?" 
 
 Our work suggests some reasons why people might mistake the inherent difficulty of drawing with innate lack of talent. We're unaware of how limited our own vision and visual memory is. So it's like there's this invisible mental block—limitations of vision and [the illusion of awareness](/2024/05/09/illusion-of-awareness.html)—and we think that it means "I'm not good."  But simple exercises can help you start to work around this mental block. Once you understand the block, it makes more sense.
 
