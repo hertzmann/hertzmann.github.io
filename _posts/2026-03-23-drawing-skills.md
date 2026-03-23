@@ -128,7 +128,7 @@ There are a few things to point out here:
 2. You might not notice this anatomical mistake in the cartoon unless it is pointed out. 
 3. I know this anatomical fact, and yet I still made the mistake. 
 4. I don't care about the mistake; I'm perfectly happy with this cartoon. I don't consider it a mistake; I think the cartoon looks fine without anatomical accuracy. 
-5. But if this were an initial sketch for a more-accurate drawing, then this would be a problem needing correction.
+5. But if this were part of an initial sketch for a more-accurate drawing, then this would be a problem, and one might not notice the problem until much later.
 
 This knowledge can be useful for drawing: [one study found](https://psycnet.apa.org/record/2016-28493-001) that informing novices that the eyes are in the middle of the head improved their drawing accuracy. This conceptual knowledge can help you make conscious judgements to improve your drawing. This is why realistic artists sometimes engage in careful studies of anatomy.
 
