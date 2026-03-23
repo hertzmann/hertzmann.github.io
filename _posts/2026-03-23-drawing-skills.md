@@ -146,7 +146,7 @@ Here's an explicit technique that you can use to draw faces and avoid this probl
 
 People have created all sorts of more-elaborate such rules for other kinds of drawing, including one-point perspective and two-point perspective, and rules for drawing full bodies, which has led to some [great parodies](https://imgur.com/7HMbY).
 
-
+In the paper we survey many other kinds of strategies and skills that artists learn.
 
 # Anyone can learn to draw
 
