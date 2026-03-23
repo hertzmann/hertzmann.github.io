@@ -153,7 +153,7 @@ In Western culture, we're taught that artists are some sort of special geniuses 
 
 This mystical nonsense prevents people from learning to draw. But all you have to do is take a chance and try it out. I personally have known so many people who took a drawing class and went from “I can't draw" to "Wow, I drew that?" 
 
-Our work suggests some reasons why people might mistake the inherent difficulty of drawing with innate lack of talent. We're unaware of how limited our own vision and visual memory is. So it's like there's this invisible mental block—limitations of vision—and we think that it means "I'm not good."  But simple exercises can help you start to work around this mental block. Once you understand the block, it makes more sense.
+Our work suggests some reasons why people might mistake the inherent difficulty of drawing with innate lack of talent. We're unaware of how limited our own vision and visual memory is. So it's like there's this invisible mental block—limitations of vision and [the illusion of awareness](/2024/05/09/illusion-of-awareness.html)—and we think that it means "I'm not good."  But simple exercises can help you start to work around this mental block. Once you understand the block, it makes more sense.
 
 Drawing is a skill you learn, not an innate talent.  I think there are only a few things you need to learn to draw: a little bravery, some exercises (especially from a book or from classes), and lots and lots of practice. I wrote a little more about this [here](/2024/06/21/judgments.html). Just a little time and practice can make drawing an engrossing pursuit that enriches your life and becomes its own reward.
 
