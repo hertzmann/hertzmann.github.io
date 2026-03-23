@@ -13,10 +13,11 @@ Thirty years ago, two psychologists posed [the following puzzle](https://people.
 
 Since then, [researchers have extensively studied](https://www.sciencedirect.com/science/article/pii/S0149763415301986)  which aspects of perceptual and other skills seem correlated with improved skill at drawing, but have yet to form clear explanations for why drawing from life is hard. Many people think that being a skilled artist is an innate skill, like some people are born with it and others are not.
 
-In a new review paper, [Judy Fan](https://cogtoolslab.github.io/people.html) and I propose a new way to understand how people draw from life, and why it is hard. This blog post summarizes key ideas from our paper:
+In a new review paper, [Judy Fan](https://cogtoolslab.github.io/people.html) and I propose a new way to understand how people draw from life, and why it is hard:
 
 | A. Hertzmann, J. E. Fan.  Artists' Drawing Strategies Serve to Overcome Visual Processing Limitations. _Psychology of Aesthetics, Creativity, and the Arts_. 2026 (Advance online publication). \[[Preprint](https://psyarxiv.com/pqkxh)\]  |
 
+This blog post summarizes key ideas from our paper. 
 
 **This blog post is about just one aspect of the drawing process: transferring information from what you to see to the page.  That paper surveys other aspects of drawing, and I've also written elsewhere about many other aspects of drawing, including [perspective](/2024/10/16/perspective-as-arrangement.html), [choice of subject](/2020/10/23/planning-and-strategy.html), [picking which lines to draw](/2020/09/12/how-to-draw-pictures-contours.html), [abstraction](/2020/11/02/abstract-painting.html), [creativity](https://arxiv.org/abs/2205.01605), [speed and sketching](/2020/10/26/time-and-speed.html), [taking risks](/2024/06/21/judgments.html), and [the role of different choices along the way](/2024/10/18/adrift.html).**
 
