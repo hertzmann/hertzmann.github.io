@@ -3,8 +3,8 @@ layout: page
 title: "Occluding Contour Breakthroughs Part 3: Which Algorithm Should I Use (or Research)?"
 summary: Summary of different approaches for different cases, and open questions
 author:  AaronHertzmann
-image: "/images/howtodraw/howtodraw/spiderverse.jpg"
-og:image: "/images/howtodraw/howtodraw/spiderverse.jpg"
+image: "/images/howtodraw/spiderverse.jpg"
+og:image: "/images/howtodraw/spiderverse.jpg"
 ---
 
 
