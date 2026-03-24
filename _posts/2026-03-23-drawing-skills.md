@@ -9,9 +9,7 @@ og:image: "/images/drawingskills/blind-drawing-pair-large.jpg"
 
 # Why Drawing is Hard: Visual Limitations and the Skills to Overcome Them
 
-If asked to draw a picture of a tree or a person in front of them, many people would say "I cannot draw."  It's often thought that being a skilled artist is an innate skill, like some people are born with it and others are not.  Why is that?
-
-Thirty years ago, two psychologists posed this question as [the following puzzle](https://people.uncw.edu/cohend/research/papers/Cohen%20and%20Bennett%2097.pdf). Most people can trace over pictures easily, and most people can perceive the world accurately. So why can't most people look at the world, perceive it, and then draw what they perceive? That is, why is accurate representational drawing hard?
+If asked to draw a picture of a tree or a person in front of them, many people would say "I cannot draw."  Thirty years ago, two psychologists [pointed out that this should be surprising](https://people.uncw.edu/cohend/research/papers/Cohen%20and%20Bennett%2097.pdf). They reasoned that most people can trace over pictures easily, and most people can perceive the world accurately. So why can't most people look at the world, perceive it, and then draw what they perceive?
 
 Since then, [researchers have extensively studied](https://www.sciencedirect.com/science/article/pii/S0149763415301986)  which aspects of perceptual and other skills seem correlated with improved skill at drawing, but have yet to form clear explanations for why drawing from life is hard.
 
@@ -19,9 +17,9 @@ In a new review paper, [Judy Fan](https://cogtoolslab.github.io/people.html) and
 
 | A. Hertzmann, J. E. Fan.  Artists' Drawing Strategies Serve to Overcome Visual Processing Limitations. _Psychology of Aesthetics, Creativity, and the Arts_. 2026 (Advance online publication). \[[Preprint](https://psyarxiv.com/pqkxh)\]  |
 
-In that paper, we argue that drawing is hard because we humans have very limited vision and memory—much more limited than we think. Learning to draw realistic pictures is not about innate talent, it's about learning skills to bypass these visual limitations that we all share.
+In the paper, we argue that drawing is hard because we humans have very limited vision and memory—much more limited than we think. We just don't perceive the world as a picture. And so, learning to draw realistic pictures is not about innate talent, it's about learning skills to bypass these visual limitations that we all share.
 
-**One caveat:** this blog post is about just one aspect of the drawing process: transferring information from what you see to the page, such as copying an existing drawing. We study copying because it isolates some crucial aspects of drawing skill, and gives insight into drawing in general.  But _drawing pictures isn't just copying_, for lots of reasons.  Our paper does survey some other aspects of drawing, and I've also written elsewhere about them, including [perspective](/2024/10/16/perspective-as-arrangement.html), [choice of subject](/2020/10/23/planning-and-strategy.html), [picking which lines to draw](/2020/09/12/how-to-draw-pictures-contours.html), [abstraction](/2020/11/02/abstract-painting.html), [creativity](https://arxiv.org/abs/2205.01605), [speed and sketching](/2020/10/26/time-and-speed.html), [taking risks](/2024/06/21/judgments.html), and [the role of different choices along the way](/2024/10/18/adrift.html).
+**One important caveat:** this blog post is about just one aspect of drawing: transferring information from what you see to the page, such as copying an existing drawing. We study copying because it isolates some crucial aspects of realistic drawing skill.  But _drawing pictures isn't just copying_, for lots of reasons.  Our paper does survey some other aspects of drawing, and I've also written elsewhere about them, including [perspective](/2024/10/16/perspective-as-arrangement.html), [choice of subject](/2020/10/23/planning-and-strategy.html), [picking which lines to draw](/2020/09/12/how-to-draw-pictures-contours.html), [abstraction](/2020/11/02/abstract-painting.html), [creativity](https://arxiv.org/abs/2205.01605), [speed and sketching](/2020/10/26/time-and-speed.html), [taking risks](/2024/06/21/judgments.html), and [the role of different choices along the way](/2024/10/18/adrift.html).
 
 
 
