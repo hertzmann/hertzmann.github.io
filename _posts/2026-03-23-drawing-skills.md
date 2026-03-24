@@ -17,9 +17,9 @@ In a new review paper, [Judy Fan](https://cogtoolslab.github.io/people.html) and
 
 | A. Hertzmann, J. E. Fan.  Artists' Drawing Strategies Serve to Overcome Visual Processing Limitations. _Psychology of Aesthetics, Creativity, and the Arts_. 2026 (Advance online publication). \[[Preprint](https://psyarxiv.com/pqkxh)\]  |
 
-This blog post summarizes key ideas from our paper. 
+This blog post summarizes some of the key ideas from our paper. 
 
-**This blog post is about just one aspect of the drawing process: transferring information from what you to see to the page.  That paper surveys other aspects of drawing, and I've also written elsewhere about many other aspects of drawing, including [perspective](/2024/10/16/perspective-as-arrangement.html), [choice of subject](/2020/10/23/planning-and-strategy.html), [picking which lines to draw](/2020/09/12/how-to-draw-pictures-contours.html), [abstraction](/2020/11/02/abstract-painting.html), [creativity](https://arxiv.org/abs/2205.01605), [speed and sketching](/2020/10/26/time-and-speed.html), [taking risks](/2024/06/21/judgments.html), and [the role of different choices along the way](/2024/10/18/adrift.html).**
+**One caveat:** this blog post is about just one aspect of the drawing process: transferring information from what you to see to the page, such as copying an existing drawing. We study copying because it isolates some crucial aspects of drawing skill, and gives insight into drawing in general.  But _drawing pictures isn't just copying_, for lots and lots of reasons.  Our paper does survey some other aspects of drawing, and I've also written elsewhere about them, including [perspective](/2024/10/16/perspective-as-arrangement.html), [choice of subject](/2020/10/23/planning-and-strategy.html), [picking which lines to draw](/2020/09/12/how-to-draw-pictures-contours.html), [abstraction](/2020/11/02/abstract-painting.html), [creativity](https://arxiv.org/abs/2205.01605), [speed and sketching](/2020/10/26/time-and-speed.html), [taking risks](/2024/06/21/judgments.html), and [the role of different choices along the way](/2024/10/18/adrift.html).
 
 
 
