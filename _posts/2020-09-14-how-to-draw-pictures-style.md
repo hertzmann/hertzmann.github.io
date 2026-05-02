@@ -1,3 +1,11 @@
+---
+layout: page
+title: "How to Draw Pictures, Part 3: Style"
+summary: Different styles in non-photorealistic rendering
+author:  AaronHertzmann
+image: "/images/howtodraw/jet_set_radio.jpeg"
+og:image: "/images/howtodraw/jet_set_radio.jpeg"
+---
  
 
 # How to Draw Pictures, Part 3: Style
