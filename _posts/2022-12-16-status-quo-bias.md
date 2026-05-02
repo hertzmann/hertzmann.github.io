@@ -3,6 +3,9 @@ layout: page
 title: "Status Quo Bias"
 summary: A bit on naive responses to new technology
 author:  AaronHertzmann
+image: "/images/statusquo/getzgilberto.jpg"
+og:image: "/images/statusquo/getzgilberto.jpg"
+
 ---
 
 
