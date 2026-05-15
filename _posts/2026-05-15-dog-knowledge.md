@@ -28,7 +28,7 @@ This post is decorated with photos of dogs that I've worked with at [the San Fra
 <center>
 	<figure>
 		<img src="../../../images/dogs/nicole.jpg" height="360" width="480">
-		<figcaption><i>Shelter dog Nicole paws at me because I stopped petting her</i></figcaption>
+		<figcaption><i>Nicole paws at me when I stop petting her</i></figcaption>
 	</figure>
 </center>
 
@@ -83,9 +83,9 @@ Negative associations can be formed with positive things. When I first started t
 
 # Knowledge: dog, no.
 
-What would it mean for dogs to have real knowledge? 
+What would it mean for dogs to have real knowledge?
 
-Knowledge implies some sort of conceptual reasoning ability, planning, or generalization that can't be explained by any of the above capabilities. We humans can talk about all sorts of conceptual information; we can make decisions based on knowledge of distant objects or abstract concepts; we can plan for the future. Dogs can do none of these things. 
+Knowledge, to me, implies some sort of conceptual reasoning ability, planning, or generalization that can't be explained by any of the above capabilities. We humans can talk about all sorts of conceptual information; we can make decisions based on knowledge of distant objects or abstract concepts; we can plan for the future. Dogs can do none of these things. 
 
 Being able to perform an action is not enough: a bird can fly, but it does not know about flight any more than an airplane does (["competence without comprehension"](/2024/09/18/books-on-consciousness.html), in the words of philosopher Daniel Dennett).
 
@@ -97,7 +97,7 @@ For example, sometimes I play fetch with a dog that doesn't seem to quite "under
 <center>
 	<figure>
 		<img src="../../../images/dogs/benji.jpg" height="480" width="360">
-		<figcaption><i>Benji loves playing fetch, but does not want to give the back back</i></figcaption>
+		<figcaption><i>Benji loves playing fetch, but does not want to give the ball back</i></figcaption>
 	</figure>
 </center>
 
