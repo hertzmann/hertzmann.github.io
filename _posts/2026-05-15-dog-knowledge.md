@@ -3,8 +3,8 @@ layout: page
 title: "Dogs Do Not Know Things"
 summary: A misunderstood aspect of dog behavior
 author:  AaronHertzmann
-image: "/images/dogs/cinco_haru.jpg"
-og:image: "/images/dogs/cinco_haru.jpg"
+image: "/images/dogs/cinco_haru_large.jpg"
+og:image: "/images/dogs/cinco_haru_large.jpg"
 ---
 
 
