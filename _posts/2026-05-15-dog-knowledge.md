@@ -72,7 +72,7 @@ Negative associations can be formed with positive things. When I first started t
 
 **Dogs have internal state**, related to things like emotions, hunger, sleepiness, and circadian rhythms. My friends' dog gets a delicious dental chew treat at 8pm each evening, and so, right around 7:55pm, she begins to get very eager, excited, and happy. She does not "know" that it is 8pm, but something in her biological clock triggers certain expectations and behaviors. (When I had this dog over at my house for a few nights, I did not give her the chews, and I never saw her get excited at 7:55pm, so the timing is not the only cue for her; she has to be with her family.)
 
-**Dogs make decisions.** Dog decision-making often seems to be about being selecting from among desires or avoiding things. Dogs often seem to have a priority-list of desires and aversions; if my dog is hungry, she'll go to the food bowl, but if I then pick up her leash and collar, then she'll ignore her food and get excited to go out for a walk. A dog that is afraid of noises but wants to go outside might visibly alternate between going out and coming back in (conflicted behavior).
+**Dogs make decisions.** Dog decision-making often seems to be about being selecting from among desires or avoiding things. Dogs often seem to have a prioritized list of desires and aversions; if my dog is hungry, she'll go to the food bowl, but if I then pick up her leash and collar, then she'll get excited to go our for a walk, ignoring her food. A dog that is afraid of noises but wants to go outside might visibly alternate between going out and coming back in (conflicted behavior).
 
 
 
