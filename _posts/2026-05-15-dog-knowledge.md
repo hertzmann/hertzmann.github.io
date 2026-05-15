@@ -7,6 +7,10 @@ image: "/images/dogs/cinco_haru_large.jpg"
 og:image: "/images/dogs/cinco_haru_large.jpg"
 ---
 
+<style>
+  img { max-width: 100%; height: auto; }
+</style>
+
 
 # Dogs Do Not Know Things
 
