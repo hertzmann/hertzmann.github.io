@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dogs Do Not Know Things"
-summary: A misunderstood aspect of dog behavior
+summary: Some things I've learned from working with dogs
 author:  AaronHertzmann
 image: "/images/dogs/cinco_haru_large.jpg"
 og:image: "/images/dogs/cinco_haru_large.jpg"
