@@ -21,7 +21,7 @@ Much of the time, talking about dogs as if they have knowledge or planning abili
 
 I am not an expert; this is just my interpretation based on my experiences and the books I've read on dog training.
 
-This post is decorated with photos of dogs that I've worked with at [the San Francisco SPCA](https://www.sfspca.org/), and my own rescue from the shelter. (The photos on my phone are 80\% dogs.)
+This post is decorated with photos of dogs that I've worked with at [the San Francisco SPCA](https://www.sfspca.org/), and my own rescue from the shelter. (The photos on my phone are like 80% dogs.)
 
 
 
