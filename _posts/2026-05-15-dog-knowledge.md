@@ -143,6 +143,8 @@ Sometimes dogs learn to open their own kennel doors. These kennels are on the ad
 
 # Why it matters
 
+Day-to-day, there's no need to stop saying that your dog "knows" things. It's often a lot simpler and clearer. However, it's worth keeping in mind that "dog knowledge" is a shorthand, not literal truth.
+
 Understanding dog behaviors helps us train them better. Moreover, the more we understand them, the stronger bonds and empathy we will form with them.
 
 When we misunderstand dogs, we often get frustrated and angry. We might feel like they're deliberately being jerks to us. Better understanding lets us reframe these frustrating behaviors more accurately.  
