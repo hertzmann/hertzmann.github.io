@@ -197,7 +197,7 @@ I recently heard about a friend's relationship in which her partner was trying t
 
 The best book on behaviorism for animal training (and also humans) that I've read is: [**Don't Shoot The Dog**](https://archive.org/details/PSYDontShootTheDogKarenPryor/page/n65/mode/2up) by Karen Pryor, the trainer that led the way in positive reinforcement training.  B. F. Skinner was one of her mentors, and she begins the book with a full-throated defense of Skinner's behaviorism, which amused me because of all the bad things I'd heard about behaviorism over the years. 
 
-Pryor developed her training philosophy with dolphin training at SeaWorld, and dolphins can only be trained with positive reinforcement. She then adapted those ideas to dog training. 
+Pryor developed her training philosophy with dolphin training at SeaWorld, and dolphins can only be trained with positive reinforcement. She then adapted those ideas to dog training, and found they worked much better than traditional training methods. 
 
 "Dognitive science" beyond behaviorism also seems like an interesting topic, but none of the papers I've seen in it seemed to get at the things that interest me.
 
