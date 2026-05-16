@@ -143,7 +143,6 @@ Sometimes dogs learn to open their own kennel doors. These kennels are on the ad
 
 # Why it matters
 
-Day-to-day, there's no need to stop saying that your dog "knows" things. It's often a lot simpler and clearer. However, it's worth keeping in mind that "dog knowledge" is a shorthand, not literal truth.
 
 Understanding dog behaviors helps us train them better. Moreover, the more we understand them, the stronger bonds and empathy we will form with them.
 
@@ -152,6 +151,8 @@ When we misunderstand dogs, we often get frustrated and angry. We might feel lik
 If a dog steals your food off the table, it's pointless to get angry because "he knows it's my food" or "he knows he they're not allowed on the table." They have no way of knowing either of these things. They're just doing normal dog things. If you make food available to a dog with poor impulse control, of course they'll go after it. The primary effect of yelling at a dog is to make yourself more upset.
 
 Wrong training philosophies do get results. People have successfully train their dogs with traditional [dominance-based training, based on disproven theories of "alphas" and punishment](https://web.archive.org/web/20111216094415/http://www.avsabonline.org/avsabonline/images/stories/Position_Statements/dominance%20statement.pdf). But dominance and punishment cause all sorts of negative side effects, including creating aggression and fear in dogs, since the dogs have gotten all sorts of punishment that they did not understand or deserve. These strategies can be especially based for dogs that start out with behavioral problems.)
+
+Day-to-day, there's no need to stop saying that your dog "knows" things. It's often a lot simpler and clearer. However, it's worth keeping in mind that "dog knowledge" is a shorthand, not literal truth.
 
 One anecdote [from trainer Kathy Sdao](https://www.dogwise.com/plenty-in-life-is-free-reflections-on-dogs-training-and-finding-grace) sticks in my memory. Sdao's adopted a rescue dog who was sweet and gentle for months, but then he unexpectedly bit guests twice in her house. She asked for advice from several other trainers. One trainer saw Sdao let the dog on her sofa, and insisted that the bites were due to her failure to set a strict dominance hierachy. Another trainer suggested identifying the dog's triggers: what was in common between the two bite incidents? And Sdao reflected that both bites had occurred when the she had a female guest and they were drinking red wine. This was an "aha" moment: first because it gave some clues about what the triggers were—perhaps the dog had once had an owner who became violent drinking red wine—but also a sign that the dominance-based trainers were operating out of dogma rather than looking at the evidence. By studying the triggers, she was able to manage the dog's behavior, whereas asserting dominance would have just created more and more barriers between her and her dog, making it a less compassionate and loving relationship.
 
