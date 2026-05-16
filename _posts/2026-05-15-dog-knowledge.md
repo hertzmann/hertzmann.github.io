@@ -86,7 +86,7 @@ What would it mean for dogs to have real knowledge?
 
 Knowledge, to me, implies some sort of conceptual reasoning ability, planning, or generalization that can't be explained by any of the above capabilities. We humans can talk about all sorts of conceptual information; we can make decisions based on knowledge of distant objects or abstract concepts; we can plan for the future. Dogs can do none of these things. 
 
-Being able to perform an action is not enough: a bird can fly, but it does not know about flight any more than an airplane does (["competence without comprehension"](/2024/09/18/books-on-consciousness.html), in the words of philosopher Daniel Dennett).
+Being able to perform an action is not enough: a bird can fly, but it does not know about flight any more than an airplane does (["competence without comprehension", in the words of philosopher Daniel Dennett](/2024/09/18/books-on-consciousness.html)).  (I think it would be fair to say "a dog knows how to bark," meaning that it _can_ bark, not that it can understand or explain barking.)
 
 So often, we see dogs behave in ways that betray an absence of planning or reasoning ability.
 
@@ -110,11 +110,11 @@ I often remind myself that, not only does not my dog not know what is happening 
 
 # Reframing knowledge as behavior
 
-An exercise that I once set for myself, and that I recommend for you (if you work with dogs) is: **banish "knowledge" and related concepts from your dog vocabulary.** When you want to say "she knows" something, or suggesting that she's reasoning or planning, can you find a way to describe their actions behaviorally?
+An exercise that I once set for myself, and that I recommend trying out is: **banish "knowledge" and related concepts from your dog vocabulary.** When you want to say "she knows" something, or suggesting that she's reasoning or planning, can you find a way to describe their actions behaviorally?
 
 **"He knows he gets a treat if he sits."** Dogs learn skills through conditioning, not through conceptual understanding.
 
-**"She knows her name."**  If you call the dog's name and and they perk up and look at you, that does not mean they "know" their name. They don't even know what a name is. You could not use their name in a sentence and have them understand the sentence. They have simply learned to pay attention when they hear that word, and perhaps to form expectations about what comes next.
+**"She knows her name."**  When a dog perks up after you call their name, that does not mean they "know their name." They don't even know what a name is. You could not use their name in a sentence and have them understand the sentence. They have simply learned to pay attention when they hear that word, and perhaps to form expectations about what comes next.
 
 **"He knows how to get out."** During one of my first orientations at the animal shelter where I volunteer, the behavior specialist explained that we shouldn't let jumpy dogs right out of their kennels. She told us to wait until they'd stopped jumping at the door, and to open it a little. If they start to jump or rush out, then close the door. This way, they learn that they only get to go out if they had all their paws on the ground. She said: _"If he knows that he can get out when he jumps and pushes, then he's going to keep doing it the next time someone comes by."_ But the dog doesn't _know_ this: the dog simply jumps and pushes naturally when you're at their door, and gets rewarded by escape.
 
@@ -137,7 +137,6 @@ Sometimes dogs learn to open their own kennel doors. These kennels are on the ad
 		<img src="../../../images/dogs/max.jpg" height="449" width="480">
 	</figure>
 </center>
-
 
 
 
