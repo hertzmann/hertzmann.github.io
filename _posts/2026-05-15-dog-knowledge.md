@@ -205,7 +205,7 @@ Pryor developed her training philosophy with dolphin training at SeaWorld, and d
 
 <center>
 	<figure>
-		<img src="../../../images/dogs/cinco_weight.jpg" height="480" width="416">
+		<img src="../../../images/dogs/cinco_weigh.jpg" height="480" width="416">
 		<figcaption><i>I love my dog.</i></figcaption>
 	</figure>
 </center>
