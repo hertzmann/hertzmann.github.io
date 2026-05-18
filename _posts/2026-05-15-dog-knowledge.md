@@ -18,7 +18,7 @@ In this blog post, I'll explain why I believe that **_dogs do not know things_**
 
 Much of the time, talking about dogs as if they have knowledge or planning ability is simply a convenient shorthand. But misunderstanding dog psychology can lead to bad experiences and poor relationships with them. Conversely, better understanding of dogs can make us more empathetic toward them, strengthening our bonds.
 
-I am not an expert; this is just my interpretation based on my experiences and the books I've read on dog training.
+I am not an expert; this is just my interpretation based on my experiences and the books I've read on dog training.  (For a cognitive psychology take, see [this thread responding to this post](https://bsky.app/profile/michaelanes.bsky.social/post/3mm4qba7a5c2i).)
 
 This post is decorated with photos of dogs that I've worked with at [the San Francisco SPCA](https://www.sfspca.org/), and my own rescue from the shelter. (The photos on my phone are like 80% dogs.)
 
