@@ -15,7 +15,7 @@ Since then, [researchers have extensively studied](https://www.sciencedirect.com
 
 In a new review paper, [Judy Fan](https://cogtoolslab.github.io/people.html) and I propose a new way to understand how people draw from life, and why it is hard:
 
-| A. Hertzmann, J. E. Fan.  Artists' Drawing Strategies Serve to Overcome Visual Processing Limitations. _Psychology of Aesthetics, Creativity, and the Arts_. 2026 (Advance online publication). \[[Preprint](https://psyarxiv.com/pqkxh)\]  |
+| A. Hertzmann, J. E. Fan.  Artists' Drawing Strategies Serve to Overcome Visual Processing Limitations. _Psychology of Aesthetics, Creativity, and the Arts_. 2026 (Advance online publication). \[[Preprint](https://psyarxiv.com/pqkxh)\] \[[Official version](https://doi.org/10.1037/aca0000864)]\] |
 
 In the paper, we argue that drawing is hard because we humans have very limited vision and memory—much more limited than we think. We just don't perceive the world as a picture. And so, learning to draw realistic pictures is not about innate talent, it's about learning skills to bypass these visual limitations that we all share.
 
