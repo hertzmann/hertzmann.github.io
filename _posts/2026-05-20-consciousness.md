@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "People and animals are conscious"
+title: "People and Animals are Conscious"
 summary: How we can know that people are not philosophical zombies
 author:  AaronHertzmann
 image: "/images/dogs/nicole.jpg"
