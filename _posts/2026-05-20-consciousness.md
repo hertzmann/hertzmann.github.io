@@ -8,7 +8,7 @@ og:image: "/images/dogs/nicole.jpg"
 ---
 
 
-# People and animals are conscious
+# People and Animals are Conscious
 
 "AI" enthusiasts arguing for "AI" consciousness say: prove to me that you are conscious. Of course, one cannot _prove_ this. So this is taken as some kind of "gotcha," proof of an unfair double standard. The enthusiasts then suggests that this means "AI" consciousness is just as plausible as human consciousness.
 
