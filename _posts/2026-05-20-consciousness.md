@@ -62,6 +62,12 @@ Each of these alternatives seem so implausible as to be unworthy of serious cons
 
 The only sensible possibility is that everyone who is awake is conscious. 
 
+<center>
+<figure>
+<img src="../../../images/body-snatchers.jpg" width="480">
+<figcaption><I>Philosophical zombies, among us?</I></figcaption>
+</figure>
+</center>
 
 
 # The varieties of consciousness: altered states and animals
@@ -76,6 +82,13 @@ And, the alternatives to animal consciousness seem highly implausible. If no ani
 
 It seems likely that more-sophisticated intelligence goes along with more-sophisticated consciousness. Dogs have much less-sophisticated intelligence than humans, and so their consciousness would be much less-sophisticated as well, but still present.
 
+
+<center>
+<figure>
+<img src="../../../images/dogs/nicole.jpg" width="480">
+<figcaption><I>Nicole paws at me when I stop petting at me, asking me for more</I></figcaption>
+</figure>
+</center>
 
 # Machine consciousness and alien consciousness
 
