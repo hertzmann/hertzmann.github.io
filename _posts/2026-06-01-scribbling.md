@@ -47,7 +47,7 @@ Sometimes I like to think of my sketching as "continually scribbling until it do
 To me, these kinds of drawings are suggestive of a sort of "statistical visual recognition," by which I mean "recognition from statistics of a single image." These drawings do not necessarily have natural visual features like contours, nor do they seem to fit with the usual demonstrations of Gestalt principles or the visual illusions (e.g., Kanizsa triangle) that illustrate perceptual inference. It's not just scale space; e.g., downsampling the picture doesn't make the object more recognizable, as  like in Impressionism, [hybrid images](https://en.wikipedia.org/wiki/Hybrid_image), or [Arcimboldo paintings](https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo).
 
 
-Instead, they seem more statistical, and, several abilities of human vision have been described in terms of the statistics of an image, including [texture recognition](), [peripheral vision](), and [rapid scene recognition ("gist")]().
+Instead, they seem more statistical, and, several abilities of human vision have been described in terms of the statistics of an image, including [texture recognition](https://www.cns.nyu.edu/pub/eero/portilla99-reprint.pdf), [peripheral vision](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-082114-035733), and [rapid scene recognition ("gist")](http://olivalab.mit.edu/Papers/Oliva04.pdf).
 
 As a model for what's going on here, the work of artist Tom White offers something very suggestive. For example, here's a picture of an electric fan that Tom created in 2018:
 <center>
