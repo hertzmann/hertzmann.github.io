@@ -62,7 +62,7 @@ In each of these cases, an experienced artist can draw something very quickly th
 
 Here's another sketch from my cellphone, of a centerpiece at a restaurant:
 <center>
-<img src="../../../images/ipad_paintings/jungsik.jpg"  alt="Jungsik centerpiece sketch">
+<img src="../../../images/iphone_drawings/jungsik.jpg"  alt="Jungsik centerpiece sketch">
 </center>
 <br>
 
