@@ -47,7 +47,8 @@ Sometimes I like to think of my sketching as "continually scribbling until it do
 To me, these kinds of drawings are suggestive of a sort of "statistical visual recognition," by which I mean "recognition from statistics of a single image." These drawings do not necessarily have natural visual features like contours, nor do they seem to fit with the usual demonstrations of Gestalt principles or the visual illusions (e.g., Kanizsa triangle) that illustrate perceptual inference. It's not just scale space; e.g., downsampling the picture doesn't make the object more recognizable, as  like in Impressionism, [hybrid images](https://en.wikipedia.org/wiki/Hybrid_image), or [Arcimboldo paintings](https://en.wikipedia.org/wiki/Giuseppe_Arcimboldo).
 
 
-Instead, they seem more statistical, and, several abilities of human vision have been described in terms of the statistics of an image, including [texture recognition](https://www.cns.nyu.edu/pub/eero/portilla99-reprint.pdf), [peripheral vision](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-082114-035733), and [rapid scene recognition ("gist")](http://olivalab.mit.edu/Papers/Oliva04.pdf).
+Instead, they seem more statistical, and, several abilities of human vision have been described in terms of the statistics of an image, including [texture recognition](https://www.cns.nyu.edu/pub/eero/portilla99-reprint.pdf), [peripheral vision](https://www.annualreviews.org/content/journals/10.1146/annurev-vision-082114-035733), and [rapid scene recognition ("gist")](http://olivalab.mit.edu/Papers/Oliva04.pdf). With some image classification deep networks have shown similar textural recognition properties, such as the adversarial examples in the  ["intriguing properties" paper](https://arxiv.org/abs/1312.6199) and a paper that showed that these networks relied heavily on texture recognition, ignoring shape and other 3D information.
+
 
 As a model for what's going on here, the work of artist Tom White offers something very suggestive. For example, here's a picture of an electric fan that Tom created in 2018:
 <center>
@@ -65,8 +66,7 @@ Here are a few more images from that series: each image is optimized to look lik
 </center>
 You can see [more of his work here](https://drib.net/), including abstract pictures [optimized to activate NSFW classifiers](https://medium.com/artists-and-machine-intelligence/perception-engines-8a46bc598d57). Those [examples look abstract to us](https://dribnet.bigcartel.com/product/pitch-dream), but to NSFW filters (as of 2018), they look absolutely smutty. I'm not including them here, just to be safe, because I don't want to this post to be tagged as explicit content.
 
-With the early image classification networks, there were a few other examples of research that showed similar textural recognition properties, such as the adversarial examples in the  ["intriguing properties" paper](https://arxiv.org/abs/1312.6199) and a paper that showed that these networks relied heavily on texture recognition, ignoring shape and other 3D information.
-
+There are other examples, like Matty Mariansky's [Evolutionary Faces](https://www.aiartonline.com/highlights-2020/matty-mariansky/).
 
 # The path to abstraction 
 
