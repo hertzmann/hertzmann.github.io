@@ -4,7 +4,7 @@ title: "Scribbling, abstract art, and visual recognition"
 summary: Interesting connections between art and visual processing
 author:  AaronHertzmann
 image: "/images/ipad_paintings/iphone_drawings/sax.jpg"
-og:image: "/images/ipad_paintings/sax.jpg"
+og:image: "/images/ipad_paintings/iphone_drawings/sax.jpg"
 ---
 
 # Scribbling, abstract art, and visual recognition
