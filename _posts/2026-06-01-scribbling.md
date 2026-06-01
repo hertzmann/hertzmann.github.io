@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Scribbling, abstract art, and visual recognition"
-summary: Interesting connections between art and visual processing
+summary: Interesting connections between sketching and human vision
 author:  AaronHertzmann
 image: "/images/iphone_drawings/sax.jpg"
 og:image: "/images/iphone_drawings/sax.jpg"
