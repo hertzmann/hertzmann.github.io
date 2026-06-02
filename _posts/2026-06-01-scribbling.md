@@ -122,6 +122,8 @@ Another way is when I try to draw scenes out the window of an airplane (as [ment
 <img src="../../../images/ipad_paintings/abstract/Untitled - June 22, 2024 21.23.24.jpg" width="240" height="240">
 </center>
 
+For most of these pictures, there was never any single view that looked like the picture, most of these are sort of "temporal composites" of different things seen at different times.
+
 # Directions
 
 Many of these ideas have been explored in the vision science literature in some way, but I think there's more to do here. Specifically, the idea of image recognition as being based on statistical properties, together with the role of statistical descriptions of both realistic (but scribbly) and the hypothesis that abstract art "works" in relation to familiar, real-world scene statistics.
