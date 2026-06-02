@@ -106,6 +106,8 @@ One way this manifests is when sketching on my phone, with my finger, which is n
 <img src="../../../images/iphone_drawings/sax.jpg"  alt="Saxophone sketch" width="206" height="360" >
 </center>
 
+(The left picture was a drawing I made on my phone while traveling on the London Tube and looking at peoples' shoes.)
+
 Another way is when I try to draw scenes out the window of an airplane (as [mentioned in that previous post](/2020/11/02/abstract-painting.html)): the landscape is continually changing, so it's impossible to capture a "snapshot:" any drawing is just pulling visual elements from what I see and mostly just creating some abstraction. Here are drawings from two plane flights:
 
 <center>
