@@ -66,7 +66,7 @@ Here are a few more images from that series: each image is optimized to look lik
 </center>
 You can see [more of his work here](https://drib.net/), including abstract pictures [optimized to activate NSFW classifiers](https://medium.com/artists-and-machine-intelligence/perception-engines-8a46bc598d57). Those [examples look abstract to us](https://dribnet.bigcartel.com/product/pitch-dream), but to NSFW filters (as of 2018), they look absolutely smutty. I'm not including them here, just to be safe, because I don't want to this post to be tagged as explicit content.
 
-There are other examples, like Matty Mariansky's [Evolutionary Faces](https://www.aiartonline.com/highlights-2020/matty-mariansky/).
+There are other examples, like Matty Mariansky's [Evolutionary Faces](https://www.aiartonline.com/highlights-2020/matty-mariansky/). I think this also relates to other ideas in different kinds of ambiguous imagery, such as Rob Pepperell's notion of [indeterminate imagery](https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2011.00084/full), which can be [produced by machine learning models too](https://arxiv.org/abs/1910.04639).
 
 # The path to abstraction 
 
