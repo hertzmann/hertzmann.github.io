@@ -9,7 +9,7 @@ og:image: "/images/dogs/cinco_haru_large.jpg"
 
 # Dogs Do Not Know Things
 
-_"On a bench one afternoon in a grassy park in Minneapolis, I realized what I liked best about the dogs of Minneapolis is that they have no idea that they're in Minneapolis." —Billy Collins, In Praise of Ignorance_
+| _"On a bench one afternoon in a grassy park in Minneapolis, I realized what I liked best about the dogs of Minneapolis is that they have no idea that they're in Minneapolis." —Billy Collins, In Praise of Ignorance_ |
 
 When you spend time with a dog, you have [some ideas about what's going on in its head](https://en.wikipedia.org/wiki/Theory_of_mind). You get a sense of its moods, whether it is happy or tired or afraid. Taking care of a dog, or training it requires you consider its moods and its needs. Naturally, we understand their expressions to our own, and we often talk about our dogs like they're our children, to be nutured and guided and trained. But, sometimes, these human analogies mislead us. 
 
