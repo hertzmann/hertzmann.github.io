@@ -95,7 +95,7 @@ Many historical Modern artists, and their precursors, who began realistic, but t
 		<img src="../../../images/arthistory/mondrian/mondrian6.jpg" height="240" width="240">
 </center>
 
-I think there is a strong case to be made that the aesthetics of abstraction are tied to the statistics of real experience, including old observations that [image statistics can predict aesthetics](https://www.biorxiv.org/content/10.64898/2026.04.14.718404v1.abstract), and [Jackson Pollock paintings share key statistical properties with real-world imagery](https://www.sciencedirect.com/science/article/pii/S0042698910002129).
+I think there is a strong case to be made that the aesthetics of abstraction are tied to the statistics of real experience, including old observations that [image statistics can predict aesthetics](https://www.biorxiv.org/content/10.64898/2026.04.14.718404v1.abstract), and [Jackson Pollock paintings share key statistical properties with real-world imagery](https://www.sciencedirect.com/science/article/pii/S0042698910002129), although [not all statistics work](https://www.nature.com/articles/s41598-024-69689-6).
 
 I see my own scribblings as a move toward abstraction. In the few situations when [I have experimented with abstract drawing](/2020/11/02/abstract-painting.html), I'm using the skills of realistic drawing (and scribbling), but removing recognizability.
 
