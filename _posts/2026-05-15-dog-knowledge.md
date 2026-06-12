@@ -211,8 +211,7 @@ The best book on behaviorism for animal training (and also humans) that I've rea
 
 Pryor developed her training philosophy with dolphin training at SeaWorld, and dolphins can only be trained with positive reinforcement. She then adapted those ideas to dog training, and found they worked much better than traditional training methods. 
 
-"Dognitive science" beyond behaviorism also seems like an interesting topic, but none of the papers I've seen in it seemed to get at the things that interest me.
-
+Another book that discusses dog behavior directly is _The Culture Clash_ by Jean Donaldson. (I've only read a little but it seems good.)
 
 
 <center>
