@@ -135,7 +135,7 @@ Sometimes dogs learn to open their own kennel doors. These kennels are on the ad
   <source src="../../../images/dogs/dog_open_door.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
-<figcaption><I>This dog learned to open his kennel door, so it has been latched from the other side.</I></figcaption>
+<figcaption><I>This dog learned to open her kennel door, so it has been latched from the other side.</I></figcaption>
 </figure>
 </center>
 
