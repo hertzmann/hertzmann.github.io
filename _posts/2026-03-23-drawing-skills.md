@@ -52,6 +52,8 @@ Once we understand these limitations of human vision, then a whole lot of things
 
 # Eye movements in drawing
 
+| _"When you draw from the eye, you're drawing from memory. A memory of five seconds ago, a memory of ten seconds ago, a memory of a minute ago." —David Hockney_ |	
+
 Here's Henri Matisse drawing a picture of his son. He doesn't just look at his son once and then draw from memory. Instead, watch how much he moves his eyes back and forth between the drawing and his son:
 
 <center>
@@ -74,8 +76,7 @@ Your browser does not support the video tag.
 </figure>
 </center>
 
-The artist's eyes are continually going back and forth between lines in the drawing and the lines in their copy.  
-In both videos we see that _drawing from observation involves near-continual eye movement between the source and the drawing_. 
+The artist's eyes are continually going back and forth between lines in the drawing and the lines in their copy.  In both videos we see that _drawing from observation involves near-continual eye movement between the source and the drawing_. 
 
 Why? Given the limitations of human vision that I demonstrated above make it obvious. Consider just copying a drawing. If the brain can store only very little detail at a time, then you can't remember a detailed version of the source picture _or_ your copy. You continually moving your eyes back-and-forth to gather information from the source and then see where to put it in the target. It's a bit like trying to transfer water between two pots using only a leaky teacup.
 

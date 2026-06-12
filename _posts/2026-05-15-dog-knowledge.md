@@ -129,6 +129,16 @@ An exercise that I once set for myself, and that I recommend trying out is: **ba
 
 Sometimes dogs learn to open their own kennel doors. These kennels are on the adoption floor and they have regular door handles. These "escape artists" learn to jump on the door handle which opens the door (if you've forgotten to latch the other side). One might think that the dog figured it out by some sort of problem-solving: they saw humans push down the door handle to open it and figured they could do the same. But they don't reason this way. Instead, they naturally jump on the door out of excitement or wanting to get outside. Sometimes, they accidentally jump on the door handle when they do this, opening the door. If they do this often enough, then they learn how to open the door: they've stumbled into a new behavior, not found it by problem-solving.
 
+<center>
+	<figure>
+<video width="480" height="480"  controls>
+  <source src="../../../images/dogs/dog_open_door.mp4" type="video/mp4">
+Your browser does not support the video tag.
+<figcaption><I>This dog learned to open his door, so it has been latched from the other side.</I></figcaption>
+</figure>
+</video></center>
+
+
 **"She knows you'll come back."** In my struggle to help my dog with her isolation anxiety, I've often heard people say my dog needs to "know you'll come back." But no dog that you've left alone knows that you'll come back, because they cannot know things. Training dogs to be alone is about training them to feel comfortable and to settle down when they are alone. When I leave my dog with a friend, or a friend leaves her with me, she is sad temporarily about the departure and then seems to forget about it. When I leave her entirely alone, she is unhappy for the entire time she's alone.
 
 
