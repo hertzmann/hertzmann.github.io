@@ -54,7 +54,7 @@ Once we understand these limitations of human vision, then a whole lot of things
 
 | _"When you draw from the eye, you're drawing from memory. A memory of five seconds ago, a memory of ten seconds ago, a memory of a minute ago." —David Hockney_ |	
 
-Here's Henri Matisse drawing a picture of his son. He doesn't just look at his son once and then draw from memory. Instead, watch how much he moves his eyes back and forth between the drawing and his son:
+Here's Henri Matisse drawing a picture of his grandson. He doesn't just look at his grandson once and then draw from memory. Instead, watch how much he moves his eyes back and forth between the drawing and his grandson:
 
 <center>
 <video width="480" height="352" controls>
