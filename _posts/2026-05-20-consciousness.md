@@ -110,7 +110,7 @@ All of these arguments indicate that judging consciousness, we have to consider 
 
 I have argued that you can know that other people and animals are conscious, because you are conscious, and because you share important behaviors, biology, and evolution with other people and with animals. This is not a solution to the "hard problem," and it is not rock-solid scientific proof. But you can be confident in it enough to assume that it's true—the alternative involves paranoid conspiracy theories or philosophical zombies well-hidden among us. On the other hand, there's no good reason to believe that algorithms, which have totally different development, substrate, and behaviors from us share this one hidden attribute.
 
-_Note: since writing this, I came across [this reading list](https://docs.google.com/document/d/e/2PACX-1vRPSCI-gPMQ-S1jn4PXpJ9qhaYvD9LVqMsBSuf9af2WAzSLhYnA5xTQL4igMwZo1nk2o50wc6HU6hgz/pub) of papers on animal consciousness, particularly for animals like fish and crabs that might not feel pain at all. Here's [a complementary paper on AI welfare](https://philarchive.org/rec/XIAAWI)._
+_Note: since writing this, I came across [this reading list](https://docs.google.com/document/d/e/2PACX-1vRPSCI-gPMQ-S1jn4PXpJ9qhaYvD9LVqMsBSuf9af2WAzSLhYnA5xTQL4igMwZo1nk2o50wc6HU6hgz/pub) of papers on animal consciousness, particularly for animals like fish and crabs that might not feel pain at all. (My post is most primarily about dogs and other domesticated animals.) And, here's [a complementary paper on AI welfare](https://philarchive.org/rec/XIAAWI)._
 
 
 
