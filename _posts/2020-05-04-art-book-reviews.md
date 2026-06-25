@@ -83,7 +83,7 @@ Good, punchy, high-level advice about making art, clearly written. Probably the 
 Short and poetic; not comprehensive in any sense, but a nice set of studies in different ways that contemporary artists artist operate, and how to appreciate what they've done.
 
 
-[_Who's Afraid of Contemporary Art_](https://thamesandhudsonusa.com/books/whos-afraid-of-contemporary-art-hardcover), by [Kyung An](https://www.guggenheim.org/staff/hui-kyung-an) and [Jessica Cerasi](http://margueritelondon.com/jessica-cerasi)
+[_Who's Afraid of Contemporary Art_](https://thamesandhudsonusa.com/books/whos-afraid-of-contemporary-art-hardcover), by [Kyung An](https://www.guggenheim.org/staff/hui-kyung-an) and Jessica Cerasi
 -------------------------------------
 
 **This seems like it might be the best short introduction to the contemporary art world today.** It's succinct and covers a lot of the main things you should know about how things work and why. However, I found it after I'd already read all of the above books and spoken with various artists etc., so it didn't make much impression on me.
