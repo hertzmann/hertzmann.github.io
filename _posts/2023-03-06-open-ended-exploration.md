@@ -10,7 +10,11 @@ og:image: "/images/analogies/melody.jpg"
 # Changing Melodies: Art and Research are Often Open-Ended Exploration
 
 
-_This blog post is adapted/revised from parts of [my ICCC 2022 paper](https://arxiv.org/abs/2205.01605), which borrowed from previous blog posts_.
+_This blog post is adapted/revised from parts of [my ICCC 2022 paper](https://arxiv.org/abs/2205.01605), which borrowed from previous blog posts_:
+
+| A. Hertzmann.  Toward Modeling Creative Processes for Algorithmic Painting
+A. Hertzmann. Proc. International Conference on Computational Creativity (ICCC). 2022. \[[Preprint](https://arxiv.org/abs/2205.01605)\] \[[Official version](https://computationalcreativity.net/iccc22/papers/ICCC-2022_paper_10.pdf)]\] |
+
 
 
 How does an artist decide what to do? We often think of artists as _goal-oriented_: an artist has an idea, a vision, or inspiration, and then they produce an artwork based on that inspiration.  Likewise, we sometimes think of researchers and scientists as first identifying a problem to solve, and then [executing on a solution](https://twitter.com/MattNiessner/status/1628114935388446721?s=20).
