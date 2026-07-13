@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Scribbling, abstract art, and visual recognition"
+title: "Scribbling, Abstract Art, and Visual Recognition"
 summary: Interesting connections between sketching and human vision
 author:  AaronHertzmann
 image: "/images/iphone_drawings/sax.jpg"
 og:image: "/images/iphone_drawings/sax.jpg"
 ---
 
-# Scribbling, abstract art, and visual recognition
+# Scribbling, Abstract Art, and Visual Recognition
 
 Sometimes when I sketch quickly, I feel like I'm scribbling some random squiggles, and, yet, recognizable shapes of my subjects emerge:
 

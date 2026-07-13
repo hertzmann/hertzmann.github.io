@@ -12,8 +12,7 @@ og:image: "/images/analogies/melody.jpg"
 
 _This blog post is adapted/revised from parts of [my ICCC 2022 paper](https://arxiv.org/abs/2205.01605), which borrowed from previous blog posts_:
 
-| A. Hertzmann.  Toward Modeling Creative Processes for Algorithmic Painting
-A. Hertzmann. Proc. International Conference on Computational Creativity (ICCC). 2022. \[[Preprint](https://arxiv.org/abs/2205.01605)\] \[[Official version](https://computationalcreativity.net/iccc22/papers/ICCC-2022_paper_10.pdf)]\] |
+| A. Hertzmann.  Toward Modeling Creative Processes for Algorithmic Painting. Proc. International Conference on Computational Creativity (ICCC). 2022. \[[Preprint](https://arxiv.org/abs/2205.01605)\] \[[Official version](https://computationalcreativity.net/iccc22/papers/ICCC-2022_paper_10.pdf)]\] |
 
 
 
