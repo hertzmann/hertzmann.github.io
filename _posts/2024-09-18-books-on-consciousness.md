@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Book Reviews on Consciousness and Intelligence"
-summary: Thoughts on some books I read recently
+description: Thoughts on some books I read recently
 author:  AaronHertzmann
 image: "/images/godfrey-smith2100.jpg"
-og:image: "/images/godfrey-smith2100.jpg"
 ---
 
 

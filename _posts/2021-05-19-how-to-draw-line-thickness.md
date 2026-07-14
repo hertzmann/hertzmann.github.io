@@ -1,7 +1,7 @@
 ---
 title: Line Thickness in Drawings
 layout: page
-summary: Simple guidelines for line thickness in drawings, derived from a shading model.
+description: Simple guidelines for line thickness in drawings, derived from a shading model.
 author:  AaronHertzmann
 image: /images/howtodraw/thick/bone-inset.jpg
 ---

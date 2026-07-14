@@ -1,6 +1,6 @@
 ---
 layout: page
-summary: How dataset choices long ago unexpectedly produced an AI art phenomenon.
+description: How dataset choices long ago unexpectedly produced an AI art phenomenon.
 author:  AaronHertzmann
 image: /images/deepdream/dogception.jpg
 ---

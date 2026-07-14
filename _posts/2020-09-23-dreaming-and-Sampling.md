@@ -1,6 +1,6 @@
 ---
 layout: page
-summary: How dreams could be gradient updates
+description: How dreams could be gradient updates
 author:  AaronHertzmann
 image: /images/arthistory/goya.jpg
 ---

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why Edge Detection Doesn't Explain Line Drawing
-summary: Reasons to be skeptical of the conventional wisdom about line drawing perception
+description: Reasons to be skeptical of the conventional wisdom about line drawing perception
 author:  AaronHertzmann
 image: /images/howtodraw/DoG.jpg
 ---

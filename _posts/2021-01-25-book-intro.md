@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Understanding Visual Art as Computation: A Hypothetical Book Introduction"
-summary: An outline/summary of my research around understanding art
+description: An outline/summary of my research around understanding art
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
 redirect_from:

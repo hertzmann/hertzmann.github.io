@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Questions for Computational Creativity Research
-summary: I keep feeling like I'm missing something
+description: I keep feeling like I'm missing something
 author:  AaronHertzmann
 image: /images/sims.jpg
 ---

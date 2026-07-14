@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Books That Changed The Way I See The World"
-summary: Some non-fiction books that profoundly impacted my thinking.
+description: Some non-fiction books that profoundly impacted my thinking.
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
-og:image: "/images/wica/bradford_viewers.jpg"
 ---
 
 # Books That Changed The Way I See The World

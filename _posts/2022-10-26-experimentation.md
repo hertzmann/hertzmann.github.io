@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Artworks as Experiments
-summary: Artworks often function as experiments, akin to scientific experiments.
+description: Artworks often function as experiments, akin to scientific experiments.
 author:  AaronHertzmann
 image: /images/arthistory/brillo.jpg
-og:image: /images/arthistory/brillo.jpg
 ---
 
 

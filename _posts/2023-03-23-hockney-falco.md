@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Notes on the Hockney-Falco Thesis, and Tim's Vermeer
-summary: Did the Old Masters cheat, and does it matter?
+description: Did the Old Masters cheat, and does it matter?
 author: AaronHertzmann
 image: "/images/hockney_falco/jenison-vermeer.jpg"
-og:image: "/images/hockney_falco/jenison-vermeer.jpg"
 ---
 
 # Notes on the Hockney-Falco Thesis, and "Tim's Vermeer"

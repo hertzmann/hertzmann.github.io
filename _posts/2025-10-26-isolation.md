@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Technology and Social Isolation: From Cars to \"AI\""
-summary: A story about how technology has tended to increase isolation.
+description: A story about how technology has tended to increase isolation.
 author:  AaronHertzmann
 image: "/images/tech_isolation/record_listener.jpg"
-og:image: "/images/tech_isolation/record_listener.jpg"
 ---
 
 # Technology and Social Isolation: From Cars to "AI"

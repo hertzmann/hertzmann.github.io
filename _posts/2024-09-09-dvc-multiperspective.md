@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Distortion and Multiperspective in Art and Photography"
-summary: A theory describing when picures look distorted.
+description: A theory describing when picures look distorted.
 author:  AaronHertzmann
 image: "/images/multiperspective_photocollage/family-in-a-box.jpg"
-og:image: "/images/multiperspective_photocollage/family-in-a-box.jpg"
 ---
 
 # Distortion and Multiperspective in Art and Photography

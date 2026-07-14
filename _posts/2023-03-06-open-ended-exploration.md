@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Changing Melodies: Art and Research are Often Open-Ended Exploration"
-summary: It's liberating to think of art and research as exploration, rather than seeking to achieve fixed goals 
+description: It's liberating to think of art and research as exploration, rather than seeking to achieve fixed goals 
 author:  AaronHertzmann
 image: "/images/analogies/melody.jpg"
-og:image: "/images/analogies/melody.jpg"
 ---
 
 # Changing Melodies: Art and Research are Often Open-Ended Exploration

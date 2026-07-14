@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Thoughts on CryptoArt
-summary: Weighing pros and cons of CryptoArt
+description: Weighing pros and cons of CryptoArt
 author:  AaronHertzmann
 image: /images/hen.jpg
 

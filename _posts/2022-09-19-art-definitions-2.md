@@ -1,10 +1,9 @@
 ---
 layout: page
 title: Useful Ways to Talk About of Art (Definitions, Part 2)
-summary: Simple heuristics to make it easier to talk and think about art.
+description: Simple heuristics to make it easier to talk and think about art.
 author:  AaronHertzmann
 image: /images/definitions/hoyo.jpg
-og:image: /images/definitions/hoyo.jpg
 ---
 
 

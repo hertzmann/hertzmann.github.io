@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Art is Fundamentally Social
-summary: A way to understand art I've found helpful for understanding new artistic technologies
+description: A way to understand art I've found helpful for understanding new artistic technologies
 author:  AaronHertzmann
 ---
 

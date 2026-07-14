@@ -1,6 +1,6 @@
 ---
 layout: page
-summary: Reflections on recent experience with digital painting and drawing
+description: Reflections on recent experience with digital painting and drawing
 author:  AaronHertzmann
 image: /images/ipad_paintings/piano-player.jpg
 ---

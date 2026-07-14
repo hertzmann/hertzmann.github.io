@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Visual Illusions Explainable by the Limitations of Peripheral Vision"
-summary: Illusions that reveal the role of eye fixations for pictures
+description: Illusions that reveal the role of eye fixations for pictures
 author: AaronHertzmann
 image: "/images/illusions/ranso-entangle01.jpg"
-og:image: "/images/illusions/ranso-entangle01.jpg"
 ---
 
 # Visual Illusions Explainable by the Limitations of Peripheral Vision

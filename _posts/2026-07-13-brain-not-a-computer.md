@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "The Brain Is Not Just A Computer, and Cannot Be Simulated by One"
-summary: Saying otherwise is either false or profoundly misleading.
+description: Saying otherwise is either false or profoundly misleading.
 author:  AaronHertzmann
 image: "/images/brains/neuron_diagram.png"
-og:image: "/images/brains/neuron_diagram.png"
 ---
 
 # The Brain Is Not Just A Computer, and Cannot Be Simulated by One
@@ -20,7 +19,7 @@ This is about more than art—it's about all of "AI". If the brain is just a com
 
 **In this blog post, I explain why the brain is not merely a computer, and cannot be simulated by computers.** By "computer," I mean digital computer, like the ones that we all use so much of the time. Digital computers are human-made systems that perform fixed logical operations on rigid clock cycles, with meaningful abstraction layers across scales. Human brains are biological systems integrating electrical, chemical, protein, and fluid interactions, with unimaginable complexity over literally billions of neurons and other types of cells, involving continuous-time continuum mechanics, across scales from the subatomic to the visible.
 
-_(Note: I wrote [a previous blog post on this topic](http://127.0.0.1:4000/2022/09/04/computationalism.html); this is my newest take on this topic, but with the same basic point of view.)_
+_(Note: I wrote [a previous blog post on this topic](/2022/09/04/computationalism.html); this is a much more concrete version.)_
 
 # The brain is _like_ a computer
 

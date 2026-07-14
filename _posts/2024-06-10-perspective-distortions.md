@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Perspective Distortions: Why Normal Cameras Make Faces Look Weird"
-summary: How linear perspective distorts pictures.
+description: How linear perspective distorts pictures.
 author:  AaronHertzmann
 image: "/images/perspective/faces_basketballs.jpg"
-og:image: "/images/perspective/faces_basketballs.jpg"
 ---
 
 

@@ -7,13 +7,32 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: "Aaron Hertzmann's blog"
-description: "Aaron Hertzmann's blog"
+description: "Aaron Hertzmann's essays on art, technology, perception, and how they intersect."
 github_username: hertzmann
 
 
 # Email and twitter are optional:
-email: 
+email:
 twitter_username: "AaronHertzmann"
+
+# Social-media card settings, read by jekyll-seo-tag ({% seo %} in head.html)
+twitter:
+  username: AaronHertzmann
+  card: summary_large_image
+author:
+  name: Aaron Hertzmann
+  twitter: AaronHertzmann
+
+# Front-matter defaults: posts without their own image get the default card image.
+# default_card_image must match the image path below; home.html uses it to avoid
+# showing the fallback image as a thumbnail in the post listing.
+default_card_image: /images/wica/bradford_viewers.jpg
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      image: /images/wica/bradford_viewers.jpg
 instagram_username: "aaronhertzmann"
 facebook_username: 
 mastodon:

@@ -1,10 +1,9 @@
 ---
 layout: page
 title: "Learning from Painting, Part 7: Finding Inspiration, Six Years Later"
-summary: Finding the drive to keep working
+description: Finding the drive to keep working
 author:  AaronHertzmann
 image: "images/ipad_paintings/laseo.jpg"
-og:image: "images/ipad_paintings/laseo.jpg"
 ---
 
 

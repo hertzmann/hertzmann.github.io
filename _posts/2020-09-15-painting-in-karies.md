@@ -1,6 +1,6 @@
 ---
 layout: page
-summary: Reflections on a painting course I took in college
+description: Reflections on a painting course I took in college
 author:  AaronHertzmann
 image: /images/karies/karies-slope.jpg
 ---

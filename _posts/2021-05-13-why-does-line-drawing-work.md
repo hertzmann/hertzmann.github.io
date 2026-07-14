@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why Does Line Drawing Work?
-summary: A computer graphics model gives insight into human perception of art
+description: A computer graphics model gives insight into human perception of art
 author:  AaronHertzmann
 image: /images/howtodraw/fox.jpg
 ---
