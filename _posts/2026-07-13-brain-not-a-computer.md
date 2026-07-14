@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "The Brain Is Not Just A Computer, and Cannot Be Simulated by One"
-description: Digital computers perform fixed logical operations on clock cycles; brains are biological systems of staggering complexity that we don't really understand.
+description: Digital computers perform fixed logical operations on clock cycles; brains are biological systems of staggering complexity.
 author:  AaronHertzmann
 image: "/images/brains/neuron_diagram.png"
 ---
