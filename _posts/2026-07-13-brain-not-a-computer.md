@@ -17,7 +17,7 @@ and so computers can be artists.
 
 This is about more than art—it's about all of "AI". If the brain is just a computer, then it follows that we can someday build computers with human-like intelligence and consciousness... and maybe we already have. If, on the other hand, the brain is fundamentally _not_ a computer, then that makes "intelligent AI" or "conscious AI" far more speculative. Philosophers and neuroscientists have long argued over this question, but recent developments give it a moral urgency.
 
-These opinions seem deeply held; one computer scientist accused me of being a Creationist simply because I said there's some important difference between human brains and computers.
+These opinions seem deeply held; one computer scientist accused me of being a creationist simply because I said there's _some_ important difference between human brains and computers.
 
 **In this blog post, I explain why the brain is not merely a computer, and cannot be simulated by computers.** By "computer," I mean digital computer, like the ones that we all use so much of the time. Digital computers are human-made systems that perform fixed logical operations on rigid clock cycles, with meaningful abstraction layers across scales. Human brains are biological systems integrating electrical, chemical, protein, and fluid interactions, with unimaginable complexity over literally billions of neurons and other types of cells, involving continuous-time continuum mechanics, across scales from the subatomic to the visible.
 
