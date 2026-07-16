@@ -25,7 +25,7 @@ _(Note: I wrote [a previous blog post on this topic](/2022/09/04/computationalis
 
 # The brain is _like_ a computer
 
-Treating the brain as a computer has yielded profound insights across cognitive science and [computational neuroscience](https://www.nature.com/articles/s41593-019-0520-2), including the ability of [computer vision models to model visual cortex activations](https://www.nature.com/articles/nn.4244) or the way that [reinforcement learning theory can describe the dopamine reward system](https://www.nature.com/articles/s41586-019-1924-6). David Marr's proposed computational modularization of human vision inspired generations of scientists. 
+Treating the brain as a computer has yielded profound insights across cognitive science and [computational neuroscience](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(26)00138-5?rss=yes&utm_source=dlvr.it&utm_medium=bluesky), including the ability of [computer vision models to model visual cortex activations](https://www.nature.com/articles/nn.4244) or the way that [reinforcement learning theory can describe the dopamine reward system](https://www.nature.com/articles/s41586-019-1924-6). David Marr's proposed computational modularization of human vision inspired generations of scientists. 
 
 Theoretical computer science defines a computer as "something that can compute functions that a Turing machine can compute."  [Richards and Lillicrap point out that, according to this definition, the human brain is literally a computer](https://www.frontiersin.org/journals/computer-science/articles/10.3389/fcomp.2022.810358/full), because, with pencil and paper, a person can work out the steps of any calculation that a computer can. 
 
