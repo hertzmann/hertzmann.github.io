@@ -9,7 +9,17 @@ image: /images/perspective/goat.jpg
 
 # How Does Perspective Work in Pictures?
 
-_**Notes: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759). I also have a new theory about perspective [described here](https://www.dgp.toronto.edu/~hertzman/perspective/), although it doesn't say much about the natural perspective topics on this page (yet).**_
+_Portions of this blog post have been incorporated into this paper:_
+
+| A. Hertzmann. The Choices Hidden in Photography. _Journal of Vision_. October 2022, 22(10). \[[Paper](https://jov.arvojournals.org/Article.aspx?articleid=2783759)\] \[[Webpage](https://www.dgp.toronto.edu/~hertzman/perspective/)\]  |
+
+_See [this more recent blog post](/2024/10/07/picture-perception.html) for some answers to the questions discussed here._
+
+Some answers to the question of this blog post [are
+
+Notes: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759). See [this blog post]
+
+I also have a new theory about perspective [described here](https://www.dgp.toronto.edu/~hertzman/perspective/), although it doesn't say much about the natural perspective topics on this page (yet).**_
 
 _"So the lens has been a dominant thing for six hundred years now, and I think depictions need to get away from that, really. If you do, marvellous things can happen."_—[David Hockney, 2022](https://www.newyorker.com/culture/the-new-yorker-interview/a-tour-of-david-hockneys-newest-painting-series)
 
@@ -198,7 +208,8 @@ _Photography is not all-seeing in the sense that the eyes see. Our vision, a bin
 
 Theories of perception and photography often tend to be all-or-nothing. Either linear perspective and cameras are correct, and cameras don't lie. Or, there is no objective reality and everything is made-up. The reality is clearly far more complex. Our artwork employs all sorts of complex nonlinear structures, and our brains are able to understand and interpret them. Even more confusing, there's some evidence that people with very different cultural backgrounds may vary in perspective perception in some cases. Understanding how and why perspective works is a hard problem (and one that I'm working on), as is developing new software tools to make images to easily convey what we want to convey.
 
-I continue this theme in my next [blog post, on light and dark](/2022/03/10/photographic-tone.html).
+See [this more recent blog post](/2024/10/07/picture-perception.html) for some answers to the questions discussed here.
+
 
 <br>
 
