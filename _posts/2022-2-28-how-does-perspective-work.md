@@ -13,15 +13,7 @@ _Portions of this blog post have been incorporated into this paper:_
 
 | A. Hertzmann. The Choices Hidden in Photography. _Journal of Vision_. October 2022, 22(10). \[[Paper](https://jov.arvojournals.org/Article.aspx?articleid=2783759)\] \[[Webpage](https://www.dgp.toronto.edu/~hertzman/perspective/)\]  |
 
-_See [this more recent blog post](/2024/10/07/picture-perception.html) for some answers to the questions discussed here._
-
-Some answers to the question of this blog post [are
-
-Notes: portions of this blog post have been incorporated into [a paper in Journal of Vision](https://jov.arvojournals.org/Article.aspx?articleid=2783759). See [this blog post]
-
-I also have a new theory about perspective [described here](https://www.dgp.toronto.edu/~hertzman/perspective/), although it doesn't say much about the natural perspective topics on this page (yet).**_
-
-_"So the lens has been a dominant thing for six hundred years now, and I think depictions need to get away from that, really. If you do, marvellous things can happen."_—[David Hockney, 2022](https://www.newyorker.com/culture/the-new-yorker-interview/a-tour-of-david-hockneys-newest-painting-series)
+_See [this more recent blog post](/2024/10/07/picture-perception.html) for some answers to the questions discussed here, more on the way._
 
 Have you ever had the experience of photographing something faraway, and, in the photo it looked far too small compared to its surroundings?
 <center>

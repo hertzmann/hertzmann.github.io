@@ -67,7 +67,7 @@ The brain has an enormous number of mechanisms, and all of them interact with ea
 
 In contrast, a digital logic gate in a computer implements one operation, like AND or XOR. An "artificial neuron," as commonly implemented, is a weighted sum of numbers, followed by a nonlinearity, such as setting negative numbers to zero. Modern "AI" is largely based on a single mechanism, for which a sixth-grader could do the calculation.
 
-In short, a brain involves electrical signalling, chemical signalling, proteins, blood flow, electromagnetic fields, with thousands and thousands of different types of mechanisms, all continually operating together across multiple scales from the visible to subatomic particles, without digital logic or clock cycles.
+In short, a brain involves electrical signalling, chemical signalling, proteins, blood flow, electromagnetic fields, with thousands and thousands of different types of mechanisms, all continually operating together across multiple scales from the visible to subatomic particles, without digital logic or clock cycles. [Brains do it all on a steady 20 watts of power](https://www.sciencedirect.com/science/article/abs/pii/S0960982226007311), much less than a typical laptop.
 
 Unlike digital computers, brains do not have abstraction layers. [In the words of neuroscientist Anil Seth](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/conscious-artificial-intelligence-and-biological-naturalism/C9912A5BE9D806012E3C8B3AF612E39A), there is no distinction between wetware and mindware: "it is hard and perhaps impossible to separate what they do from what they are."
 
