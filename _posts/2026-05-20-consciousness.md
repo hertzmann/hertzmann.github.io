@@ -9,7 +9,7 @@ image: "/images/dogs/nicole.jpg"
 
 # People and Animals are Conscious
 
-"AI" enthusiasts arguing for "AI" consciousness say: prove to me that you are conscious. Of course, one cannot _prove_ this. So this is taken as some kind of "gotcha," proof of an unfair double standard. The enthusiasts then suggests that this means "AI" consciousness is just as plausible as human consciousness.
+"AI" enthusiasts arguing for "AI" consciousness say: [prove to me that you are conscious](https://faculty.washington.edu/ebender/papers/Bender-2024-preprint.pdf). Of course, one cannot _prove_ this. So this is presented as a "gotcha," proof of an unfair double standard favoring humans over AI. The enthusiasts then suggests that this means "AI" consciousness is just as plausible as human consciousness.
 
 Here I propose an explanation for why we can know that other people are conscious, even if we cannot formally "prove" it. 
 
