@@ -15,11 +15,11 @@ tags: [art-tech]
 **_Note: a heavily revised version of this post has been 
 published on [The Conversation](https://theconversation.com/why-would-anyone-buy-crypto-art-let-alone-spend-millions-on-whats-essentially-a-link-to-a-jpeg-file-157115)._**
 
+**_Note: while I've never supported cryptocurrency, some time after I wrote this post I became increasing opposed to it. Even though I have talked to artists who benefited from the social and financial aspects of NFTs, and there is some interesting art that has been made around blockchain, I ultimately being that cryptocurrency is immensely harmful._**
+
 
 I've been following CryptoArt on Twitter roughly since [Jason Bailey first posted about it a few years ago](https://www.artnome.com/news/2018/1/14/what-is-cryptoart), and I've been very skeptical of it. Now that [it's blowing up](https://www.nytimes.com/2021/02/24/arts/design/christies-beeple-auction-blockchain-art.html), and a lot of artists that I respect are active in it, I feel like it's worth taking seriously.  **I don't imagine that I would ever purchase CryptoArt myself, but I would like to at least understand it: why would anyone buy CryptoArt?**  
 Here are some ways to think about it in the context of conventional art.
-
-**Note: certain types of blockchain enormously accelerate catastrophic climate change [[1](https://memoakten.medium.com/the-unreasonable-ecological-cost-of-cryptoart-2221d3eb2053), [2](https://joanielemercier.com/the-problem-of-cryptoart/)], and so you should avoid these kinds of blockchain entirely.** 
 
 <center>
 <figure>
