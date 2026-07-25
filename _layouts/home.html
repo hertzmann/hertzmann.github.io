@@ -263,7 +263,24 @@ layout: default
     el.hidden = false;
   }
 
+  function readHash() {
+    var m = location.hash.match(/^#topics=(.*)$/);
+    if (!m) return [];
+    var valid = pills.map(function (p) { return p.dataset.tag; });
+    return decodeURIComponent(m[1]).split(',').filter(function (t) {
+      return t !== '*' && valid.indexOf(t) !== -1;
+    });
+  }
+
+  function writeHash() {
+    var url = active.length
+      ? '#topics=' + active.join(',')
+      : location.pathname + location.search;
+    history.replaceState(null, '', url);
+  }
+
   function update() {
+    writeHash();
     allPill.classList.toggle('is-active', active.length === 0);
     pills.forEach(function (p) {
       if (p !== allPill) p.classList.toggle('is-active', active.indexOf(p.dataset.tag) !== -1);
@@ -305,5 +322,14 @@ layout: default
       filterBar.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     });
   });
+
+  // Restore filter from the URL (e.g. /#topics=perception,academia),
+  // and react if the hash is edited or navigated.
+  window.addEventListener('hashchange', function () {
+    active = readHash();
+    update();
+  });
+  active = readHash();
+  if (active.length) update();
 })();
 </script>
