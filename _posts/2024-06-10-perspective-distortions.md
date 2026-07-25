@@ -4,6 +4,7 @@ title: "Perspective Distortions: Why Normal Cameras Make Faces Look Weird"
 description: How linear perspective distorts pictures.
 author:  AaronHertzmann
 image: "/images/perspective/faces_basketballs.jpg"
+tags: [perception, photography]
 ---
 
 

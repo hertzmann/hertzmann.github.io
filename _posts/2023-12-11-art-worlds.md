@@ -3,6 +3,7 @@ layout: page
 title: "\"That's Not Art:\" Art Worlds Define Art Differently"
 author:  AaronHertzmann
 image: /images/thats-not-art.jpg
+tags: [art-theory]
 ---
 
 # "That's Not Art:" Art Worlds Define Art Differently

@@ -3,6 +3,7 @@ layout: page
 description: Reflections on recent experience with digital painting and drawing
 author:  AaronHertzmann
 image: /images/ipad_paintings/cidre.jpg
+tags: [making-art]
 ---
 
 # Learning from Painting, Part 2: The Goal

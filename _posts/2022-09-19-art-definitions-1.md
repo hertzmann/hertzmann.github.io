@@ -6,6 +6,7 @@ author:  AaronHertzmann
 image: /images/definitions/melies.jpg
 redirect_from:
   - /2022/09/19/art-definitions.html
+tags: [art-theory]
 ---
 
 

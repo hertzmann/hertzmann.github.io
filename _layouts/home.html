@@ -56,6 +56,103 @@ layout: default
   font-size: 0.95em;
 }
 
+.topics-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.35rem;
+  margin: 1rem 0 0.5rem;
+}
+
+.topics-label {
+  font-size: 0.8em;
+  color: #828282;
+  margin-right: 0.2rem;
+}
+
+.tag-pill {
+  --tag-color: #555;
+  font: inherit;
+  font-size: 0.75em;
+  line-height: 1;
+  padding: 0.32em 0.7em;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+  /* fallback for browsers without color-mix */
+  color: var(--tag-color);
+  background: transparent;
+  color: color-mix(in srgb, var(--tag-color) 75%, #333);
+  background: color-mix(in srgb, var(--tag-color) 12%, transparent);
+}
+
+.tag-pill:hover {
+  background: color-mix(in srgb, var(--tag-color) 22%, transparent);
+}
+
+.tag-pill.is-active {
+  background: var(--tag-color);
+  border-color: var(--tag-color);
+  color: #fff;
+}
+
+.tag-pill .tag-count {
+  opacity: 0.65;
+  font-size: 0.85em;
+  margin-left: 0.15em;
+}
+
+.filter-status,
+.filter-endnote {
+  font-size: 0.85em;
+  color: #606060;
+  margin: 0.25rem 0 1rem;
+}
+
+.filter-endnote {
+  margin: 0 0 1.5rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid #e8e8e8;
+}
+
+.filter-clear {
+  font: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  color: #2a7ae2;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.post-tags {
+  margin-top: 0.4rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+}
+
+.post-tag {
+  --tag-color: #555;
+  font: inherit;
+  font-size: 0.68em;
+  line-height: 1;
+  padding: 0.3em 0.65em;
+  border-radius: 999px;
+  border: none;
+  cursor: pointer;
+  /* fallback for browsers without color-mix */
+  color: var(--tag-color);
+  background: transparent;
+  color: color-mix(in srgb, var(--tag-color) 75%, #333);
+  background: color-mix(in srgb, var(--tag-color) 12%, transparent);
+}
+
+.post-tag:hover {
+  background: color-mix(in srgb, var(--tag-color) 22%, transparent);
+}
+
 @media screen and (max-width: 600px) {
   .post-item {
     flex-direction: column;
@@ -74,11 +171,28 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
+
+  {%- if site.blog_tags -%}
+  <div class="topics-bar" id="tag-filter">
+    <span class="topics-label">Topics:</span>
+    <button type="button" class="tag-pill tag-all is-active" data-tag="*">All</button>
+    {%- for t in site.blog_tags -%}
+    {%- assign tagged = site.tags[t.slug] -%}
+    {%- if tagged and tagged.size > 0 -%}
+    <button type="button" class="tag-pill" data-tag="{{ t.slug }}" data-name="{{ t.name }}" style="--tag-color: {{ t.color }}">{{ t.name }}<span class="tag-count">{{ tagged.size }}</span></button>
+    {%- endif -%}
+    {%- endfor -%}
+  </div>
+  {%- endif -%}
+
   <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+
+  <p class="filter-status" id="filter-status" hidden></p>
+
   <ul class="post-list">
     {%- for post in site.posts -%}
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <li class="post-item">
+    <li class="post-item" data-tags="{{ post.tags | join: ' ' }}">
       <div class="post-thumb">
         {%- if post.image and post.image != site.default_card_image -%}
         <a href="{{ post.url | relative_url }}">
@@ -97,12 +211,99 @@ layout: default
         {%- if post_summary -%}
         <p class="post-summary">{{ post_summary }}</p>
         {%- endif -%}
+        {%- if site.blog_tags and post.tags.size > 0 -%}
+        <div class="post-tags">
+          {%- for slug in post.tags -%}
+          {%- assign t = site.blog_tags | where: "slug", slug | first -%}
+          {%- if t -%}
+          <button type="button" class="post-tag" data-tag="{{ t.slug }}" style="--tag-color: {{ t.color }}">{{ t.name }}</button>
+          {%- endif -%}
+          {%- endfor -%}
+        </div>
+        {%- endif -%}
       </div>
     </li>
     {%- endfor -%}
   </ul>
+
+  <p class="filter-endnote" id="filter-endnote" hidden></p>
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 </div>
 
+<script>
+(function () {
+  var filterBar = document.getElementById('tag-filter');
+  if (!filterBar) return;
+  var pills = Array.prototype.slice.call(filterBar.querySelectorAll('.tag-pill'));
+  var allPill = filterBar.querySelector('.tag-all');
+  var items = Array.prototype.slice.call(document.querySelectorAll('.post-list .post-item'));
+  var statusEl = document.getElementById('filter-status');
+  var endnoteEl = document.getElementById('filter-endnote');
+  var active = [];
 
+  function activeNames() {
+    return pills
+      .filter(function (p) { return active.indexOf(p.dataset.tag) !== -1; })
+      .map(function (p) { return p.dataset.name; });
+  }
+
+  function makeStatus(el, text) {
+    el.textContent = text + ' ';
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'filter-clear';
+    btn.textContent = 'Show all posts';
+    btn.addEventListener('click', function () {
+      active = [];
+      update();
+    });
+    el.appendChild(btn);
+    el.hidden = false;
+  }
+
+  function update() {
+    allPill.classList.toggle('is-active', active.length === 0);
+    pills.forEach(function (p) {
+      if (p !== allPill) p.classList.toggle('is-active', active.indexOf(p.dataset.tag) !== -1);
+    });
+    var shown = 0;
+    items.forEach(function (item) {
+      var tags = (item.getAttribute('data-tags') || '').split(' ');
+      var show = active.length === 0 || tags.some(function (t) { return active.indexOf(t) !== -1; });
+      item.style.display = show ? '' : 'none';
+      if (show) shown++;
+    });
+    if (active.length === 0) {
+      statusEl.hidden = true;
+      endnoteEl.hidden = true;
+    } else {
+      var names = activeNames().join(', ');
+      makeStatus(statusEl, 'Showing ' + shown + ' of ' + items.length + ' posts on: ' + names + '.');
+      makeStatus(endnoteEl, (items.length - shown) + ' more posts are hidden by the topic filter.');
+    }
+  }
+
+  pills.forEach(function (p) {
+    p.addEventListener('click', function () {
+      if (p === allPill) {
+        active = [];
+      } else {
+        var i = active.indexOf(p.dataset.tag);
+        if (i === -1) active.push(p.dataset.tag); else active.splice(i, 1);
+      }
+      update();
+    });
+  });
+
+  // A tag chip on a post row filters to just that tag.
+  document.querySelectorAll('.post-tags .post-tag').forEach(function (chip) {
+    chip.addEventListener('click', function () {
+      active = [chip.dataset.tag];
+      update();
+      filterBar.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    });
+  });
+})();
+</script>

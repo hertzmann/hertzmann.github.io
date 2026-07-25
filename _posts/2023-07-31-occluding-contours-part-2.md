@@ -4,6 +4,7 @@ title: "Occluding Contour Breakthroughs, Part 2: Getting It Right"
 author:  AaronHertzmann
 description: New insight into line rendering algorithms
 image: "/images/howtodraw/quadratic-patch.png"
+tags: [npr]
 ---
 
 

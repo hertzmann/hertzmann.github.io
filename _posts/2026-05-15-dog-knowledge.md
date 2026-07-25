@@ -4,6 +4,7 @@ title: "Dogs Do Not Know Things"
 description: Some things I've learned from working with dogs
 author:  AaronHertzmann
 image: "/images/dogs/cinco_haru_large.jpg"
+tags: [minds]
 ---
 
 # Dogs Do Not Know Things

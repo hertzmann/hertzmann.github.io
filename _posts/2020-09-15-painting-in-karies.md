@@ -3,6 +3,7 @@ layout: page
 description: Reflections on a painting course I took in college
 author:  AaronHertzmann
 image: /images/karies/karies-slope.jpg
+tags: [making-art]
 ---
 
 # Painting in Karies

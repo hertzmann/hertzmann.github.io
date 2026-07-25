@@ -3,6 +3,7 @@ layout: page
 description: Reflections on recent experience with digital painting and drawing
 author:  AaronHertzmann
 image: /images/ipad_paintings/abstract/abstract_yellow.jpg
+tags: [making-art]
 ---
 
 

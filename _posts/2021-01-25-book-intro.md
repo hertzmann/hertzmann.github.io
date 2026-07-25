@@ -6,6 +6,7 @@ author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
 redirect_from:
   - /2021/01/25/2021-01-25-book-intro.html
+tags: [art-theory, perception]
 ---
 
 # Understanding Visual Art as Computation: A Hypothetical Book Introduction

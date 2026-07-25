@@ -4,6 +4,7 @@ title: "Scribbling, Abstract Art, and Visual Recognition"
 description: Interesting connections between sketching and human vision
 author:  AaronHertzmann
 image: "/images/iphone_drawings/sax.jpg"
+tags: [perception, art-theory, making-art]
 ---
 
 # Scribbling, Abstract Art, and Visual Recognition

@@ -3,6 +3,7 @@ layout: page
 description: A non-technical introduction to non-photorealistic rendering, part 1
 author:  AaronHertzmann
 image: /images/howtodraw/pig_toon.png
+tags: [npr]
 ---
 
 # How to Draw Pictures, Part 1: Contours

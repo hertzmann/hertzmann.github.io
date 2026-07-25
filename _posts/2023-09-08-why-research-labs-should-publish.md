@@ -3,6 +3,7 @@ layout: page
 title: Why Industry Research Labs Should Publish
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
+tags: [academia]
 ---
 
 # Why Industry Research Labs Should Publish

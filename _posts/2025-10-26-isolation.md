@@ -4,6 +4,7 @@ title: "Technology and Social Isolation: From Cars to \"AI\""
 description: A story about how technology has tended to increase isolation.
 author:  AaronHertzmann
 image: "/images/tech_isolation/record_listener.jpg"
+tags: [art-tech]
 ---
 
 # Technology and Social Isolation: From Cars to "AI"

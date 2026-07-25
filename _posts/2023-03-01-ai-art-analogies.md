@@ -5,6 +5,7 @@ description:  "Is AI art more like photography, conceptual art, collage, image c
 author:  AaronHertzmann
 image: "/images/baldessari.jpg"
 
+tags: [art-tech]
 ---
 
 # A Catalog of "AI" Art Analogies

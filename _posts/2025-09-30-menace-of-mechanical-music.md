@@ -4,6 +4,7 @@ title: "The Menace of Mechanical Music: Was John Philip Sousa right?"
 description: How has recorded music been good or bad for us?
 author:  AaronHertzmann
 image: "/images/sousa-page1-v2.jpg"
+tags: [art-tech]
 ---
 
 # The Menace of Mechanical Music: Was John Philip Sousa right?

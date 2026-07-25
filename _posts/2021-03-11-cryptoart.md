@@ -5,6 +5,7 @@ description: Weighing pros and cons of CryptoArt
 author:  AaronHertzmann
 image: /images/hen.jpg
 
+tags: [art-tech]
 ---
 
 

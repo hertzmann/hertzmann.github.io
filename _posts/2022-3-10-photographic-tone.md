@@ -4,6 +4,7 @@ title: Why Dark and Light in Photographs is Complicated
 description: Choices in photographic tone reproduction 
 author:  AaronHertzmann
 image: /images/tone/james-dean-retouch-b.jpg
+tags: [photography, perception]
 ---
 
 

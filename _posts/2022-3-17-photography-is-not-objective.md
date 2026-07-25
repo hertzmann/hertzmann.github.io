@@ -4,6 +4,7 @@ title: Photography is not Objective, Art is a Set of Choices
 description: Art is not perception
 author:  AaronHertzmann
 image: /images/perspective/fake_tunnel3.jpg
+tags: [photography, art-theory]
 ---
 
 

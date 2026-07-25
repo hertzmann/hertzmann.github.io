@@ -4,6 +4,7 @@ title: "How We Perceive Shape  in Painting and Photography: Perspective"
 description: A new theory describing 3D perspective in pictures.
 author:  AaronHertzmann
 image: "/images/multiperspective_photocollage/pearblossom.jpg"
+tags: [perception]
 ---
 
 

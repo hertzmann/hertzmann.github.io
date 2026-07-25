@@ -4,6 +4,7 @@ title: What if CVPR is a Graphics Conference?
 description: What does it mean that so many graphics papers are being published in vision conferences?
 author:  AaronHertzmann
 image: /images/cvpr-gfx.jpeg
+tags: [academia]
 ---
 
 

@@ -5,6 +5,7 @@ description: A bit on naive responses to new technology
 author:  AaronHertzmann
 image: "/images/statusquo/getzgilberto.jpg"
 
+tags: [art-tech]
 ---
 
 

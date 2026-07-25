@@ -4,6 +4,7 @@ title: "The Illusion of Awareness: Why We See Much Less Than We Think We Do"
 description: The fascinating, recent scientific explanations for why we fail to see things that are right in front of us.
 author: AaronHertzmann
 image: "/images/awareness/nyc/nyc-doorway.jpg"
+tags: [perception]
 ---
 
 
