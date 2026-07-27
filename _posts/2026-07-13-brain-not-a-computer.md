@@ -150,11 +150,12 @@ Fully simulating a truly complex system, like weather patterns, remains impossib
 	</figure>
 </center>
 
-The situation is even worse for [chaotic systems](https://en.wikipedia.org/wiki/Chaos_theory). Even very simple physical systems, like a simple [double pendulum](https://en.wikipedia.org/wiki/Double_pendulum), can exhibit wildly varying behavior that quickly makes it unpredictable. Tiny numerical errors magnify so that accurate simulation would require enormous computing resources. And this is just for systems of two or three variables.
+The situation is even worse for [chaotic systems](https://en.wikipedia.org/wiki/Chaos_theory). Even very simple physical systems, like a simple [double pendulum](https://en.wikipedia.org/wiki/Double_pendulum), can exhibit wildly varying behavior that quickly makes it unpredictable. Tiny numerical errors magnify so that accurate simulation would require enormous computing resources. And this is just for systems of two or three variables. A major element (and the title) of [The Three-Body Problem](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) derives from the fundamental unpredictability of chaotic systems.
 
 The brain is an enormous complex dynamical system of uncountably many variables (i.e., continuous fields, not just discrete variables), involving electrical, fluid, and chemical mechanics, with [complex feedback affecting neural function](https://www.youtube.com/live/m47qHAJftR4?si=DqnjeG_qRr6kDqLD&t=2012), likely with many chaotic elements. 
 
 Even if we somehow had a perfect simulator, the problem of determining initial conditions seems insurmountable. Producing valid behavior requires knowing the state of the system at some point in time. We can't just boot up a brain from a raw install the way we can with a computer. Brains develop from fetuses through gestation in a complex biological process; the problem of initial conditions prevents simulating even a newborn baby's brain.
+
 
 Outside of science fiction, **accurate, precisely-detailed simulation of the brain is simply impossible.**
 
