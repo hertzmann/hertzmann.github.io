@@ -33,7 +33,7 @@ But perhaps it is an illusion, or a lie. Perhaps everyone else around you is bas
 
 We have two sources of information about other people: their behaviors, and what we know of their biology.
 
-You and I are both human, part of the same species and the same evolution. We share, along with the rest of humanity, the same kinds of brains, hearts, nervous systems, and so on. We can eat the same kinds of food, we need the same kind of exercise and sleep and so on. Of course we mostly focus on the differences between us (say, food allergies, different tastes or preferences, neurodivergence), but it's not like some of us can hibernate for six months at a time and others can metabolize gravel. 
+You and I are both human, part of the same species and the same evolution. We share, along with the rest of humanity, the same kinds of brains, hearts, nervous systems, and so on. We can eat the same kinds of food, we need the same kind of exercise and sleep and so on. You've probably never seen me sleep, but still know that I do sleep, without expecting me to prove it to you. Of course we mostly focus on the differences between us (say, food allergies, different tastes or preferences, neurodivergence), but it's not like some of us can hibernate for six months at a time and others can metabolize gravel. 
 
 Our brains mostly have the same parts and the same functional elements at different scales. So it makes sense to believe that our mental states are similar too—we share the same broad palette of emotions and mental representations, even though they are expressed differently in different people.
 
