@@ -130,6 +130,16 @@ Likewise, it might be theoretically possible to simulate a brain, if we had a co
 
 Anyone who has worked on physical simulation knows that it is much, much harder than it sounds. Just knowing the physics of a system and the state of a system is not enough. Tiny, tiny errors always magnify, and errors are a necessary part of simulation on digital computers, which cannot represent real numbers with infinite precision. People performing physical simulation typically navigate tradeoffs of speed and accuracy: you can make a fluid simulation for a movie that looks great, but it won't obey real physical properties, or you can make a physically-accurate simulation of ocean waves that takes weeks to run and only captures a few cubic meters of water. 
 
+<center>
+<figure>
+	<video width="480" height="352" controls>
+<source src="../../../images/honey-explosion-web.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+<figcaption><I>Even simple physical simulations can "explode." (<a href="https://www.reddit.com/r/blender/comments/1hiwd6w/fluid_simulation_issue/">source</a>)</I></figcaption>
+</figure>
+</center>
+
 Fully simulating a truly complex system, like weather patterns, remains impossible. We can simulate the weather in aggregate, and we can make average predictions about the weather—just like we can with human behavior—but truly accurate simulation is beyond human reach even with massive supercomputers. As we all know from experience, no weather prediction is perfect.
 
 
