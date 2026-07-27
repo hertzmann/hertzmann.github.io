@@ -3,6 +3,7 @@ layout: page
 description: Reflections on recent experience with digital painting and drawing
 author:  AaronHertzmann
 image: /images/ipad_paintings/coffee_table.jpg
+tags: [making-art]
 ---
 
 

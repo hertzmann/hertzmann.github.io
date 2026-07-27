@@ -3,6 +3,7 @@ layout: page
 description: How dreams could be gradient updates
 author:  AaronHertzmann
 image: /images/arthistory/goya.jpg
+tags: [minds]
 ---
 
 # Dreaming and Sampling

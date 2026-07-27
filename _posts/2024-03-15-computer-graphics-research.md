@@ -3,6 +3,7 @@ layout: page
 title: Computer Graphics Research As Scientific Modeling of Pictures
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
+tags: [academia, perception]
 ---
 
 # Computer Graphics Research As Scientific Modeling of Pictures

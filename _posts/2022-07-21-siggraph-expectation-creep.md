@@ -1,3 +1,7 @@
+---
+tags: [academia]
+---
+
 # SIGGRAPH Papers Committee Notes: 2022, and the future
 
 

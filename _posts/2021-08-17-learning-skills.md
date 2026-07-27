@@ -4,6 +4,7 @@ layout: page
 description: How I think about learning skills as an adult
 author:  AaronHertzmann
 image: /images/skill_curve_plateau.jpg
+tags: [making-art]
 ---
 
 

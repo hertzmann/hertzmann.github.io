@@ -4,6 +4,7 @@ title: "Learning from Painting, Part 7: Finding Inspiration, Six Years Later"
 description: Finding the drive to keep working
 author:  AaronHertzmann
 image: "images/ipad_paintings/laseo.jpg"
+tags: [making-art]
 ---
 
 

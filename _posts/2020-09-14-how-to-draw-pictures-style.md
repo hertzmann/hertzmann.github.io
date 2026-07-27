@@ -4,6 +4,7 @@ title: "How to Draw Pictures, Part 3: Style"
 description: Different styles in non-photorealistic rendering
 author:  AaronHertzmann
 image: "/images/howtodraw/cupid_hatch.png"
+tags: [npr]
 ---
  
 

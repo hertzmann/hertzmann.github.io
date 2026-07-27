@@ -4,6 +4,7 @@ title: "Why Drawing is Hard: Visual Limitations and the Skills to Overcome Them"
 description: Limitations of our vision makes drawing hard
 author:  AaronHertzmann
 image: "/images/drawingskills/blind-drawing-pair-large.jpg"
+tags: [perception]
 ---
 
 # Why Drawing is Hard: Visual Limitations and the Skills to Overcome Them

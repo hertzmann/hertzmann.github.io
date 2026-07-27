@@ -4,6 +4,7 @@ title: "Reminiscence: My first SIGGRAPHs"
 description: My first few years at SIGGRAPH, and reflections on what it's like to attend the same conference for many years.
 author: AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
+tags: [academia]
 ---
 
 # Reminiscence: My first SIGGRAPHs

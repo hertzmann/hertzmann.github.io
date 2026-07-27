@@ -1,3 +1,7 @@
+---
+tags: [minds]
+---
+
 # Why Evolution Isn't Just Optimization
 
 

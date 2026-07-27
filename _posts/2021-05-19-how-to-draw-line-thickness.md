@@ -4,6 +4,7 @@ layout: page
 description: Simple guidelines for line thickness in drawings, derived from a shading model.
 author:  AaronHertzmann
 image: /images/howtodraw/thick/bone-inset.jpg
+tags: [npr]
 ---
 
 

@@ -2,6 +2,7 @@
 layout: page
 description: Sometimes computer vision reviewers focus too much on scores, especially for image synthesis papers.
 author:  AaronHertzmann
+tags: [academia]
 ---
 
 

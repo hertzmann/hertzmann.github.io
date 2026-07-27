@@ -4,6 +4,7 @@ title: Three Types of Art Technologies
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
 description: Different historical technologies offer different lessons for "AI" and art
+tags: [art-tech]
 ---
 
 # Three Types of Art Technologies

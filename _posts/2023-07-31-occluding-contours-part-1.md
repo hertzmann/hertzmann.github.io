@@ -4,6 +4,7 @@ title: "Occluding Contour Breakthroughs, Part 1: A Surprisingly Hard Problem"
 description: Exact line rendering of smooth surfaces is harder than anyone would think
 author:  AaronHertzmann
 image: "/images/howtodraw/cupid_hatch.png"
+tags: [npr]
 ---
 
 

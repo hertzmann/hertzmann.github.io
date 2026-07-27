@@ -4,6 +4,7 @@ title: We Aren't Just Computers
 description: If people are just computers, then why do we have morality?
 author:  AaronHertzmann
 image: /images/wica/bradford_viewers.jpg
+tags: [minds]
 ---
 
 

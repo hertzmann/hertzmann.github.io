@@ -4,6 +4,7 @@ title: "How I Paint Space: Multiperspective Arrangement"
 description: How perspective appears in my paintings.
 author:  AaronHertzmann
 image: "/images/ipad_paintings/ocean_beach.jpg"
+tags: [making-art, perception]
 ---
 
 

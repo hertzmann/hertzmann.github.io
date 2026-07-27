@@ -3,6 +3,7 @@ layout: page
 title: Art is Fundamentally Social
 description: A way to understand art I've found helpful for understanding new artistic technologies
 author:  AaronHertzmann
+tags: [art-theory]
 ---
 
 

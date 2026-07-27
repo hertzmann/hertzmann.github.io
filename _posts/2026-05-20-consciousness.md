@@ -4,6 +4,7 @@ title: "People and Animals are Conscious"
 description: How we can know that people are not philosophical zombies
 author:  AaronHertzmann
 image: "/images/dogs/nicole.jpg"
+tags: [minds]
 ---
 
 

@@ -4,6 +4,7 @@ title: "Occluding Contour Breakthroughs Part 3: Which Algorithm Should I Use (or
 description: Summary of different approaches for different cases, and open questions
 author:  AaronHertzmann
 image: "/images/howtodraw/spiderverse.jpg"
+tags: [npr]
 ---
 
 

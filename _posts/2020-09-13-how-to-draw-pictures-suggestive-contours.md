@@ -3,6 +3,7 @@ layout: page
 description: A non-technical introduction to non-photorealistic rendering, part 2
 author:  AaronHertzmann
 image: /images/howtodraw/abstracted_shading.png
+tags: [npr]
 ---
 
 

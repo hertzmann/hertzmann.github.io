@@ -39,6 +39,53 @@ mastodon:
 - username: aaronhertzmann
   instance: fediscience.org
 
+# Working files for tag maintenance -- not part of the published site.
+# (Setting exclude replaces Jekyll 3's built-in defaults, so those are
+# re-listed here too.)
+exclude:
+  - tag-plan.md
+  - apply_tags.py
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Blog post tags: display name and pill color for each tag slug used in
+# post frontmatter. Order here = order of the filter bar on the home page.
+# The editable master list of post->tag assignments is in tag-plan.md;
+# run apply_tags.py after editing it.
+blog_tags:
+  - slug: perception
+    name: Perception & Pictures
+    color: "#8e44ad"
+  - slug: making-art
+    name: My Art Practice
+    color: "#c0392b"
+  - slug: art-theory
+    name: Art Theory & History
+    color: "#9c6f19"
+  - slug: photography
+    name: Photography
+    color: "#5d6d7e"
+  - slug: art-tech
+    name: Art & Technology
+    color: "#14848f"
+  - slug: minds
+    name: Minds & Machines
+    color: "#c2559b"
+  - slug: npr
+    name: Non-Photorealistic Rendering
+    color: "#4a4ab0"
+  - slug: academia
+    name: Academia
+    color: "#d35400"
+  - slug: books
+    name: Book Reviews
+    color: "#7b5544"
+
 # Set this to true to get LaTeX math equation support
 use_math: false
 
@@ -63,7 +110,6 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
 
-# additions based on https://amytabb.com/ts/2018_11_12/
 url: https://aaronhertzmann.com
 title_image: "https://aaronhertzmann.com/images/wica/bradford_viewers.jpg"        # default Twitter card image when no other image provided
 

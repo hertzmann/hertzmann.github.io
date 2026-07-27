@@ -3,6 +3,7 @@ layout: page
 description: People often cannot tell if an image was made "by hand" or by AI generation.
 author:  AaronHertzmann
 image: "/images/wica/bradford_viewers.jpg"
+tags: [art-tech]
 ---
 
 # How "AI"-Generated Imagery is Different From Previous Art Technologies

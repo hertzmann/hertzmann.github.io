@@ -4,6 +4,7 @@ title: When Machines Change Art
 description: How photography, recorded music, and "AI" art might be similar.
 author:  AaronHertzmann
 image: "/images/dall-e/DALL·E 2022-05-11 16.43.04.jpg"
+tags: [art-tech]
 ---
 
 

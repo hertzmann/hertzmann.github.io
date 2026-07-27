@@ -4,6 +4,7 @@ title: The Life-Cycle of AI Art Techniques
 description: How AI art evolves from technology to creativity
 author:  AaronHertzmann
 image: /images/vadim.jpg
+tags: [art-tech]
 ---
 
 

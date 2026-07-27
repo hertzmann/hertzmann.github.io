@@ -4,6 +4,7 @@ title: "Book Reviews on Consciousness and Intelligence"
 description: Thoughts on some books I read recently
 author:  AaronHertzmann
 image: "/images/godfrey-smith2100.jpg"
+tags: [books, minds]
 ---
 
 
