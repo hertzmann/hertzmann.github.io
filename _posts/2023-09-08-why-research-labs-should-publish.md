@@ -2,7 +2,7 @@
 layout: page
 title: Why Industry Research Labs Should Publish
 author:  AaronHertzmann
-image: "/images/site-card-default.jpg"
+image: "/images/1984.jpg"
 tags: [academia]
 ---
 
