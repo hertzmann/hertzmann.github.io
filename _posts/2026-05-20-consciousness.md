@@ -14,9 +14,9 @@ tags: [minds]
 
 Here I propose an explanation for why we can know that other people are conscious, even if we cannot formally "prove" it.
 
-The argument is simple: if you are conscious, and you know that other people have similar behaviors and biology (especially brains) to you, then they must have similar consciousness to you. The alternatives are too implausible to take seriously. 
+The argument is simple: **if you are conscious, and you know that other people have similar behaviors and similar biological brains to you, then they must have similar consciousness to you. The alternatives are too implausible to take seriously.**
 
-Likewise, we can know that animals have some consciousness: the more similar that animals are to us, biologically and behaviorally, the more-similar their consciousness ought to be as well.
+Likewise: **the more similar that animals are to us, biologically and behaviorally, the more-similar their consciousness ought to be as well.**
 
 I am not proposing a solution to ["the hard problem" of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), meaning I do not offer an objective test of whether any "AI" or alien is conscious, nor do I offer an explicit definition of consciousness. My arguments here do not disprove the possibility of "AI" consciousness. However, they highlight the need to consider mechanisms (biology and/or algorithms) and not just behaviors when attempting to judge consciousness. 
 
