@@ -96,11 +96,11 @@ We cannot apply the above arguments for machine intelligence, because machines d
 
 This does not disprove "AI" consciousness, but it shows that establishing "AI" consciousness is far, far, more difficult than human consciousness. Which seems obvious, but apparently is not to some people.
 
-How would we demonstrate or prove machine consciousness? Or, if aliens came down from space, how would we determine if they are conscious? I don't think anyone has a good answer. However, I do not believe that we can judge consciousness simply by looking at behaviors, like performing Turing Tests. We've already seen over and over that people can be fooled by simple rule-following chatbots like [ELIZA](https://en.wikipedia.org/wiki/ELIZA). We can build convincing philosophical zombies.
-
-If aliens arrived on Earth, and they seemed biologically similar to us, and they had evolved from primordial ooze on their own planet, then it's certainly reasonable to understand them as conscious. But this is total science fiction; xenobiology is (to say the least) a pre-paradigmatic field, and it doesn't make sense to speculate about alien biolgy until we've met them.
+How would we demonstrate or prove machine consciousness? I don't think anyone has a good answer. However, I do not believe that we can judge consciousness simply by looking at behaviors, like performing Turing Tests. We've already seen over and over that people can be fooled by simple rule-following chatbots like [ELIZA](https://en.wikipedia.org/wiki/ELIZA). We can build convincing philosophical zombies.
 
 How do we know that chatbots like ELIZA are not conscious? We [read the paper](https://dl.acm.org/doi/pdf/10.1145/365153.365168), or look at [the code](https://github.com/anthay/ELIZA) to see how it works. We can know enough about how LLMs work that to know that they, too, are simple text processing engines that, like ELIZA, literally do nothing more than take text strings as input and generate text strings as output. 
+
+If aliens arrived on Earth, and they seemed biologically similar to us, and they had evolved from primordial ooze on their own planet, then [it's certainly reasonable to understand them as conscious](https://journals.publishing.umich.edu/phimp/article/id/7823/). But this is total science fiction; xenobiology is (to say the least) a [pre-paradigmatic field](https://en.wikipedia.org/wiki/The_Structure_of_Scientific_Revolutions): it doesn't make sense to speculate about alien biology until we've actually met them.
 
 It might be that computer algorithms could be described as "conscious" if they have any mental state representation at all, like state variables representing "mood." But such representations are so different from human consciousness that calling them "consciousness" in public discussion seems misleading and extremely irresponsible (a topic I intend to exapnd on in a future blog post).
 
