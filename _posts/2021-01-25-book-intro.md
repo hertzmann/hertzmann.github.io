@@ -3,7 +3,7 @@ layout: page
 title: "Understanding Visual Art as Computation: A Hypothetical Book Introduction"
 description: An outline/summary of my research around understanding art
 author:  AaronHertzmann
-image: /images/wica/bradford_viewers.jpg
+image: /images/site-card-default.jpg
 redirect_from:
   - /2021/01/25/2021-01-25-book-intro.html
 tags: [art-theory, perception]

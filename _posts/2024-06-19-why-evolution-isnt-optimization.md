@@ -1,4 +1,9 @@
 ---
+layout: page
+title: "Why Evolution Isn't Just Optimization"
+description: Optimization models many evolutionary processes, but they're not the same.
+author:  AaronHertzmann
+image: "/images/haeckel.png"
 tags: [minds]
 ---
 
@@ -52,6 +57,12 @@ An optimization theory, moreover, suggests that fitness is being explicitly meas
 Perhaps much of this process can be _modeled_ by optimization, but as a comprehensive theory it doesn't seem possible to do so in a meaningful useful way.
 
 
+<center>
+	<figure>
+		<img src="../../../images/haeckel.png" width="640">
+		<figcaption><I><a href="https://en.wikipedia.org/wiki/Phylogenetics#/media/File:Haeckel_arbol_bn.png">Haeckel's phylogenetic tree</a>, 1866. Species fill out all the ecological niches.</I></figcaption>
+	</figure>
+</center>
 
 
 # AI and Why It Matters

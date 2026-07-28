@@ -2,7 +2,7 @@
 layout: page
 description: People often cannot tell if an image was made "by hand" or by AI generation.
 author:  AaronHertzmann
-image: "/images/wica/bradford_viewers.jpg"
+image: "/images/site-card-default.jpg"
 tags: [art-tech]
 ---
 

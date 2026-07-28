@@ -2,7 +2,7 @@
 layout: page
 title: What is Creativity, and Can Computers Be Creative?
 author:  AaronHertzmann
-image: "/images/wica/bradford_viewers.jpg"
+image: "/images/mandelbrot.jpg"
 tags: [art-tech, minds]
 ---
 

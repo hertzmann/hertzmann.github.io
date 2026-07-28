@@ -3,7 +3,7 @@ layout: page
 title: "Reminiscence: My first SIGGRAPHs"
 description: My first few years at SIGGRAPH, and reflections on what it's like to attend the same conference for many years.
 author: AaronHertzmann
-image: "/images/wica/bradford_viewers.jpg"
+image: "/images/sig96.jpg"
 tags: [academia]
 ---
 
@@ -25,6 +25,11 @@ I wanted to be part of this community. I saw people on stage presenting their ne
 
 A high school friend flew down for SIGGRAPH and we explored the city a bit together. Apart from that, I don’t remember having any conversations that whole week that lasted more than a few sentences.
 
+<center>
+	<figure>
+		<img src="../../../images/sig96.jpg" width="480">
+	</figure>
+</center>
 
 # The next few years
 
