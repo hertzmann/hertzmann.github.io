@@ -12,9 +12,9 @@ tags: [minds]
 
 "AI" enthusiasts arguing for "AI" consciousness say: [prove to me that you are conscious](https://faculty.washington.edu/ebender/papers/Bender-2024-preprint.pdf); I've heard this many times from computer scientists. Of course, there's no scientific test for consciousness. So this is presented as a "gotcha." The enthusiast often then suggests that this demonstrates a double standard favoring humans over AI, and that "AI" consciousness is just as plausible as human consciousness.
 
-Here I propose an explanation for why we can know that other people are conscious, even if we cannot formally "prove" it.
+Here I propose an explanation for why you can know that other people are conscious, even if we cannot formally "prove" it.
 
-The argument is simple: **if you are conscious, and you know that other people have similar behaviors and similar biological brains to you, then they must have similar consciousness to you. The alternatives are too implausible to take seriously.**
+The argument is simple: **if you are conscious, and you know that other people have similar behaviors and similar biological brains to you, then they must have similar consciousness to you.** The alternatives are too implausible to take seriously.
 
 Likewise: **the more similar that animals are to us, biologically and behaviorally, the more-similar their consciousness ought to be as well.**
 
@@ -97,6 +97,8 @@ We cannot apply the above arguments for machine intelligence, because machines d
 This does not disprove "AI" consciousness, but it shows that establishing "AI" consciousness is far, far, more difficult than human consciousness. Which seems obvious, but apparently is not to some people.
 
 How would we demonstrate or prove machine consciousness? Or, if aliens came down from space, how would we determine if they are conscious? I don't think anyone has a good answer. However, I do not believe that we can judge consciousness simply by looking at behaviors, like performing Turing Tests. We've already seen over and over that people can be fooled by simple rule-following chatbots like [ELIZA](https://en.wikipedia.org/wiki/ELIZA). We can build convincing philosophical zombies.
+
+If aliens arrived on Earth, and they seemed biologically similar to us, and they had evolved from primordial ooze on their own planet, then it's certainly reasonable to understand them as conscious. But this is total science fiction; xenobiology is (to say the least) a pre-paradigmatic field, and it doesn't make sense to speculate about alien biolgy until we've met them.
 
 How do we know that chatbots like ELIZA are not conscious? We [read the paper](https://dl.acm.org/doi/pdf/10.1145/365153.365168), or look at [the code](https://github.com/anthay/ELIZA) to see how it works. We can know enough about how LLMs work that to know that they, too, are simple text processing engines that, like ELIZA, literally do nothing more than take text strings as input and generate text strings as output. 
 
