@@ -4,7 +4,7 @@ title: "Non-Violent Communication, and Technical Communication"
 description: Techniques for better communication that could be useful in technical communication.
 author:  AaronHertzmann
 image: "/images/site-card-default.jpg"
-tags: [academia]
+tags: [academia,books]
 ---
 
 
