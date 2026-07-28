@@ -11,6 +11,8 @@ tags: [academia]
 # Computer Science Venues Should Publish Position Papers
 
 
+_Note: within a year after I posted this blog post, [ICML announced a position papers track](https://icml.cc/Conferences/2024/CallForPositionPapers). Coincidence? Almost certainly!_
+
 Research continually reinvents itself: the important problems and directions continually change; moreover, in the past decade, the ways we do research and publish continually change, as has the impact of computer science research on society. But, in the computer science venues where I spend most of my time (computer graphics and vision), we don't really have published forums for discussing these things.  Discussion happens in separate channels and social media, and so it doesn't reach or involve the whole research community.
 
 I think we should: we should have peer-reviewed Position Paper (or "Meta Paper") tracks within our main conferences and journals.  Traditional scientific venues have many such kinds of publication, e.g., Letters to the Editor, [Perspectives](https://www.science.org/doi/10.1126/science.adh4451), Review papers, and others.  We should too.

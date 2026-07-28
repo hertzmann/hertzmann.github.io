@@ -1,4 +1,8 @@
 ---
+layout: page
+title: Book Reviews on Understanding Art
+author: AaronHertzmann
+image: /images/art-perception-books.jpg
 tags: [books, art-theory]
 ---
 

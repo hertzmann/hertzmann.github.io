@@ -3,7 +3,7 @@ layout: page
 title: The Curse of Performative User Studies
 description: Why user studies in graphics and vision are (probably) often wrong, and what we can do about it.
 author: AaronHertzmann
-image: "/images/site-card-default.jpg"
+image: "/images/iclr2022-decision.jpg"
 tags: [academia]
 ---
 
