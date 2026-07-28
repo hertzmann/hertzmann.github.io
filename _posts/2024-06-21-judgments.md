@@ -1,5 +1,10 @@
 ---
+title: "Judgments That Get in the Way of Making Art"
+layout: page
+description: If you want to make art, free yourself of negative judgments
+author:  AaronHertzmann
 tags: [making-art]
+image: "/images/ipad_paintings/cidre_photo.jpg"
 ---
 
 # Judgments That Get in the Way of Making Art
@@ -120,3 +125,9 @@ You need to be open to new experiences and ideas, to try things without judgment
 Improv is another real exercise in immediate openness to new ideas, and accepting and welcoming the unexpected without judgment, and seeing where it leads.
 
 These experiences can help in other parts of your life as well. For example, so much of my research ideas and blog have been informed by my art experience.
+
+<center>
+<figure>
+<img src="../../../images/ipad_paintings/cidre_photo.jpg">
+</figure>
+</center>

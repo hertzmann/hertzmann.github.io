@@ -3,7 +3,7 @@ layout: page
 title: "Violent Communication in Scientific Paper Reviews"
 description: Paper reviews should not discuss the authors.
 author:  AaronHertzmann
-image: "/images/wica/bradford_viewers.jpg"
+image: "/images/site-card-default.jpg"
 tags: [academia]
 ---
 
