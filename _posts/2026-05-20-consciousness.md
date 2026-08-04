@@ -20,6 +20,7 @@ Likewise: **the more similar that animals are to us, biologically and behavioral
 
 I am not proposing a solution to ["the hard problem" of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), meaning I do not offer an objective test of whether any "AI" or alien is conscious, nor do I offer an explicit definition of consciousness. My arguments here do not disprove the possibility of "AI" consciousness. However, they highlight the need to consider mechanisms (biology and/or algorithms) and not just behaviors when attempting to judge consciousness. 
 
+_Note: after I posted this, Rosa Cao pointed out to me that these arguments are versions of [argument by analogy and by best explanation to the "other minds" problem](https://plato.stanford.edu/entries/other-minds/)._
 
 # The problem
 
