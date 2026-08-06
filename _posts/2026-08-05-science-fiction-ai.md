@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Science Fiction AI Has Nothing to Do with Real \"AI\""
+title: "Science Fiction AI Has Nothing to Do with Real-World \"AI\""
 description: Science fiction is fiction, not science
 date: 2026-08-05
 image: "/images/scifi_ai/marvin.jpeg"
