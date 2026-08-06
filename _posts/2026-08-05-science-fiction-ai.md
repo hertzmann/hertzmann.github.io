@@ -46,7 +46,7 @@ Every theory of story structure, from the [three-act structure](https://en.wikip
 
 Story, story, story, story, this is the prime, major focus of storytellers, the thing they are obsessed with and struggle to do well, and everything else is in service of story.  A movie with great characters, actors, and special effects but bad story will fail.
 
-When I worked at Pixar, and learned about their storytelling processes, it was always laser-focused on creating compelling narrative and emotions. (One now-public set of lectures that I absolutely loved is [Michael Arndt on screenwriting](https://www.youtube.com/@michaelarndt8848); check them out!)  Filmmakers don't care about scientific realism as long as an audience will go along with the movie's premises.
+When I worked at Pixar, and learned about their storytelling processes, it was always laser-focused on creating compelling narrative and emotions. (One now-public set of lectures that I absolutely loved is [Michael Arndt on screenwriting](https://www.youtube.com/@michaelarndt8848); check them out!) They spend literally years refining each story before beginning production, or else abandoning stories that "aren't working out." They never as "is it realistic?" but they ask "will the audience accept it?" You can have teleportation or talking cars as long as the story has a consistent internal logic.
 
 
 
