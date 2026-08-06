@@ -20,6 +20,7 @@ Likewise: **the more similar that animals are to us, biologically and behavioral
 
 I am not proposing a solution to ["the hard problem" of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), meaning I do not offer an objective test of whether any "AI" or alien is conscious, nor do I offer an explicit definition of consciousness. My arguments here do not disprove the possibility of "AI" consciousness. However, they highlight the need to consider mechanisms (biology and/or algorithms) and not just behaviors when attempting to judge consciousness. 
 
+_Note: after I posted this, Rosa Cao pointed out to me that these arguments are versions of [argument by analogy and by best explanation to the "other minds" problem](https://plato.stanford.edu/entries/other-minds/)._
 
 # The problem
 
@@ -74,11 +75,11 @@ The only sensible possibility is that everyone who is awake is conscious.
 
 How can we know that animals are consciousness?
 
-Note that [it's unlikely that animal consciousness is identical to human consciousness](2024/09/18/books-on-consciousness.html).  Perhaps animal consciousness is like human consciousness, but with some differences. Perhaps, day-to-day, my dog experience a vivid alertness that's a thousand times more than my own peak (like when playing a vigorous sport or video game), but lacking any mental foresight (like when I'm drunk and groggy and barely able to function). There's reason to believe that [octopuses are conscious in very different ways from humans](2024/09/18/books-on-consciousness.html).
+Note that [it's unlikely that animal consciousness is identical to human consciousness](/2024/09/18/books-on-consciousness.html).  Perhaps animal consciousness is like human consciousness, but with some differences. Perhaps, day-to-day, my dog experience a vivid alertness that's a thousand times more than my own peak (like when playing a vigorous sport or video game), but lacking any mental foresight (like when I'm drunk and groggy and barely able to function). There's reason to believe that [octopuses are conscious in very different ways from humans](/2024/09/18/books-on-consciousness.html).
 
 Regardless, the same reasoning as above can tell us that mammals are conscious. Consider chimpanzees and dogs, each of which are social animals and each is related to us biologically, including in terms of brain structure. They each exhibit behaviors that seem to indicate consciousness, such as social expressions of inner states (happiness or anger, etc.), and other sorts of behaviors (attention, distraction, etc.). We share similar internal organs, similar brains as monkeys and dogs, and some of the same behaviors. We share evolutionary lineages with them as well; they are evolutionary cousins. Hence, they ought to share some sort of consciousness as well, by the same reasoning as above.
 
-And, the alternatives to animal consciousness seem highly implausible. If no animals are conscious, then consciousness emerged solely in humans. But [nearly all of our faculties evolved in earlier creatures](2024/09/18/books-on-consciousness.html); monkeys have many of the same faculties of intelligence as us, as do their ancestors, and their ancestors. Consciousness seems most closely tied to mood, emotion, alertness, awareness, social behaviors—all attributes shared by many animals—and not to the few things that seem to make us biologically unique as humans, such as the ability for complex spoken languages. 
+And, the alternatives to animal consciousness seem highly implausible. If no animals are conscious, then consciousness emerged solely in humans. But [nearly all of our faculties evolved in earlier creatures](/2024/09/18/books-on-consciousness.html); monkeys have many of the same faculties of intelligence as us, as do their ancestors, and their ancestors. Consciousness seems most closely tied to mood, emotion, alertness, awareness, social behaviors—all attributes shared by many animals—and not to the few things that seem to make us biologically unique as humans, such as the ability for complex spoken languages. 
 
 It seems likely that more-sophisticated intelligence goes along with more-sophisticated consciousness. Dogs have much less-sophisticated intelligence than humans, and so their consciousness would be much less-sophisticated as well, but still present.
 
