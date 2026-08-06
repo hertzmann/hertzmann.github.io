@@ -7,13 +7,13 @@ image: "/images/scifi_ai/marvin.jpeg"
 tags: [art-tech]
 ---
 
-As new modern technologies branded "artificial intelligence" transforms our world, so much of the modern discussion around "AI" derives from science fiction, since that's the closest reference point many people seem to use for these new technologies (as opposed to using [past technological revolutions](/2022/12/17/when-tech-changes-art.html)). 
+As new modern technologies branded "artificial intelligence" transform our world, so much of the modern discussion around "AI" derives from science fiction, since that's the closest reference point many people seem to use for these new technologies (as opposed to using [past technological revolutions](/2022/12/17/when-tech-changes-art.html)). 
 
 [A recent blog post by Andrés Guadamuz](https://www.technollama.co.uk/why-does-ai-in-science-fiction-so-often-miss-the-mark) catalogues the ways that science fiction AI fails to describe our actual technology. Science fiction offers a terrible guide for understanding our new "AI" technologies, since they bear almost nothing in common with science fiction AI. Science fiction portrays superintelligent AIs, childlike AIs, murderous AIs, and AIs that are basically just ordinary people.  
 
 In this post, I offer an answer to the question posed in that blog post's title: "Why does AI in science fiction so often miss the mark?" My answer is that science fiction media aims, first and foremost, to tell good stories, not to explore realistic consequences of technological ideas.
 
-In this post, I will primarily talk about _science fiction mass media_, especially movies and television, since I think these are what form most peoples' impressions about AI today. Also, I've read very few science fiction novel or stories in the past few decades, and none of them have relevant treatments of AI.
+In this post, I will primarily talk about _science fiction mass media_, especially movies and television, since I think these are what form most people's impressions about AI today. Also, I've read very few science fiction novels or stories in the past few decades, and none of them have relevant treatments of AI.
 
 <center><figure style="display:flex; flex-wrap:nowrap; justify-content:center; align-items:flex-end; gap:16px; margin:0;">
 	<figure style="margin:0; text-align:center; flex:1 1 0; min-width:0; max-width:320px;">
@@ -37,16 +37,16 @@ If, on the other hand, I tell you what happened with Bob, then you get something
 
 Storytelling styles and techniques have evolved over the millennia, but some of the basic elements that make a good story have stayed the same, whether it's told over a campfire, over a few beers, or on the big screen at a movie theatre.  Storytelling activates our evolved desires and needs, even if our needs in modern life have changed since the Pleistocene era. 
 
-An engaging story contains at least four things that signal its future value to you: lessons, surprises, emotional intensity, and relatable characters. An unsurprising story with unsurprising lessons doesn't teach you much of value. Emotions signal what matter to us, so, if a story lacks emotional intensity, then the story feels less likely to give information about things that matter.  If there aren't relatable characters, then it feels less relevant.
+An engaging story contains at least four things that signal its future value to you: lessons, surprises, emotional intensity, and relatable characters. An unsurprising story with unsurprising lessons doesn't teach you much of value. Emotions signal what matters to us, so, if a story lacks emotional intensity, then the story feels less likely to give information about things that matter.  If there aren't relatable characters, then it feels less relevant.
 
 Evolution taught our brains to care about stories with surprise, lessons, intense emotions, and relatable characters. And, because other people are such an important source of all four of these things, most of our stories emphasize relationship and conflict between people.
 
 
-Every theory of story structure, from the [three-act structure](https://en.wikipedia.org/wiki/Three-act_structure), to [the story spine](https://improvencyclopedia.org/games/Story_Spine.html), to [the hero's journey](https://en.wikipedia.org/wiki/Hero%27s_journey) creates surprise, lessons, and emotion through a narrative in which a relatable character faces a challenge, struggles through it (often with others as allies or foes), and, finally, succeeds or fails.  
+Every theory of story structure, from the [three-act structure](https://en.wikipedia.org/wiki/Three-act_structure), to [the story spine](https://improvencyclopedia.org/games/Story_Spine.html), to [the hero's journey](https://en.wikipedia.org/wiki/Hero%27s_journey), creates surprise, lessons, and emotion through a narrative in which a relatable character faces a challenge, struggles through it (often with others as allies or foes), and, finally, succeeds or fails.  
 
 Story, story, story, story, this is the prime, major focus of storytellers, the thing they are obsessed with and struggle to do well, and everything else is in service of story.  A movie with great characters, actors, and special effects but bad story will fail.
 
-When I worked at Pixar, and learned about their storytelling processes, it was always laser-focused on creating compelling narrative and emotions. (One now-public set of lectures that I absolutely loved is [Michael Arndt on screenwriting](https://www.youtube.com/@michaelarndt8848); check them out!) They spend literally years refining each story before beginning production, or else abandoning stories that "aren't working out." They never as "is it realistic?" but they ask "will the audience accept it?" You can have teleportation or talking cars as long as the story has a consistent internal logic.
+When I worked at Pixar, and learned about their storytelling processes, it was always laser-focused on creating compelling narrative and emotions. (One now-public set of lectures that I absolutely loved is [Michael Arndt on screenwriting](https://www.youtube.com/@michaelarndt8848); check them out!) They spend literally years refining each story before beginning production, or else abandoning stories that "aren't working out." They never ask "is it realistic?" but they ask "will the audience accept it?" You can have teleportation or talking cars as long as the story has a consistent internal logic.
 
 
 
@@ -96,7 +96,7 @@ Plot-device Villain AIs, like Skynet and the Matrix AIs, have no voice or charac
 
 In a few movies and TV shows, humans have personal relationships with AI, but the AIs do not necessarily seem to be human-like or conscious.  These examples do seem relevant to real AI, and even prescient about the ways people use LLMs for personal relationships.
 
-The movie ["Her,"](https://en.wikipedia.org/wiki/Her_(2013_film)) portrays a romance between a human and a voice-only agent named Samantha. You can enjoy this movie (as I did) without believing that Samantha is really conscious or alive; she could be an LLM-like chatbot with voice synthesis.  The movie is really about the main character's journey, and his relationships: his painful divorce, and his ultimate reconnection with other humans in his life, and the role of technology in that journey.  Samantha functions as a secondary character, an emotional prop (not unlike depressingly-many human female characters in the movies I'm listing).
+The movie ["Her,"](https://en.wikipedia.org/wiki/Her_(2013_film)) portrays a romance between a human and a voice-only agent named Samantha. You can enjoy this movie (as I did) without believing that Samantha is really conscious or alive; she could be an LLM-like chatbot with voice synthesis.  The movie is really about the main character's journey, and his relationships: his painful divorce, his ultimate reconnection with other humans in his life, and the role of technology in that journey.  Samantha functions as a secondary character, an emotional prop (not unlike depressingly-many human female characters in the movies I'm listing).
 
 
 <center>
@@ -121,9 +121,9 @@ Imagine watching any movie with a sympathetic robot character, but without yours
 </center>
 
 
-# Science fiction is a great exercise but a poor guide to the real world
+## Science fiction is a great exercise but a poor guide to the real world
 
-Beyond entertainment value, fiction lets us experience and learn about lives outside of our own, expanding our understanding, gaining the benefit of other peoples' experiences, and building empathy for other people. Science fiction helps us practice imagining worlds with very different technology, and its effect on people. 
+Beyond entertainment value, fiction lets us experience and learn about lives outside of our own, expanding our understanding, gaining the benefit of other people's experiences, and building empathy for other people. Science fiction helps us practice imagining worlds with very different technology, and its effect on people. 
 
 I love lots of science fiction movies and books, but I do not expect them to provide a guide to our real world. Science fiction is great at imagining possible futures and extrapolating from current trends.  Science fiction authors have a terrible track record for predicting truly transformational technologies or their impacts, like smartphones and social media. 
 
@@ -131,5 +131,5 @@ Science fiction typically functions less as literal prediction than as a metapho
 
 Nonetheless, storytelling conveys information, and people walk away from sci-fi TV and movies with some residual concept of "AI" that the term "artificial intelligence" exploits. When the same word, "AI," gets used for both the software and the movie characters, story after story quietly shapes what people think artificial intelligence actually is.  
 
-The false, fictional tales guide and shape our public understanding of the real technologies, often referring to Skynet or Data when describing real technologies that are nothing like these fictions.
+The false, fictional tales guide and shape our public understanding of the real technologies that are nothing like these fictions.
 
