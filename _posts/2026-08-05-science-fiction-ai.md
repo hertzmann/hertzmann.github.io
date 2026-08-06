@@ -53,7 +53,7 @@ When I worked at Pixar, and learned about their storytelling processes, it was a
 
 ## The Functions of Movie AIs
 
-Story drives every big decision in movies and television, and so I think we can describe movie AIs as serving one of three different story functions: character, plot device, or background. These categories are not all mutually exclusive.
+Story drives every big decision in movies and television, and so I think we can describe movie AIs as serving one of three different story functions: character, plot device, or non-story AI. These categories are not all mutually exclusive.
 
 **Science fiction AI characters are essentially modified people.** Movie AIs are human with individual twists or quirks. The sympathetic ones may be emotionally naive, like Data in Star Trek, wanting to learn about being human. (Data is sometimes described as an [autistic character](https://autistic-characters.fandom.com/wiki/Data_(Star_Trek)), and as [a favorite of autistic viewers](https://www.startrek.com/news/i-am-not-a-robot).) In Terminator 2, the protagonist terminator is an emotionally-distant father figure to John Connor. WALL-E is lonely and childlike but discovers love. The Blade Runner AIs are tragic people. Kryten in Red Dwarf is a comic sidekick. Unsympathetic AI characters tend to be psychopathic murderers (i.e., humans lacking empathy), like most Terminators, HAL 9000, Ultron, M3GAN, and PAL in the Mitchells vs. The Machines. Popular video game characters use similar tropes, like psychopathic GLaDOS and Wheatley or the comic sidekick Claptrap.
 
@@ -81,7 +81,7 @@ Of course these AIs are people—almost all movie characters are basically peopl
 Plot-device Villain AIs, like Skynet and the Matrix AIs, have no voice or character; they exist solely to set the plot in motion. They are often an Unknowable Other, or a Force of Nature, like a tidal wave or volcano in a disaster movie. They've become a stock villain trope, just as Cold War thrillers typically used the Soviets as stock villains, and, after the Wall fell, terrorists became the enemy in most thrillers (in addition to corrupt government bureaucrats). Nowadays, it's all lazily-written evil AI. In "Mission Impossible: The Final Reckoning," the AI is described as omnipotent and capable of predicting your every move, and then is fooled by the protagonists over and over again. The filmmakers even gave it a bland, generic name: "The Entity."
 
 
-**Background AIs** are just set dressing that play no real role in the story.  Mostly they're unnamed droids running around in a futuristic background. I can only think of two named examples: Max Headroom and Marvin the Paranoid Android. Both added a lot of comedy and satire, but neither had any particular impact on the plots of their stories, and barely any interaction with the main characters of their stories.
+**Non-story AIs** are just set dressing that play no real role in the story.  Mostly they're unnamed droids running around in a futuristic background. I can only think of two named examples: Max Headroom and Marvin the Paranoid Android. Both added a lot of comedy and satire, but neither had any particular impact on the plots of their stories, and barely any interaction with the main characters of their stories.
 
 
 
