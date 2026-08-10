@@ -61,7 +61,8 @@ This idea of making drawings by approximating a shaded rendering with strokes ca
 </figure>
 </center>
 
-Here's [a separate blog post about the line thickness algorithm](/2021/05/20/how-to-draw-pictures-line-thickness.html).
+Here's [a separate blog post about the line thickness algorithm](/2021/05/19/how-to-draw-pictures-line-thickness.html).
+
 
 Scientific evaluation
 --------------
