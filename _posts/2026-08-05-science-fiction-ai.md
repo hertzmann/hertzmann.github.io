@@ -26,6 +26,7 @@ In this post, I will primarily talk about _science fiction mass media_, especial
 	</figure>
 </figure></center>
 
+_Update: [This NY Times article has a nice survey of different kinds of sci-fi AIs](https://www.nytimes.com/2026/09/09/movies/ai-tv-movies-robots-science-fiction.html)._
 
 ## Storytelling is about people and their struggles
 

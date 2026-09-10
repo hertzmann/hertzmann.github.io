@@ -18,7 +18,9 @@ The argument is simple: **if you are conscious, and you know that other people h
 
 Likewise: **the more similar that animals are to us, biologically and behaviorally, the more-similar their consciousness ought to be as well.**
 
-I am not proposing a solution to ["the hard problem" of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), meaning I do not offer an objective test of whether any "AI" or alien is conscious, nor do I offer an explicit definition of consciousness. My arguments here do not disprove the possibility of "AI" consciousness. However, they highlight the need to consider mechanisms (biology and/or algorithms) and not just behaviors when attempting to judge consciousness. 
+I am not proposing a solution to ["the hard problem" of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness), meaning I do not offer an objective test of whether any "AI" or alien is conscious, nor do I offer an explicit definition of consciousness. 
+
+My arguments here do not disprove the possibility of "AI" consciousness. Perhaps silicon computers could be conscious. However, my arguments highlight the need to consider mechanisms (biology and/or algorithms) and not just behaviors when attempting to judge consciousness. 
 
 _Note: after I posted this, Rosa Cao pointed out to me that these arguments are versions of [argument by analogy and by best explanation to the "other minds" problem](https://plato.stanford.edu/entries/other-minds/)._
 
@@ -115,5 +117,7 @@ I have argued that you can know that other people and animals are conscious, bec
 
 _Note: since writing this, I came across [this reading list](https://docs.google.com/document/d/e/2PACX-1vRPSCI-gPMQ-S1jn4PXpJ9qhaYvD9LVqMsBSuf9af2WAzSLhYnA5xTQL4igMwZo1nk2o50wc6HU6hgz/pub) of papers on animal consciousness, particularly for animals like fish and crabs that might not feel pain at all. (My post is most primarily about dogs and other domesticated animals.) And, here's [a complementary paper on AI welfare](https://philarchive.org/rec/XIAAWI)._
 
+-----
 
+_Thanks to Rosa Cao for comments on this piece._
 
