@@ -76,6 +76,14 @@ Of course these AIs are people—almost all movie characters are basically peopl
 </figure>
 </center>
 
+Some of the AIs are just fantasies for male viewers.
+
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0thpEyEwi80?si=lc2QoBY0krGAa0xv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</center>
+
+
 **Plot-device AIs** move the story forward without being characters in their own right; they lack real emotions and agency. They are either tools, like the Star Trek computer and Iron Man's Jarvis, or villains, like Skynet.  The story's characters do not have any meaningful personal relationship with plot-device AIs; they simply use the AI or try to defeat it.  
 
 Plot-device Villain AIs, like Skynet and the Matrix AIs, have no voice or character; they exist solely to set the plot in motion. They are often an Unknowable Other, or a Force of Nature, like a tidal wave or volcano in a disaster movie. They've become a stock villain trope, just as Cold War thrillers typically used the Soviets as stock villains, and, after the Wall fell, terrorists became the enemy in most thrillers (in addition to corrupt government bureaucrats). Nowadays, it's all lazily-written evil AI. In "Mission Impossible: The Final Reckoning," the AI is described as omnipotent and capable of predicting your every move, and then is fooled by the protagonists over and over again. The filmmakers even gave it a bland, generic name: "The Entity."
@@ -92,11 +100,12 @@ Plot-device Villain AIs, like Skynet and the Matrix AIs, have no voice or charac
 </figure>
 </center>
 
+
 ## Interesting case: AI relationships without consciousness
 
 In a few movies and TV shows, humans have personal relationships with AI, but the AIs do not necessarily seem to be human-like or conscious.  These examples do seem relevant to real AI, and even prescient about the ways people use LLMs for personal relationships.
 
-The movie ["Her,"](https://en.wikipedia.org/wiki/Her_(2013_film)) portrays a romance between a human and a voice-only agent named Samantha. You can enjoy this movie (as I did) without believing that Samantha is really conscious or alive; she could be an LLM-like chatbot with voice synthesis.  The movie is really about the main character's journey, and his relationships: his painful divorce, his ultimate reconnection with other humans in his life, and the role of technology in that journey.  Samantha functions as a secondary character, an emotional prop (not unlike depressingly-many human female characters in the movies I'm listing).
+The movie ["Her,"](https://en.wikipedia.org/wiki/Her_(2013_film)) portrays a romance between a human and a voice-only agent named Samantha. You can enjoy this movie (as I did) without believing that Samantha is really conscious or alive; she could be an LLM-like chatbot with voice synthesis.  The movie is really about the main character's journey, and his relationships: his painful divorce, his ultimate reconnection with other humans in his life, and the role of technology in that journey.  Samantha functions as a secondary character, an emotional prop.
 
 
 <center>
