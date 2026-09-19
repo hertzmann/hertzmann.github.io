@@ -14,7 +14,7 @@ They said that "AI" was going to "kill art." But [people said that back when pho
 
 Even if all new technologies have a lot in common, they also must have differences. But what are the relevant ones for "AI"? 
 
-Certainly the fact that many popular "AI" models are trained from  scraped datasets is important in some way, but that _alone_ does not indicate its impact on the arts. Internet search engines are also built and trained from large scraped datasets in ways that [can affect the arts](https://en.wikipedia.org/wiki/Authors_Guild,_Inc._v._Google,_Inc.#Impact). 
+Certainly the fact that many popular "AI" models are trained from scraped datasets is important in some way, but that _alone_ does not indicate its impact on the arts. Internet search engines are also built and trained from large scraped datasets in ways that [can affect the arts](https://en.wikipedia.org/wiki/Authors_Guild,_Inc._v._Google,_Inc.#Impact). 
 
 
 # The value of historical analogies and trends
@@ -71,7 +71,6 @@ Mass culture still values skill in a way that the contemporary art world does no
 	</figcaption>
 </figure>
 </center>
-
 
 ----
 
