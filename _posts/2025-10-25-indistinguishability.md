@@ -2,7 +2,7 @@
 layout: page
 description: People often cannot tell if an image was made "by hand" or by AI generation.
 author:  AaronHertzmann
-image: "/images/arthistory/money_lillies_1915.jpg"
+image: "/images/arthistory/monet_lillies_1915.jpg"
 tags: [art-tech]
 ---
 
