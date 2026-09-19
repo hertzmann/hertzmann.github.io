@@ -76,7 +76,7 @@ Of course these AIs are people—almost all movie characters are basically peopl
 </figure>
 </center>
 
-Some of the AI characters are (at least, partly) fantasies for male viewers.
+Sometimes AI characters are (at least, partly) fantasies for male viewers.
 
 
 <center>
