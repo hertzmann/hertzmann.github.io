@@ -142,15 +142,13 @@ Suppose you wanted detailed feedback on a project from academic experts.  How mu
 
 It would be expensive, at least. But, most likely, they wouldn't respond at all to most requests.  Professors get way too many emails as it is.
 
-With publication, in exchange for sharing your work with the world, you get this feedback for free. Sometimes the feedback isn't great, but often it's really valuable. 
+With publication, in exchange for sharing your work with the world, you get this feedback for free. Sometimes the feedback isn't great, but often it's really valuable if you know how to read it carefully. 
 
-Often the feedback doesn't feel great, but part of the art of reading reviews is in reading between the lines. Doing so to understand the fundamental issues can be really valuable.
+Reviewer feedback has really strengthened my work on many occasions. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. But we fixed that hack, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack. 
 
-I can think of several times when reviewer feedback has really strengthened my work. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. But we fixed that hack, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack. 
+I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to publications in both [indeterminacy](https://psycnet.apa.org/record/2023-77259-001) and [perspective](https://jov.arvojournals.org/Article.aspx?articleid=2783759) in the years since, as well as many wonderful collaborations and interactions with Rob.
 
-I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to publications in both [indeterminacy](https://psycnet.apa.org/record/2023-77259-001) and [perspective](https://jov.arvojournals.org/Article.aspx?articleid=2783759) in the years since.
-
-Once you publish the paper, you can get more feedback: feedback from conference-goers, feedback from social media.  People may make suggestions—or use your work—in directions you'd never thought of.
+Once you publish the paper, you get more feedback: feedback from conference-goers, feedback from social media.  People may make suggestions—or use your work—in directions you'd never thought of.
 
 
 # 6. For researcher evaluation
