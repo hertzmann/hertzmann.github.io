@@ -2,7 +2,7 @@
 layout: page
 description: People often cannot tell if an image was made "by hand" or by AI generation.
 author:  AaronHertzmann
-image: "/images/site-card-default.jpg"
+image: "/images/arthistory/monet_lillies_1915.jpg"
 tags: [art-tech]
 ---
 
@@ -14,7 +14,7 @@ They said that "AI" was going to "kill art." But [people said that back when pho
 
 Even if all new technologies have a lot in common, they also must have differences. But what are the relevant ones for "AI"? 
 
-Certainly the fact that many popular "AI" models are trained from  scraped datasets is important in some way, but that _alone_ does not indicate its impact on the arts. Internet search engines are also built and trained from large scraped datasets in ways that [can affect the arts](https://en.wikipedia.org/wiki/Authors_Guild,_Inc._v._Google,_Inc.#Impact). 
+Certainly the fact that many popular "AI" models are trained from scraped datasets is important in some way, but that _alone_ does not indicate its impact on the arts. Internet search engines are also built and trained from large scraped datasets in ways that [can affect the arts](https://en.wikipedia.org/wiki/Authors_Guild,_Inc._v._Google,_Inc.#Impact). 
 
 
 # The value of historical analogies and trends
@@ -42,7 +42,6 @@ In contrast, early photography was never mistaken for painting. You would rarely
 
 The move from analog to digital techniques might be the closest analogy here, and each of these had some controversies in their time, e.g., [digital cinema versus analog photography](https://www.jstor.org/stable/779094), [digital image editing](https://www.youtube.com/watch?v=OHbM4QJYVYM). Nowadays [one cannot tell the difference between computer graphics and live-action cinematography](https://www.youtube.com/watch?v=7ttG90raCNo).
 
-
 # Implications
 
 So, unlike a lot of the gut-response objections, I believe that this _Indistinguishability_ one is valid, and worth considering the implications of. 
@@ -63,6 +62,15 @@ I also think the analogy to photography remains useful: photographs didn't look 
 While skill may still be valued in contemporary art, [it is nothing without a good origin story and ideas behind it](/2020/06/08/wica.html).  In response to the idea of connoisseurship, contemporary artist Jason Salavon likes to quote [the study showing that wine enjoyment is affected by beliefs about the price of the wine in a way that can be measured neurologically](https://www.pnas.org/doi/abs/10.1073/pnas.0706929105).
 
 Mass culture still values skill in a way that the contemporary art world does not.  Perhaps mass culture will go through a similar transition.
+
+
+<center>
+<figure>
+<a href="https://www.reddit.com/r/aiwars/comments/1tcsjsg/someone_on_x_posted_a_real_monet_and_said_its_ai/">	<img src="../../../images/arthistory/monet_critique.jpg" width="480"></a>
+	<figcaption><i><a href="https://www.reddit.com/r/aiwars/comments/1tcsjsg/someone_on_x_posted_a_real_monet_and_said_its_ai/">A post online</a> asked for critique of an AI generated Monet-style paimting, and got <a href="https://x.com/SHL0MS/status/2054280631807316329?s=20">tons of explanations</a> of how bad it is. But it's actually a real Monet panting (Water Lillies, 1915).</i>
+	</figcaption>
+</figure>
+</center>
 
 ----
 
