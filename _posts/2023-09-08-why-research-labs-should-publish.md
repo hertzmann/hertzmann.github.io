@@ -116,19 +116,24 @@ Publishing a paper is potentially a lot more work than writing a whitepaper, and
 
 # 4. To support internal communication and discovery
 
-Another seeming paradox of research is that, sometimes, the best way to share information internally is to share information externally.
+Another seeming paradox of research is:
+
+|<center><b>Sometimes, the best way to share information internally is to share information externally.</b></center>|
 
 **The development of the [Microsoft Kinect](https://en.wikipedia.org/wiki/Kinect) software** provides a key lesson. The story I heard began with a Microsoft VP, who, around 2006, envisioned an interactive gaming system that didn't require controllers. His team used the PrimeSense sensor, which allowed real-time depth measurements. But they couldn't figure out how to reliably estimate human body pose. So they started looking around online for papers on pose estimation. They noticed that some of the best papers on this topic listed the affiliation "Microsoft Research."
 
 And so, external publications were how some Microsoft engineers discovered that the world's top experts on their problem worked _at the same company as them_. Making this connection was integral to the Kinect's success.
 
-**Relational databases have a similar story.** The original [relational database paper](https://dl.acm.org/doi/10.1145/362384.362685) was published in 1970 by a researcher from IBM Research, but nobody at IBM paid attention to it. Larry Ellison read the paper and [founded Oracle around it](https://en.wikipedia.org/wiki/Oracle_Corporation#History). IBM then realized they could compete, and built their own relational database system called [Db2](https://en.wikipedia.org/wiki/IBM_Db2) that ended up being very profitable. In short, IBM only profited off of this technology _because_ of this paper publication.
-
-An underlying theme here is: _communication in an organization is hard_.  Figuring out how to connect researchers with engineers that need their expertise is a shockingly-difficult organizational problem.  
+Another underlying theme here here is: _communication in an organization is hard_.  Figuring out how to connect researchers with engineers that need their expertise is a shockingly-difficult organizational problem.  
 
 It doesn't seem like it _should_ be hard. Researchers should make databases on what they're working on!  Product teams can then look in the databases to find what they need!   But filling out and sorting through a database is unrewarding and frustrating for everyone.  The whitepaper model would have completely failed the Kinect.  Researchers can have show-and-tell meetings with product groups!  But still one must figure out which researchers should meet with which groups, and which research they should show.
 
 Only rarely does a paper directly solve the real problem that product teams have; research projects allow researchers to build expertise that they can use to help product teams.  You can't really tell from a database of whitepapers who really knows what. 
+
+**Relational databases have a related story.** The original [relational database paper](https://dl.acm.org/doi/10.1145/362384.362685) was published in 1970 by a researcher from IBM Research, but nobody at IBM paid attention to it. Larry Ellison read the paper and [founded Oracle around it](https://en.wikipedia.org/wiki/Oracle_Corporation#History). IBM then realized they could compete, and built their own relational database system called [Db2](https://en.wikipedia.org/wiki/IBM_Db2) that ended up being very profitable. In short, IBM only profited off of this technology _because_ of this paper publication.
+
+I've heard so many stories like this, in which a technology paper was dismissed or ignored internally, but then got attention only when it was published and the demos went viral or got used by someone else. The transformers paper from Google is another example.
+
 
 
 # 5. To get feedback from the research community
@@ -137,15 +142,13 @@ Suppose you wanted detailed feedback on a project from academic experts.  How mu
 
 It would be expensive, at least. But, most likely, they wouldn't respond at all to most requests.  Professors get way too many emails as it is.
 
-With publication, in exchange for sharing your work with the world, you get this feedback for free. Sometimes the feedback isn't great, but often it's really valuable. 
+With publication, in exchange for sharing your work with the world, you get this feedback for free. Sometimes the feedback isn't great, but often it's really valuable if you know how to read it carefully. 
 
-Often the feedback doesn't feel great, but part of the art of reading reviews is in reading between the lines. Doing so to understand the fundamental issues can be really valuable.
+Reviewer feedback has really strengthened my work on many occasions. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. But we fixed that hack, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack. 
 
-I can think of several times when reviewer feedback has really strengthened my work. We submitted a paper to SIGGRAPH 2004 that was rejected, even though we were really proud of it. One of the reasons for rejection was a very hacky treatment of center-of-mass forces, which we thought inessential to our ideas. But we fixed that hack, and [the revised version was accepted the next year](http://grail.cs.washington.edu/projects/charanim/phys-style.html). The new version was far better without this hack. 
+I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to publications in both [indeterminacy](https://psycnet.apa.org/record/2023-77259-001) and [perspective](https://jov.arvojournals.org/Article.aspx?articleid=2783759) in the years since, as well as many wonderful collaborations and interactions with Rob.
 
-I am forever indebted to that anonymous reviewer several years ago who, in the process of rejecting my half-baked submission to an art journal, pointed me to Rob Pepperell's work, which in turn led me to publications in both [indeterminacy](https://psycnet.apa.org/record/2023-77259-001) and [perspective](https://jov.arvojournals.org/Article.aspx?articleid=2783759) in the years since.
-
-Once you publish the paper, you can get more feedback: feedback from conference-goers, feedback from social media.  People may make suggestions—or use your work—in directions you'd never thought of.
+Once you publish the paper, you get more feedback: feedback from conference-goers, feedback from social media.  People may make suggestions—or use your work—in directions you'd never thought of.
 
 
 # 6. For researcher evaluation
