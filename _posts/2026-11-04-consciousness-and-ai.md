@@ -3,7 +3,7 @@ layout: post
 title: "Conscious AI is Profoundly Unlikely"
 description: "We will not make conscious machines in the near future."
 date: 2026-11-04
-image: "/images/brains/apprentice-water.jpg"
+image: "/images/brains/calculator.jpg"
 tags: [minds]
 ---
 
@@ -107,7 +107,7 @@ Even if we had a perfect mathematical model for the brain regions that produce c
 
 <center>
 	<figure>
-		<img src="../../../images/brains/river.jpeg" width="480" height="360">
+		<img src="../../../images/brains/river.jpeg" width="480" height="S1364-66132500286-4">
 		<figcaption><I>Flowing water does not compute the equations of fluid mechanics. The brain does not compute neuronal dynamics or the equations of reinforcement learning.</I>
 	</figcaption>
 </figure>
