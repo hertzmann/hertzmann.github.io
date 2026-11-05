@@ -71,7 +71,7 @@ All Turing-equivalent computers are based on some sort of symbol manipulation, l
 
 Brains are part of living organisms, computers are not.
 
-If computers and brains shared some meaningful mechanisms, then we might reasonably expect them to share other attributes. But **biological and computer substrates differ in every meaningful way**. So it would actually be quite surprising if consciousness naturally generalized from brains to computers, at least based on substrate. 
+If computers and brains meaningfully shared mechanisms, then we might reasonably expect them to share other attributes. But **biological and computer substrates differ in every meaningful way**. So it would actually be quite surprising if consciousness naturally generalized from brains to computers, at least based on substrate. 
 
 I suspect that consciousness arises from physical state: some overall dynamical electrochemical state of brain regions and chemicals (e.g., oxytocin, cortisol). Consciousness is not the setting of variables in general-purpose memory storage; it is about the physics and the biology. To paraphrase neuroscientist Anil Seth, who advocates for this view of consciousness: you cannot separate what a brain is from what it does, and this lack of separability seems important for consciousness. Even though we do not know how the physics produces consciousness, the idea of consciousness as electrochemical system state fits the evidence well. (This might be the subject of a future blog post.) 
 
