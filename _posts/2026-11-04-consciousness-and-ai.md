@@ -21,7 +21,7 @@ This post is aimed at many of the commonplace arguments I hear for AI consciousn
 
 Reasoning about consciousness is notoriously tricky. 
 
-People often point that difficulty—"You cannot prove that you are conscious!", they say, or ["We don't know what consciousness is."](https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html)—as itself a sufficient reason to take AI consciousness seriously. If you don't know what it is, then maybe AI has it?
+People often point that difficulty as itself a sufficient reason to take AI consciousness seriously. "You cannot prove that you are conscious!", they say, or ["We don't know what consciousness is."](https://www.nytimes.com/2026/11/01/opinion/ai-consciousness-ethics.html) If you don't know what it is, then maybe AI has it?
 
 This kind of skepticism could justify almost any belief. But most of our knowledge in life does not come from scientific tests. 
 
@@ -35,7 +35,7 @@ And so, we can actually say quite a lot of useful things about consciousness.
 
 **Now, just observing behaviors alone is not enough.** We are easily fooled. Even [simple chatbots like ELIZA](https://en.wikipedia.org/wiki/ELIZA_effect) have fooled people into thinking that they're human since the 1960s. And I'm sure we could be convinced that puppets were really alive if we did not know about puppeteers.  Moreover, chatbots, like ELIZA and ChatGPT, are engineered specifically to mimic human behavior.
 
-**Finally, I think that most of us would take as our default assumption that _most things are not conscious_.** If you fervently argued that a rock or a chair or a refrigerator were conscious, most people would think you either unserious or mad. 
+**Finally, I think that most of us would take as our default assumption that _most things are not conscious_.** If you fervently argued that a rock or a chair or a refrigerator were conscious, most people would think you either unserious or mad. The invention of a new, conscious technology would be a truly extraordinary, unprecedented development in human history.
 
 So there is a lot that we can say about consciousness, even without having a scientific test for it. **To determine if something is conscious, and what that consciousness is like, we compare both its behaviors and mechanisms to our own. Moreover, our default assumption for things is that they are not conscious.** Each of these statements raises difficult questions, like "_how_ should the mechanisms be similar?"
 
