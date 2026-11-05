@@ -167,21 +167,6 @@ Some authors [do explicitly argue that](https://arxiv.org/abs/2411.00986) that "
 
 These arguments are quite speculative, and none provide the extraordinary evidence or reasoning required to make computer consciousness a realistic possibility, to convince us that for the first time in the history of humanity, we will make (or have made) conscious things.
 
-After all, for a computer to create real things solely by logical reasoning would be sorcery.
-
-
-<center>
-	<figure>
-		<div style="display: flex; justify-content: center; align-items: flex-end; gap: 8px;">
-			<img src="../../../images/brains/apprentice-stars.jpg" height="240" width="338">
-			<img src="../../../images/brains/apprentice-water.jpg" height="180" width="241">
-		</div>
-		<figcaption><i>Creating stars or consciousness merely from logical reasoning would be literal sorcery.</i>
-		</figcaption>
-	</figure>
-</center>
-
-
 
 
 
