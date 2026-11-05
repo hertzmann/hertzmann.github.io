@@ -25,7 +25,7 @@ People often point that difficulty as itself a sufficient reason to take AI cons
 
 This kind of skepticism could justify almost any belief. But most of our knowledge in life does not come from scientific tests. 
 
-And so, we can actually say quite a lot of useful things about consciousness.
+And, we can actually say quite a lot of useful things about consciousness.
 
 **First, you know that you are conscious**, because you have your own awarenesses, experiences and feelings. 
 
