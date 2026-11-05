@@ -125,7 +125,7 @@ Yet, some things are within the realm of pure logic. [A simulation of a calculat
 
 Which kind is consciousness? 
 
-To me, it would seem obvious that conscious experiences and feelings are outside the realm of pure logic. We can think logically about consciousness, but applying logical formulae like `A OR B` does not _produce_ consciousness, just like hand-computing the equations of heat transfer won't cause your pencil to burst into flames. 
+Conscious experiences and feelings are outside the realm of pure logic. Logic operates on symbols that can be assigned true values, and it derives truth values for other symbols. We can think logically about consciousness, but applying logical formulae like `A OR B` does not _produce_ consciousness, just like hand-computing the equations of heat transfer won't cause your pencil to burst into flames. 
 
 And, as we've already seen, _all_ computation boils down to logical calculation.  If applying pure logical calculations cannot produce consciousness, then computation cannot produce consciousness.
 
@@ -167,7 +167,7 @@ Some authors [do explicitly argue that](https://arxiv.org/abs/2411.00986) that "
 
 These arguments are quite speculative, and none provide the extraordinary evidence or reasoning required to make computer consciousness a realistic possibility, to convince us that for the first time in the history of humanity, we will make (or have made) conscious things.
 
-Creating real things solely by logical reasoning would be sorcery.
+After all, for a computer to create real things solely by logical reasoning would be sorcery.
 
 
 <center>
