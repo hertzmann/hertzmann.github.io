@@ -57,7 +57,7 @@ So let's look at the mechanisms: what we know about how the brain works, where c
 
 Let's next review the biology of human brains, along with the logical foundations of computing.  Since we do not know what consciousness is or where it comes from, we have to consider brains as a whole, consider which aspects might be necessary for consciousness, and which of those are shared by computers. 
 
-Often I hear the claim from colleagues that "the brain is just a computer." [I've written previously about brain mechanisms](/2026/07/13/brain-not-a-computer.html), how unlike computers they are, and why we cannot effectively simulate a brain in a computer. Since these foundations are important, I'll review a few key ideas here.
+Often I hear the claim from colleagues that "the brain is just a computer." [I've written previously ](/2026/07/13/brain-not-a-computer.html) about how different brains and computers are, and why we cannot effectively simulate a brain in a computer. I'll review a few key points here, since this is important.
 
 On one hand, our **modern digital computers are logic machines**: manufactured objects that perform binary logical operations, and interface to the world with various sensors and displays. Quantities are encoded as variables, variables are encoded as strings of bits, and bits are encoded as voltages in electrical circuits.  Likewise, computer operations go through corresponding abstractions: all high-level computer software is converted to logical operations on bit representations. Simulating a fluid flow or a neural network is always reduced to binary logical operations.
 
@@ -71,9 +71,9 @@ All Turing-equivalent computers are based on some sort of symbol manipulation, l
 
 Brains are part of living organisms, computers are not.
 
-In short, **biological and computer substrates differ in every meaningful way**. (I'll talk about higher-level similarities later.) The fact that we have no prior experience in human history of non-biological consciousness, is already a reason to believe that consciousness requires biology.
+If computers and brains shared some meaningful mechanisms, then we might reasonably expect them to share other attributes. But **biological and computer substrates differ in every meaningful way**. So it would actually be quite surprising if consciousness naturally generalized from brains to computers, just based on substrate.
 
-I suspect that consciousness comes from some overall physical system mechanism: a dynamical overall electrochemical state of brain regions and chemicals (e.g., oxytocin, cortisol). (This might be the subject of a future blog post.) Consciousness is not the setting of variables in general-purpose memory storage; it is about the physics and the biology. To paraphrase neuroscientist Anil Seth, who advocates for this view of consciousness: you cannot separate what a brain is from what it does, and this lack of separability seems important for consciousness. We do not know exactly how the physics produces consciousness, but this idea fits the evidence well.
+I suspect that consciousness comes from some overall physical system properties, some dynamical overall electrochemical state of brain regions and chemicals (e.g., oxytocin, cortisol). (This might be the subject of a future blog post.) Consciousness is not the setting of variables in general-purpose memory storage; it is about the physics and the biology. To paraphrase neuroscientist Anil Seth, who advocates for this view of consciousness: you cannot separate what a brain is from what it does, and this lack of separability seems important for consciousness. Even though we do not know how the physics produces consciousness, but this idea of consciousness as electrochemical system state fits the evidence well.
 
 Sometimes when people say "the brain is a computer," they seem to mean that the brain might not be Turing-equivalent, but it is still a machine for processing sensory data and controlling actions. This might be accurate, but, if so, it means that the brain is not Turing-computable, and so something that cannot be replicated in our digital computers (e.g., ["super-Turing" functions](https://www.science.org/doi/abs/10.1126/science.268.5210.545)). Hence, this is not an argument for conscious AI on digital computers.
 
@@ -125,7 +125,7 @@ Yet, some things are within the realm of pure logic. [A simulation of a calculat
 
 Which kind is consciousness? 
 
-To me, it would seem obvious that conscious experiences and feelings are outside the realm of pure logic. We can think logically about consciousness, but applying logical formulae like `(A OR B)` does not _produce_ consciousness, just like hand-computing the equations of heat transfer won't cause your pencil to burst into flames. 
+To me, it would seem obvious that conscious experiences and feelings are outside the realm of pure logic. We can think logically about consciousness, but applying logical formulae like `A OR B` does not _produce_ consciousness, just like hand-computing the equations of heat transfer won't cause your pencil to burst into flames. 
 
 And, as we've already seen, _all_ computation boils down to logical calculation.  If applying pure logical calculations cannot produce consciousness, then computation cannot produce consciousness.
 
@@ -162,6 +162,8 @@ If you believe that consciousness requires [a global workspace, recurrent proces
 Some of these theories acknowledge the problem. For example, in [Butlin et al.'s proposal for detecting AI consciousness](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-66132500286-4), they explicitly state that indicators should be designed to prevent "gaming" by trivial instantiations of consciousness theories. But they do not explain how this is possible, i.e., how can you tell when consciousness theory goes from "cheap" to "real"? I suspect it cannot be done.
 
 All of these ideas defer the question of how a sequence of logical operations could "produce experience." More broadly, prominent works like [Butlin et al.'s paper](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-66132500286-4) or [the claim of global workspaces in an artificial neural network](https://arxiv.org/abs/2607.15495) do not attempt to demonstrate for the existence of computational consciousness, they simply make it a working assumption.
+
+Some authors [do explicitly argue that](https://arxiv.org/abs/2411.00986) that "that there is a realistic possibility that some AI systems will be conscious and/or robustly agentic in the near future." Their primary argument seems to be a list of computational theories of consciousness.
 
 These arguments are quite speculative, and none provide the extraordinary evidence or reasoning required to make computer consciousness a realistic possibility, to convince us that for the first time in the history of humanity, we will make (or have made) conscious things.
 
@@ -269,6 +271,8 @@ While I haven't gone into depth about alternatives here, I  have briefly argued 
 [John Searle originated the analogy](https://www.cambridge.org/core/journals/behavioral-and-brain-sciences/article/abs/mindsbrainsandprograms/DC644B47A4299C637C89772FACC2706A) that a simulated fire does not burn down your neighborhood, nor does a simulated thunderstorm doesn't make your computer wet. It's a useful analogy, but I think that the way he presented it misses the mark a bit, since no one thinks that AI is "simulation." Still, it offered a useful starting point for some of these thoughts, as did [Tim van Gelder's steam governor analogy](https://www.jstor.org/stable/2941061).
 
 The idea of the brain as a controller goes back, at least in some form, to [Jakob von Uexküll](https://en.wikipedia.org/wiki/Jakob_Johann_von_Uexk%C3%BCll).
+
+The idea that consciousness isn't an innate private experience, but is how the brain reports experiences to itself is ["illusionism"](https://www.ingentaconnect.com/content/imp/jcs/2016/00000023/f0020011/art00002). Illusionism does not require computational functionalism; it is compatible with biological naturalisms.
 
 [Peter Godfrey-Smith has written about the biological evolution of intelligence and consciousness from control](https://www.jstor.org/stable/48568275), and how different organisms experience different forms of consciousness; see especially his book _Other Minds_.
 
