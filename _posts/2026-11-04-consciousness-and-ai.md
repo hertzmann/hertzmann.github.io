@@ -216,11 +216,11 @@ To recap, the argument that modern computers cannot be conscious has the followi
 
 2. **Only animals are known to be conscious; never in  history have we created conscious objects.** Hence, conscious human-made objects would be an extraordinary development, and so we should be very skeptical of it. It would require extraordinary reasoning and/or evidence to justify.
 
-3. **Brains are the only conscious things we know, but the physical properties of brains and computers have essentially nothing in common.**  And, the differences are relevant: biological brains are inseparable from organisms evolved for survival, whereas computers are modular, layered human-made machines based on symbolic logic. Consciousness probably arises from basic physical states of the brain, not from a set of logical variables encoded in memory.
+3. **Brains are the only conscious things we know, but the physical properties of brains and computers have essentially nothing in common.**  And, the differences are relevant: biological brains are inseparable from organisms evolved for survival, whereas computers are modular, layered human-made machines based on symbolic logic. Consciousness probably arises from basic physical states of the brain; it does not come from a set of logical variables encoded in memory.
 
-4. Even if it does not depend on brain physics and chemistry, **consciousness lies outside of the realm of logic and computation**: consciousness is not a logic construct, and all computation is reducible to logical calculations. Hence, performing logical calculations cannot produce consciousness, any more than fluid simulation produces water. 
+4. **Consciousness lies outside of the realm of logic and computation**: consciousness is not a logic construct. Hence, performing logical calculations cannot produce consciousness, any more than fluid simulation produces water. All computation is a set of logical operations, which thus cannot produce consciousness.
 
-5. Moreover, **if you give me a computational theory of consciousness, I can write a simple computer program that fits the theory,** leading to the untenable view that simple programs can be conscious. This contradicts typical theories of computational consciousness.
+5. Moreover, **if you give me a computational theory of consciousness, I can write a simple computer program that fits the theory,** which means these theories imply that simple programs can be conscious.
 
 6. Even if computers could be conscious, it would probably be an emergent property, requiring **impractical amounts of computer power.**
 
