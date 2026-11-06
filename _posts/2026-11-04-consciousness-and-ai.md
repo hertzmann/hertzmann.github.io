@@ -97,13 +97,15 @@ Instruction fetching and execution; typical circuits like adders; logic gates; t
 
 We can describe many brain processes computationally; does this mean we can replace them with computation? 
 
-For example, early vision cells (V1) compute image processing filters, and dopamine reward processes can be modeled by reinforcement learning theory. Many cognitive processes can be approximately described with the language of computing, such as [the blackboard system](https://en.wikipedia.org/wiki/Blackboard_system) that inspired [global workspace theory](https://en.wikipedia.org/wiki/Global_workspace_theory).  
+For example, early vision cells (V1) compute image processing filters, and dopamine reward processes can be modeled by reinforcement learning theory. Many cognitive processes can be approximately described with the language of computing.  
 
 These computational metaphors for neuroscience have been enormously powerful and successful at advancing the theory of neuroscience, cognitive science, and psychology. These successes themselves demonstrate the value of computational brain models.
 
 But, just because we can describe a system as computation does not mean that the system _is_ computation. Nearly every process in the world can be approximately described computationally, whether fluid flow, economics, spread of viruses, and so on. 
 
 Does a flowing river "compute" computational fluid dynamics?  No, because water actually flows, and the system states cannot be read out of variables afterward.
+
+The same goes for computational consciousness theories. It might be that a function of consciousness is to manage limited attentional resources, as in the [global workspace theory](https://en.wikipedia.org/wiki/Global_workspace_theory). The global workspace theory can be implemented computationally; it was inspired by a software system. But that does not mean that any global workspace in the brain is itself computational.
 
 Even if we had a perfect mathematical model for the brain regions that produce consciousness, applying that computational model would not produce consciousness, for reasons I'll describe next.
 
