@@ -169,7 +169,7 @@ All of these ideas defer the question of how a sequence of logical operations co
 
 Some authors [do explicitly argue that](https://arxiv.org/abs/2411.00986) that "that there is a realistic possibility that some AI systems will be conscious and/or robustly agentic in the near future." Their primary argument seems to be a list of computational theories of consciousness.
 
-These arguments are quite speculative, and none provide the extraordinary evidence or reasoning required to make computer consciousness a realistic possibility, to convince us that for the first time in the history of humanity, we will make (or have made) conscious things.
+These arguments are quite speculative, and none provide the extraordinary evidence or reasoning required to make computer consciousness a realistic possibility, to convince us that for the first time in the history of humanity, we will make (or have made) conscious things, or that logical computation will somehow transcend logic.
 
 
 
