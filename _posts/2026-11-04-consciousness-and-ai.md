@@ -101,9 +101,11 @@ For example, early vision cells (V1) compute image processing filters, and dopam
 
 These computational metaphors for neuroscience have been enormously powerful and successful at advancing the theory of neuroscience, cognitive science, and psychology. These successes themselves demonstrate the value of computational brain models.
 
-But, just because we can describe a system as computation does not mean that it is _just_ computation. In fact, nearly every process in the world can be approximately described computationally, whether fluid flow, economics, spread of viruses, and so on. Does a flowing river "compute" computational fluid dynamics?  No, because water actually flows, and the system states cannot be read out of variables afterward.
+But, just because we can describe a system as computation does not mean that the system _is_ computation. Nearly every process in the world can be approximately described computationally, whether fluid flow, economics, spread of viruses, and so on. 
 
-Even if we had a perfect mathematical model for the brain regions that produce consciousness, computing that model would not necessarily produce consciousness.
+Does a flowing river "compute" computational fluid dynamics?  No, because water actually flows, and the system states cannot be read out of variables afterward.
+
+Even if we had a perfect mathematical model for the brain regions that produce consciousness, applying that computational model would not produce consciousness, for reasons I'll describe next.
 
 <center>
 	<figure>
@@ -127,7 +129,9 @@ Which kind is consciousness?
 
 Conscious experiences and feelings are outside the realm of pure logic. Logic operates on symbols that can be assigned true values, and it derives truth values for other symbols. We can think logically about consciousness, but applying logical formulae like `A OR B` does not _produce_ consciousness, just like hand-computing the equations of heat transfer won't cause your pencil to burst into flames. 
 
-And, as we've already seen, _all_ computation boils down to logical calculation.  If applying pure logical calculations cannot produce consciousness, then computation cannot produce consciousness.
+And, as we've already seen, _all_ computation boils down to logical calculation.  If applying pure logical calculations cannot produce consciousness, then computation cannot produce consciousness. 
+
+Even perfect simulation of the brain could not produce consciousness, because it is all simulation in logical calculations, it is not the real thing.
 
 Likewise, artificial neural networks are simple mathematical operations—often not much more than large matrix operations—approximated in digital logic by floating-point arithmetic. Again, it seems implausible to me (and to many people) that approximate matrix multiplications will generate consciousness, whether worked out by hand on the page or computed by computer logic.
 
