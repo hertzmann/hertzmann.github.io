@@ -53,6 +53,7 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - images/karies-originals/
 
 # Blog post tags: display name and pill color for each tag slug used in
 # post frontmatter. Order here = order of the filter bar on the home page.
@@ -94,7 +95,7 @@ use_math: false
 theme: minima
 plugins:
   - jekyll-feed
-  - jekyll-octicons
+#  - jekyll-octicons
   - jekyll-redirect-from
 
 titles_from_headings:
